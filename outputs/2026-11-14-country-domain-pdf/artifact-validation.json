@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-11-14T12:52:35+08:00",
+  "pages": 55,
+  "outline_entries": 55,
+  "characters": 40864,
+  "external_link_annotations": 698,
+  "unique_external_uris": 624,
+  "internal_toc_links": 8,
+  "case_records": 125,
+  "case_identifiers_preserved": true,
+  "reading_roles": {
+    "SEO 方法参照": 12,
+    "国家域名与业务分工": 2,
+    "国家域名样本": 67,
+    "架构对照": 18,
+    "跨行业参照": 26
+  },
+  "packaging_core_domains": 47,
+  "sany_core_domains": 25,
+  "missing_pack_domains": [],
+  "missing_sany_domains": [],
+  "missing_case_codes": [],
+  "private_or_unrendered_text": [],
+  "outside_page_safe_bounds": [],
+  "previous_version_changes": [],
+  "zip_bad_member": null,
+  "zip_contains_identical_pdf": true,
+  "zip_members": [
+    "01_125组案例总表.csv",
+    "02_三一101对象分类表.csv",
+    "03_包装60对象分类表.csv",
+    "04_首站启动表.csv",
+    "05_产品与语言对应表.csv",
+    "06_竞品观察表.csv",
+    "07_维护记录表.csv",
+    "08_询盘观察表.csv",
+    "09_5组AI任务模板.md",
+    "10_国家域名与发布配置表.csv",
+    "AI外贸独立国家域名站群_125组案例与首站实操手册.pdf",
+    "先读我.txt"
+  ],
+  "bytes": 661218,
+  "sha256": "d8dff0896b5909b4ca15dc3286933d0474b9d76e1348e321f3ab603c0fc47122",
+  "visual_review": "55 pages rendered at 96 dpi; all 5 contact sheets inspected. Cover, country-domain diagram, deployment configuration, task prompts, action sheet, case index and tool appendix also reviewed at full page size. No clipping, overlap or missing glyphs observed.",
+  "scope": "PDF structure, coverage, page bounds, case continuity and package integrity checked; no fresh audit of every case website or live Skill/site deployment test.",
+  "toc_destination_pages": [
+    4,
+    7,
+    11,
+    16,
+    26,
+    29,
+    34,
+    54
+  ],
+  "code_checks": [
+    "ruff check build_pdf.py: passed",
+    "mypy build_pdf.py --ignore-missing-imports: passed; third-party import types not fully covered"
+  ]
+}

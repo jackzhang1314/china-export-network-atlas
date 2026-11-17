@@ -1,0 +1,145 @@
+{
+  "reviewed_at": "2026-11-14T15:58:15+08:00",
+  "wordpress_installation": "/Users/Zhuanz1/.local/share/wordpress-builder/current",
+  "version": {
+    "productVersion": "2.39.24",
+    "distributionRevision": 19,
+    "sourceMainCommit": "84a1c99828e46628b00250d8d0e28ef687e09317"
+  },
+  "local_claims": [
+    {
+      "claim": "以自有 Classic 主题、产品与分类模型、ACF 编辑项承接日常维护",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/.agents/skills/wordpress-builder/SKILL.md",
+      "range": "默认建站架构与内容编辑边界",
+      "used_in": [
+        "wp_stack",
+        "wp_editor"
+      ],
+      "sha256": "c1f902c4e871f8ffac7af4d824a2cc83d861f4050c6bfabc2e1163f1b5ee58e7",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "产品图库、参数、FAQ、关联产品等具有字段和前台读取路径",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/examples/classic-b2b-starter/plugin/starter-model.php",
+      "range": "register_model；产品字段定义",
+      "used_in": [
+        "wp_editor"
+      ],
+      "sha256": "60239e1547db0b124302b323147f6b25573c6abe3bba9b88d55f06880f6cb9c7",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "产品字段由前台产品组件读取",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/examples/classic-b2b-starter/theme/inc/page-data.php",
+      "range": "product data，约395至425行",
+      "used_in": [
+        "wp_editor"
+      ],
+      "sha256": "d00dd6ab2a7ef4431893aa493da255ced2ececbb83292a8e6b335f6641fcd5af",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "日常内容先读现有对象，再按范围修改、读回与核对；批量按实际模型分批",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/.agents/skills/wordpress-content/references/content-maintenance.md",
+      "range": "Inspect → map → write → read back → verify；Batch work and acceptance",
+      "used_in": [
+        "wp_country",
+        "maintain",
+        "prompts_2"
+      ],
+      "sha256": "d5a7b4e0e304fc81c08e9b28368d2319b1e6a62dc6fc00a198be8f022c657ecd",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "一站一个独立项目，共享工具安装；维护与建站分开",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/README.md",
+      "range": "自然语言入口与多网站项目说明",
+      "used_in": [
+        "wp_country",
+        "wp_stack"
+      ],
+      "sha256": "fc1ab2f822c0044917cff867fb2d77b04a8817928d19cea3cf4bfbbbbc7b3c26",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "GTranslate即显翻译、付费云端与WPML的路由、后台和验收各有不同；不能推为自动国家站网络",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/.agents/skills/wordpress-setup/references/multilingual.md",
+      "range": "多语言选择与未覆盖边界",
+      "used_in": [
+        "wp_country"
+      ],
+      "sha256": "8ba131166ed0da4a961f584ae7084134dd1efe7f9bdf126d5ab8be89a0fde347",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "静态站按路由完整HTML；无CMS，Agent改文件后发布；新项目默认Workers Static Assets，Pages仍兼容",
+      "source": "/Users/Zhuanz1/.codex/skills/b2b-fast-builder/SKILL.md",
+      "range": "先判定是否适用；架构边界；技术选择原则",
+      "used_in": [
+        "static",
+        "route_choice",
+        "budget"
+      ],
+      "sha256": "2b367211cd6f17ecb97a26b35b3325d26206606ebcd10be09cf227e44d5952c1",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "静态页面与/api分路；不同云服务有独立额度",
+      "source": "/Users/Zhuanz1/.codex/skills/b2b-fast-builder/references/cloudflare-runtime-and-deployment.md",
+      "range": "运行时与部署路径",
+      "used_in": [
+        "static",
+        "budget"
+      ],
+      "sha256": "4f830f6103bd298f4c240c54ec8a66b8c6f4bd705bafef5ad90568674b9289bd",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    }
+  ],
+  "official_sources": [
+    {
+      "url": "https://wordpress.org/about/features/",
+      "supports": "原生内容、媒体、发布与扩展能力"
+    },
+    {
+      "url": "https://wordpress.org/documentation/article/roles-and-capabilities/",
+      "supports": "作者、编辑和管理员权限；自定义类型按实际配置核对"
+    },
+    {
+      "url": "https://wordpress.org/documentation/article/revisions/",
+      "supports": "文章页面修订与可配置的保留范围；不等于完整站点备份"
+    },
+    {
+      "url": "https://developer.wordpress.org/advanced-administration/security/backup/",
+      "supports": "数据库和文件分别备份"
+    },
+    {
+      "url": "https://developers.cloudflare.com/pages/platform/limits/",
+      "supports": "Free构建、文件和文件大小限额"
+    },
+    {
+      "url": "https://developers.cloudflare.com/workers/static-assets/billing-and-limitations/",
+      "supports": "静态资源请求与执行Worker的费用分别计算"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+      "supports": "SEO依赖内容、技术与持续改进；无自动排名保证"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "supports": "按真实采购问题与有用资料组织内容"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/specialty/international/localized-versions",
+      "supports": "各国对应页的语言/地区版本关系，可跨域"
+    }
+  ],
+  "editorial_scope": "用户要求：WordPress Builder Harness + Codex为付费课程主线；免费静态Skill完整保留，可做试点或补充；用日常工作解释学习价值。",
+  "not_verified": [
+    "当前安装能否实际运行或发布",
+    "全部自定义后台字段和语言站的运行表现",
+    "多站集中自动同步",
+    "第三方案例使用过该Harness",
+    "培训转化率、固定学习时长、排名或询盘收益"
+  ],
+  "no_external_changes": true
+}

@@ -1,0 +1,23 @@
+{
+  "curated_hosts": 101,
+  "classification_counts": {
+    "A": 25,
+    "G": 7,
+    "T": 17,
+    "D": 24,
+    "R": 5,
+    "P": 12,
+    "H": 2,
+    "X": 9
+  },
+  "global_home_hreflang": 13,
+  "global_home_languages": 12,
+  "official_business_languages_minimum": 16,
+  "http_rows": 691,
+  "unique_probe_inputs": 677,
+  "different_hosts_probed": 331,
+  "unique_queried_urls": 905,
+  "search_queries": 150,
+  "search_batches": 57,
+  "language_csv_rows": 160
+}

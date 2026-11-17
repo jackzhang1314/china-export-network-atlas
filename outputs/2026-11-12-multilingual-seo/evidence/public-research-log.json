@@ -1,0 +1,3588 @@
+{
+  "query_count": 92,
+  "batch_count": 61,
+  "notes": "保存公开搜索语句及经过滤的来源索引。站点正文与报告中的指标解释见对应公开来源。",
+  "logs": [
+    {
+      "batch": "ml_search_0",
+      "queries": [
+        "Zalando international SEO ccTLD country domains hreflang SISTRIX case study",
+        "Zalando SEO case study organic visibility multilingual zalando.de zalando.pl SISTRIX",
+        "Decathlon international SEO case study Decathlon country domain organic traffic SearchPilot Botify",
+        "Lidl SEO international country domains SISTRIX SEO case study"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "SEO-Analysen mit dem SISTRIX Sichtbarkeitsindex - besser.pdf",
+          "url": "https://www.sistrix.de/wp-content/uploads/sites/20/2019/01/SEO-Analysen-mit-dem-SISTRIX-Sichtbarkeitsindex.pdf",
+          "reported_content_url": "https://www.sistrix.de/wp-content/uploads/sites/20/2019/01/SEO-Analysen-mit-dem-SISTRIX-Sichtbarkeitsindex.pdf"
+        },
+        {
+          "title": "Decathlon grows with a scalable FLP approach | Follo Agency",
+          "url": "https://folloagency.com/our-work/cases/decathlon-grows-scalable-flp-approach",
+          "reported_content_url": "https://folloagency.com/our-work/cases/decathlon-grows-scalable-flp-approach"
+        },
+        {
+          "title": "Decathlon - Digital Next",
+          "url": "https://digitalnext.co.uk/case-studies/decathlon/",
+          "reported_content_url": "https://digitalnext.co.uk/case-studies/decathlon/"
+        },
+        {
+          "title": "Decathlon SEO Case Study | Zeo",
+          "url": "https://zeo.org/case-studies/decathlon",
+          "reported_content_url": "https://zeo.org/case-studies/decathlon"
+        },
+        {
+          "title": "Decathlon Case Study: Non-Branded Organic Search | Primal",
+          "url": "https://www.primal.co.th/work/decathlon/",
+          "reported_content_url": "https://www.primal.co.th/work/decathlon/"
+        },
+        {
+          "title": "Étude de Cas SEO - Decathlon - decupler",
+          "url": "https://decupler.com/etude-de-cas-seo-decathlon/",
+          "reported_content_url": "https://decupler.com/etude-de-cas-seo-decathlon/"
+        },
+        {
+          "title": "Organic Digital Marketing × Decathlon: Decathlon Achieves Massive Visibility Boost with Organic SEO Strategy | Vendry",
+          "url": "https://www.vendry.io/case-study/decathlon-achieves-massive-visibility-boost-organic-seo",
+          "reported_content_url": "https://www.vendry.io/case-study/decathlon-achieves-massive-visibility-boost-organic-seo"
+        },
+        {
+          "title": "Decathlon SEO Case Study ▷ +197% Organic Traffic Growth | Netpeak US",
+          "url": "https://netpeak.us/cases/decathlon-seo-organic-traffic-growth/",
+          "reported_content_url": "https://netpeak.us/cases/decathlon-seo-organic-traffic-growth/"
+        },
+        {
+          "title": "Implement International SEO - SISTRIX",
+          "url": "https://www.sistrix.com/tutorials/seo-strategy/international-seo",
+          "reported_content_url": "https://www.sistrix.com/tutorials/seo-strategy/international-seo"
+        },
+        {
+          "title": "Decathlon Case Study | Zeo",
+          "url": "https://fog.zeo.org/case-studies/decathlon",
+          "reported_content_url": "https://fog.zeo.org/case-studies/decathlon"
+        },
+        {
+          "title": "How Decathlon Increased Non-Brand Traffic 62% with SEOTesting",
+          "url": "https://seotesting.com/customers/decathlon/",
+          "reported_content_url": "https://seotesting.com/customers/decathlon/"
+        },
+        {
+          "title": "123 | SEO w e-commerce 2025",
+          "url": "https://prowly-prod.s3.eu-west-1.amazonaws.com/uploads/landing_page_image/image/609454/acf9745361e0ef81735e62e8d357d57d.pdf",
+          "reported_content_url": "https://prowly-prod.s3.eu-west-1.amazonaws.com/uploads/landing_page_image/image/609454/acf9745361e0ef81735e62e8d357d57d.pdf"
+        },
+        {
+          "title": "How Decathlon Increased SEO Visibility by 85% | Organic",
+          "url": "https://theorganicagency.com/work/decathlon-the-power-of-understanding-seo/",
+          "reported_content_url": "https://theorganicagency.com/work/decathlon-the-power-of-understanding-seo/"
+        },
+        {
+          "title": "Decathlon UK partners with Organic to elevate SEO...",
+          "url": "https://brandsjournal.com/decathlon-uk-goes-for-seo-gold-with-organic",
+          "reported_content_url": "https://brandsjournal.com/decathlon-uk-goes-for-seo-gold-with-organic"
+        },
+        {
+          "title": "Innovative,",
+          "url": "https://www.tp.com/media/ixflv4ar/zalando-case-study-innovative-multilingual-buyer-support.pdf",
+          "reported_content_url": "https://www.tp.com/media/ixflv4ar/zalando-case-study-innovative-multilingual-buyer-support.pdf"
+        },
+        {
+          "title": "SPEED KIT CASE STUDY",
+          "url": "https://www.baqend.com/cases/Study_Onepager_decathlon.pdf",
+          "reported_content_url": "https://www.baqend.com/cases/Study_Onepager_decathlon.pdf"
+        },
+        {
+          "title": "[Final] Platform Rules - Version 10 w/ highlighted changes - Google Docs",
+          "url": "https://assets.ctfassets.net/6h1o1uyhbb7c/6eCrkXaryn3zecSCfWXhA8/7355bd96c507ed4f96a32723b384611b/Platform_Rules_-_Version_10_w__highlighted_changes.pdf",
+          "reported_content_url": "https://assets.ctfassets.net/6h1o1uyhbb7c/6eCrkXaryn3zecSCfWXhA8/7355bd96c507ed4f96a32723b384611b/Platform_Rules_-_Version_10_w__highlighted_changes.pdf"
+        },
+        {
+          "title": "Decathlon Singapore: Driving 50% higher conversion rate with omnichannel, personalized search",
+          "url": "https://www.algolia.com/files/live/sites/www/files/Customer%20stories/EN/CaseStudy_decathlon-singapore.pdf",
+          "reported_content_url": "https://www.algolia.com/files/live/sites/www/files/Customer%20stories/EN/CaseStudy_decathlon-singapore.pdf"
+        },
+        {
+          "title": "Building brand credibility and community through country code top level domains",
+          "url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains",
+          "reported_content_url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains"
+        }
+      ]
+    },
+    {
+      "batch": "ml_search_1",
+      "queries": [
+        "RAJA Rajapack international SEO case study country domains raja.fr rajapack.de",
+        "Manutan international SEO case study domains B2B SEO agency organic traffic",
+        "Hilti international SEO case study hreflang global websites Hilti SEO",
+        "Würth international SEO case study organic traffic wurth country domains"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Building A Scalable Organic Strategy Across 23 Markets – Primelis",
+          "url": "https://www.primelis.com/case-studies/manutan-casestudy/",
+          "reported_content_url": "https://www.primelis.com/case-studies/manutan-casestudy/"
+        },
+        {
+          "title": "wuerth.it Website Traffic, Ranking, Analytics [September 2026]",
+          "url": "https://www.semrush.com/website/wuerth.it/overview/",
+          "reported_content_url": "https://www.semrush.com/website/wuerth.it/overview/"
+        },
+        {
+          "title": "International B2B SEO Case Study | 22.9K Visits",
+          "url": "https://www.seobangkok.com/case-studies/international-b2b-seo.html",
+          "reported_content_url": "https://www.seobangkok.com/case-studies/international-b2b-seo.html"
+        },
+        {
+          "title": "Manutan marketing case study - Adido Digital",
+          "url": "https://www.adido-digital.co.uk/case-studies/manutan/",
+          "reported_content_url": "https://www.adido-digital.co.uk/case-studies/manutan/"
+        },
+        {
+          "title": "Würth: Long-Tail SEO with 100K+ Item Catalog | Case Study",
+          "url": "https://www.verbolia.com/case-studies/wurth-france/",
+          "reported_content_url": "https://www.verbolia.com/case-studies/wurth-france/"
+        },
+        {
+          "title": "Set-up & amplified digital presence for",
+          "url": "https://marketing.tothenew.com/hubfs/CASE%20STUDIES/HiltiIndia_CaseStudy.pdf",
+          "reported_content_url": "https://marketing.tothenew.com/hubfs/CASE%20STUDIES/HiltiIndia_CaseStudy.pdf"
+        },
+        {
+          "title": "Würth - Verbolia",
+          "url": "https://www.verbolia.com/case-studies/wurth/",
+          "reported_content_url": "https://www.verbolia.com/case-studies/wurth/"
+        },
+        {
+          "title": "Würth Nederland: 100%+ groei in organisch verkeer webshop",
+          "url": "https://mediamixonline.nl/cases/wurth-nederland/",
+          "reported_content_url": "https://mediamixonline.nl/cases/wurth-nederland/"
+        },
+        {
+          "title": "EGL SEO Case Study: 23 to 566 Monthly Visitors | Semalt",
+          "url": "https://semalt.com/case-studies/egl-geo",
+          "reported_content_url": "https://semalt.com/case-studies/egl-geo"
+        },
+        {
+          "title": "dentsu",
+          "url": "https://www.dentsu.com/see/en/wurth-lead-generation-2021",
+          "reported_content_url": "https://www.dentsu.com/see/en/wurth-lead-generation-2021"
+        },
+        {
+          "title": "dentsu",
+          "url": "https://www.dentsu.com/see/en/case-wurth-croatia",
+          "reported_content_url": "https://www.dentsu.com/see/en/case-wurth-croatia"
+        },
+        {
+          "title": "Resources - success-stories",
+          "url": "https://seprotec.com/en/resources/success-stories/scaling-global-growth-with-international-seo",
+          "reported_content_url": "https://seprotec.com/en/resources/success-stories/scaling-global-growth-with-international-seo"
+        },
+        {
+          "title": "Outdoor Brand - SEO Migration Case Study | Convertix",
+          "url": "https://www.convertix.net/case-studies/outdoor-brand-seo-migration-recovery/",
+          "reported_content_url": "https://www.convertix.net/case-studies/outdoor-brand-seo-migration-recovery/"
+        },
+        {
+          "title": "International Exp",
+          "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/spryker_hilti1_299468_ICyizvw.pdf",
+          "reported_content_url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/spryker_hilti1_299468_ICyizvw.pdf"
+        },
+        {
+          "title": "2.2 Content Objective",
+          "url": "https://www.iamstu.co.uk/img/pdf/Content_Marketing_Redacted.pdf",
+          "reported_content_url": "https://www.iamstu.co.uk/img/pdf/Content_Marketing_Redacted.pdf"
+        },
+        {
+          "title": "Localizing Glo",
+          "url": "https://www.interad.com/resources/uploads/2023/02/Interad-company-profile-full-2025.pdf",
+          "reported_content_url": "https://www.interad.com/resources/uploads/2023/02/Interad-company-profile-full-2025.pdf"
+        },
+        {
+          "title": "A Work Project, presented as part of the requirements for the Award of a Masters Degree in Management from",
+          "url": "https://run.unl.pt/bitstream/10362/20532/1/Ebersold_2016.pdf",
+          "reported_content_url": "https://run.unl.pt/bitstream/10362/20532/1/Ebersold_2016.pdf"
+        },
+        {
+          "title": "Revenge SEO: How a fired contractor erased 90% of our traffic",
+          "url": "https://www.techradar.com/pro/revenge-seo-how-a-fired-contractor-erased-90-percent-of-our-traffic",
+          "reported_content_url": "https://www.techradar.com/pro/revenge-seo-how-a-fired-contractor-erased-90-percent-of-our-traffic"
+        },
+        {
+          "title": "SE Ranking review",
+          "url": "https://www.techradar.com/pro/software-services/se-ranking",
+          "reported_content_url": "https://www.techradar.com/pro/software-services/se-ranking"
+        },
+        {
+          "title": "'AI-crawled sites generate 320% more human traffic': An interview with Duda's Oded Ouaknine on the future of AEO",
+          "url": "https://www.techradar.com/pro/website-building/ai-crawled-sites-generate-320-percent-more-human-traffic-an-interview-with-dudas-oded-ouaknine-on-the-future-of-aeo",
+          "reported_content_url": "https://www.techradar.com/pro/website-building/ai-crawled-sites-generate-320-percent-more-human-traffic-an-interview-with-dudas-oded-ouaknine-on-the-future-of-aeo"
+        },
+        {
+          "title": "SpyFu SEO tools review",
+          "url": "https://www.techradar.com/reviews/spyfu",
+          "reported_content_url": "https://www.techradar.com/reviews/spyfu"
+        },
+        {
+          "title": "The 14 best SEO tools of 2026: Improve your search and AI visibility",
+          "url": "https://www.techradar.com/news/best-seo-tool",
+          "reported_content_url": "https://www.techradar.com/news/best-seo-tool"
+        },
+        {
+          "title": "Majestic SEO Tools review",
+          "url": "https://www.techradar.com/reviews/majestic-seo-tools",
+          "reported_content_url": "https://www.techradar.com/reviews/majestic-seo-tools"
+        }
+      ]
+    },
+    {
+      "batch": "ml_search_2",
+      "queries": [
+        "Pixartprinting SEO case study international SEO migration SEOmonitor Pixartprinting.fr",
+        "Vistaprint international SEO case study ccTLD hreflang Cimpress SEO",
+        "Onlineprinters international SEO case study domains die druckerei SEO",
+        "HelloPrint international SEO case study hreflang migration country domains"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Fixing a broken migration across 24 country domains - Search That Works",
+          "url": "https://seothatworks.co.uk/case-studies/fixing-a-broken-migration-across-24-country-domains/",
+          "reported_content_url": "https://seothatworks.co.uk/case-studies/fixing-a-broken-migration-across-24-country-domains/"
+        },
+        {
+          "title": "15-year-anniversary: Interview with Onlineprinters-founder Walter Meyer",
+          "url": "https://www.onlineprinters.ie/magazine/15-years-onlineprinters-company-founder-walter-meyer/",
+          "reported_content_url": "https://www.onlineprinters.ie/magazine/15-years-onlineprinters-company-founder-walter-meyer/"
+        },
+        {
+          "title": "Onlineprinters: Wie eine Druckerei den Weg ins Internet schaffte",
+          "url": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/onlineprinters-chef-walter-meyer-wie-eine-druckerei-den-weg-ins-internet-schaffte/23126172.html",
+          "reported_content_url": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/onlineprinters-chef-walter-meyer-wie-eine-druckerei-den-weg-ins-internet-schaffte/23126172.html"
+        },
+        {
+          "title": "International SEO Case Study | Barber DTS | The SEO Works",
+          "url": "https://www.seoworks.co.uk/case-studies/international-seo/",
+          "reported_content_url": "https://www.seoworks.co.uk/case-studies/international-seo/"
+        },
+        {
+          "title": "15 Jahre Jubiläum: Gespräch mit Onlineprinters-Gründer Walter Meyer",
+          "url": "https://www.onlineprinters.at/magazin/15-jahre-onlineprinters-firmengruender-walter-meyer/",
+          "reported_content_url": "https://www.onlineprinters.at/magazin/15-jahre-onlineprinters-firmengruender-walter-meyer/"
+        },
+        {
+          "title": "Freshness as a ranking signal for Google - A case study - Blue Array SEO",
+          "url": "https://www.bluearray.co.uk/news/seo/freshness-as-a-ranking-signal-for-google-a-case-study/",
+          "reported_content_url": "https://www.bluearray.co.uk/news/seo/freshness-as-a-ranking-signal-for-google-a-case-study/"
+        },
+        {
+          "title": "ONLINEPRINTERS stärkt seine Dachmarke im Heimatmarkt - Presse Control",
+          "url": "https://www.presse-control.de/2020/07/22/onlineprinters-staerkt-seine-dachmarke-im-heimatmarkt/",
+          "reported_content_url": "https://www.presse-control.de/2020/07/22/onlineprinters-staerkt-seine-dachmarke-im-heimatmarkt/"
+        },
+        {
+          "title": "000_2015_Layout",
+          "url": "https://www.druckmarkt.com/archiv/pdf/96/28_E-Commerce-Company.pdf",
+          "reported_content_url": "https://www.druckmarkt.com/archiv/pdf/96/28_E-Commerce-Company.pdf"
+        },
+        {
+          "title": "SEO in der Druckbranche: Die Werte der Web-to-Print-Anbieter / Inkjet-Praxis / Wissen / Home - Largeformat",
+          "url": "https://www.largeformat.de/ger/Wissen/Inkjet-Praxis/SEO-in-der-Druckbranche-Die-Werte-der-Web-to-Print-Anbieter",
+          "reported_content_url": "https://www.largeformat.de/ger/Wissen/Inkjet-Praxis/SEO-in-der-Druckbranche-Die-Werte-der-Web-to-Print-Anbieter"
+        },
+        {
+          "title": "So bewirbt Onlineprinters das Druckhandwerk im Fernsehen | W&V",
+          "url": "https://www.wuv.de/Themen/Marke/So-bewirbt-Onlineprinters-das-Druckhandwerk-im-Fernsehen",
+          "reported_content_url": "https://www.wuv.de/Themen/Marke/So-bewirbt-Onlineprinters-das-Druckhandwerk-im-Fernsehen"
+        },
+        {
+          "title": "Online-Shops",
+          "url": "https://www.marke41.de/sites/default/files/media/autoren-pdf/erfolgreiche-internationalisierung-v-online-shops_0.pdf",
+          "reported_content_url": "https://www.marke41.de/sites/default/files/media/autoren-pdf/erfolgreiche-internationalisierung-v-online-shops_0.pdf"
+        },
+        {
+          "title": "International SEO launch across 9 markets — Case Study · GlobalAnnotate",
+          "url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets",
+          "reported_content_url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets"
+        },
+        {
+          "title": "001_Editorial_mb_Layout 2",
+          "url": "https://www.print.de/app/uploads/2018/06/Gesamt_OST_2_2018.pdf",
+          "reported_content_url": "https://www.print.de/app/uploads/2018/06/Gesamt_OST_2_2018.pdf"
+        },
+        {
+          "title": "From 130K To 290K Monthly Visitors: A Printing Company's SEO Transformation - DWS",
+          "url": "https://www.digitalwebsolutions.com/case-study/from-130k-to-290k-monthly-visitors-a-printing-companys-seo-transformation/",
+          "reported_content_url": "https://www.digitalwebsolutions.com/case-study/from-130k-to-290k-monthly-visitors-a-printing-companys-seo-transformation/"
+        },
+        {
+          "title": "onlineprinters.de Website Traffic, Ranking, Analytics [September 2026]",
+          "url": "https://www.semrush.com/website/onlineprinters.de/overview/",
+          "reported_content_url": "https://www.semrush.com/website/onlineprinters.de/overview/"
+        },
+        {
+          "title": "Cimpress PLC Investor Day on September 14, 2023 / 12:00PM",
+          "url": "https://ir.cimpress.com/static-files/707e14e8-e973-459c-af34-028541e4f587",
+          "reported_content_url": "https://ir.cimpress.com/static-files/707e14e8-e973-459c-af34-028541e4f587"
+        },
+        {
+          "title": "22 Lä",
+          "url": "https://s308aa872c10842b8.jimcontent.com/download/version/1714394882/module/8256801664/name/NV_2020_12_016_Knox.pdf",
+          "reported_content_url": "https://s308aa872c10842b8.jimcontent.com/download/version/1714394882/module/8256801664/name/NV_2020_12_016_Knox.pdf"
+        },
+        {
+          "title": "# Vistaprint averts disaster, discovering source of 16% spike in page exits",
+          "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/usertesting_vistaprint_214683.pdf",
+          "reported_content_url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/usertesting_vistaprint_214683.pdf"
+        },
+        {
+          "title": "Vistaprint Website Builder review",
+          "url": "https://www.techradar.com/reviews/vistaprint-website-builder",
+          "reported_content_url": "https://www.techradar.com/reviews/vistaprint-website-builder"
+        }
+      ]
+    },
+    {
+      "batch": "ml_search_3",
+      "queries": [
+        "Skyscanner international SEO case study ccTLD site migration international organic growth Skyscanner SEO",
+        "HomeToGo international SEO case study SISTRIX home to go organic traffic",
+        "Holidu SEO international case study domain migration hreflang",
+        "Tripadvisor international SEO case study country domains migration"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Report",
+          "url": "https://ir.hometogo.de/download/companies/58289a/Annual%20Reports/240325_HTG_Annual-Report_2023_RZ_ro.pdf",
+          "reported_content_url": "https://ir.hometogo.de/download/companies/58289a/Annual%20Reports/240325_HTG_Annual-Report_2023_RZ_ro.pdf"
+        },
+        {
+          "title": "How HomeToGo aligned with SEO to create visibility - SISTRIX",
+          "url": "https://www.sistrix.com/blog/how-hometogo-aligned-with-seo-to-create-visibility/",
+          "reported_content_url": "https://www.sistrix.com/blog/how-hometogo-aligned-with-seo-to-create-visibility/"
+        },
+        {
+          "title": "Skyscanner Case Study | Intrepid Digital",
+          "url": "https://www.gointrepid.com/case-studies/skyscanner/",
+          "reported_content_url": "https://www.gointrepid.com/case-studies/skyscanner/"
+        },
+        {
+          "title": "hometogo.com Website Traffic, Ranking, Analytics [September 2026]",
+          "url": "https://www.semrush.com/website/hometogo.com/overview/",
+          "reported_content_url": "https://www.semrush.com/website/hometogo.com/overview/"
+        },
+        {
+          "title": "HOMETOGO SE - Annual Report 2024 | FinancialFilings",
+          "url": "https://financialfilings.com/filings/hometogo-se/annual-report/2025/10227248/",
+          "reported_content_url": "https://financialfilings.com/filings/hometogo-se/annual-report/2025/10227248/"
+        },
+        {
+          "title": "Skyscanner International SEO Case Study | 10 Markets",
+          "url": "https://marketingagency.sg/projects/skyscanner-seo/",
+          "reported_content_url": "https://marketingagency.sg/projects/skyscanner-seo/"
+        },
+        {
+          "title": "How Skyscanner outpaced the industry by growing +27% vs pre-COVID levels",
+          "url": "https://www.searchpilot.com/skyscanner_success_story_download",
+          "reported_content_url": "https://www.searchpilot.com/skyscanner_success_story_download"
+        },
+        {
+          "title": "Report",
+          "url": "https://ir.hometogo.de/download/companies/58289a/Hauptversammlung/240325_HTG_Annual-Report_2023_RZ_ro.pdf",
+          "reported_content_url": "https://ir.hometogo.de/download/companies/58289a/Hauptversammlung/240325_HTG_Annual-Report_2023_RZ_ro.pdf"
+        },
+        {
+          "title": "Skyscanner picks new SEO agency | Marketing-Interactive",
+          "url": "https://www.marketing-interactive.com/skyscanner-picks-new-seo-agency",
+          "reported_content_url": "https://www.marketing-interactive.com/skyscanner-picks-new-seo-agency"
+        },
+        {
+          "title": "How one in-house SEO team is taking on industry incumbents",
+          "url": "https://searchengineland.com/how-one-in-house-seo-team-is-taking-on-industry-incumbents-320644",
+          "reported_content_url": "https://searchengineland.com/how-one-in-house-seo-team-is-taking-on-industry-incumbents-320644"
+        },
+        {
+          "title": "Mini case study: HomeToGo (Berlin) - HeySEO",
+          "url": "https://heyseo.ai/mini-case-study-hometogo-berlin/",
+          "reported_content_url": "https://heyseo.ai/mini-case-study-hometogo-berlin/"
+        },
+        {
+          "title": "23",
+          "url": "https://ir.hometogo.de/download/companies/58289a/Hauptversammlung/240325_HTG_Annual-Report-2023_DE_RZ_ro.pdf",
+          "reported_content_url": "https://ir.hometogo.de/download/companies/58289a/Hauptversammlung/240325_HTG_Annual-Report-2023_DE_RZ_ro.pdf"
+        },
+        {
+          "title": "Report",
+          "url": "https://ir.hometogo.de/download/companies/58289a/Annual%20Reports/HTG_AnnualReport_2022.pdf",
+          "reported_content_url": "https://ir.hometogo.de/download/companies/58289a/Annual%20Reports/HTG_AnnualReport_2022.pdf"
+        },
+        {
+          "title": "International SEO launch across 9 markets — Case Study · GlobalAnnotate",
+          "url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets",
+          "reported_content_url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets"
+        },
+        {
+          "title": "Microsoft Word - Horizon - Prospectus 4850-9457-2272 v.11",
+          "url": "https://dl.bourse.lu/dl?v=bHE6BeuKTwZZrvUopZK4ZjdZ8A9m0oqV6aIJl3Kc8CF%2F9D7ywTBa8lPo4KjyM08Zredb3aD4Zi2Hqp%2FbnP66Wjo+uTXe4d4qfRW6HJAWevYdkcc8V78ahh21OqRDrAdVhEla4TjJP2NT%2FBN9lpMvDy8PQ5zAgR+Q0TZmmn7PPyU%3D",
+          "reported_content_url": "https://dl.bourse.lu/dl?v=bHE6BeuKTwZZrvUopZK4ZjdZ8A9m0oqV6aIJl3Kc8CF%2F9D7ywTBa8lPo4KjyM08Zredb3aD4Zi2Hqp%2FbnP66Wjo+uTXe4d4qfRW6HJAWevYdkcc8V78ahh21OqRDrAdVhEla4TjJP2NT%2FBN9lpMvDy8PQ5zAgR+Q0TZmmn7PPyU%3D"
+        },
+        {
+          "title": "Skyscanner - April 2025",
+          "url": "https://translated.com/pdf/skyscanner-case-study.pdf",
+          "reported_content_url": "https://translated.com/pdf/skyscanner-case-study.pdf"
+        },
+        {
+          "title": "2009 vs 2019 SEO. How HomeToGo Overtook Airbnb - SISTRIX",
+          "url": "https://www.sistrix.com/blog/2009-vs-2019-seo-how-hometogo-overtook-airbnb/",
+          "reported_content_url": "https://www.sistrix.com/blog/2009-vs-2019-seo-how-hometogo-overtook-airbnb/"
+        },
+        {
+          "title": "Rabbie's: 55% Organic Visibility Growth Following a High-Risk Migration | Melt Digital Case Studies",
+          "url": "https://www.meltdigital.com/case-studies/rabbies-site-migration-international-seo",
+          "reported_content_url": "https://www.meltdigital.com/case-studies/rabbies-site-migration-international-seo"
+        },
+        {
+          "title": "Building brand credibility and community through country code top level domains",
+          "url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains",
+          "reported_content_url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains"
+        },
+        {
+          "title": "9 Reasons your SEO rankings are up, but traffic is down",
+          "url": "https://www.techradar.com/pro/9-reasons-your-seo-rankings-are-up-but-traffic-is-down",
+          "reported_content_url": "https://www.techradar.com/pro/9-reasons-your-seo-rankings-are-up-but-traffic-is-down"
+        },
+        {
+          "title": "SE Ranking review",
+          "url": "https://www.techradar.com/pro/software-services/se-ranking",
+          "reported_content_url": "https://www.techradar.com/pro/software-services/se-ranking"
+        }
+      ]
+    },
+    {
+      "batch": "ml_search_4",
+      "queries": [
+        "Sixt international SEO case study domain migration multilingual Sixt SEO",
+        "Europcar international SEO case study organic traffic country websites",
+        "AutoScout24 SEO international case study international migration SISTRIX",
+        "Idealo international SEO case study country domains SISTRIX SEO"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "SIXT | Rise at Seven",
+          "url": "https://riseatseven.com/work/sixt/",
+          "reported_content_url": "https://riseatseven.com/work/sixt/"
+        },
+        {
+          "title": "Europcar is Denmark’s largest car rental",
+          "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/europcar_nypKRf4.pdf",
+          "reported_content_url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/europcar_nypKRf4.pdf"
+        },
+        {
+          "title": "Increase AOV | Europcar Case Study | Webtrends Optimize",
+          "url": "https://www.webtrends-optimize.com/resources/case-studies/europcar/",
+          "reported_content_url": "https://www.webtrends-optimize.com/resources/case-studies/europcar/"
+        },
+        {
+          "title": "Jaikishan Patel",
+          "url": "https://jaiki.framer.website/case-studies/sixt-seo",
+          "reported_content_url": "https://jaiki.framer.website/case-studies/sixt-seo"
+        },
+        {
+          "title": "Implement International SEO - SISTRIX",
+          "url": "https://www.sistrix.com/tutorials/seo-strategy/international-seo",
+          "reported_content_url": "https://www.sistrix.com/tutorials/seo-strategy/international-seo"
+        },
+        {
+          "title": "Case Study: Sixt | Seodeluxe",
+          "url": "https://www.seodeluxe.de/case-studies/sixt/",
+          "reported_content_url": "https://www.seodeluxe.de/case-studies/sixt/"
+        },
+        {
+          "title": "Website relaunch of Sixt Corporate | Webdesign by Webnique",
+          "url": "https://www.webnique.de/en/projekte/sixt-corporate",
+          "reported_content_url": "https://www.webnique.de/en/projekte/sixt-corporate"
+        },
+        {
+          "title": "Europcar: Case study SEO - Dahseo",
+          "url": "https://www.dahseo.com/en/case-studies/europcar/",
+          "reported_content_url": "https://www.dahseo.com/en/case-studies/europcar/"
+        },
+        {
+          "title": "Europcar Reduces PPC Costs",
+          "url": "https://www.thesearchmonitor.com/wp-content/uploads/2023/08/performics-case-study-europcar.pdf",
+          "reported_content_url": "https://www.thesearchmonitor.com/wp-content/uploads/2023/08/performics-case-study-europcar.pdf"
+        },
+        {
+          "title": "Important Legal Disclaimer / Contacts",
+          "url": "https://europcar-mobility-group.com/financial/documents/62d848400ec84009477057.pdf",
+          "reported_content_url": "https://europcar-mobility-group.com/financial/documents/62d848400ec84009477057.pdf"
+        },
+        {
+          "title": "Sixt | Case Study - Yext",
+          "url": "https://www.yext.com/customers/sixt",
+          "reported_content_url": "https://www.yext.com/customers/sixt"
+        },
+        {
+          "title": "Semrush & AutoScout24 SEO case study",
+          "url": "https://www.semrush.com/company/stories/autoscout24/",
+          "reported_content_url": "https://www.semrush.com/company/stories/autoscout24/"
+        },
+        {
+          "title": "Europcar Reduces PPC Costs On Brand Keywords By 48% - The Search Monitor",
+          "url": "https://www.thesearchmonitor.com/resource/europcar-reduces-ppc-costs-on-brand-keywords-by-48/",
+          "reported_content_url": "https://www.thesearchmonitor.com/resource/europcar-reduces-ppc-costs-on-brand-keywords-by-48/"
+        },
+        {
+          "title": "Projekt | Website Relaunch der Sixt Corporate",
+          "url": "https://www.webnique.de/projekte/sixt-corporate",
+          "reported_content_url": "https://www.webnique.de/projekte/sixt-corporate"
+        },
+        {
+          "title": "SIXT trusts WPWA Digital for SEO, social and event promotion",
+          "url": "https://wpwa.digital/en/references/sixt-website-and-social-media-for-the-seo-wiesn/",
+          "reported_content_url": "https://wpwa.digital/en/references/sixt-website-and-social-media-for-the-seo-wiesn/"
+        },
+        {
+          "title": "Google and Alphabet v Commission (Google Shopping)",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AT%3A2021%3A763",
+          "reported_content_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AT%3A2021%3A763"
+        },
+        {
+          "title": "S U C C E S S S T O R Y Europcar expanded its onli",
+          "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/lengow_europcar_931412.pdf",
+          "reported_content_url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/lengow_europcar_931412.pdf"
+        },
+        {
+          "title": "Marin Software",
+          "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Europcar_XO1jImL.pdf",
+          "reported_content_url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Europcar_XO1jImL.pdf"
+        },
+        {
+          "title": "Building brand credibility and community through country code top level domains",
+          "url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains",
+          "reported_content_url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains"
+        },
+        {
+          "title": "'AI-crawled sites generate 320% more human traffic': An interview with Duda's Oded Ouaknine on the future of AEO",
+          "url": "https://www.techradar.com/pro/website-building/ai-crawled-sites-generate-320-percent-more-human-traffic-an-interview-with-dudas-oded-ouaknine-on-the-future-of-aeo",
+          "reported_content_url": "https://www.techradar.com/pro/website-building/ai-crawled-sites-generate-320-percent-more-human-traffic-an-interview-with-dudas-oded-ouaknine-on-the-future-of-aeo"
+        },
+        {
+          "title": "SE Ranking review",
+          "url": "https://www.techradar.com/pro/software-services/se-ranking",
+          "reported_content_url": "https://www.techradar.com/pro/software-services/se-ranking"
+        },
+        {
+          "title": "Best link building and backlink analysis tool of 2025",
+          "url": "https://www.techradar.com/best/link-building",
+          "reported_content_url": "https://www.techradar.com/best/link-building"
+        },
+        {
+          "title": "Semrush SEO tools review",
+          "url": "https://www.techradar.com/reviews/semrush",
+          "reported_content_url": "https://www.techradar.com/reviews/semrush"
+        }
+      ]
+    },
+    {
+      "batch": "ml_search_5",
+      "queries": [
+        "Amazon international SEO ccTLD domains Amazon hreflang original SEO analysis Amazon country domain sites",
+        "eBay international SEO country domains hreflang SEO case study Sistrix eBay",
+        "Airbnb international SEO country domain Airbnb hreflang case study SEO",
+        "OLX international SEO case study organic traffic OLX Poland Romania"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "olx.com Website Traffic, Ranking, Analytics [September 2026]",
+          "url": "https://www.semrush.com/website/olx.com/overview/",
+          "reported_content_url": "https://www.semrush.com/website/olx.com/overview/"
+        },
+        {
+          "title": "Market functioning and key actors: Competition Market Study of Online Marketplaces in Poland, Latvia and Lithuania | OECD",
+          "url": "https://www.oecd.org/en/publications/competition-market-study-of-online-marketplaces-in-poland-latvia-and-lithuania_3134e707-en/full-report/market-functioning-and-key-actors_3f1a3a51.html",
+          "reported_content_url": "https://www.oecd.org/en/publications/competition-market-study-of-online-marketplaces-in-poland-latvia-and-lithuania_3134e707-en/full-report/market-functioning-and-key-actors_3f1a3a51.html"
+        },
+        {
+          "title": "Dynamic remarketing bann",
+          "url": "https://www.thinkwithgoogle.com/_qs/documents/2445/50df3_OLX-case-pdf.pdf",
+          "reported_content_url": "https://www.thinkwithgoogle.com/_qs/documents/2445/50df3_OLX-case-pdf.pdf"
+        },
+        {
+          "title": "OLX - Technical SEO Specialist",
+          "url": "https://jobs.eu.lever.co/olx/cad7f160-2184-49c6-b20b-e91fde69ab16",
+          "reported_content_url": "https://jobs.eu.lever.co/olx/cad7f160-2184-49c6-b20b-e91fde69ab16"
+        },
+        {
+          "title": "OLX IR - Deep Dive -  2025",
+          "url": "https://www.prosus.com/~/media/Files/P/prosus-corp-v2/investors/olx-ir-deep-dive-2025.pdf",
+          "reported_content_url": "https://www.prosus.com/~/media/Files/P/prosus-corp-v2/investors/olx-ir-deep-dive-2025.pdf"
+        },
+        {
+          "title": "International SEO Expansion for Airbnb | Improove",
+          "url": "https://improove.net/en/case-studies/international-seo-expansion-for-airbnb/",
+          "reported_content_url": "https://improove.net/en/case-studies/international-seo-expansion-for-airbnb/"
+        },
+        {
+          "title": "Implement International SEO - SISTRIX",
+          "url": "https://www.sistrix.com/tutorials/seo-strategy/international-seo",
+          "reported_content_url": "https://www.sistrix.com/tutorials/seo-strategy/international-seo"
+        },
+        {
+          "title": "OLX Case Study — Chris Abraham",
+          "url": "https://chrisabraham.com/case-studies/olx-case-study",
+          "reported_content_url": "https://chrisabraham.com/case-studies/olx-case-study"
+        },
+        {
+          "title": "Clockwork",
+          "url": "https://clockwork.ing/pdf/case-study/olx/clockwork-olx-case-study.pdf",
+          "reported_content_url": "https://clockwork.ing/pdf/case-study/olx/clockwork-olx-case-study.pdf"
+        },
+        {
+          "title": "IndexWatch 2023: SEO Visibility Losers UK 🇬🇧 - SISTRIX",
+          "url": "https://www.sistrix.com/blog/indexwatch-2023-seo-visibility-losers/",
+          "reported_content_url": "https://www.sistrix.com/blog/indexwatch-2023-seo-visibility-losers/"
+        },
+        {
+          "title": "Case Study: Supporting OLX’s Path to Market-Agnostic Payments and Delivery - F7",
+          "url": "https://www.f7technology.com/blog/one-system-multiple-markets-supporting-olx-s-path-to-market-agnostic-payments-and-delivery",
+          "reported_content_url": "https://www.f7technology.com/blog/one-system-multiple-markets-supporting-olx-s-path-to-market-agnostic-payments-and-delivery"
+        },
+        {
+          "title": "Case Study: Airbnb",
+          "url": "https://www.adlift.com/in/wp-content/uploads/sites/2/2021/09/Case_Study_Airbnb_SEO.pdf",
+          "reported_content_url": "https://www.adlift.com/in/wp-content/uploads/sites/2/2021/09/Case_Study_Airbnb_SEO.pdf"
+        },
+        {
+          "title": "OLX — Articulate",
+          "url": "https://www.whyarticulate.com/work/olx",
+          "reported_content_url": "https://www.whyarticulate.com/work/olx"
+        },
+        {
+          "title": "International SEO & Link Building for eCommerce | vidaXL Case Study",
+          "url": "https://delante.co/clients/international-seo-link-building-vidaxl-case-study/",
+          "reported_content_url": "https://delante.co/clients/international-seo-link-building-vidaxl-case-study/"
+        },
+        {
+          "title": "OLX Romania Increased Business User Adoption by 153% with HubSpot",
+          "url": "https://www.hubspot.com/case-studies/olx-romania-increased-business-user-adoption-by-153-with-hubspot?price=FREE",
+          "reported_content_url": "https://www.hubspot.com/case-studies/olx-romania-increased-business-user-adoption-by-153-with-hubspot?price=FREE"
+        },
+        {
+          "title": "Airbnb SEO Case Study: How UGC and Localised | Digital Codex",
+          "url": "https://www.clarigital.com/codex/case-studies/airbnb-seo-content-strategy/",
+          "reported_content_url": "https://www.clarigital.com/codex/case-studies/airbnb-seo-content-strategy/"
+        },
+        {
+          "title": "Paris 2024: During the Olympics, Paris homeowners' dreams of hitting the 'Airbnb jackpot'",
+          "url": "https://www.lemonde.fr/en/economy/article/2024/07/23/paris-2024-during-the-olympics-paris-homeowners-dreams-of-hitting-the-airbnb-jackpot_6695350_19.html",
+          "reported_content_url": "https://www.lemonde.fr/en/economy/article/2024/07/23/paris-2024-during-the-olympics-paris-homeowners-dreams-of-hitting-the-airbnb-jackpot_6695350_19.html"
+        },
+        {
+          "title": "'Airbnb is easy money and it's highly addictive': Thousands of French turn their homes into hotels",
+          "url": "https://www.lemonde.fr/en/economy/article/2025/11/03/airbnb-is-easy-money-and-it-s-highly-addictive-thousands-of-french-turn-their-homes-into-hotels_6747035_19.html",
+          "reported_content_url": "https://www.lemonde.fr/en/economy/article/2025/11/03/airbnb-is-easy-money-and-it-s-highly-addictive-thousands-of-french-turn-their-homes-into-hotels_6747035_19.html"
+        },
+        {
+          "title": "Airbnb to take down its listings in China",
+          "url": "https://www.axios.com/2022/05/23/airbnb-china-exit",
+          "reported_content_url": "https://www.axios.com/2022/05/23/airbnb-china-exit"
+        },
+        {
+          "title": "Airbnb loses $349 million on Italian tax dispute but posts revenue gain, sees strong demand ahead",
+          "url": "https://apnews.com/article/3d201319b57765098ed07237d5f02dcb",
+          "reported_content_url": "https://apnews.com/article/3d201319b57765098ed07237d5f02dcb"
+        },
+        {
+          "title": "Airbnb admits misleading Australian customers by charging in US dollars instead of local currency",
+          "url": "https://apnews.com/article/47cafea4314f0f5dcd837c3bd1fd4d1f",
+          "reported_content_url": "https://apnews.com/article/47cafea4314f0f5dcd837c3bd1fd4d1f"
+        },
+        {
+          "title": "Building brand credibility and community through country code top level domains",
+          "url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains",
+          "reported_content_url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains"
+        }
+      ]
+    },
+    {
+      "batch": "ml_search_6",
+      "queries": [
+        "examples international SEO ccTLD case study multiple country domains Germany France country domains multilingual SEO migration case study",
+        "international SEO case study ccTLD global domains multi country ecommerce migration agency organic traffic Germany Italy Spain",
+        "international SEO ccTLD case study Aleyda Solis site structure country domains success case",
+        "hreflang implementation ccTLD case study multinational B2B international websites SEO"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Polo Club - International SEO Case Study | Convertix",
+          "url": "https://www.convertix.net/case-studies/polo-club/",
+          "reported_content_url": "https://www.convertix.net/case-studies/polo-club/"
+        },
+        {
+          "title": "How We Consolidated EzyDog Europe",
+          "url": "https://thedevelopment.com.au/case-study/ezydogeu",
+          "reported_content_url": "https://thedevelopment.com.au/case-study/ezydogeu"
+        },
+        {
+          "title": "Successful Migration of 24 Country Sites | equimedia",
+          "url": "https://www.equimedia.co.uk/our-work/migration-24-country-domains-single-pan-european-multi-lingual-site-success",
+          "reported_content_url": "https://www.equimedia.co.uk/our-work/migration-24-country-domains-single-pan-european-multi-lingual-site-success"
+        },
+        {
+          "title": "International SEO launch across 9 markets — Case Study · GlobalAnnotate",
+          "url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets",
+          "reported_content_url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets"
+        },
+        {
+          "title": "EzyDog EU: 5-market BigCommerce to Shopify migration | Ignited Nepal",
+          "url": "https://ignitednepal.com/case-study/ezydog-europe-shopify-migration/",
+          "reported_content_url": "https://ignitednepal.com/case-study/ezydog-europe-shopify-migration/"
+        },
+        {
+          "title": "Case study: international SEO in logistics | Aurora",
+          "url": "https://www.auroraglobalgroup.com/en/case-studies/international-seo-logistics/",
+          "reported_content_url": "https://www.auroraglobalgroup.com/en/case-studies/international-seo-logistics/"
+        },
+        {
+          "title": "International SEO Case Study - FAB Appliances | Origin SEO",
+          "url": "https://originseo.com/articles/case-study/fab-appliances/",
+          "reported_content_url": "https://originseo.com/articles/case-study/fab-appliances/"
+        },
+        {
+          "title": "International E-Commerce Migration Case Study | Oliver Jordanov",
+          "url": "https://oliverjordanov.com/case-studies/international-ecommerce-migration/",
+          "reported_content_url": "https://oliverjordanov.com/case-studies/international-ecommerce-migration/"
+        },
+        {
+          "title": "Bikmo: Success SEO migration leading to 100% traffic increase - SALT.agency®",
+          "url": "https://salt.agency/case-studies/increasing-organic-traffic-by-100-post-migration/",
+          "reported_content_url": "https://salt.agency/case-studies/increasing-organic-traffic-by-100-post-migration/"
+        },
+        {
+          "title": "ccTLD vs. gTLD: International SEO & domain strategy (case study)",
+          "url": "https://www.searchviu.com/en/cctlds-to-gtld/",
+          "reported_content_url": "https://www.searchviu.com/en/cctlds-to-gtld/"
+        },
+        {
+          "title": "International E-Commerce SEO Case Study | Italian Brand, 3 Markets | Scalarly",
+          "url": "https://scalarly.com/case-studies/ecommerce-seo-international.html",
+          "reported_content_url": "https://scalarly.com/case-studies/ecommerce-seo-international.html"
+        },
+        {
+          "title": "International SEO Case Study: 41% Increase in Subscriptions",
+          "url": "https://www.goinflow.com/blog/international-seo-case-study/",
+          "reported_content_url": "https://www.goinflow.com/blog/international-seo-case-study/"
+        },
+        {
+          "title": "BlastAM-Blurb-SEO-Case-Study-FINAL-v1.0",
+          "url": "https://www.blastanalytics.com/uploads/documents/BlastAM-Blurb-SEO-Case-Study-FINAL-v1.pdf",
+          "reported_content_url": "https://www.blastanalytics.com/uploads/documents/BlastAM-Blurb-SEO-Case-Study-FINAL-v1.pdf"
+        },
+        {
+          "title": "Internationally consistent and scalable",
+          "url": "https://b13.com/fileadmin/Case_Studies/Engelhard/pdfs/print_casestudy_Engelhard_EN.pdf",
+          "reported_content_url": "https://b13.com/fileadmin/Case_Studies/Engelhard/pdfs/print_casestudy_Engelhard_EN.pdf"
+        },
+        {
+          "title": "Intrepid Digital",
+          "url": "https://www.intrepidonline.com/wp-content/uploads/2023/06/Blue-Nile-SEO-Case-Study.pdf",
+          "reported_content_url": "https://www.intrepidonline.com/wp-content/uploads/2023/06/Blue-Nile-SEO-Case-Study.pdf"
+        },
+        {
+          "title": "Multilingual SEO training – Module 3.3",
+          "url": "https://academy.yoast.com/app/uploads/sites/4/2018/01/Multilingual_SEO_Module_3_3.pdf",
+          "reported_content_url": "https://academy.yoast.com/app/uploads/sites/4/2018/01/Multilingual_SEO_Module_3_3.pdf"
+        },
+        {
+          "title": "FINAL COPY OF HREFLANG GUIDE",
+          "url": "https://diaryofanseo.com/wp-content/uploads/2024/08/Hreflang-Starter-Handbook-July-2024.pdf",
+          "reported_content_url": "https://diaryofanseo.com/wp-content/uploads/2024/08/Hreflang-Starter-Handbook-July-2024.pdf"
+        },
+        {
+          "title": "SEO Audit - Analysis of the results of the Argentoratum contest © Abondance.com - August 2017",
+          "url": "https://www.afnic.fr/wp-media/uploads/2021/01/Guide-SEO-Argentoratum_vEN.pdf",
+          "reported_content_url": "https://www.afnic.fr/wp-media/uploads/2021/01/Guide-SEO-Argentoratum_vEN.pdf"
+        },
+        {
+          "title": "Building brand credibility and community through country code top level domains",
+          "url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains",
+          "reported_content_url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains"
+        },
+        {
+          "title": "'.com is still the default': Wix reports that domain trends are shifting, but .com remains king",
+          "url": "https://www.techradar.com/pro/com-is-still-the-default-wix-reports-that-domain-trends-are-shifting-but-com-remains-king",
+          "reported_content_url": "https://www.techradar.com/pro/com-is-still-the-default-wix-reports-that-domain-trends-are-shifting-but-com-remains-king"
+        }
+      ]
+    },
+    {
+      "batch": "ml_search_7",
+      "queries": [
+        "StickerPrinting Deutschland international SEO stickerprinting.fr stickerprinting.de expansion SEO case",
+        "Box packaging europe multilingual rigidboxespackaging boitesrigides SEO cajasforradas",
+        "OBI Hornbach international SEO case study hreflang country domains",
+        "Allegro Czech Slovak Hungary domain site official Allegro SEO case study"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "At a glance | Allegro",
+          "url": "https://allegro.gcs-web.com/who-we-are/at-a-glance/",
+          "reported_content_url": "https://allegro.gcs-web.com/who-we-are/at-a-glance/"
+        },
+        {
+          "title": "Allegro investor presentation_Q4 2025_vFINAL.pptx",
+          "url": "https://about.allegro.eu/wp-content/uploads/2026/03/Allegro-results-presentation-Q4-2025.pdf",
+          "reported_content_url": "https://about.allegro.eu/wp-content/uploads/2026/03/Allegro-results-presentation-Q4-2025.pdf"
+        },
+        {
+          "title": "StickerPrinting Deutschland agiert jetzt auch außerhalb des DACH-Raums | Link im Web",
+          "url": "https://www.link-im-web.de/110424-stickerprinting-deutschland-agiert-jetzt-auch-ausserhalb-des-dach-raums",
+          "reported_content_url": "https://www.link-im-web.de/110424-stickerprinting-deutschland-agiert-jetzt-auch-ausserhalb-des-dach-raums"
+        },
+        {
+          "title": "Allegro wkracza na rynek słowacki i otwiera nowe możliwości dla polskich sprzedawców",
+          "url": "https://media.allegro.pl/301511-allegro-wkracza-na-rynek-slowacki-i-otwiera-nowe-mozliwosci-dla-polskich-sprzedawcow",
+          "reported_content_url": "https://media.allegro.pl/301511-allegro-wkracza-na-rynek-slowacki-i-otwiera-nowe-mozliwosci-dla-polskich-sprzedawcow"
+        },
+        {
+          "title": "Final_Allegro_Equity_Story_FY2025 (Introduction to Allegro).pptx",
+          "url": "https://about.allegro.eu/wp-content/uploads/2026/05/Allegro-Equity-Story-FY2025-Introduction-to-Allegro.pdf",
+          "reported_content_url": "https://about.allegro.eu/wp-content/uploads/2026/05/Allegro-Equity-Story-FY2025-Introduction-to-Allegro.pdf"
+        },
+        {
+          "title": "20 Novemb",
+          "url": "https://about.allegro.eu/static-files/e2ff8f0a-f645-467c-8f93-884c796f9374",
+          "reported_content_url": "https://about.allegro.eu/static-files/e2ff8f0a-f645-467c-8f93-884c796f9374"
+        },
+        {
+          "title": "Allegro investor presentation Q4 2024",
+          "url": "https://cdn.prod.nntech.io/company-events/reports/180a6708-dd51-30d3-992c-ba4fafd0b3c1/presentation.pdf",
+          "reported_content_url": "https://cdn.prod.nntech.io/company-events/reports/180a6708-dd51-30d3-992c-ba4fafd0b3c1/presentation.pdf"
+        },
+        {
+          "title": "From Fragmented Operations to Unified Excellence: Allegro’s own sales transformation story | Deloitte Polska",
+          "url": "https://www.deloitte.com/pl/pl/services/consulting/case-studies/From-Fragmented-Operations-to-Unified-Excellence-Allegros-own-sales-transformation-story.html",
+          "reported_content_url": "https://www.deloitte.com/pl/pl/services/consulting/case-studies/From-Fragmented-Operations-to-Unified-Excellence-Allegros-own-sales-transformation-story.html"
+        },
+        {
+          "title": "Allegro vstupuje do Maďarska. Přináší tak nové možnosti i českým obchodníkům",
+          "url": "https://media.allegro.cz/371297-allegro-vstupuje-do-madarska-prinasi-tak-nove-moznosti-i-ceskym-obchodnikum",
+          "reported_content_url": "https://media.allegro.cz/371297-allegro-vstupuje-do-madarska-prinasi-tak-nove-moznosti-i-ceskym-obchodnikum"
+        },
+        {
+          "title": "Market functioning and key actors: Competition Market Study of Online Marketplaces in Poland, Latvia and Lithuania | OECD",
+          "url": "https://www.oecd.org/en/publications/competition-market-study-of-online-marketplaces-in-poland-latvia-and-lithuania_3134e707-en/full-report/market-functioning-and-key-actors_3f1a3a51.html",
+          "reported_content_url": "https://www.oecd.org/en/publications/competition-market-study-of-online-marketplaces-in-poland-latvia-and-lithuania_3134e707-en/full-report/market-functioning-and-key-actors_3f1a3a51.html"
+        },
+        {
+          "title": "esent",
+          "url": "https://about.allegro.eu/static-files/b8b2455c-5059-4f7e-8dfe-377a04593153",
+          "reported_content_url": "https://about.allegro.eu/static-files/b8b2455c-5059-4f7e-8dfe-377a04593153"
+        },
+        {
+          "title": "Allegro Smart! on foreign markets – Help for sellers – Allegro",
+          "url": "https://help.allegro.com/en/sell/c/allegro-smart-on-foreign-markets",
+          "reported_content_url": "https://help.allegro.com/en/sell/c/allegro-smart-on-foreign-markets"
+        },
+        {
+          "title": "23 MAY 20",
+          "url": "https://about.allegro.eu/static-files/4bc5941c-69b9-4de7-8718-7cc762e706c2",
+          "reported_content_url": "https://about.allegro.eu/static-files/4bc5941c-69b9-4de7-8718-7cc762e706c2"
+        },
+        {
+          "title": "Allegro zabilo CZC. Jaký je SEO pohled na tuto migraci? - Linki",
+          "url": "https://linki.cz/allegro-czc-migrace-seo/",
+          "reported_content_url": "https://linki.cz/allegro-czc-migrace-seo/"
+        },
+        {
+          "title": "Možnosti propagace – Pomoc pro prodejce – Allegro",
+          "url": "https://help.allegro.com/cs/sell/c/moznosti-propagace",
+          "reported_content_url": "https://help.allegro.com/cs/sell/c/moznosti-propagace"
+        },
+        {
+          "title": "[NEWS] Uruchomiliśmy serwis zagraniczny allegro.hu / We have launched a foreign marketplace allegro.hu · Issue #10012 · allegro/allegro-api · GitHub",
+          "url": "https://github.com/allegro/allegro-api/issues/10012",
+          "reported_content_url": "https://github.com/allegro/allegro-api/issues/10012"
+        },
+        {
+          "title": "Allegro will launch in Hungary in 2024 — use another marketplace to expand your business abroad – International sales – Help for sellers – Allegro",
+          "url": "https://help.allegro.com/en/sell/a/allegro-will-launch-in-hungary-in-2024-use-another-marketplace-to-expand-your-business-abroad-g0V69EM7zCE",
+          "reported_content_url": "https://help.allegro.com/en/sell/a/allegro-will-launch-in-hungary-in-2024-use-another-marketplace-to-expand-your-business-abroad-g0V69EM7zCE"
+        },
+        {
+          "title": "V roce 2024 spustíme Allegro v Maďarsku – využijte další trh k rozšíření svého podnikání do zahraničí – Zvyšte svůj prodej – Pomoc pro prodejce – Allegro",
+          "url": "https://help.allegro.com/cs/sell/a/v-roce-2024-spustime-allegro-v-madarsku-vyuzijte-dalsi-trh-k-rozsireni-sveho-podnikani-do-zahranici-eKeamrvWAUL",
+          "reported_content_url": "https://help.allegro.com/cs/sell/a/v-roce-2024-spustime-allegro-v-madarsku-vyuzijte-dalsi-trh-k-rozsireni-sveho-podnikani-do-zahranici-eKeamrvWAUL"
+        }
+      ]
+    },
+    {
+      "batch": "ml_off_0",
+      "queries": [
+        "site:manutan.com group Manutan countries manutan.cz manutan.sk manutan.hu e commerce countries websites",
+        "site:raja-group.com countries subsidiaries online rajapack.cz rajapack.ro raja sites",
+        "site:hilti.group hilti worldwide websites hilti.sk hilti.ro hilti.lt",
+        "site:wuerth.com worldwide company locations wurth.hr wurth.cz wurth.ro websites"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "18 Manutan Group subsidiaries certified “Great Place to Work 2026” | Manutan Group",
+          "url": "https://www.manutan.com/en/homepage/press/news/2025/18-manutan-group-subsidiaries-certified-great-place-to-work-2026",
+          "reported_content_url": "https://www.manutan.com/en/homepage/press/news/2025/18-manutan-group-subsidiaries-certified-great-place-to-work-2026"
+        },
+        {
+          "title": "Vacancies alerts sign-up | Manutan Group",
+          "url": "https://www.manutan.com/en/homepage/join-us/vacancies-alerts-sign-up",
+          "reported_content_url": "https://www.manutan.com/en/homepage/join-us/vacancies-alerts-sign-up"
+        },
+        {
+          "title": "In 2023, thirteen Manutan Group subsidiaries have been certified as a ‘Great Place to Work’ | Manutan Group",
+          "url": "https://www.manutan.com/en/homepage/press/news/2022/in-2023-thirteen-manutan-group-subsidiaries-have-been-certified-as-a-great-place-to-work",
+          "reported_content_url": "https://www.manutan.com/en/homepage/press/news/2022/in-2023-thirteen-manutan-group-subsidiaries-have-been-certified-as-a-great-place-to-work"
+        },
+        {
+          "title": "RAJA GERMANY",
+          "url": "https://www.raja-group.com/system/files/press_files/RAJA_DP_2205_EN.pdf",
+          "reported_content_url": "https://www.raja-group.com/system/files/press_files/RAJA_DP_2205_EN.pdf"
+        },
+        {
+          "title": "Company directory | Würth Group",
+          "url": "https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/Company-directory/Company-drectory.php",
+          "reported_content_url": "https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/Company-directory/Company-drectory.php"
+        },
+        {
+          "title": "List of operations",
+          "url": "https://www.manutan.com/medias/files/158_FICHIER_0.pdf",
+          "reported_content_url": "https://www.manutan.com/medias/files/158_FICHIER_0.pdf"
+        },
+        {
+          "title": "2022",
+          "url": "https://www.raja-group.com/system/files/press_files/RAJA_DP_A4_220504.pdf",
+          "reported_content_url": "https://www.raja-group.com/system/files/press_files/RAJA_DP_A4_220504.pdf"
+        },
+        {
+          "title": "2021",
+          "url": "https://corporate-www.raja-group.com/system/files/press_files/RAJA_DP_V22.pdf",
+          "reported_content_url": "https://corporate-www.raja-group.com/system/files/press_files/RAJA_DP_V22.pdf"
+        },
+        {
+          "title": "Würth worldwide | Würth Group",
+          "url": "https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/W%C3%BCrth-worldwide.php",
+          "reported_content_url": "https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/W%C3%BCrth-worldwide.php"
+        },
+        {
+          "title": "Join us | Manutan Group",
+          "url": "https://www.manutan.com/en/homepage/join-us?pageNumber=96091",
+          "reported_content_url": "https://www.manutan.com/en/homepage/join-us?pageNumber=96091"
+        },
+        {
+          "title": "PRESENTATION OF THE GROUP",
+          "url": "https://www.manutan.com/medias/file_bank/Fichiers/INVESTISSEURS/Information%20reglementee/Manutan_Universal_Registration_Document_2020_EN.pdf",
+          "reported_content_url": "https://www.manutan.com/medias/file_bank/Fichiers/INVESTISSEURS/Information%20reglementee/Manutan_Universal_Registration_Document_2020_EN.pdf"
+        },
+        {
+          "title": "Branch offices worldwide | Würth Group",
+          "url": "https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/Branch-offices-worldwide/Branch-offices-worldwide.php",
+          "reported_content_url": "https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/Branch-offices-worldwide/Branch-offices-worldwide.php"
+        },
+        {
+          "title": "Le Groupe Manutan",
+          "url": "https://www.manutan.com/fr/accueil?pageNumber=7",
+          "reported_content_url": "https://www.manutan.com/fr/accueil?pageNumber=7"
+        },
+        {
+          "title": "Presentation of the Group",
+          "url": "https://www.manutan.com/medias/files/470_FICHIER_0.pdf",
+          "reported_content_url": "https://www.manutan.com/medias/files/470_FICHIER_0.pdf"
+        },
+        {
+          "title": "Unternehmensverzeichnis | Würth Group",
+          "url": "https://www.wuerth.com/wuerth-gruppe/Unternehmen/W%C3%BCrth-weltweit/Unternehmensverzeichnis/Unternehmensverzeichnis.php",
+          "reported_content_url": "https://www.wuerth.com/wuerth-gruppe/Unternehmen/W%C3%BCrth-weltweit/Unternehmensverzeichnis/Unternehmensverzeichnis.php"
+        },
+        {
+          "title": "Four new appointments within the Manutan Group | Manutan Group",
+          "url": "https://www.manutan.com/en/homepage/press/news/2022/four-new-appointments-within-the-manutan-group",
+          "reported_content_url": "https://www.manutan.com/en/homepage/press/news/2022/four-new-appointments-within-the-manutan-group"
+        },
+        {
+          "title": "Manutan group second-hand offers | Manutan Group",
+          "url": "https://www.manutan.com/en/homepage/press/news/2025/manutan-group-second-hand-offers",
+          "reported_content_url": "https://www.manutan.com/en/homepage/press/news/2025/manutan-group-second-hand-offers"
+        },
+        {
+          "title": "Nous rejoindre | Groupe Manutan",
+          "url": "https://www.manutan.com/fr/accueil/nous-rejoindre?pageNumber=96523",
+          "reported_content_url": "https://www.manutan.com/fr/accueil/nous-rejoindre?pageNumber=96523"
+        }
+      ]
+    },
+    {
+      "batch": "ml_off_1",
+      "queries": [
+        "site:skyscanner.net country websites skyscanner.pl skyscanner.ro skyscanner.fi country sites",
+        "site:ir.hometogo.de HomeToGo brands domains 25 markets country domain .pl .cz",
+        "site:vidaxl.com country websites vidaxl.sk vidaxl.hr vidaxl.lt vidaxl.lv",
+        "site:zalando.com markets websites zalando.cz zalando.hr zalando.ro .lt"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Report",
+          "url": "https://ir.hometogo.de/download/companies/58289a/Annual%20Reports/HTG_AnnualReport_2022.pdf",
+          "reported_content_url": "https://ir.hometogo.de/download/companies/58289a/Annual%20Reports/HTG_AnnualReport_2022.pdf"
+        },
+        {
+          "title": "Allgemeine Einkaufsbedingungen über den vidaXL Marktplatz",
+          "url": "https://media.vidaxl.com/media/wysiwyg/documents/TC_MP/DE.pdf",
+          "reported_content_url": "https://media.vidaxl.com/media/wysiwyg/documents/TC_MP/DE.pdf"
+        },
+        {
+          "title": "Localisation | API Developer Documentation",
+          "url": "https://developers.skyscanner.net/docs/getting-started/localisation",
+          "reported_content_url": "https://developers.skyscanner.net/docs/getting-started/localisation"
+        },
+        {
+          "title": "Zalando Partner | Home",
+          "url": "https://partner.zalando.com/university/article/zalando-partner-program-markets",
+          "reported_content_url": "https://partner.zalando.com/university/article/zalando-partner-program-markets"
+        },
+        {
+          "title": "HomeToGo erweitert sein internationales Angebot für Reisende um fünf neue, lokalisierte Webseiten in Kroatien, Tschechien, Ungarn, Slowenien und Indien",
+          "url": "https://ir.hometogo.de/de/news/hometogo-expands-its-global-offer-for-travelers-with-the-announcement-of-five-new-market-domains/1340ad65-19d6-45bd-a54d-f21622143778",
+          "reported_content_url": "https://ir.hometogo.de/de/news/hometogo-expands-its-global-offer-for-travelers-with-the-announcement-of-five-new-market-domains/1340ad65-19d6-45bd-a54d-f21622143778"
+        },
+        {
+          "title": "# Privātuma un sīkdatņu paziņojums",
+          "url": "https://media.vidaxl.com/media/wysiwyg/documents/security_privacy_policy/LV.pdf",
+          "reported_content_url": "https://media.vidaxl.com/media/wysiwyg/documents/security_privacy_policy/LV.pdf"
+        },
+        {
+          "title": "News & Publications - HomeToGo SE",
+          "url": "https://ir.hometogo.de/investors/news-publications/corporate-news?url_redirect=true",
+          "reported_content_url": "https://ir.hometogo.de/investors/news-publications/corporate-news?url_redirect=true"
+        },
+        {
+          "title": "Zalando Partner | Home",
+          "url": "https://partner.zalando.com/university/article/platform-rules",
+          "reported_content_url": "https://partner.zalando.com/university/article/platform-rules"
+        },
+        {
+          "title": "Zalando - Shoes and Fashion Online",
+          "url": "https://zalando.com/ro/",
+          "reported_content_url": "https://zalando.com/ro/"
+        },
+        {
+          "title": "<visual_element id=\"e1\">",
+          "url": "https://media.vidaxl.com/media/wysiwyg/documents/terms_conditions/LV.pdf",
+          "reported_content_url": "https://media.vidaxl.com/media/wysiwyg/documents/terms_conditions/LV.pdf"
+        },
+        {
+          "title": "General Terms and Conditions of Purchase via the vidaXL Marketplace",
+          "url": "https://media.vidaxl.com/media/wysiwyg/documents/TC_MP/UK.pdf",
+          "reported_content_url": "https://media.vidaxl.com/media/wysiwyg/documents/TC_MP/UK.pdf"
+        },
+        {
+          "title": "# Opći uvjeti aukcije",
+          "url": "https://media.vidaxl.com/media/wysiwyg/documents/terms_conditions_auctions/HR.pdf",
+          "reported_content_url": "https://media.vidaxl.com/media/wysiwyg/documents/terms_conditions_auctions/HR.pdf"
+        },
+        {
+          "title": "HomeToGo SE: HomeToGo Shares Admitted to Prime Standard",
+          "url": "https://ir.hometogo.de/news/hometogo-se-hometogo-shares-admitted-to-prime-standard/8f8f1536-2ecd-4e93-8dc3-53b1c7d92f39",
+          "reported_content_url": "https://ir.hometogo.de/news/hometogo-se-hometogo-shares-admitted-to-prime-standard/8f8f1536-2ecd-4e93-8dc3-53b1c7d92f39"
+        },
+        {
+          "title": "IR resources - HomeToGo SE",
+          "url": "https://ir.hometogo.de/investors/ir-resources",
+          "reported_content_url": "https://ir.hometogo.de/investors/ir-resources"
+        },
+        {
+          "title": "Interhome launches its B2C website on HomeToGo’s core technology platform just two months after the closing of the Interhome acquisition",
+          "url": "https://ir.hometogo.de/news/interhome-launches-its-b2c-website-on-hometogos-core-technology-platform-just-two-months-after-the/d00ef721-1178-49c1-a6e0-44ea0eb6d454",
+          "reported_content_url": "https://ir.hometogo.de/news/interhome-launches-its-b2c-website-on-hometogos-core-technology-platform-just-two-months-after-the/d00ef721-1178-49c1-a6e0-44ea0eb6d454"
+        },
+        {
+          "title": "HomeToGo SE: Release of a capital market information",
+          "url": "https://ir.hometogo.de/news/hometogo-se-release-of-a-capital-market-information/aac950b5-3119-4b90-889f-da362ef7c677",
+          "reported_content_url": "https://ir.hometogo.de/news/hometogo-se-release-of-a-capital-market-information/aac950b5-3119-4b90-889f-da362ef7c677"
+        },
+        {
+          "title": "HomeToGo SE: HomeToGo acquires e-domizil GmbH from e-vacation Group Holding GmbH",
+          "url": "https://ir.hometogo.de/news/hometogo-se-hometogo-acquires-e-domizil-gmbh-from-e-vacation-group-holding-gmbh/2066790a-67fc-4041-ad70-68914e046e27",
+          "reported_content_url": "https://ir.hometogo.de/news/hometogo-se-hometogo-acquires-e-domizil-gmbh-from-e-vacation-group-holding-gmbh/2066790a-67fc-4041-ad70-68914e046e27"
+        },
+        {
+          "title": "How do I search for...? – Skyscanner",
+          "url": "https://help.skyscanner.net/hc/en-us/sections/200406602-How-do-I-search-for-",
+          "reported_content_url": "https://help.skyscanner.net/hc/en-us/sections/200406602-How-do-I-search-for-"
+        }
+      ]
+    },
+    {
+      "batch": "ml_off_2",
+      "queries": [
+        "site:decathlon.com countries online decathlon.hr decathlon.si decathlon.ro official",
+        "site:company.lidl.com countries lidl.hr lidl.sk lidl.lt official websites",
+        "site:notino.com notino countries websites notino.lt notino.lv notino.ee",
+        "site:zooplus.com country websites zooplus.sk zooplus.cz zooplus.hr zooplus.si"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "About Notino",
+          "url": "https://www.notino.com/about-us/",
+          "reported_content_url": "https://www.notino.com/about-us/"
+        },
+        {
+          "title": "Company Portrait - zooplus SE - Corporate Website",
+          "url": "https://corporate.zooplus.com/en/zooplus-se/",
+          "reported_content_url": "https://corporate.zooplus.com/en/zooplus-se/"
+        },
+        {
+          "title": "I am moving to a different country. Can I continue buying from zooplus? : zooplus.com",
+          "url": "https://support.zooplus.com/en/support/solutions/articles/76000048394-i-am-moving-to-a-different-country-can-i-continue-buying-from-zooplus-",
+          "reported_content_url": "https://support.zooplus.com/en/support/solutions/articles/76000048394-i-am-moving-to-a-different-country-can-i-continue-buying-from-zooplus-"
+        },
+        {
+          "title": "Our International Shops | Visit your zooplus shop now!",
+          "url": "https://www.zooplus.com/info/about/our-shops",
+          "reported_content_url": "https://www.zooplus.com/info/about/our-shops"
+        },
+        {
+          "title": "Home - zooplus SE - Corporate Website",
+          "url": "https://corporate.zooplus.com/en/?analytics-id=qp85kbzn8noe-4nrsplIPDIK04oRbpJOwKD&utm-source=utm_source_teaser",
+          "reported_content_url": "https://corporate.zooplus.com/en/?analytics-id=qp85kbzn8noe-4nrsplIPDIK04oRbpJOwKD&utm-source=utm_source_teaser"
+        },
+        {
+          "title": "Shipping and Delivery | zooplus.com",
+          "url": "https://www.zooplus.com/info/about/shippingcosts/",
+          "reported_content_url": "https://www.zooplus.com/info/about/shippingcosts/"
+        },
+        {
+          "title": "Online Pet Shop, Pet Food, Supplies & Accessories - zooplus",
+          "url": "https://www.zooplus.com/?trk=public_post-text",
+          "reported_content_url": "https://www.zooplus.com/?trk=public_post-text"
+        },
+        {
+          "title": "Digital accessibility 2026-2028 action plan",
+          "url": "https://sustainability.decathlon.com/digital-accessibility-2026-2028-action-plan",
+          "reported_content_url": "https://sustainability.decathlon.com/digital-accessibility-2026-2028-action-plan"
+        },
+        {
+          "title": "e_zooplus_GB2013_140321.indd",
+          "url": "https://corporate.zooplus.com/wp-content/uploads/2020/02/zooplus_annualreport_2013.pdf",
+          "reported_content_url": "https://corporate.zooplus.com/wp-content/uploads/2020/02/zooplus_annualreport_2013.pdf"
+        },
+        {
+          "title": "Imprint | zooplus",
+          "url": "https://www.zooplus.com/legal/imprint",
+          "reported_content_url": "https://www.zooplus.com/legal/imprint"
+        },
+        {
+          "title": "Multi-year Digital Accessibility Plan 2026-2028",
+          "url": "https://sustainability.decathlon.com/multi-year-digital-accessibility-plan-2026-2028",
+          "reported_content_url": "https://sustainability.decathlon.com/multi-year-digital-accessibility-plan-2026-2028"
+        },
+        {
+          "title": "General Terms and Conditions | zooplus",
+          "url": "https://www.zooplus.com/legal/terms",
+          "reported_content_url": "https://www.zooplus.com/legal/terms"
+        },
+        {
+          "title": "NOTINO Nadační Fond | Podporujeme krásu, která mění svět",
+          "url": "https://nadacnifond.notino.com/",
+          "reported_content_url": "https://nadacnifond.notino.com/"
+        },
+        {
+          "title": "Sourcing and sales markets",
+          "url": "https://corporate.zooplus.com/wp-content/uploads/2021/03/zooplus_GB2020_EN.pdf",
+          "reported_content_url": "https://corporate.zooplus.com/wp-content/uploads/2021/03/zooplus_GB2020_EN.pdf"
+        },
+        {
+          "title": "Kažkas susiklostė kitaip, ne",
+          "url": "https://i.notino.com/files/31/complaint-form_lt1.pdf",
+          "reported_content_url": "https://i.notino.com/files/31/complaint-form_lt1.pdf"
+        },
+        {
+          "title": "Opći uvjeti poslovanja",
+          "url": "https://i.notino.com/files/22/opci_uvjeti_poslovanja_hr.pdf",
+          "reported_content_url": "https://i.notino.com/files/22/opci_uvjeti_poslovanja_hr.pdf"
+        },
+        {
+          "title": "Regler och Villkor",
+          "url": "https://i.notino.com/files/23/regler_och_villkor_se.pdf",
+          "reported_content_url": "https://i.notino.com/files/23/regler_och_villkor_se.pdf"
+        },
+        {
+          "title": "CONTENT_4d5a5cd8-0624-44a0-8ada-0840764736f6.pdfM1_FULL",
+          "url": "https://corporate.zooplus.com/wp-content/uploads/2022/04/Konzernabschluss-zooplus_2021.pdf",
+          "reported_content_url": "https://corporate.zooplus.com/wp-content/uploads/2022/04/Konzernabschluss-zooplus_2021.pdf"
+        }
+      ]
+    },
+    {
+      "batch": "ml_off_3",
+      "queries": [
+        "site:heureka.group countries websites heureka.sk arukereso.hu compari.ro jeftinije.hr ceneje.si",
+        "site:olxgroup.com markets countries olx.pl olx.ro olx.bg olx.ua",
+        "site:autoscout24.com country websites AutoScout24 .de .it .be .nl international",
+        "site:about.allegro.eu allegro.pl allegro.cz allegro.sk allegro.hu markets"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Mercury Documentation",
+          "url": "https://car-parts.olxgroup.com/supported-sites/index.html",
+          "reported_content_url": "https://car-parts.olxgroup.com/supported-sites/index.html"
+        },
+        {
+          "title": "About us - Heureka Group",
+          "url": "https://heureka.group/en/about-us",
+          "reported_content_url": "https://heureka.group/en/about-us"
+        },
+        {
+          "title": "Allegro investor presentation_Q4 2025_vFINAL.pptx",
+          "url": "https://about.allegro.eu/wp-content/uploads/2026/03/Allegro-results-presentation-Q4-2025.pdf",
+          "reported_content_url": "https://about.allegro.eu/wp-content/uploads/2026/03/Allegro-results-presentation-Q4-2025.pdf"
+        },
+        {
+          "title": "About Heureka Group",
+          "url": "https://join.heureka.group/en/about-heureka-group",
+          "reported_content_url": "https://join.heureka.group/en/about-heureka-group"
+        },
+        {
+          "title": "Who we are - Allegro",
+          "url": "https://about.allegro.eu/who-we-are/",
+          "reported_content_url": "https://about.allegro.eu/who-we-are/"
+        },
+        {
+          "title": "nástroje při výběru trhu a analýze konkurence",
+          "url": "https://heureka.group/media/zlif5ppj/expandeco-checklist-vyber-trhu.pdf",
+          "reported_content_url": "https://heureka.group/media/zlif5ppj/expandeco-checklist-vyber-trhu.pdf"
+        },
+        {
+          "title": "ALLEGRO.EU S.A. GROUP",
+          "url": "https://about.allegro.eu/wp-content/uploads/2026/01/Consolidated-Annual-Report.pdf",
+          "reported_content_url": "https://about.allegro.eu/wp-content/uploads/2026/01/Consolidated-Annual-Report.pdf"
+        },
+        {
+          "title": "Rólunk - Heureka Group",
+          "url": "https://heureka.group/hu/rolunk",
+          "reported_content_url": "https://heureka.group/hu/rolunk"
+        },
+        {
+          "title": "Умови використання",
+          "url": "https://developer.olxgroup.com/static/terms_end_conditions/olx_api-ua.pdf",
+          "reported_content_url": "https://developer.olxgroup.com/static/terms_end_conditions/olx_api-ua.pdf"
+        },
+        {
+          "title": "Register - OLX",
+          "url": "https://developer.olxgroup.com/register?market=olx",
+          "reported_content_url": "https://developer.olxgroup.com/register?market=olx"
+        },
+        {
+          "title": "OLX - OLX Group",
+          "url": "https://www.olxgroup.com/brands/olx/",
+          "reported_content_url": "https://www.olxgroup.com/brands/olx/"
+        },
+        {
+          "title": "29. ledna 2020",
+          "url": "https://heureka.group/wp-content/uploads/2026/02/Prezentace-pro-investory-012020-pdf.pdf",
+          "reported_content_url": "https://heureka.group/wp-content/uploads/2026/02/Prezentace-pro-investory-012020-pdf.pdf"
+        },
+        {
+          "title": "O nás - Heureka Group",
+          "url": "https://heureka.group/sk/o-nas",
+          "reported_content_url": "https://heureka.group/sk/o-nas"
+        },
+        {
+          "title": "O nas - Allegro Investors",
+          "url": "https://about.allegro.eu/pl/o-nas/",
+          "reported_content_url": "https://about.allegro.eu/pl/o-nas/"
+        },
+        {
+          "title": "Data Protection Information AutoScout24",
+          "url": "https://www.autoscout24.com/company/privacy/",
+          "reported_content_url": "https://www.autoscout24.com/company/privacy/"
+        },
+        {
+          "title": "Homepage - OLX Group",
+          "url": "https://www.olxgroup.com/?trk=public_profile__reactions-text",
+          "reported_content_url": "https://www.olxgroup.com/?trk=public_profile__reactions-text"
+        },
+        {
+          "title": "Over 900,000 tonnes of CO2 emissions saved by trading 37 million items on OLX Group platforms last year - OLX Group",
+          "url": "https://www.olxgroup.com/news/over-900000-tonnes-of-co2-emissions-saved-by-trading-37-million-items-on-olx-group-platforms-last-year/",
+          "reported_content_url": "https://www.olxgroup.com/news/over-900000-tonnes-of-co2-emissions-saved-by-trading-37-million-items-on-olx-group-platforms-last-year/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_off_4",
+      "queries": [
+        "site:pixartprinting.it countries \"pixartprinting.fr\" \"pixartprinting.es\"",
+        "site:onlineprinters.com country shops onlineprinters.dk onlineprinters.se onlineprinters.pl",
+        "site:vistaprint.com country vistaprint.no vistaprint.fi vistaprint.dk vista print international",
+        "site:airbnb.com country domains airbnb.cz airbnb.hu airbnb.pl official"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Shipping and Delivery Information | VistaPrint",
+          "url": "https://www.vistaprint.com/shipping?swsquery=shipping",
+          "reported_content_url": "https://www.vistaprint.com/shipping?swsquery=shipping"
+        },
+        {
+          "title": "Shipping and Delivery Information | Vistaprint",
+          "url": "https://www.vistaprint.com/shipping?phs=0",
+          "reported_content_url": "https://www.vistaprint.com/shipping?phs=0"
+        },
+        {
+          "title": "Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences",
+          "url": "https://www.airbnb.com/help/article/971",
+          "reported_content_url": "https://www.airbnb.com/help/article/971"
+        },
+        {
+          "title": "Terms of Use | VistaPrint",
+          "url": "https://www.vistaprint.com/terms-of-use",
+          "reported_content_url": "https://www.vistaprint.com/terms-of-use"
+        },
+        {
+          "title": "Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences",
+          "url": "https://www.airbnb.com/help/article/437",
+          "reported_content_url": "https://www.airbnb.com/help/article/437"
+        },
+        {
+          "title": "Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences",
+          "url": "https://www.airbnb.com/help/article/3104",
+          "reported_content_url": "https://www.airbnb.com/help/article/3104"
+        },
+        {
+          "title": "REGISTRATION DOCUMENT – OP HOLDCO GMBH",
+          "url": "https://investorrelations.onlineprinters.com/wp-content/uploads/2025/11/Registration-Document-OP-HoldCo-GmbH.pdf",
+          "reported_content_url": "https://investorrelations.onlineprinters.com/wp-content/uploads/2025/11/Registration-Document-OP-HoldCo-GmbH.pdf"
+        },
+        {
+          "title": "Online Printing Services - Digital and Offset | Onlineprinters",
+          "url": "https://www.onlineprinters.com/",
+          "reported_content_url": "https://www.onlineprinters.com/"
+        },
+        {
+          "title": "Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences",
+          "url": "https://www.airbnb.com/help/article/2447",
+          "reported_content_url": "https://www.airbnb.com/help/article/2447"
+        },
+        {
+          "title": "Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences",
+          "url": "https://www.airbnb.com/",
+          "reported_content_url": "https://www.airbnb.com/"
+        },
+        {
+          "title": "Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences",
+          "url": "https://www.airbnb.com/help/article/3520",
+          "reported_content_url": "https://www.airbnb.com/help/article/3520"
+        },
+        {
+          "title": "Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences",
+          "url": "https://www.airbnb.com/help/article/3952",
+          "reported_content_url": "https://www.airbnb.com/help/article/3952"
+        },
+        {
+          "title": "General Terms and Conditions",
+          "url": "https://www.vistaprint.com/legal/terms-and-conditions/general_terms_of_use.pdf?srsltid=AfmBOoo-Fl_sMOudiLcKiTAAyW0xntQcfObrUBb2XImAy5WldxrwN4hu",
+          "reported_content_url": "https://www.vistaprint.com/legal/terms-and-conditions/general_terms_of_use.pdf?srsltid=AfmBOoo-Fl_sMOudiLcKiTAAyW0xntQcfObrUBb2XImAy5WldxrwN4hu"
+        },
+        {
+          "title": "General Terms and Conditions",
+          "url": "https://www.vistaprint.com/legal/terms-and-conditions/general_terms_of_use.pdf?srsltid=AfmBOopgQRehGngbNso_q8f2mUOFvymMe2IFoHwDi5PwLcG2uutWDVT_",
+          "reported_content_url": "https://www.vistaprint.com/legal/terms-and-conditions/general_terms_of_use.pdf?srsltid=AfmBOopgQRehGngbNso_q8f2mUOFvymMe2IFoHwDi5PwLcG2uutWDVT_"
+        },
+        {
+          "title": "General Terms and Conditions",
+          "url": "https://www.vistaprint.com/legal/terms-and-conditions/general_terms_of_use.pdf",
+          "reported_content_url": "https://www.vistaprint.com/legal/terms-and-conditions/general_terms_of_use.pdf"
+        }
+      ]
+    },
+    {
+      "batch": "ml_off_5",
+      "queries": [
+        "site:ebay.com global sites eBay.pl eBay.ie eBay.at country sites",
+        "site:amazon.com international shopping amazon.se amazon.pl amazon.com.be country websites",
+        "site:adidas.com country selector adidas.cz adidas.sk adidas.ro adidas.hu",
+        "site:sixt.com countries sixt.cz sixt.hu sixt.pl sixt.ro international"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Using eBay RESTful APIs | eBay Developers Program",
+          "url": "https://developer.ebay.com/develop/guides/buy/using-ebay-restful-apis",
+          "reported_content_url": "https://developer.ebay.com/develop/guides/buy/using-ebay-restful-apis"
+        },
+        {
+          "title": "Global ID Values - API Reference",
+          "url": "https://developer.ebay.com/devzone/business-policies/CallRef/Enums/GlobalIdList.html",
+          "reported_content_url": "https://developer.ebay.com/devzone/business-policies/CallRef/Enums/GlobalIdList.html"
+        },
+        {
+          "title": "Amazon.com Associates Central - Creators API Documentation",
+          "url": "https://affiliate-program.amazon.com/creatorsapi/docs/en-us/locale-reference",
+          "reported_content_url": "https://affiliate-program.amazon.com/creatorsapi/docs/en-us/locale-reference"
+        },
+        {
+          "title": "Merchandising API | eBay Developers Program",
+          "url": "https://developer.ebay.com/devzone/merchandising/docs/concepts/siteidtoglobalid.html",
+          "reported_content_url": "https://developer.ebay.com/devzone/merchandising/docs/concepts/siteidtoglobalid.html"
+        },
+        {
+          "title": "Marketplace enumerated values | eBay Developers Program",
+          "url": "https://developer.ebay.com/api-docs/user-guides/static/mip-user-guide/mip-enum-marketplace.html",
+          "reported_content_url": "https://developer.ebay.com/api-docs/user-guides/static/mip-user-guide/mip-enum-marketplace.html"
+        },
+        {
+          "title": "International updates",
+          "url": "https://export.ebay.com/en/resources/seller-news/seller-news-autumn-winter-2025/international-updates/",
+          "reported_content_url": "https://export.ebay.com/en/resources/seller-news/seller-news-autumn-winter-2025/international-updates/"
+        },
+        {
+          "title": "Changes on international eBay sites",
+          "url": "https://export.ebay.com/in/resources/seller-news/releases-archive/2022-winter-seller-update/changes-on-international-ebay-sites/",
+          "reported_content_url": "https://export.ebay.com/in/resources/seller-news/releases-archive/2022-winter-seller-update/changes-on-international-ebay-sites/"
+        },
+        {
+          "title": "International updates",
+          "url": "https://export.ebay.com/en/resources/seller-news/releases-archive/seller-update-june-2023/international-updates/",
+          "reported_content_url": "https://export.ebay.com/en/resources/seller-news/releases-archive/seller-update-june-2023/international-updates/"
+        },
+        {
+          "title": "Categories on global marketplaces | eBay Developers Program",
+          "url": "https://www.developer.ebay.com/api-docs/user-guides/static/trading-user-guide/global-sites.html",
+          "reported_content_url": "https://www.developer.ebay.com/api-docs/user-guides/static/trading-user-guide/global-sites.html"
+        },
+        {
+          "title": "Excluded sites | eBay Partner Network",
+          "url": "https://partnernetwork.ebay.com/page/excluded-sites",
+          "reported_content_url": "https://partnernetwork.ebay.com/page/excluded-sites"
+        },
+        {
+          "title": "Country Selector",
+          "url": "https://www.adidas.com/partners/fifa/entry",
+          "reported_content_url": "https://www.adidas.com/partners/fifa/entry"
+        },
+        {
+          "title": "Sixt Rental Information Austria",
+          "url": "https://car-rental.sixt.com/php/terms/view?language=en_US&liso=AT&rtar=000&style=&tlang=en_US&view=IL",
+          "reported_content_url": "https://car-rental.sixt.com/php/terms/view?language=en_US&liso=AT&rtar=000&style=&tlang=en_US&view=IL"
+        },
+        {
+          "title": "CUSTOMER SERVICE",
+          "url": "https://corporate.sixt.com/wp-content/uploads/2022/03/sixt.com-fhls5eiegs75gqwi4i7qfgi47dfgl4gq8.pdf",
+          "reported_content_url": "https://corporate.sixt.com/wp-content/uploads/2022/03/sixt.com-fhls5eiegs75gqwi4i7qfgi47dfgl4gq8.pdf"
+        },
+        {
+          "title": "THE 2 ALL-INCLUSIVE RATES - THE MAIN DIFFERENCES AT A GLANCE",
+          "url": "https://www.sixt.com/shared/travel-agency/SIXT_all_inclusive_rates.pdf",
+          "reported_content_url": "https://www.sixt.com/shared/travel-agency/SIXT_all_inclusive_rates.pdf"
+        },
+        {
+          "title": "PRIVACY POLICY",
+          "url": "https://www.sixt.com/shared/data-protection/DSGVO_sixt_one_en.pdf",
+          "reported_content_url": "https://www.sixt.com/shared/data-protection/DSGVO_sixt_one_en.pdf"
+        },
+        {
+          "title": "HOW TO BOOK SIXT R A V E L A G E N C Y L O G I",
+          "url": "https://www.sixt.com/fileadmin/files/corporate/Reisebuero/Booking_Guide_Agency_Login.pdf",
+          "reported_content_url": "https://www.sixt.com/fileadmin/files/corporate/Reisebuero/Booking_Guide_Agency_Login.pdf"
+        },
+        {
+          "title": "Untitled",
+          "url": "https://pics.ebay.com/aw/pics/de/pdf/others/file_exchange/File_Exchange_Advanced_Instructions.pdf",
+          "reported_content_url": "https://pics.ebay.com/aw/pics/de/pdf/others/file_exchange/File_Exchange_Advanced_Instructions.pdf"
+        },
+        {
+          "title": "Sixt SE Annual Report 2024",
+          "url": "https://about.sixt.com/wp-content/uploads/2026/05/2024_SixtSE_Annual-Financial-Report_ERS.pdf",
+          "reported_content_url": "https://about.sixt.com/wp-content/uploads/2026/05/2024_SixtSE_Annual-Financial-Report_ERS.pdf"
+        }
+      ]
+    },
+    {
+      "batch": "ml_off_6",
+      "queries": [
+        "international SEO case study Notino SEO hreflang organic traffic site migrations country Notino",
+        "Zooplus international SEO case study SEO organic search organic visibility zooplus.de zooplus.pl",
+        "Zalando SEO visibility SISTRIX original case zalando.pl zalando.de .fr fashion Europe",
+        "Lidl SEO case study country domains SEO visibility original research Lidl.de Lidl.fr"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "188 | SEO w e-commerce 2025",
+          "url": "https://prowly-prod.s3.eu-west-1.amazonaws.com/uploads/landing_page_image/image/609454/acf9745361e0ef81735e62e8d357d57d.pdf",
+          "reported_content_url": "https://prowly-prod.s3.eu-west-1.amazonaws.com/uploads/landing_page_image/image/609454/acf9745361e0ef81735e62e8d357d57d.pdf"
+        },
+        {
+          "title": "Polo Club - International SEO Case Study | Convertix",
+          "url": "https://www.convertix.net/case-studies/polo-club/",
+          "reported_content_url": "https://www.convertix.net/case-studies/polo-club/"
+        },
+        {
+          "title": "International SEO Case Study | Barber DTS | The SEO Works",
+          "url": "https://www.seoworks.co.uk/case-studies/international-seo/",
+          "reported_content_url": "https://www.seoworks.co.uk/case-studies/international-seo/"
+        },
+        {
+          "title": "Website-Traffic, Ranking, Analytics [September 2026] für zooplus.pl",
+          "url": "https://de.semrush.com/website/zooplus.pl/overview/",
+          "reported_content_url": "https://de.semrush.com/website/zooplus.pl/overview/"
+        },
+        {
+          "title": "YellowHEAD Improved Zooplus EU ASO Performance - YellowHEAD",
+          "url": "https://www.yellowhead.com/success/zooplus/",
+          "reported_content_url": "https://www.yellowhead.com/success/zooplus/"
+        },
+        {
+          "title": "Only the Commission Changed — Some Markets Grew 5× in Weeks - Expandeo Blog",
+          "url": "https://www.expandeo.com/blog/notino-case-study",
+          "reported_content_url": "https://www.expandeo.com/blog/notino-case-study"
+        },
+        {
+          "title": "SEO-Analysen mit dem SISTRIX Sichtbarkeitsindex - besser.pdf",
+          "url": "https://www.sistrix.de/wp-content/uploads/sites/20/2019/01/SEO-Analysen-mit-dem-SISTRIX-Sichtbarkeitsindex.pdf",
+          "reported_content_url": "https://www.sistrix.de/wp-content/uploads/sites/20/2019/01/SEO-Analysen-mit-dem-SISTRIX-Sichtbarkeitsindex.pdf"
+        },
+        {
+          "title": "International SEO launch across 9 markets — Case Study · GlobalAnnotate",
+          "url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets",
+          "reported_content_url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets"
+        },
+        {
+          "title": "Étude de cas SEO Lidl : bilan 1 an après le lancement e-commerce | L'Agence WAM",
+          "url": "https://agence-wam.fr/blog/etude-de-cas-lidl-seo/",
+          "reported_content_url": "https://agence-wam.fr/blog/etude-de-cas-lidl-seo/"
+        },
+        {
+          "title": "Microsoft Word - Thesis_Internationales-SEO.docx",
+          "url": "https://galsterer.me/wp-content/uploads/Thesis_Internationales-SEO.pdf",
+          "reported_content_url": "https://galsterer.me/wp-content/uploads/Thesis_Internationales-SEO.pdf"
+        },
+        {
+          "title": "Manhattan SEO Tools im SEO-Check - SEO House 43 Podcast",
+          "url": "https://www.termfrequenz.de/podcast/seo-house-podcast/seo-house-43-die-bundesstadt-bundeshauptstadt-in-manhattan/",
+          "reported_content_url": "https://www.termfrequenz.de/podcast/seo-house-podcast/seo-house-43-die-bundesstadt-bundeshauptstadt-in-manhattan/"
+        },
+        {
+          "title": "[DRAFT] Platform Rules - Version 9",
+          "url": "https://assets.ctfassets.net/6h1o1uyhbb7c/2XNPTqb4XUKo9fT9PlndpW/69d32d1219e1b9f06df6a83ca75eaa19/Platform_Rules_-_Version_9_.pdf",
+          "reported_content_url": "https://assets.ctfassets.net/6h1o1uyhbb7c/2XNPTqb4XUKo9fT9PlndpW/69d32d1219e1b9f06df6a83ca75eaa19/Platform_Rules_-_Version_9_.pdf"
+        },
+        {
+          "title": "LOCARIA • RETAIL | BEAUTY",
+          "url": "https://locaria.com/wp-content/uploads/2021/04/Sally-Beauty-SEO-Website-Localisation-Case-Study.pdf",
+          "reported_content_url": "https://locaria.com/wp-content/uploads/2021/04/Sally-Beauty-SEO-Website-Localisation-Case-Study.pdf"
+        },
+        {
+          "title": "WIPO Case No. D2023-4730",
+          "url": "https://www.wipo.int/amc/en/domains/decisions/pdf/2023/d2023-4730.pdf",
+          "reported_content_url": "https://www.wipo.int/amc/en/domains/decisions/pdf/2023/d2023-4730.pdf"
+        },
+        {
+          "title": "Zalando Partner | Home",
+          "url": "https://partner.zalando.com/university/article/platform-rules",
+          "reported_content_url": "https://partner.zalando.com/university/article/platform-rules"
+        },
+        {
+          "title": "Branża zoologiczna w AI - raport widoczności 2026 | Semly",
+          "url": "https://semly.ai/pl/blog/raport-zoologia-widocznosc-ai-2026",
+          "reported_content_url": "https://semly.ai/pl/blog/raport-zoologia-widocznosc-ai-2026"
+        },
+        {
+          "title": "zooplus UX Case Study – Baymard Institute",
+          "url": "https://baymard.com/ux-benchmark/case-studies/zooplus",
+          "reported_content_url": "https://baymard.com/ux-benchmark/case-studies/zooplus"
+        },
+        {
+          "title": "Do consumers benefit from national-brand listings by hard discounters?",
+          "url": "https://link.springer.com/article/10.1007/s11747-023-00937-3",
+          "reported_content_url": "https://link.springer.com/article/10.1007/s11747-023-00937-3"
+        },
+        {
+          "title": "9 Reasons your SEO rankings are up, but traffic is down",
+          "url": "https://www.techradar.com/pro/9-reasons-your-seo-rankings-are-up-but-traffic-is-down",
+          "reported_content_url": "https://www.techradar.com/pro/9-reasons-your-seo-rankings-are-up-but-traffic-is-down"
+        },
+        {
+          "title": "The 14 best SEO tools of 2026: Improve your search and AI visibility",
+          "url": "https://www.techradar.com/news/best-seo-tool",
+          "reported_content_url": "https://www.techradar.com/news/best-seo-tool"
+        },
+        {
+          "title": "SE Ranking review",
+          "url": "https://www.techradar.com/pro/software-services/se-ranking",
+          "reported_content_url": "https://www.techradar.com/pro/software-services/se-ranking"
+        }
+      ]
+    },
+    {
+      "batch": "ml_off_7",
+      "queries": [
+        "Picodi SEO migration ccTLD 23 Bartosz Goralewicz original case study",
+        "Jongen Werkzeugtechnik international websites Jongen.it Jongen.cz Jongen.pl",
+        "Kaufland Global Marketplace country kaufland.sk kaufland.cz kaufland.pl SEO case official",
+        "Google country code domains redirect google.com official 2025 Search blog ccTLD"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Here’s an update on our use of country code top-level domains.",
+          "url": "https://blog.google/products-and-platforms/products/search/country-code-top-level-domains/",
+          "reported_content_url": "https://blog.google/products-and-platforms/products/search/country-code-top-level-domains/"
+        },
+        {
+          "title": "Zostań sprzedawcą na platformach Kaufland Global Marketplace",
+          "url": "https://www.kauflandglobalmarketplace.com/pl/",
+          "reported_content_url": "https://www.kauflandglobalmarketplace.com/pl/"
+        },
+        {
+          "title": "Staňte sa predajcom na Kaufland Marketplace",
+          "url": "https://www.kauflandglobalmarketplace.com/sk/",
+          "reported_content_url": "https://www.kauflandglobalmarketplace.com/sk/"
+        },
+        {
+          "title": "Milníky na cestě k evropskému marketplace",
+          "url": "https://www.kaufland.cz/i/marketplace-z-evropy/expanze/~7y6vpukvVqNjIkWTbnBm5T/",
+          "reported_content_url": "https://www.kaufland.cz/i/marketplace-z-evropy/expanze/~7y6vpukvVqNjIkWTbnBm5T/"
+        },
+        {
+          "title": "Kaufland Global Marketplace",
+          "url": "https://www.kauflandglobalmarketplace.com/en/",
+          "reported_content_url": "https://www.kauflandglobalmarketplace.com/en/"
+        },
+        {
+          "title": "Staňte se prodejcem na Kaufland Marketplaces",
+          "url": "https://www.kauflandglobalmarketplace.com/cs/",
+          "reported_content_url": "https://www.kauflandglobalmarketplace.com/cs/"
+        },
+        {
+          "title": "Registrácia predajcu - Kaufland Global Marketplace",
+          "url": "https://www.kauflandglobalmarketplace.com/sk/seller-registration/",
+          "reported_content_url": "https://www.kauflandglobalmarketplace.com/sk/seller-registration/"
+        },
+        {
+          "title": "Meilensteine auf dem Weg zum europäischen Marktplatz",
+          "url": "https://www.kaufland.de/i/marktplatz-aus-europa/expansion/~7y6vpukvVqNjIkWTbnBm5T/",
+          "reported_content_url": "https://www.kaufland.de/i/marktplatz-aus-europa/expansion/~7y6vpukvVqNjIkWTbnBm5T/"
+        },
+        {
+          "title": "Partneři NK Expand | Kaufland Global Marketplace",
+          "url": "https://www.nk-expand.cz/partneri-nk-expand/kaufland-global-marketplace/",
+          "reported_content_url": "https://www.nk-expand.cz/partneri-nk-expand/kaufland-global-marketplace/"
+        },
+        {
+          "title": "Verzia verejnáPROTIMONOPOLNÝ ÚRAD SLOVENSKEJ REPUBLIKYROZHODNUTIEČíslo:  2024/KOH/SKP/3/19Bratislava, 17. mája 2024Protimonopolný úrad Slovenskej republiky, odbor koncentrácií v správnom konaní",
+          "url": "https://obchodnyvestnik.justice.gov.sk/Handlers/StiahnutPrilohu.ashx?IdPriloha=445932&csrt=3861488760873167493",
+          "reported_content_url": "https://obchodnyvestnik.justice.gov.sk/Handlers/StiahnutPrilohu.ashx?IdPriloha=445932&csrt=3861488760873167493"
+        },
+        {
+          "title": "Brand Elements | Logo - URL Linkage",
+          "url": "https://smlouvy.gov.cz/smlouva/soubor/24841459/105_2022.pdf",
+          "reported_content_url": "https://smlouvy.gov.cz/smlouva/soubor/24841459/105_2022.pdf"
+        },
+        {
+          "title": "Kaufland Marketplace expanduje do Polska a Rakouska",
+          "url": "https://spolecnost.kaufland.cz/pro-novinare/newsroom/2024/cervenec/kaufland-marketplace-expanduje-do-polska-a-rakouska",
+          "reported_content_url": "https://spolecnost.kaufland.cz/pro-novinare/newsroom/2024/cervenec/kaufland-marketplace-expanduje-do-polska-a-rakouska"
+        },
+        {
+          "title": "Registrace prodejce – Kaufland Global Marketplace",
+          "url": "https://www.kauflandglobalmarketplace.com/cs/seller-registration/",
+          "reported_content_url": "https://www.kauflandglobalmarketplace.com/cs/seller-registration/"
+        },
+        {
+          "title": "How to Sell on Kaufland in 2026 | Operator One",
+          "url": "https://o1.eu/news-insights/how-to-sell-on-kaufland-global-marketplace-2026-operator-guide",
+          "reported_content_url": "https://o1.eu/news-insights/how-to-sell-on-kaufland-global-marketplace-2026-operator-guide"
+        },
+        {
+          "title": "Okrem Nemecka a Sl",
+          "url": "https://spolocnost.kaufland.sk/content/dam/kaufland/website/corporate/sk_SK/download/document/na%C5%A1a-zodpovednos%C5%A5/csr-spr%C3%A1vy/Kaufland_Sprava_o_trvalej_udrzatelnosti_03.2022_02.2024.pdf",
+          "reported_content_url": "https://spolocnost.kaufland.sk/content/dam/kaufland/website/corporate/sk_SK/download/document/na%C5%A1a-zodpovednos%C5%A5/csr-spr%C3%A1vy/Kaufland_Sprava_o_trvalej_udrzatelnosti_03.2022_02.2024.pdf"
+        },
+        {
+          "title": "Sales_Broschuere_ENG_Stand_08-23_PRINT.indd",
+          "url": "https://exhibitorsearch.messefrankfurt.com/images/original/mics/10000001202401/0052487543/1696430380003_1383082068.pdf",
+          "reported_content_url": "https://exhibitorsearch.messefrankfurt.com/images/original/mics/10000001202401/0052487543/1696430380003_1383082068.pdf"
+        },
+        {
+          "title": "ACTIONS DO",
+          "url": "https://spolocnost.kaufland.sk/content/dam/kaufland/website/corporate/sk_SK/download/document/na%C5%A1a-zodpovednos%C5%A5/csr-spr%C3%A1vy/Kaufland_Sustainability_report_03.2022_02.2024.pdf",
+          "reported_content_url": "https://spolocnost.kaufland.sk/content/dam/kaufland/website/corporate/sk_SK/download/document/na%C5%A1a-zodpovednos%C5%A5/csr-spr%C3%A1vy/Kaufland_Sustainability_report_03.2022_02.2024.pdf"
+        },
+        {
+          "title": "# Beispiel Kaufland Online-Marktplatz",
+          "url": "https://www.stmwi.bayern.de/fileadmin/user_upload/handel/Pr%C3%A4sentationen/2023-02-14_Marktpl%C3%A4tze.pdf",
+          "reported_content_url": "https://www.stmwi.bayern.de/fileadmin/user_upload/handel/Pr%C3%A4sentationen/2023-02-14_Marktpl%C3%A4tze.pdf"
+        },
+        {
+          "title": "La dirección de Google que conocen casi todos los españoles pasará a la historia",
+          "url": "https://as.com/meristation/betech/la-direccion-de-google-que-conocen-casi-todos-los-espanoles-pasara-a-la-historia-n/",
+          "reported_content_url": "https://as.com/meristation/betech/la-direccion-de-google-que-conocen-casi-todos-los-espanoles-pasara-a-la-historia-n/"
+        },
+        {
+          "title": "Ni de China ni de EE. UU.: el nuevo marketplace viene de Alemania",
+          "url": "https://as.com/tikitakas/estilo/ni-de-china-ni-de-ee-uu-el-nuevo-marketplace-viene-alemania-f202606-n/",
+          "reported_content_url": "https://as.com/tikitakas/estilo/ni-de-china-ni-de-ee-uu-el-nuevo-marketplace-viene-alemania-f202606-n/"
+        },
+        {
+          "title": "Building brand credibility and community through country code top level domains",
+          "url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains",
+          "reported_content_url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains"
+        },
+        {
+          "title": "Countries that have cashed in on their top-level domain names",
+          "url": "https://apnews.com/article/2a6044ed4082e866ccf675e79a57e6f4",
+          "reported_content_url": "https://apnews.com/article/2a6044ed4082e866ccf675e79a57e6f4"
+        }
+      ]
+    },
+    {
+      "batch": "ml_more_0",
+      "queries": [
+        "Manutan Group our websites manutan.sk manutan.cz manutan.hu 17 subsidiaries official",
+        "Hilti official country selector hilti.lt hilti.sk hilti.ro hilti.bg choose country",
+        "Pixartprinting about us country website Pixartprinting.nl Pixartprinting.pl Cimpress investor official",
+        "RAJA Group list subsidiaries countries rajapack.ro Czech Slovakia websites official"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Manutan Group",
+          "url": "https://www.manutan-group.com/en",
+          "reported_content_url": "https://www.manutan-group.com/en"
+        },
+        {
+          "title": "All about us and our company philosophy | Pixartprinting",
+          "url": "https://www.pixartprinting.com/company-profile/",
+          "reported_content_url": "https://www.pixartprinting.com/company-profile/"
+        },
+        {
+          "title": "RAJA GERMANY",
+          "url": "https://www.raja-group.com/system/files/press_files/RAJA_DP_2205_EN.pdf",
+          "reported_content_url": "https://www.raja-group.com/system/files/press_files/RAJA_DP_2205_EN.pdf"
+        },
+        {
+          "title": "18 Manutan Group subsidiaries certified “Great Place to Work 2026” | Manutan Group",
+          "url": "https://www.manutan.com/en/homepage/press/news/2025/18-manutan-group-subsidiaries-certified-great-place-to-work-2026",
+          "reported_content_url": "https://www.manutan.com/en/homepage/press/news/2025/18-manutan-group-subsidiaries-certified-great-place-to-work-2026"
+        },
+        {
+          "title": "Work with us | Pixartprinting",
+          "url": "https://www.pixartprinting.com/work-with-us/",
+          "reported_content_url": "https://www.pixartprinting.com/work-with-us/"
+        },
+        {
+          "title": "2021",
+          "url": "https://corporate-www.raja-group.com/system/files/press_files/RAJA_DP_V22.pdf",
+          "reported_content_url": "https://corporate-www.raja-group.com/system/files/press_files/RAJA_DP_V22.pdf"
+        },
+        {
+          "title": "The Raja Group | European Presence | RAJAPACK UK",
+          "url": "https://www.rajapack.co.uk/_cms_000019.html",
+          "reported_content_url": "https://www.rajapack.co.uk/_cms_000019.html"
+        },
+        {
+          "title": "HILTI Country selector",
+          "url": "https://qr.hilti.com/",
+          "reported_content_url": "https://qr.hilti.com/"
+        },
+        {
+          "title": "Pixartprinting Location & Contact Information – Pixartprinting - COM",
+          "url": "https://support.pixartprinting.com/hc/en-us/articles/35710937883026-Pixartprinting-Location-Contact-Information",
+          "reported_content_url": "https://support.pixartprinting.com/hc/en-us/articles/35710937883026-Pixartprinting-Location-Contact-Information"
+        },
+        {
+          "title": "annual results | Manutan Group",
+          "url": "https://www.manutan-group.com/en/resources/news/2026/annual-results",
+          "reported_content_url": "https://www.manutan-group.com/en/resources/news/2026/annual-results"
+        },
+        {
+          "title": "Do you ship to the USA? – Pixartprinting - EU",
+          "url": "https://support.pixartprinting.com/hc/en-150/articles/26514372045330-Do-you-ship-to-the-USA",
+          "reported_content_url": "https://support.pixartprinting.com/hc/en-150/articles/26514372045330-Do-you-ship-to-the-USA"
+        },
+        {
+          "title": "RAJAPACK ALLEMAGNE",
+          "url": "https://retail-chain.fr/media/Presentation/raja_dossierdepresse_770051.pdf",
+          "reported_content_url": "https://retail-chain.fr/media/Presentation/raja_dossierdepresse_770051.pdf"
+        },
+        {
+          "title": "1",
+          "url": "https://www.raja-group.com/sites/default/files/pdf/GROUPE_RAJA_%20Rapport-de-durabilit%C3%A9_CoP_2024.pdf",
+          "reported_content_url": "https://www.raja-group.com/sites/default/files/pdf/GROUPE_RAJA_%20Rapport-de-durabilit%C3%A9_CoP_2024.pdf"
+        },
+        {
+          "title": "Pixartprinting - UK",
+          "url": "https://support.pixartprinting.com/hc/en-gb",
+          "reported_content_url": "https://support.pixartprinting.com/hc/en-gb"
+        },
+        {
+          "title": "Our Businesses - Cimpress",
+          "url": "https://cimpress.com/our-businesses/",
+          "reported_content_url": "https://cimpress.com/our-businesses/"
+        },
+        {
+          "title": "Investor Relations | Cimpress plc",
+          "url": "https://ir.cimpress.com/investor-overview",
+          "reported_content_url": "https://ir.cimpress.com/investor-overview"
+        }
+      ]
+    },
+    {
+      "batch": "ml_more_1",
+      "queries": [
+        "HomeToGo markets domains HomeToGo expands five new domains site:ir.hometogo.de",
+        "site:skyscanner.net \"Skyscanner around the world\" \"Polska\" Suomi",
+        "site:vidaxl.com choose country vidaXL countries sites Latvia Lithuania Estonia Slovakia",
+        "site:decathlon.com \"Decathlon\" \"Croatia\" \"Slovenia\" stores country"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "News & Publications - HomeToGo SE",
+          "url": "https://ir.hometogo.de/investors/news-publications/corporate-news?url_redirect=true",
+          "reported_content_url": "https://ir.hometogo.de/investors/news-publications/corporate-news?url_redirect=true"
+        },
+        {
+          "title": "Allgemeine Einkaufsbedingungen über den vidaXL Marktplatz",
+          "url": "https://media.vidaxl.com/media/wysiwyg/documents/TC_MP/DE.pdf",
+          "reported_content_url": "https://media.vidaxl.com/media/wysiwyg/documents/TC_MP/DE.pdf"
+        },
+        {
+          "title": "HomeToGo erweitert sein internationales Angebot für Reisende um fünf neue, lokalisierte Webseiten in Kroatien, Tschechien, Ungarn, Slowenien und Indien",
+          "url": "https://ir.hometogo.de/de/news/hometogo-expands-its-global-offer-for-travelers-with-the-announcement-of-five-new-market-domains/1340ad65-19d6-45bd-a54d-f21622143778",
+          "reported_content_url": "https://ir.hometogo.de/de/news/hometogo-expands-its-global-offer-for-travelers-with-the-announcement-of-five-new-market-domains/1340ad65-19d6-45bd-a54d-f21622143778"
+        },
+        {
+          "title": "Multi-year Digital Accessibility Plan 2026-2028",
+          "url": "https://sustainability.decathlon.com/multi-year-digital-accessibility-plan-2026-2028",
+          "reported_content_url": "https://sustainability.decathlon.com/multi-year-digital-accessibility-plan-2026-2028"
+        },
+        {
+          "title": "Interhome launches its B2C website on HomeToGo’s core technology platform just two months after the closing of the Interhome acquisition",
+          "url": "https://ir.hometogo.de/news/interhome-launches-its-b2c-website-on-hometogos-core-technology-platform-just-two-months-after-the/d00ef721-1178-49c1-a6e0-44ea0eb6d454",
+          "reported_content_url": "https://ir.hometogo.de/news/interhome-launches-its-b2c-website-on-hometogos-core-technology-platform-just-two-months-after-the/d00ef721-1178-49c1-a6e0-44ea0eb6d454"
+        },
+        {
+          "title": "GENERAL TERMS AND CONDITIONS",
+          "url": "https://www.vidaxl.com/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw56a6415f/Documents/terms_conditions/US.pdf",
+          "reported_content_url": "https://www.vidaxl.com/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw56a6415f/Documents/terms_conditions/US.pdf"
+        },
+        {
+          "title": "News & Publikationen - HomeToGo SE",
+          "url": "https://ir.hometogo.de/de/investors/news-publications/corporate-news?url_redirect=true",
+          "reported_content_url": "https://ir.hometogo.de/de/investors/news-publications/corporate-news?url_redirect=true"
+        },
+        {
+          "title": "<visual_element id=\"e1\">",
+          "url": "https://media.vidaxl.com/media/wysiwyg/documents/terms_conditions/LV.pdf",
+          "reported_content_url": "https://media.vidaxl.com/media/wysiwyg/documents/terms_conditions/LV.pdf"
+        },
+        {
+          "title": "PowerPoint Presentation",
+          "url": "https://b2b.vidaxl.com/uploads/5df39368/ckeditor_assets/attachments/185/seller_guide_august2019.pdf",
+          "reported_content_url": "https://b2b.vidaxl.com/uploads/5df39368/ckeditor_assets/attachments/185/seller_guide_august2019.pdf"
+        },
+        {
+          "title": "Conditions générales de vente vidaXL Marketplace",
+          "url": "https://media.vidaxl.com/media/wysiwyg/documents/TC_MP/FR.pdf",
+          "reported_content_url": "https://media.vidaxl.com/media/wysiwyg/documents/TC_MP/FR.pdf"
+        },
+        {
+          "title": "Allmänna villkor för köp via vidaXL Marketplace",
+          "url": "https://media.vidaxl.com/media/wysiwyg/documents/TC_MP/SE.pdf",
+          "reported_content_url": "https://media.vidaxl.com/media/wysiwyg/documents/TC_MP/SE.pdf"
+        },
+        {
+          "title": "GPSR for Decathlon",
+          "url": "https://sustainability.decathlon.com/gpsr-for-decathlon",
+          "reported_content_url": "https://sustainability.decathlon.com/gpsr-for-decathlon"
+        },
+        {
+          "title": "Investors - HomeToGo SE Investor Relations",
+          "url": "https://ir.hometogo.de/",
+          "reported_content_url": "https://ir.hometogo.de/"
+        },
+        {
+          "title": "Home - vidaXL - Corporate Website",
+          "url": "https://corporate.vidaxl.com/",
+          "reported_content_url": "https://corporate.vidaxl.com/"
+        },
+        {
+          "title": "HomeToGo delivers strong H1 2026: IFRS Revenues increased by 72% to €160.1M as Free Cash Flow soared to €48.2M. FY/26 guidance reaffirmed",
+          "url": "https://ir.hometogo.de/news/hometogo-delivers-strong-h1-2026-ifrs-revenues-increased-by-72percent-to-euro1601m-as-free-cash/87d11af9-ae35-4b76-b3c4-1fec23964094",
+          "reported_content_url": "https://ir.hometogo.de/news/hometogo-delivers-strong-h1-2026-ifrs-revenues-increased-by-72percent-to-euro1601m-as-free-cash/87d11af9-ae35-4b76-b3c4-1fec23964094"
+        },
+        {
+          "title": "Jobalert | vidaXL",
+          "url": "https://careers.vidaxl.com/jobalert",
+          "reported_content_url": "https://careers.vidaxl.com/jobalert"
+        },
+        {
+          "title": "News & Publications - HomeToGo SE",
+          "url": "https://ir.hometogo.de/investors/news-publications?url_redirect=true",
+          "reported_content_url": "https://ir.hometogo.de/investors/news-publications?url_redirect=true"
+        },
+        {
+          "title": "IR resources - HomeToGo SE",
+          "url": "https://ir.hometogo.de/investors/ir-resources",
+          "reported_content_url": "https://ir.hometogo.de/investors/ir-resources"
+        }
+      ]
+    },
+    {
+      "batch": "ml_more_2",
+      "queries": [
+        "site:company.lidl.com Lidl around the world country websites",
+        "site:notino.com \"Notino\" \"Estonia\" \"Lithuania\" about all countries",
+        "site:corporate.hornbach.com countries sites Czech Slovakia Romania Netherlands Sweden",
+        "site:obi.com OBI countries Croatia Slovenia Hungary Czech Slovakia official"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "About Notino",
+          "url": "https://www.notino.com/about-us/",
+          "reported_content_url": "https://www.notino.com/about-us/"
+        },
+        {
+          "title": "Anypoint Exchange",
+          "url": "https://api.obi.com/",
+          "reported_content_url": "https://api.obi.com/"
+        },
+        {
+          "title": "Titel",
+          "url": "https://mediabox.obi.com/docs/Benutzerhandbuch.pdf",
+          "reported_content_url": "https://mediabox.obi.com/docs/Benutzerhandbuch.pdf"
+        },
+        {
+          "title": "Anypoint Exchange",
+          "url": "https://api.obi.com/?view=list",
+          "reported_content_url": "https://api.obi.com/?view=list"
+        }
+      ]
+    },
+    {
+      "batch": "ml_more_3",
+      "queries": [
+        "site:trivago.com company country websites .ro .cz .fi trivago official",
+        "site:tripadvisor.com \"Tripadvisor Sites\" \"Polska\" \"Česká\"",
+        "site:idealo.com international markets idealo.at idealo.es idealo.fr official",
+        "site:about.autoscout24.com AutoScout24 European markets country sites"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "trivago Fast Connect",
+          "url": "https://developer.trivago.com/fastconnect/supported-locales.html",
+          "reported_content_url": "https://developer.trivago.com/fastconnect/supported-locales.html"
+        },
+        {
+          "title": "Which trivago platform should I use? – trivago Help Center",
+          "url": "https://support.trivago.com/hc/en-us/articles/14673960892562-Which-trivago-platform-should-I-use",
+          "reported_content_url": "https://support.trivago.com/hc/en-us/articles/14673960892562-Which-trivago-platform-should-I-use"
+        },
+        {
+          "title": "idealo Listing Costs & Conditions | CPC Pricing",
+          "url": "https://solutions.idealo.com/idealo-listing/costs-conditions",
+          "reported_content_url": "https://solutions.idealo.com/idealo-listing/costs-conditions"
+        },
+        {
+          "title": "Legal Notice - idealo career",
+          "url": "https://jobs.idealo.com/l/en/impressum",
+          "reported_content_url": "https://jobs.idealo.com/l/en/impressum"
+        },
+        {
+          "title": "idealo Complaint Procedure",
+          "url": "https://partner.idealo.com/partner-idealo-com/uk/gtc/idealo-guidelines/rules-of-procedure-internal-complaint-handling-system",
+          "reported_content_url": "https://partner.idealo.com/partner-idealo-com/uk/gtc/idealo-guidelines/rules-of-procedure-internal-complaint-handling-system"
+        },
+        {
+          "title": "Sistema interno de gestión de reclamaciones",
+          "url": "https://solutions.idealo.com/es/idealo-guidelines/internal-complaint-handling-system",
+          "reported_content_url": "https://solutions.idealo.com/es/idealo-guidelines/internal-complaint-handling-system"
+        },
+        {
+          "title": "trivago.com - Terms of Use",
+          "url": "https://www.trivago.com/en-US/st/termeni-c8-99i-condi-c8-9bii",
+          "reported_content_url": "https://www.trivago.com/en-US/st/termeni-c8-99i-condi-c8-9bii"
+        },
+        {
+          "title": "trivago Business Studio",
+          "url": "https://studio.trivago.com/home/tc/TermsAndConditions_en-US.pdf",
+          "reported_content_url": "https://studio.trivago.com/home/tc/TermsAndConditions_en-US.pdf"
+        },
+        {
+          "title": "Precios",
+          "url": "https://partner.idealo.com/partner-idealo-com/es/precios",
+          "reported_content_url": "https://partner.idealo.com/partner-idealo-com/es/precios"
+        },
+        {
+          "title": "Condiciones Generales de Contratación",
+          "url": "https://partner.idealo.com/dam/jcr%3Aab94d457-cd96-40d1-a73d-20f8f32de1e2/Condiciones%20generales%20idealo.pdf",
+          "reported_content_url": "https://partner.idealo.com/dam/jcr%3Aab94d457-cd96-40d1-a73d-20f8f32de1e2/Condiciones%20generales%20idealo.pdf"
+        },
+        {
+          "title": "Costes y condiciones de idealo Listing | Precios CPC",
+          "url": "https://solutions.idealo.com/es/idealo-listing/costs-conditions?camp=DB-Online-Mobile-GoogleAdwords",
+          "reported_content_url": "https://solutions.idealo.com/es/idealo-listing/costs-conditions?camp=DB-Online-Mobile-GoogleAdwords"
+        },
+        {
+          "title": "Politique de confidentialité | idealo Solutions",
+          "url": "https://solutions.idealo.com/fr/privacy-policy",
+          "reported_content_url": "https://solutions.idealo.com/fr/privacy-policy"
+        },
+        {
+          "title": "trivago.com - Compare hotel prices worldwide",
+          "url": "https://www.trivago.com/?msockid=204e02ba0ab26ab63530147e0b1c6b95",
+          "reported_content_url": "https://www.trivago.com/?msockid=204e02ba0ab26ab63530147e0b1c6b95"
+        },
+        {
+          "title": "How trivago Works – trivago Help Center",
+          "url": "https://support.trivago.com/hc/en-us/sections/360000014707-How-trivago-Works",
+          "reported_content_url": "https://support.trivago.com/hc/en-us/sections/360000014707-How-trivago-Works"
+        },
+        {
+          "title": "Form 20-F for Trivago NV filed 02/26/2026",
+          "url": "https://ir.trivago.com/static-files/1a339ff7-b690-4b1f-a1da-ec634513689f",
+          "reported_content_url": "https://ir.trivago.com/static-files/1a339ff7-b690-4b1f-a1da-ec634513689f"
+        },
+        {
+          "title": "Annual report of trivago N.V.",
+          "url": "https://ir.trivago.com/static-files/a237fd8e-baad-4b2b-bcab-ad998505866c",
+          "reported_content_url": "https://ir.trivago.com/static-files/a237fd8e-baad-4b2b-bcab-ad998505866c"
+        }
+      ]
+    },
+    {
+      "batch": "ml_more_4",
+      "queries": [
+        "Picodi case study 23 countries domain migration 2016 goralewicz picodi.com how moving ccTLDs impacts seo",
+        "SISTRIX visibility Zalando case study country consolidation zalando.com redirects ccTLD zalando.ro 2025 2026",
+        "site:sistrix.com international ecommerce SEO Notino Heureka Kaufland Hornbach analysis original",
+        "international SEO ccTLD named case study Shop Apotheke Zooplus Conrad RS Online country sites"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "From ccTLDs to one gTLD: case study and guide | searchVIU",
+          "url": "https://www.searchviu.com/en/guides/cctld-to-gtld/",
+          "reported_content_url": "https://www.searchviu.com/en/guides/cctld-to-gtld/"
+        },
+        {
+          "title": "One global domain vs. multiple TLDs for an international brand? 841 percent visibility boost - case study.",
+          "url": "https://en.ryte.com/magazine/one-global-domain-vs-multiple-tlds-for-an-international-brand-841-visibility-boost-case-study/",
+          "reported_content_url": "https://en.ryte.com/magazine/one-global-domain-vs-multiple-tlds-for-an-international-brand-841-visibility-boost-case-study/"
+        },
+        {
+          "title": "ccTLD to .com Migration: 51.7% Lost 30%+ of Local Traffic",
+          "url": "https://www.pagespeedmatters.com/resources/data-studies/cctld-to-com-migration",
+          "reported_content_url": "https://www.pagespeedmatters.com/resources/data-studies/cctld-to-com-migration"
+        },
+        {
+          "title": "Case Study: 841% wzrostu! Międzynarodowe SEO dla wielu domen",
+          "url": "https://sprawnymarketing.pl/blog/miedzynarodowe-seo/",
+          "reported_content_url": "https://sprawnymarketing.pl/blog/miedzynarodowe-seo/"
+        },
+        {
+          "title": "International SEO for Publishers Below Guardian Scale",
+          "url": "https://cyberlab.team/blog/international-seo-for-publishers/",
+          "reported_content_url": "https://cyberlab.team/blog/international-seo-for-publishers/"
+        },
+        {
+          "title": "How to use Country Visibility Data in the SISTRIX Toolbox - SISTRIX",
+          "url": "https://www.sistrix.com/tutorials/countries-performance/",
+          "reported_content_url": "https://www.sistrix.com/tutorials/countries-performance/"
+        },
+        {
+          "title": "841 Prozent mehr Sichtbarkeit: Fallstudie zeigt Best Practice für internationales SEO",
+          "url": "https://t3n.de/news/internationales-seo-fallstudie-735392/",
+          "reported_content_url": "https://t3n.de/news/internationales-seo-fallstudie-735392/"
+        },
+        {
+          "title": "International SEO launch across 9 markets — Case Study · GlobalAnnotate",
+          "url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets",
+          "reported_content_url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets"
+        },
+        {
+          "title": "Implement International SEO - SISTRIX",
+          "url": "https://www.sistrix.com/tutorials/seo-strategy/international-seo",
+          "reported_content_url": "https://www.sistrix.com/tutorials/seo-strategy/international-seo"
+        },
+        {
+          "title": "Multi-Domain Strategies for Global Brands: Country TLDs, Redirects, and Consistency - Cloud Storage & Cybersecurity Solutions for Businesses",
+          "url": "https://ppl.ug/multi-domain-strategies-for-global-brands-country-tlds-redirects-and-consistency/",
+          "reported_content_url": "https://ppl.ug/multi-domain-strategies-for-global-brands-country-tlds-redirects-and-consistency/"
+        },
+        {
+          "title": "SISTRIX Domain API: domain.visibilityindex.overview - SISTRIX",
+          "url": "https://www.sistrix.com/api/domain/domain-visibilityindex-overview/",
+          "reported_content_url": "https://www.sistrix.com/api/domain/domain-visibilityindex-overview/"
+        },
+        {
+          "title": "The Global Ecommerce Playbook",
+          "url": "https://global.vic.gov.au/__data/assets/pdf_file/0009/2057805/global-ecommerce-guide.pdf",
+          "reported_content_url": "https://global.vic.gov.au/__data/assets/pdf_file/0009/2057805/global-ecommerce-guide.pdf"
+        },
+        {
+          "title": "The hreflang-guide to international SEO - SISTRIX",
+          "url": "https://www.sistrix.com/hreflang-guide/",
+          "reported_content_url": "https://www.sistrix.com/hreflang-guide/"
+        },
+        {
+          "title": "SEO-Analysen mit dem SISTRIX Sichtbarkeitsindex - besser.pdf",
+          "url": "https://www.sistrix.de/wp-content/uploads/sites/20/2019/01/SEO-Analysen-mit-dem-SISTRIX-Sichtbarkeitsindex.pdf",
+          "reported_content_url": "https://www.sistrix.de/wp-content/uploads/sites/20/2019/01/SEO-Analysen-mit-dem-SISTRIX-Sichtbarkeitsindex.pdf"
+        },
+        {
+          "title": "Alpha Digital - International SEO for ecomm - 20180809.2",
+          "url": "https://wordpress.alphadigital.com.au/wp-content/uploads/2018/09/Alpha-Digital-International-SEO-for-ecommerce.1.pdf",
+          "reported_content_url": "https://wordpress.alphadigital.com.au/wp-content/uploads/2018/09/Alpha-Digital-International-SEO-for-ecommerce.1.pdf"
+        },
+        {
+          "title": "Microsoft Word - Thesis_Internationales-SEO.docx",
+          "url": "https://galsterer.me/wp-content/uploads/Thesis_Internationales-SEO.pdf",
+          "reported_content_url": "https://galsterer.me/wp-content/uploads/Thesis_Internationales-SEO.pdf"
+        },
+        {
+          "title": "3.4.1 **Website address confusion**",
+          "url": "https://www.beuc.eu/sites/default/files/publications/beuc-x-2017-122_the_challenge_of_protecting_eu_consumers_in_global_online_markets.pdf",
+          "reported_content_url": "https://www.beuc.eu/sites/default/files/publications/beuc-x-2017-122_the_challenge_of_protecting_eu_consumers_in_global_online_markets.pdf"
+        },
+        {
+          "title": "How to Get Your Website to the Top of Goo",
+          "url": "https://multilingual.com/wp-content/uploads/2022/04/202_April.pdf",
+          "reported_content_url": "https://multilingual.com/wp-content/uploads/2022/04/202_April.pdf"
+        },
+        {
+          "title": "Building brand credibility and community through country code top level domains",
+          "url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains",
+          "reported_content_url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains"
+        }
+      ]
+    },
+    {
+      "batch": "ml_cases_0",
+      "queries": [],
+      "requested_urls": [
+        "https://www.primelis.com/case-studies/manutan-casestudy/",
+        "https://www.verbolia.com/case-studies/wurth-france/",
+        "https://www.verbolia.com/case-studies/wurth/",
+        "https://www.seoworks.co.uk/case-studies/international-seo/"
+      ],
+      "sources": [
+        {
+          "title": "Building A Scalable Organic Strategy Across 23 Markets – Primelis",
+          "url": "https://www.primelis.com/case-studies/manutan-casestudy/",
+          "reported_content_url": "https://www.primelis.com/case-studies/manutan-casestudy/"
+        },
+        {
+          "title": "Würth: Long-Tail SEO with 100K+ Item Catalog | Case Study",
+          "url": "https://www.verbolia.com/case-studies/wurth-france/",
+          "reported_content_url": "https://www.verbolia.com/case-studies/wurth-france/"
+        },
+        {
+          "title": "Würth - Verbolia",
+          "url": "https://www.verbolia.com/case-studies/wurth/",
+          "reported_content_url": "https://www.verbolia.com/case-studies/wurth/"
+        },
+        {
+          "title": "International SEO Case Study | Barber DTS | The SEO Works",
+          "url": "https://www.seoworks.co.uk/case-studies/international-seo/",
+          "reported_content_url": "https://www.seoworks.co.uk/case-studies/international-seo/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_cases_1",
+      "queries": [],
+      "requested_urls": [
+        "https://seothatworks.co.uk/case-studies/fixing-a-broken-migration-across-24-country-domains/",
+        "https://www.searchviu.com/en/cctlds-to-gtld/",
+        "https://www.equimedia.co.uk/our-work/migration-24-country-domains-single-pan-european-multi-lingual-site-success",
+        "https://thedevelopment.com.au/case-study/ezydogeu"
+      ],
+      "sources": [
+        {
+          "title": "Fixing a broken migration across 24 country domains - Search That Works",
+          "url": "https://seothatworks.co.uk/case-studies/fixing-a-broken-migration-across-24-country-domains/",
+          "reported_content_url": "https://seothatworks.co.uk/case-studies/fixing-a-broken-migration-across-24-country-domains/"
+        },
+        {
+          "title": "From ccTLDs to one gTLD: case study and guide | searchVIU",
+          "url": "https://www.searchviu.com/en/cctlds-to-gtld/",
+          "reported_content_url": "https://www.searchviu.com/en/guides/cctld-to-gtld/"
+        },
+        {
+          "title": "Successful Migration of 24 Country Sites | equimedia",
+          "url": "https://www.equimedia.co.uk/our-work/migration-24-country-domains-single-pan-european-multi-lingual-site-success",
+          "reported_content_url": "https://www.equimedia.co.uk/our-work/migration-24-country-domains-single-pan-european-multi-lingual-site-success"
+        },
+        {
+          "title": "How We Consolidated EzyDog Europe",
+          "url": "https://thedevelopment.com.au/case-study/ezydogeu",
+          "reported_content_url": "https://thedevelopment.com.au/case-study/ezydogeu"
+        }
+      ]
+    },
+    {
+      "batch": "ml_cases_2",
+      "queries": [],
+      "requested_urls": [
+        "https://www.gointrepid.com/case-studies/skyscanner/",
+        "https://www.searchpilot.com/skyscanner_success_story_download",
+        "https://www.sistrix.com/blog/how-hometogo-aligned-with-seo-to-create-visibility/",
+        "https://searchengineland.com/how-one-in-house-seo-team-is-taking-on-industry-incumbents-320644"
+      ],
+      "sources": [
+        {
+          "title": "Skyscanner Case Study | Intrepid Digital",
+          "url": "https://www.gointrepid.com/case-studies/skyscanner/",
+          "reported_content_url": "https://www.gointrepid.com/case-studies/skyscanner/"
+        },
+        {
+          "title": "How Skyscanner outpaced the industry by growing +27% vs pre-COVID levels",
+          "url": "https://www.searchpilot.com/skyscanner_success_story_download",
+          "reported_content_url": "https://www.searchpilot.com/skyscanner_success_story_download"
+        },
+        {
+          "title": "How HomeToGo aligned with SEO to create visibility - SISTRIX",
+          "url": "https://www.sistrix.com/blog/how-hometogo-aligned-with-seo-to-create-visibility/",
+          "reported_content_url": "https://www.sistrix.com/blog/how-hometogo-aligned-with-seo-to-create-visibility/"
+        },
+        {
+          "title": "How one in-house SEO team is taking on industry incumbents",
+          "url": "https://searchengineland.com/how-one-in-house-seo-team-is-taking-on-industry-incumbents-320644",
+          "reported_content_url": "https://searchengineland.com/how-one-in-house-seo-team-is-taking-on-industry-incumbents-320644"
+        }
+      ]
+    },
+    {
+      "batch": "ml_cases_3",
+      "queries": [],
+      "requested_urls": [
+        "https://www.semrush.com/company/stories/autoscout24/",
+        "https://www.dahseo.com/en/case-studies/europcar/",
+        "https://www.sistrix.com/tutorials/seo-strategy/international-seo",
+        "https://riseatseven.com/work/sixt/"
+      ],
+      "sources": [
+        {
+          "title": "Semrush & AutoScout24 SEO case study",
+          "url": "https://www.semrush.com/company/stories/autoscout24/",
+          "reported_content_url": "https://www.semrush.com/company/stories/autoscout24/"
+        },
+        {
+          "title": "Europcar: Case study SEO - Dahseo",
+          "url": "https://www.dahseo.com/en/case-studies/europcar/",
+          "reported_content_url": "https://www.dahseo.com/en/case-studies/europcar/"
+        },
+        {
+          "title": "Implement International SEO - SISTRIX",
+          "url": "https://www.sistrix.com/tutorials/seo-strategy/international-seo",
+          "reported_content_url": "https://www.sistrix.com/tutorials/seo-strategy/international-seo"
+        },
+        {
+          "title": "SIXT | Rise at Seven",
+          "url": "https://riseatseven.com/work/sixt/",
+          "reported_content_url": "https://riseatseven.com/work/sixt/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_cases_4",
+      "queries": [],
+      "requested_urls": [
+        "https://folloagency.com/our-work/cases/decathlon-grows-scalable-flp-approach",
+        "https://seotesting.com/customers/decathlon/",
+        "https://netpeak.us/cases/decathlon-seo-organic-traffic-growth/",
+        "https://improove.net/en/case-studies/international-seo-expansion-for-airbnb/"
+      ],
+      "sources": [
+        {
+          "title": "Decathlon grows with a scalable FLP approach | Follo Agency",
+          "url": "https://folloagency.com/our-work/cases/decathlon-grows-scalable-flp-approach",
+          "reported_content_url": "https://folloagency.com/our-work/cases/decathlon-grows-scalable-flp-approach"
+        },
+        {
+          "title": "How Decathlon Increased Non-Brand Traffic 62% with SEOTesting",
+          "url": "https://seotesting.com/customers/decathlon/",
+          "reported_content_url": "https://seotesting.com/customers/decathlon/"
+        },
+        {
+          "title": "Decathlon SEO Case Study ▷ +197% Organic Traffic Growth | Netpeak US",
+          "url": "https://netpeak.us/cases/decathlon-seo-organic-traffic-growth/",
+          "reported_content_url": "https://netpeak.us/cases/decathlon-seo-organic-traffic-growth/"
+        },
+        {
+          "title": "International SEO Expansion for Airbnb | Improove",
+          "url": "https://improove.net/en/case-studies/international-seo-expansion-for-airbnb/",
+          "reported_content_url": "https://improove.net/en/case-studies/international-seo-expansion-for-airbnb/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_cases_5",
+      "queries": [],
+      "requested_urls": [
+        "https://delante.co/clients/international-seo-link-building-vidaxl-case-study/",
+        "https://linki.cz/allegro-czc-migrace-seo/",
+        "https://www.convertix.net/case-studies/polo-club/",
+        "https://www.sistrix.com/blog/indexwatch-2023-seo-visibility-losers/"
+      ],
+      "sources": [
+        {
+          "title": "International SEO & Link Building for eCommerce | vidaXL Case Study",
+          "url": "https://delante.co/clients/international-seo-link-building-vidaxl-case-study/",
+          "reported_content_url": "https://delante.co/clients/international-seo-link-building-vidaxl-case-study/"
+        },
+        {
+          "title": "Allegro zabilo CZC. Jaký je SEO pohled na tuto migraci? - Linki",
+          "url": "https://linki.cz/allegro-czc-migrace-seo/",
+          "reported_content_url": "https://linki.cz/allegro-czc-migrace-seo/"
+        },
+        {
+          "title": "Polo Club - International SEO Case Study | Convertix",
+          "url": "https://www.convertix.net/case-studies/polo-club/",
+          "reported_content_url": "https://www.convertix.net/case-studies/polo-club/"
+        },
+        {
+          "title": "IndexWatch 2023: SEO Visibility Losers UK 🇬🇧 - SISTRIX",
+          "url": "https://www.sistrix.com/blog/indexwatch-2023-seo-visibility-losers/",
+          "reported_content_url": "https://www.sistrix.com/blog/indexwatch-2023-seo-visibility-losers/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_primary_0",
+      "queries": [],
+      "requested_urls": [
+        "https://en.ryte.com/magazine/one-global-domain-vs-multiple-tlds-for-an-international-brand-841-visibility-boost-case-study/",
+        "https://www.pagespeedmatters.com/resources/data-studies/cctld-to-com-migration",
+        "https://www.rajapack.co.uk/_cms_000019.html",
+        "https://www.onlineprinters.ie/magazine/15-years-onlineprinters-company-founder-walter-meyer/"
+      ],
+      "sources": [
+        {
+          "title": "One global domain vs. multiple TLDs for an international brand? 841 percent visibility boost - case study.",
+          "url": "https://en.ryte.com/magazine/one-global-domain-vs-multiple-tlds-for-an-international-brand-841-visibility-boost-case-study/",
+          "reported_content_url": "https://en.ryte.com/magazine/one-global-domain-vs-multiple-tlds-for-an-international-brand-841-visibility-boost-case-study/"
+        },
+        {
+          "title": "ccTLD to .com Migration: 51.7% Lost 30%+ of Local Traffic",
+          "url": "https://www.pagespeedmatters.com/resources/data-studies/cctld-to-com-migration",
+          "reported_content_url": "https://www.pagespeedmatters.com/resources/data-studies/cctld-to-com-migration"
+        },
+        {
+          "title": "The Raja Group | European Presence | RAJAPACK UK",
+          "url": "https://www.rajapack.co.uk/_cms_000019.html",
+          "reported_content_url": "https://www.rajapack.co.uk/_cms_000019.html"
+        },
+        {
+          "title": "15-year-anniversary: Interview with Onlineprinters-founder Walter Meyer",
+          "url": "https://www.onlineprinters.ie/magazine/15-years-onlineprinters-company-founder-walter-meyer/",
+          "reported_content_url": "https://www.onlineprinters.ie/magazine/15-years-onlineprinters-company-founder-walter-meyer/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_primary_1",
+      "queries": [],
+      "requested_urls": [
+        "https://ir.hometogo.de/de/news/hometogo-expands-its-global-offer-for-travelers-with-the-announcement-of-five-new-market-domains/1340ad65-19d6-45bd-a54d-f21622143778",
+        "https://www.zooplus.com/info/about/our-shops",
+        "https://heureka.group/en/about-us",
+        "https://www.notino.com/about-us/"
+      ],
+      "sources": [
+        {
+          "title": "HomeToGo erweitert sein internationales Angebot für Reisende um fünf neue, lokalisierte Webseiten in Kroatien, Tschechien, Ungarn, Slowenien und Indien",
+          "url": "https://ir.hometogo.de/de/news/hometogo-expands-its-global-offer-for-travelers-with-the-announcement-of-five-new-market-domains/1340ad65-19d6-45bd-a54d-f21622143778",
+          "reported_content_url": "https://ir.hometogo.de/de/news/hometogo-expands-its-global-offer-for-travelers-with-the-announcement-of-five-new-market-domains/1340ad65-19d6-45bd-a54d-f21622143778"
+        },
+        {
+          "title": "Our International Shops | Visit your zooplus shop now!",
+          "url": "https://www.zooplus.com/info/about/our-shops",
+          "reported_content_url": "https://www.zooplus.com/info/about/our-shops"
+        },
+        {
+          "title": "About us - Heureka Group",
+          "url": "https://heureka.group/en/about-us",
+          "reported_content_url": "https://heureka.group/en/about-us"
+        },
+        {
+          "title": "About Notino",
+          "url": "https://www.notino.com/about-us/",
+          "reported_content_url": "https://www.notino.com/about-us/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_primary_2",
+      "queries": [],
+      "requested_urls": [
+        "https://about.allegro.eu/who-we-are/",
+        "https://www.kaufland.de/i/marktplatz-aus-europa/expansion/~7y6vpukvVqNjIkWTbnBm5T/",
+        "https://partner.zalando.com/university/article/zalando-partner-program-markets",
+        "https://agence-wam.fr/blog/etude-de-cas-lidl-seo/"
+      ],
+      "sources": [
+        {
+          "title": "Who we are - Allegro",
+          "url": "https://about.allegro.eu/who-we-are/",
+          "reported_content_url": "https://about.allegro.eu/who-we-are/"
+        },
+        {
+          "title": "Meilensteine auf dem Weg zum europäischen Marktplatz",
+          "url": "https://www.kaufland.de/i/marktplatz-aus-europa/expansion/~7y6vpukvVqNjIkWTbnBm5T/",
+          "reported_content_url": "https://www.kaufland.de/i/marktplatz-aus-europa/expansion/~7y6vpukvVqNjIkWTbnBm5T/"
+        },
+        {
+          "title": "Zalando Partner | Home",
+          "url": "https://partner.zalando.com/university/article/zalando-partner-program-markets",
+          "reported_content_url": "https://partner.zalando.com/university/article/zalando-partner-program-markets"
+        },
+        {
+          "title": "Étude de cas SEO Lidl : bilan 1 an après le lancement e-commerce | L'Agence WAM",
+          "url": "https://agence-wam.fr/blog/etude-de-cas-lidl-seo/",
+          "reported_content_url": "https://agence-wam.fr/blog/etude-de-cas-lidl-seo/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_primary_3",
+      "queries": [],
+      "requested_urls": [
+        "https://www.primelis.com/case-studies/manutan-casestudy/",
+        "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites",
+        "https://developers.google.com/search/docs/specialty/international/localized-versions",
+        "https://www.verbolia.com/case-studies/decathlon/"
+      ],
+      "sources": [
+        {
+          "title": "Managing Multi-Regional and Multilingual Sites | Google Search Central  |  Documentation  |  Google for Developers",
+          "url": "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites",
+          "reported_content_url": "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites"
+        },
+        {
+          "title": "Localized Versions of your Pages | Google Search Central  |  Documentation  |  Google for Developers",
+          "url": "https://developers.google.com/search/docs/specialty/international/localized-versions",
+          "reported_content_url": "https://developers.google.com/search/docs/specialty/international/localized-versions"
+        },
+        {
+          "title": "Decathlon: SEO with Verbolia | Programmatic SEO Case Study",
+          "url": "https://www.verbolia.com/case-studies/decathlon/",
+          "reported_content_url": "https://www.verbolia.com/case-studies/decathlon/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_0",
+      "queries": [],
+      "requested_urls": [
+        "https://www.skyscanner.pl/",
+        "https://www.skyscanner.fi/",
+        "https://www.skyscanner.ro/",
+        "https://www.skyscanner.co.kr/"
+      ],
+      "sources": [
+        {
+          "title": "Tanie loty: porównaj i zarezerwuj bilety lotnicze | Skyscanner",
+          "url": "https://www.skyscanner.pl/",
+          "reported_content_url": "https://www.skyscanner.pl/"
+        },
+        {
+          "title": "Halvat lennot ja lentoliput kaikkialle | Skyscanner",
+          "url": "https://www.skyscanner.fi/",
+          "reported_content_url": "https://www.skyscanner.fi/"
+        },
+        {
+          "title": "Compară zboruri ieftine și rezervă bilete de avion | Skyscanner",
+          "url": "https://www.skyscanner.ro/",
+          "reported_content_url": "https://www.skyscanner.ro/"
+        },
+        {
+          "title": "항공권 비교 및 예약 | 스카이스캐너",
+          "url": "https://www.skyscanner.co.kr/",
+          "reported_content_url": "https://www.skyscanner.co.kr/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_1",
+      "queries": [],
+      "requested_urls": [
+        "https://www.decathlon.cz/",
+        "https://www.decathlon.ro/",
+        "https://www.decathlon.hr/",
+        "https://www.decathlon.nl/"
+      ],
+      "sources": [
+        {
+          "title": "Decathlon | Boty, oblečení a vybavení na sport",
+          "url": "https://www.decathlon.cz/",
+          "reported_content_url": "https://www.decathlon.cz/"
+        },
+        {
+          "title": "Decathlon | Magazinul tău de echipamente și articole sportive",
+          "url": "https://www.decathlon.ro/",
+          "reported_content_url": "https://www.decathlon.ro/"
+        },
+        {
+          "title": "Decathlon | Sportska obuća, sportska odjeća i sportska oprema",
+          "url": "https://www.decathlon.hr/",
+          "reported_content_url": "https://www.decathlon.hr/"
+        },
+        {
+          "title": "Decathlon | Sportschoenen, Sportuitrusting & Sportartikelen",
+          "url": "https://www.decathlon.nl/",
+          "reported_content_url": "https://www.decathlon.nl/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_2",
+      "queries": [],
+      "requested_urls": [
+        "https://www.notino.lt/",
+        "https://www.notino.lv/",
+        "https://www.notino.ee/",
+        "https://www.notino.bg/"
+      ],
+      "sources": [
+        {
+          "title": "Kvepalai ir kosmetika internetu | Parfumerija Notino",
+          "url": "https://www.notino.lt/",
+          "reported_content_url": "https://www.notino.lt/"
+        },
+        {
+          "title": "Parfimērija tiešsaistē | Kosmētika tiešsaistē | Parfimērija Notino",
+          "url": "https://www.notino.lv/",
+          "reported_content_url": "https://www.notino.lv/"
+        },
+        {
+          "title": "Parfüümide ja kosmeetika e-pood | Parfümeeria Notino",
+          "url": "https://www.notino.ee/",
+          "reported_content_url": "https://www.notino.ee/"
+        },
+        {
+          "title": "Козметика и парфюми онлайн | Парфюмерия notino.bg",
+          "url": "https://www.notino.bg/",
+          "reported_content_url": "https://www.notino.bg/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_3",
+      "queries": [],
+      "requested_urls": [
+        "https://www.zalando.cz/",
+        "https://www.zalando.ro/",
+        "https://www.zalando.lt/",
+        "https://zalando.com/ro/"
+      ],
+      "sources": [
+        {
+          "title": "Nakupujte boty, módu a doplňky online | Rychlé dodání od Zalando",
+          "url": "https://www.zalando.cz/",
+          "reported_content_url": "https://www.zalando.cz/"
+        },
+        {
+          "title": "Descoperă cele mai noi tendințe în modă | ZALANDO",
+          "url": "https://www.zalando.ro/",
+          "reported_content_url": "https://www.zalando.ro/"
+        },
+        {
+          "title": "Atraskite madą internetu | ZALANDO",
+          "url": "https://www.zalando.lt/",
+          "reported_content_url": "https://www.zalando.lt/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_4",
+      "queries": [],
+      "requested_urls": [
+        "https://allegro.cz/",
+        "https://allegro.sk/",
+        "https://allegro.hu/",
+        "https://allegro.pl/"
+      ],
+      "sources": [
+        {
+          "title": "Allegro – Super ceny – Hlavní stránka",
+          "url": "https://allegro.cz/",
+          "reported_content_url": "https://allegro.cz/"
+        },
+        {
+          "title": "Allegro – skvelé ceny – Hlavná stránka",
+          "url": "https://allegro.sk/",
+          "reported_content_url": "https://allegro.sk/"
+        },
+        {
+          "title": "Allegro - Remek árak - Kezdőlap",
+          "url": "https://allegro.hu/",
+          "reported_content_url": "https://allegro.hu/"
+        },
+        {
+          "title": "Allegro - atrakcyjne ceny - Strona Główna",
+          "url": "https://allegro.pl/",
+          "reported_content_url": "https://allegro.pl/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_5",
+      "queries": [],
+      "requested_urls": [
+        "https://www.kaufland.cz/",
+        "https://www.kaufland.sk/",
+        "https://www.kaufland.pl/",
+        "https://www.kaufland.at/"
+      ],
+      "sources": [
+        {
+          "title": "Kaufland.cz – Objevte naši nabídku a nakupujte za nízké ceny",
+          "url": "https://www.kaufland.cz/",
+          "reported_content_url": "https://www.kaufland.cz/"
+        },
+        {
+          "title": "Kaufland.sk — Objavte našu ponuku a nakupujte za nízke ceny",
+          "url": "https://www.kaufland.sk/",
+          "reported_content_url": "https://www.kaufland.sk/"
+        },
+        {
+          "title": "Kaufland.pl — Sprawdź ofertę i kupuj taniej",
+          "url": "https://www.kaufland.pl/",
+          "reported_content_url": "https://www.kaufland.pl/"
+        },
+        {
+          "title": "Kaufland.at — Angebote entdecken & günstig einkaufen",
+          "url": "https://www.kaufland.at/",
+          "reported_content_url": "https://www.kaufland.at/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_6",
+      "queries": [],
+      "requested_urls": [
+        "https://www.rajapack.cz/",
+        "https://www.rajapack.sk/",
+        "https://www.rajapack.pl/",
+        "https://www.rajapack.de/"
+      ],
+      "sources": [
+        {
+          "title": "Specialista na obalové materiály a obaly | RAJA",
+          "url": "https://www.rajapack.cz/",
+          "reported_content_url": "https://www.rajapack.cz/"
+        },
+        {
+          "title": "Špecialista na obalové materiály a obaly | RAJA",
+          "url": "https://www.rajapack.sk/",
+          "reported_content_url": "https://www.rajapack.sk/"
+        },
+        {
+          "title": "RAJA | Ekspert ds. pakowania",
+          "url": "https://www.rajapack.pl/",
+          "reported_content_url": "https://www.rajapack.pl/"
+        },
+        {
+          "title": "RAJA: Verpackung & Verpackungsmaterial von Europas Nr.1",
+          "url": "https://www.rajapack.de/",
+          "reported_content_url": "https://www.rajapack.de/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_7",
+      "queries": [],
+      "requested_urls": [
+        "https://www.hornbach.cz/",
+        "https://www.hornbach.sk/",
+        "https://www.hornbach.ro/",
+        "https://www.hornbach.se/"
+      ],
+      "sources": [
+        {
+          "title": "HORNBACH | hobby e-shop č. 1 pro váš projekt",
+          "url": "https://www.hornbach.cz/",
+          "reported_content_url": "https://www.hornbach.cz/"
+        },
+        {
+          "title": "HORNBACH | hobby e-shop č. 1 pre váš projekt",
+          "url": "https://www.hornbach.sk/",
+          "reported_content_url": "https://www.hornbach.sk/"
+        },
+        {
+          "title": "HORNBACH – Magazin bricolaj pentru casă și grădină",
+          "url": "https://www.hornbach.ro/",
+          "reported_content_url": "https://www.hornbach.ro/"
+        },
+        {
+          "title": "HORNBACH - Byggvaruhuset för dina byggprojekt och trädgårdsprojekt",
+          "url": "https://www.hornbach.se/",
+          "reported_content_url": "https://www.hornbach.se/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_8",
+      "queries": [],
+      "requested_urls": [
+        "https://www.obi.cz/",
+        "https://www.obi.sk/",
+        "https://www.obi.hu/",
+        "https://www.obi.pl/"
+      ],
+      "sources": [
+        {
+          "title": "OBI Česká republika",
+          "url": "https://www.obi.cz/",
+          "reported_content_url": "https://www.obi.cz/"
+        },
+        {
+          "title": "OBI Slovensko",
+          "url": "https://www.obi.sk/",
+          "reported_content_url": "https://www.obi.sk/"
+        },
+        {
+          "title": "OBI barkács- és webáruház – Ami az otthonába és a kertbe kell",
+          "url": "https://www.obi.hu/",
+          "reported_content_url": "https://www.obi.hu/"
+        },
+        {
+          "title": "Market budowlany i ogrodniczy OBI - akcesoria budowlane",
+          "url": "https://www.obi.pl/",
+          "reported_content_url": "https://www.obi.pl/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_9",
+      "queries": [],
+      "requested_urls": [
+        "https://www.sixt.hu/",
+        "https://www.sixt.pl/",
+        "https://www.sixt.ro/",
+        "https://www.sixt.fr/"
+      ],
+      "sources": [
+        {
+          "title": "Autókölcsönzés, autóbérlés, tartós bérlet | SIXT",
+          "url": "https://www.sixt.hu/",
+          "reported_content_url": "https://www.sixt.hu/"
+        },
+        {
+          "title": "Wypożyczalnia samochodów",
+          "url": "https://www.sixt.pl/",
+          "reported_content_url": "https://www.sixt.pl/"
+        },
+        {
+          "title": "SIXT rent a car Romania | Inchirieri auto in Bucuresti si in toata tara",
+          "url": "https://www.sixt.ro/",
+          "reported_content_url": "https://www.sixt.ro/"
+        },
+        {
+          "title": "SIXT Location de Voiture | Pour tous vos déplacements",
+          "url": "https://www.sixt.fr/",
+          "reported_content_url": "https://www.sixt.fr/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_10",
+      "queries": [],
+      "requested_urls": [
+        "https://www.trivago.cz/",
+        "https://www.trivago.ro/",
+        "https://www.trivago.fi/",
+        "https://www.tripadvisor.cz/"
+      ],
+      "sources": [
+        {
+          "title": "trivago.cz - Compare hotel prices worldwide",
+          "url": "https://www.trivago.cz/",
+          "reported_content_url": "https://www.trivago.cz/"
+        },
+        {
+          "title": "trivago.ro - Compare hotel prices worldwide",
+          "url": "https://www.trivago.ro/",
+          "reported_content_url": "https://www.trivago.ro/"
+        },
+        {
+          "title": "trivago.fi - Compare hotel prices worldwide",
+          "url": "https://www.trivago.fi/",
+          "reported_content_url": "https://www.trivago.fi/"
+        },
+        {
+          "title": "Tripadvisor: Over a billion reviews & contributions for Hotels, Attractions, Restaurants, and more",
+          "url": "https://www.tripadvisor.cz/",
+          "reported_content_url": "https://www.tripadvisor.com/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_11",
+      "queries": [],
+      "requested_urls": [
+        "https://www.adidas.cz/",
+        "https://www.adidas.sk/",
+        "https://www.adidas.hu/",
+        "https://www.adidas.ro/"
+      ],
+      "sources": [
+        {
+          "title": "Oficiální stránka a e-shop adidas Česká Republika | Sportovní Oblečení",
+          "url": "https://www.adidas.cz/",
+          "reported_content_url": "https://www.adidas.cz/"
+        },
+        {
+          "title": "Oficiálna stránka a e-shop adidas Slovensko",
+          "url": "https://www.adidas.sk/",
+          "reported_content_url": "https://www.adidas.sk/"
+        },
+        {
+          "title": "Az adidas hivatalos honlapja Magyarország | Sportruházat",
+          "url": "https://www.adidas.hu/",
+          "reported_content_url": "https://www.adidas.hu/"
+        },
+        {
+          "title": "Website Oficial adidas România | Echipamente sportive",
+          "url": "https://www.adidas.ro/",
+          "reported_content_url": "https://www.adidas.ro/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_12",
+      "queries": [],
+      "requested_urls": [
+        "https://www.idealo.de/",
+        "https://www.idealo.it/",
+        "https://www.idealo.fr/",
+        "https://www.idealo.es/"
+      ],
+      "sources": [
+        {
+          "title": "idealo – Die Nr. 1 im Preisvergleich",
+          "url": "https://www.idealo.de/",
+          "reported_content_url": "https://www.idealo.de/"
+        },
+        {
+          "title": "idealo – il tuo comparatore prezzi",
+          "url": "https://www.idealo.it/",
+          "reported_content_url": "https://www.idealo.it/"
+        },
+        {
+          "title": "idealo – Votre comparateur de prix",
+          "url": "https://www.idealo.fr/",
+          "reported_content_url": "https://www.idealo.fr/"
+        },
+        {
+          "title": "idealo – tu comparador de precios",
+          "url": "https://www.idealo.es/",
+          "reported_content_url": "https://www.idealo.es/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_extra_0",
+      "queries": [],
+      "requested_urls": [
+        "https://heureka.sk/",
+        "https://www.arukereso.hu/",
+        "https://www.compari.ro/",
+        "https://www.jeftinije.hr/"
+      ],
+      "sources": [
+        {
+          "title": "Heureka.sk — Je to znamenie… Nájsť najlepšiu ponuku",
+          "url": "https://heureka.sk/",
+          "reported_content_url": "https://www.heureka.sk/"
+        },
+        {
+          "title": "Árukereső.hu - Árak és termékek összehasonlítása online boltok teljes kínálatából",
+          "url": "https://www.arukereso.hu/",
+          "reported_content_url": "https://www.arukereso.hu/"
+        },
+        {
+          "title": "Compari.ro - Compararea produselor si preturilor din stocul magazinelor online partenere",
+          "url": "https://www.compari.ro/",
+          "reported_content_url": "https://www.compari.ro/"
+        },
+        {
+          "title": "Jeftinije.hr - To je znak… pronađi najbolju ponudu i uštedi",
+          "url": "https://www.jeftinije.hr/",
+          "reported_content_url": "https://www.jeftinije.hr/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_extra_1",
+      "queries": [],
+      "requested_urls": [
+        "https://www.olx.pl/",
+        "https://www.olx.ro/",
+        "https://www.olx.bg/",
+        "https://www.olx.ua/"
+      ],
+      "sources": [
+        {
+          "title": "Ogłoszenia - Sprzedam, kupię na OLX.pl",
+          "url": "https://www.olx.pl/",
+          "reported_content_url": "https://www.olx.pl/"
+        },
+        {
+          "title": "Anunturi Gratuite - Peste 4 milioane anunturi - OLX.ro",
+          "url": "https://www.olx.ro/",
+          "reported_content_url": "https://www.olx.ro/"
+        },
+        {
+          "title": "OLX.bg - безплатни обяви",
+          "url": "https://www.olx.bg/",
+          "reported_content_url": "https://www.olx.bg/"
+        },
+        {
+          "title": "Сервис объявлений OLX: сайт частных объявлений в Украине - купля/продажа б/у товаров на OLX.ua",
+          "url": "https://www.olx.ua/",
+          "reported_content_url": "https://www.olx.ua/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_extra_2",
+      "queries": [],
+      "requested_urls": [
+        "https://www.tripadvisor.de/",
+        "https://www.tripadvisor.fr/",
+        "https://www.tripadvisor.it/",
+        "https://www.tripadvisor.pl/"
+      ],
+      "sources": [
+        {
+          "title": "Tripadvisor: über eine Milliarde Bewertungen und Beiträge zu Hotels, Sehenswürdigkeiten, Restaurants und mehr",
+          "url": "https://www.tripadvisor.de/",
+          "reported_content_url": "https://www.tripadvisor.de/"
+        },
+        {
+          "title": "Tripadvisor : plus d'un milliard d'avis et de contributions sur les hôtels, les attractions, les restaurants et plus",
+          "url": "https://www.tripadvisor.fr/",
+          "reported_content_url": "https://www.tripadvisor.fr/"
+        },
+        {
+          "title": "Tripadvisor: oltre un miliardo di recensioni e contributi per hotel, attrazioni, ristoranti e non solo",
+          "url": "https://www.tripadvisor.it/",
+          "reported_content_url": "https://www.tripadvisor.it/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_extra_3",
+      "queries": [],
+      "requested_urls": [
+        "https://www.ebay.de/",
+        "https://www.ebay.fr/",
+        "https://www.ebay.it/",
+        "https://www.ebay.pl/"
+      ],
+      "sources": [
+        {
+          "title": "eBay.de | Elektronik, Autos, Mode, Sammlerstücke, Möbel und mehr Online-Shopping",
+          "url": "https://www.ebay.de/",
+          "reported_content_url": "https://www.ebay.de/"
+        },
+        {
+          "title": "eBay : high-tech, maison, jardin, auto-moto et bien plus",
+          "url": "https://www.ebay.fr/",
+          "reported_content_url": "https://www.ebay.fr/"
+        },
+        {
+          "title": "eBay | Il Marketplace delle passioni",
+          "url": "https://www.ebay.it/",
+          "reported_content_url": "https://www.ebay.it/"
+        },
+        {
+          "title": "Elektronika, Odzież, Samochody, Przedmioty kolekcjonerskie i jeszcze więcej | eBay",
+          "url": "https://www.ebay.pl/",
+          "reported_content_url": "https://www.ebay.pl/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_extra_4",
+      "queries": [],
+      "requested_urls": [
+        "https://www.amazon.pl/",
+        "https://www.amazon.se/",
+        "https://www.amazon.com.be/",
+        "https://www.amazon.com.tr/"
+      ],
+      "sources": [
+        {
+          "title": "www.amazon.pl",
+          "url": "https://www.amazon.pl/",
+          "reported_content_url": "https://www.amazon.pl/"
+        },
+        {
+          "title": "www.amazon.se",
+          "url": "https://www.amazon.se/",
+          "reported_content_url": "https://www.amazon.se/"
+        },
+        {
+          "title": "www.amazon.com.be",
+          "url": "https://www.amazon.com.be/",
+          "reported_content_url": "https://www.amazon.com.be/"
+        },
+        {
+          "title": "www.amazon.com.tr",
+          "url": "https://www.amazon.com.tr/",
+          "reported_content_url": "https://www.amazon.com.tr/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_extra_5",
+      "queries": [],
+      "requested_urls": [
+        "https://www.wurth.fr/",
+        "https://eshop.wurth.sk/sk/SK/EUR/",
+        "https://www.wuerth.de/",
+        "https://www.wuerth.it/"
+      ],
+      "sources": [
+        {
+          "title": "Vente Outillage & Matériel pour Professionnels | WURTH",
+          "url": "https://www.wurth.fr/",
+          "reported_content_url": "https://eshop.wurth.fr/"
+        },
+        {
+          "title": "Domovská stránka",
+          "url": "https://eshop.wurth.sk/sk/SK/EUR/",
+          "reported_content_url": "https://eshop.wurth.sk/sk/SK/EUR/"
+        },
+        {
+          "title": "WÜRTH » Ihr Spezialist für Handwerk und Industrie | WÜRTH",
+          "url": "https://www.wuerth.de/",
+          "reported_content_url": "https://www.wuerth.de/"
+        },
+        {
+          "title": "Würth Italia: prodotti e sistemi professionali di fissaggio",
+          "url": "https://www.wuerth.it/",
+          "reported_content_url": "https://eshop.wuerth.it/it/IT/EUR/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_live_extra_6",
+      "queries": [],
+      "requested_urls": [
+        "https://www.olxgroup.com/brands/olx/",
+        "https://developer.trivago.com/fastconnect/supported-locales.html",
+        "https://support.trivago.com/hc/en-us/articles/14673960892562-Which-trivago-platform-should-I-use",
+        "https://affiliate-program.amazon.com/creatorsapi/docs/en-us/locale-reference"
+      ],
+      "sources": [
+        {
+          "title": "OLX - OLX Group",
+          "url": "https://www.olxgroup.com/brands/olx/",
+          "reported_content_url": "https://www.olxgroup.com/brands/olx/"
+        },
+        {
+          "title": "trivago Fast Connect",
+          "url": "https://developer.trivago.com/fastconnect/supported-locales.html",
+          "reported_content_url": "https://developer.trivago.com/fastconnect/supported-locales.html"
+        },
+        {
+          "title": "Which trivago platform should I use? – trivago Help Center",
+          "url": "https://support.trivago.com/hc/en-us/articles/14673960892562-Which-trivago-platform-should-I-use",
+          "reported_content_url": "https://support.trivago.com/hc/en-us/articles/14673960892562-Which-trivago-platform-should-I-use"
+        },
+        {
+          "title": "Amazon.com Associates Central - Creators API Documentation",
+          "url": "https://affiliate-program.amazon.com/creatorsapi/docs/en-us/locale-reference",
+          "reported_content_url": "https://affiliate-program.amazon.com/creatorsapi/docs/en-us/locale-reference"
+        }
+      ]
+    },
+    {
+      "batch": "ml_final_0",
+      "queries": [
+        "Kaspersky international SEO case study localized organic search global country websites SEO",
+        "site:kaspersky.com country websites kaspersky.ru kaspersky.de kaspersky.fr official",
+        "Bitdefender international SEO case study organic search multilingual bitdefender.ro bitdefender.fr",
+        "Search Engine Land European Search Awards Decathlon Follo 2025 winners Decathlon"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "European Search Awards",
+          "url": "https://5693998.fs1.hubspotusercontent-na1.net/hubfs/5693998/We%20Are%20Search/European%20Search/European%20Search%20Awards%202025/ESA25%20Judge%20Comments/European%20Search%20Awards%202025%20Judge%20Comments.pdf",
+          "reported_content_url": "https://5693998.fs1.hubspotusercontent-na1.net/hubfs/5693998/We%20Are%20Search/European%20Search/European%20Search%20Awards%202025/ESA25%20Judge%20Comments/European%20Search%20Awards%202025%20Judge%20Comments.pdf"
+        },
+        {
+          "title": "Follo big winner at European Search Awards | Follo Agency",
+          "url": "https://folloagency.com/insights/news/follo-big-european-winner-european-search-awards-6x-gold-and-3x-silver",
+          "reported_content_url": "https://folloagency.com/insights/news/follo-big-european-winner-european-search-awards-6x-gold-and-3x-silver"
+        },
+        {
+          "title": "Decathlon grows with a scalable FLP approach | Follo Agency",
+          "url": "https://folloagency.com/our-work/cases/decathlon-grows-scalable-flp-approach",
+          "reported_content_url": "https://folloagency.com/our-work/cases/decathlon-grows-scalable-flp-approach"
+        },
+        {
+          "title": "kaspersky.com Website Traffic, Ranking, Analytics [September 2026]",
+          "url": "https://www.semrush.com/website/kaspersky.com/overview/",
+          "reported_content_url": "https://www.semrush.com/website/kaspersky.com/overview/"
+        },
+        {
+          "title": "How Bitdefender Built a 13K-Page Global SEO Campaign",
+          "url": "https://foundationinc.co/lab/bitdefender",
+          "reported_content_url": "https://foundationinc.co/lab/bitdefender"
+        },
+        {
+          "title": "2025 Shortlist - European Search Awards",
+          "url": "https://europeansearchawards.com/2025-shortlist/",
+          "reported_content_url": "https://europeansearchawards.com/2025-shortlist/"
+        },
+        {
+          "title": "Search Engine Land Awards 2025: And the winners are…",
+          "url": "https://searchengineland.com/search-engine-land-award-winners-2025-463795",
+          "reported_content_url": "https://searchengineland.com/search-engine-land-award-winners-2025-463795"
+        },
+        {
+          "title": "🏆 4 Awards... et un gâteau ! 🍰 Très heureux de partager le succès d'un projet mené chez Decathlon Digital, en partenariat avec l'agence Follo - Dare to lead. Ce travail collectif sur… | Guillaume Cochet",
+          "url": "https://fr.linkedin.com/posts/guillaume-cochet-0aba7794_4-awards-et-un-g%C3%A2teau-tr%C3%A8s-heureux-activity-7391061761136795649-1mSd",
+          "reported_content_url": "https://fr.linkedin.com/posts/guillaume-cochet-0aba7794_4-awards-et-un-g%C3%A2teau-tr%C3%A8s-heureux-activity-7391061761136795649-1mSd"
+        },
+        {
+          "title": "Case study: international SEO in logistics | Aurora",
+          "url": "https://www.auroraglobalgroup.com/en/case-studies/international-seo-logistics/",
+          "reported_content_url": "https://www.auroraglobalgroup.com/en/case-studies/international-seo-logistics/"
+        },
+        {
+          "title": "AVAILABILITY OF KASPERSKY SECURITY CLOUD",
+          "url": "https://support.kaspersky.com/Legal/Security-Cloud/en-us/KSCRegions.htm",
+          "reported_content_url": "https://support.kaspersky.com/Legal/Security-Cloud/en-us/KSCRegions.htm"
+        },
+        {
+          "title": "Dodging geopolitical challenges: How Kaspersky Lab increased its SEA, Greater China revenue following issues in Western markets - MARKETECH APAC",
+          "url": "https://marketech-apac.com/dodging-geopolitical-challenges-how-kaspersky-lab-increased-its-sea-greater-china-revenue-following-issues-in-western-markets/",
+          "reported_content_url": "https://marketech-apac.com/dodging-geopolitical-challenges-how-kaspersky-lab-increased-its-sea-greater-china-revenue-following-issues-in-western-markets/"
+        },
+        {
+          "title": "International SEO launch across 9 markets — Case Study · GlobalAnnotate",
+          "url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets",
+          "reported_content_url": "https://globalannotate.com/portfolio/international-seo-launch-9-markets"
+        },
+        {
+          "title": "Story",
+          "url": "https://www.bitdefender.fr/files/News/CaseStudies/study/329/Bitdefender-PR-Whitepaper-Mandrake-creat4464-en-EN-interactive.pdf?srsltid=AfmBOorehT6hxdjZsHzdcXOWiSUlSdDhRVUSijMVyLRV_jWHLDRPS1mr",
+          "reported_content_url": "https://www.bitdefender.fr/files/News/CaseStudies/study/329/Bitdefender-PR-Whitepaper-Mandrake-creat4464-en-EN-interactive.pdf?srsltid=AfmBOorehT6hxdjZsHzdcXOWiSUlSdDhRVUSijMVyLRV_jWHLDRPS1mr"
+        },
+        {
+          "title": "UNIVERSITATIS “PETRU MAIOR”",
+          "url": "https://biblioteca-digitala.ro/reviste/Acta-Marisiensis-Philologia/Studia-Universitatis-Petru-Maior-Philologia_24_2014.pdf",
+          "reported_content_url": "https://biblioteca-digitala.ro/reviste/Acta-Marisiensis-Philologia/Studia-Universitatis-Petru-Maior-Philologia_24_2014.pdf"
+        },
+        {
+          "title": "SEO CASE STUDIES",
+          "url": "https://www.digitalnexa.com/hubfs/SEO%20CASE%20STUDIES.pdf",
+          "reported_content_url": "https://www.digitalnexa.com/hubfs/SEO%20CASE%20STUDIES.pdf"
+        },
+        {
+          "title": "Sponsor profiles",
+          "url": "https://www.bitdefender.com/en-us/partners/subscriber-protection-platform/resources/files/hardenstance-telco-strategies-consumersecurity-2026.pdf",
+          "reported_content_url": "https://www.bitdefender.com/en-us/partners/subscriber-protection-platform/resources/files/hardenstance-telco-strategies-consumersecurity-2026.pdf"
+        },
+        {
+          "title": "# Master international SEO.",
+          "url": "https://www.hubspot.com/hubfs/2024%20Global%20Marketing%20Playbook.pdf?hubs_offer=offers.hubspot.com%2Fglobal-marketing-playbook&hubs_signup-cta=Submit&hubs_signup-url=offers.hubspot.com%2Fglobal-marketing-playbook",
+          "reported_content_url": "https://www.hubspot.com/hubfs/2024%20Global%20Marketing%20Playbook.pdf?hubs_offer=offers.hubspot.com%2Fglobal-marketing-playbook&hubs_signup-cta=Submit&hubs_signup-url=offers.hubspot.com%2Fglobal-marketing-playbook"
+        },
+        {
+          "title": "Building brand credibility and community through country code top level domains",
+          "url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains",
+          "reported_content_url": "https://www.techradar.com/pro/website-hosting/building-brand-credibility-and-community-through-country-code-top-level-domains"
+        },
+        {
+          "title": "'AI-crawled sites generate 320% more human traffic': An interview with Duda's Oded Ouaknine on the future of AEO",
+          "url": "https://www.techradar.com/pro/website-building/ai-crawled-sites-generate-320-percent-more-human-traffic-an-interview-with-dudas-oded-ouaknine-on-the-future-of-aeo",
+          "reported_content_url": "https://www.techradar.com/pro/website-building/ai-crawled-sites-generate-320-percent-more-human-traffic-an-interview-with-dudas-oded-ouaknine-on-the-future-of-aeo"
+        },
+        {
+          "title": "HubSpot increased leads by 1850%, and we asked them how: The AEO playbook",
+          "url": "https://www.techradar.com/pro/hubspot-increased-leads-by-1850-percent-and-we-asked-them-how-the-aeo-playbook",
+          "reported_content_url": "https://www.techradar.com/pro/hubspot-increased-leads-by-1850-percent-and-we-asked-them-how-the-aeo-playbook"
+        },
+        {
+          "title": "Are Google's days numbered? Study finds AI bots are becoming more 'search-like' - and it's affecting how brands are being seen online",
+          "url": "https://www.techradar.com/pro/are-googles-days-numbered-study-finds-ai-bots-are-becoming-more-search-like-and-its-affecting-how-brands-are-being-seen-online",
+          "reported_content_url": "https://www.techradar.com/pro/are-googles-days-numbered-study-finds-ai-bots-are-becoming-more-search-like-and-its-affecting-how-brands-are-being-seen-online"
+        },
+        {
+          "title": "AEO vs SEO: What's the difference & do you need both?",
+          "url": "https://www.techradar.com/pro/aeo-vs-seo-whats-the-difference-and-do-you-need-both",
+          "reported_content_url": "https://www.techradar.com/pro/aeo-vs-seo-whats-the-difference-and-do-you-need-both"
+        },
+        {
+          "title": "Ahrefs SEO platform review",
+          "url": "https://www.techradar.com/reviews/ahrefs",
+          "reported_content_url": "https://www.techradar.com/reviews/ahrefs"
+        }
+      ]
+    },
+    {
+      "batch": "ml_final_1",
+      "queries": [],
+      "requested_urls": [
+        "https://www.kaspersky.ru/",
+        "https://www.kaspersky.de/",
+        "https://www.kaspersky.fr/",
+        "https://www.kaspersky.it/"
+      ],
+      "sources": [
+        {
+          "title": "Защитные решения кибербезопасности для дома и бизнеса | Лаборатория Касперского",
+          "url": "https://www.kaspersky.ru/",
+          "reported_content_url": "https://www.kaspersky.ru/"
+        },
+        {
+          "title": "Kaspersky Cybersecurity-Lösungen für Privatanwender und Unternehmen | Kaspersky",
+          "url": "https://www.kaspersky.de/",
+          "reported_content_url": "https://www.kaspersky.de/"
+        },
+        {
+          "title": "Solutions de cybersécurité Kaspersky pour particuliers et entreprises | Kaspersky",
+          "url": "https://www.kaspersky.fr/",
+          "reported_content_url": "https://www.kaspersky.fr/"
+        },
+        {
+          "title": "Soluzioni di cybersecurity Kaspersky per utenti privati e aziende | Kaspersky",
+          "url": "https://www.kaspersky.it/",
+          "reported_content_url": "https://www.kaspersky.it/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_final_2",
+      "queries": [],
+      "requested_urls": [
+        "https://www.jongen.de/Startseite/",
+        "https://www.jongen.it/it/home/",
+        "https://www.jongen.fr/fr/accueil/",
+        "https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/Company-directory/Company-drectory.php"
+      ],
+      "sources": [
+        {
+          "title": "Jongen Online Shop | Startseite | Jongen Werkzeugshop",
+          "url": "https://www.jongen.de/Startseite/",
+          "reported_content_url": "https://www.jongen.de/Startseite/"
+        },
+        {
+          "title": "Jongen UNI-MILL | Home page | Outils de fraisage par Jongen",
+          "url": "https://www.jongen.fr/fr/accueil/",
+          "reported_content_url": "https://www.jongen.fr/fr/accueil/"
+        },
+        {
+          "title": "Company directory | Würth Group",
+          "url": "https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/Company-directory/Company-drectory.php",
+          "reported_content_url": "https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/Company-directory/Company-drectory.php"
+        }
+      ]
+    },
+    {
+      "batch": "ml_bonus_0",
+      "queries": [],
+      "requested_urls": [
+        "https://foundationinc.co/lab/bitdefender",
+        "https://www.bitdefender.ro/",
+        "https://www.bitdefender.fr/",
+        "https://www.bitdefender.de/"
+      ],
+      "sources": [
+        {
+          "title": "How Bitdefender Built a 13K-Page Global SEO Campaign",
+          "url": "https://foundationinc.co/lab/bitdefender",
+          "reported_content_url": "https://foundationinc.co/lab/bitdefender"
+        },
+        {
+          "title": "Bitdefender - Lider global software de securitate cibernetică",
+          "url": "https://www.bitdefender.ro/",
+          "reported_content_url": "https://www.bitdefender.com/ro-ro/"
+        },
+        {
+          "title": "Bitdefender - Leader mondial en logiciels de cybersécurité",
+          "url": "https://www.bitdefender.fr/",
+          "reported_content_url": "https://www.bitdefender.com/fr-fr/"
+        },
+        {
+          "title": "Bitdefender - Weltspitze in Cybersicherheit",
+          "url": "https://www.bitdefender.de/",
+          "reported_content_url": "https://www.bitdefender.com/de-de/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_bonus_1",
+      "queries": [],
+      "requested_urls": [
+        "https://www.bitdefender.it/",
+        "https://www.bitdefender.es/",
+        "https://www.jongen.de/Startseite/",
+        "https://www.searchviu.com/en/guides/cctld-to-gtld/"
+      ],
+      "sources": [
+        {
+          "title": "Bitdefender - Leader globale nel software di sicurezza informatica",
+          "url": "https://www.bitdefender.it/",
+          "reported_content_url": "https://www.bitdefender.com/it-it/"
+        },
+        {
+          "title": "Bitdefender - Líder mundial en software de seguridad informática",
+          "url": "https://www.bitdefender.es/",
+          "reported_content_url": "https://www.bitdefender.com/es-es/"
+        },
+        {
+          "title": "Jongen Online Shop | Startseite | Präzisionswerkzeuge von Jongen",
+          "url": "https://www.jongen.de/Startseite/",
+          "reported_content_url": "https://www.jongen.de/Startseite/"
+        },
+        {
+          "title": "From ccTLDs to one gTLD: case study and guide | searchVIU",
+          "url": "https://www.searchviu.com/en/guides/cctld-to-gtld/",
+          "reported_content_url": "https://www.searchviu.com/en/guides/cctld-to-gtld/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_bonus_2",
+      "queries": [],
+      "requested_urls": [
+        "https://www.trivago.de/",
+        "https://www.trivago.fr/",
+        "https://www.trivago.es/",
+        "https://www.trivago.it/"
+      ],
+      "sources": [
+        {
+          "title": "trivago.de - Compare hotel prices worldwide",
+          "url": "https://www.trivago.de/",
+          "reported_content_url": "https://www.trivago.de/"
+        },
+        {
+          "title": "trivago.fr - Compare hotel prices worldwide",
+          "url": "https://www.trivago.fr/",
+          "reported_content_url": "https://www.trivago.fr/"
+        },
+        {
+          "title": "trivago.es - Compare hotel prices worldwide",
+          "url": "https://www.trivago.es/",
+          "reported_content_url": "https://www.trivago.es/"
+        },
+        {
+          "title": "trivago.it - Compare hotel prices worldwide",
+          "url": "https://www.trivago.it/",
+          "reported_content_url": "https://www.trivago.it/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_bonus_3",
+      "queries": [],
+      "requested_urls": [
+        "https://www.polo-club.com/",
+        "https://www.decupler.com/etude-de-cas-seo-decathlon/",
+        "https://www.kaspersky.com/about",
+        "https://www.manutan-group.com/en"
+      ],
+      "sources": [
+        {
+          "title": "New Kaspersky Antivirus Software Plans | Kaspersky",
+          "url": "https://www.kaspersky.com/about",
+          "reported_content_url": "https://www.kaspersky.com/about"
+        },
+        {
+          "title": "Manutan Group",
+          "url": "https://www.manutan-group.com/en",
+          "reported_content_url": "https://www.manutan-group.com/en"
+        }
+      ]
+    },
+    {
+      "batch": "ml_end_0",
+      "queries": [
+        "site:about.sixt.com corporate countries SIXT own corporate country Germany France Spain Italy franchises Europe",
+        "site:europcar-mobility-group.com \"countries\" subsidiaries France Germany Spain Italy Portugal owned network",
+        "site:autoscout24.com \"markets\" AutoScout24 Poland Italy France Netherlands Belgium about company",
+        "site:obi.de OBI Group countries Czech Slovakia Slovenia Poland countries subsidiary"
+      ],
+      "requested_urls": [],
+      "sources": [
+        {
+          "title": "Sixt SE Annual Report 2024",
+          "url": "https://about.sixt.com/wp-content/uploads/2026/05/2024_SixtSE_Annual-Financial-Report_ERS.pdf",
+          "reported_content_url": "https://about.sixt.com/wp-content/uploads/2026/05/2024_SixtSE_Annual-Financial-Report_ERS.pdf"
+        },
+        {
+          "title": "Declaration of Principle",
+          "url": "https://imgix.obi.de/api/disc/cms/public/dam/pdf/legal/2024/202406_decleration_of_principle_of_the_obi-group.pdf",
+          "reported_content_url": "https://imgix.obi.de/api/disc/cms/public/dam/pdf/legal/2024/202406_decleration_of_principle_of_the_obi-group.pdf"
+        },
+        {
+          "title": "PowerPoint Presentation",
+          "url": "https://about.sixt.com/wp-content/uploads/2024/09/2024_09_SIXT_Investor-Presentation.pdf",
+          "reported_content_url": "https://about.sixt.com/wp-content/uploads/2024/09/2024_09_SIXT_Investor-Presentation.pdf"
+        },
+        {
+          "title": "CONVENIENCE TRANSLATION ONLY",
+          "url": "https://about.sixt.com/wp-content/uploads/2026/05/Joint-Report-regarding-the-Profit-and-Loss-Transfer-Agreement-SXT-Projects-GmbH.pdf",
+          "reported_content_url": "https://about.sixt.com/wp-content/uploads/2026/05/Joint-Report-regarding-the-Profit-and-Loss-Transfer-Agreement-SXT-Projects-GmbH.pdf"
+        },
+        {
+          "title": "PowerPoint Presentation",
+          "url": "https://about.sixt.com/wp-content/uploads/2025/09/2025_09_SIXT_Investor-Presentation.pdf",
+          "reported_content_url": "https://about.sixt.com/wp-content/uploads/2025/09/2025_09_SIXT_Investor-Presentation.pdf"
+        },
+        {
+          "title": "Interim Sustainability Report 2024",
+          "url": "https://imgix.obi.de/api/disc/cms/public/dam/DECorporate/nachhaltigkeitsbericht/Interim-Report-Sustainability.pdf",
+          "reported_content_url": "https://imgix.obi.de/api/disc/cms/public/dam/DECorporate/nachhaltigkeitsbericht/Interim-Report-Sustainability.pdf"
+        },
+        {
+          "title": "FAQ - SIXT SE",
+          "url": "https://about.sixt.com/en/faq/",
+          "reported_content_url": "https://about.sixt.com/en/faq/"
+        },
+        {
+          "title": "Sixt SE: Sixt Group accelerates growth during first half of 2015 and rises full-year outlook - SIXT SE",
+          "url": "https://about.sixt.com/en/ir/sixt-se-sixt-group-accelerates-growth-during-first-half-of-2015-and-rises-full-year-outlook/",
+          "reported_content_url": "https://about.sixt.com/en/ir/sixt-se-sixt-group-accelerates-growth-during-first-half-of-2015-and-rises-full-year-outlook/"
+        },
+        {
+          "title": "OBI History",
+          "url": "https://www.obi.de/corporate/en/history",
+          "reported_content_url": "https://www.obi.de/corporate/en/history"
+        },
+        {
+          "title": "Join the Sixt Franchise Network | Global Opportunities Await - SIXT SE",
+          "url": "https://about.sixt.com/en/franchise/",
+          "reported_content_url": "https://about.sixt.com/en/franchise/"
+        },
+        {
+          "title": "OBI Presse – News, Kontakt & Medienmitteilungen",
+          "url": "https://www.obi.de/corporate/presse?page=7",
+          "reported_content_url": "https://www.obi.de/corporate/presse?page=7"
+        },
+        {
+          "title": "OBI Presse – News, Kontakt & Medienmitteilungen",
+          "url": "https://www.obi.de/corporate/presse?page=8",
+          "reported_content_url": "https://www.obi.de/corporate/presse?page=8"
+        },
+        {
+          "title": "OBI Presse – News, Kontakt & Medienmitteilungen",
+          "url": "https://www.obi.de/corporate/presse?page=5%2F",
+          "reported_content_url": "https://www.obi.de/corporate/presse?page=5%2F"
+        },
+        {
+          "title": "Imprint - SIXT SE",
+          "url": "https://about.sixt.com/en/imprint/",
+          "reported_content_url": "https://about.sixt.com/en/imprint/"
+        },
+        {
+          "title": "Homepage - SIXT SE",
+          "url": "https://about.sixt.com/en/",
+          "reported_content_url": "https://about.sixt.com/en/"
+        },
+        {
+          "title": "Sixt SE: Sixt records 2014 as most successful business year in corporate history - dividend payout to increase by around 20% - SIXT SE",
+          "url": "https://about.sixt.com/en/ir/sixt-se-sixt-records-2014-as-most-successful-business-year-in-corporate-history-dividend-payout-to-increase-by-around-20/",
+          "reported_content_url": "https://about.sixt.com/en/ir/sixt-se-sixt-records-2014-as-most-successful-business-year-in-corporate-history-dividend-payout-to-increase-by-around-20/"
+        },
+        {
+          "title": "OBI Historie",
+          "url": "https://www.obi.de/corporate/historie",
+          "reported_content_url": "https://www.obi.de/corporate/historie"
+        },
+        {
+          "title": "press – news, contact, media releases | OBI",
+          "url": "https://www.obi.de/corporate/en/press?page=2",
+          "reported_content_url": "https://www.obi.de/corporate/en/press?page=2"
+        }
+      ]
+    },
+    {
+      "batch": "ml_end_1",
+      "queries": [],
+      "requested_urls": [
+        "https://www.sixt.de/",
+        "https://www.sixt.es/",
+        "https://www.sixt.it/",
+        "https://www.ceneje.si/"
+      ],
+      "sources": [
+        {
+          "title": "Premium Mietwagen günstig buchen | SIXT Autovermietung",
+          "url": "https://www.sixt.de/",
+          "reported_content_url": "https://www.sixt.de/"
+        },
+        {
+          "title": "Alquiler de coches premium al mejor precio | SIXT rent a car",
+          "url": "https://www.sixt.es/",
+          "reported_content_url": "https://www.sixt.es/"
+        },
+        {
+          "title": "Noleggio auto premium | SIXT Autonoleggio",
+          "url": "https://www.sixt.it/",
+          "reported_content_url": "https://www.sixt.it/"
+        },
+        {
+          "title": "Ceneje.si - To je znak … poišči najboljšo ponudbo in prihrani",
+          "url": "https://www.ceneje.si/",
+          "reported_content_url": "https://www.ceneje.si/"
+        }
+      ]
+    },
+    {
+      "batch": "ml_end_2",
+      "queries": [],
+      "requested_urls": [
+        "https://www.heureka.cz/",
+        "https://www.kaufland.de/",
+        "https://www.europeansearchawards.com/2025-winners/"
+      ],
+      "sources": [
+        {
+          "title": "Heureka.cz — Je to znamení… Najít nejlepší nabídku",
+          "url": "https://www.heureka.cz/",
+          "reported_content_url": "https://www.heureka.cz/"
+        },
+        {
+          "title": "Kaufland.de — Angebote entdecken & günstig einkaufen",
+          "url": "https://www.kaufland.de/",
+          "reported_content_url": "https://www.kaufland.de/"
+        }
+      ]
+    }
+  ]
+}

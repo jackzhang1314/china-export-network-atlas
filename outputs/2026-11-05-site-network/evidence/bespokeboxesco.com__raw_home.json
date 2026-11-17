@@ -1,0 +1,4091 @@
+{
+  "requested_url": "https://www.bespokeboxesco.com/",
+  "observed_at": "2026-11-05T20:19:58.532306+08:00",
+  "status": 200,
+  "final_url": "https://www.bespokeboxesco.com/",
+  "title": "Custom Boxes & Bespoke Packaging – Cardboard Boxes USA",
+  "links": [
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/media/favicon/default/android-chrome-512x512.png",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/media/favicon/default/android-chrome-512x512.png",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "//fonts.googleapis.com/css?family=Montserrat:400,700",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "//fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/js/tm/lib/swiper/css/swiper.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/magiccart/plugin/fontawesome/css/font-awesome.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/magiccart/plugin/pe-icon-stroke/css/pe-icon-7-stroke.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/magiccart/plugin/font-SVG/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/magiccart/plugin/css/bootstrap/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/magiccart/plugin/css/jquery.bxslider.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/demo3/css/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/base/default/css/widgets.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/base/default/css/codnitive/sidenav.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/magiccart/plugin/css/magicaccordion.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/magiccart/magicmenu/css/magicmenu.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/magiccart/magicsocial/css/magicsocial.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/base/default/css/cookienotice/cookienotice.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/base/default/tm/easycatalogimg/css/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/base/default/tm/easyslide/css/easyslide.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/base/default/css/tm/testimonials.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/magiccart/plugin/css/animate.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/magiccart/magicslider/css/magicslider.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/css/print.css",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/prototype/prototype.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/lib/ccard.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/prototype/validation.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/scriptaculous/builder.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/scriptaculous/effects.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/scriptaculous/dragdrop.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/scriptaculous/controls.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/scriptaculous/slider.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/varien/js.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/varien/form.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/varien/menu.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/mage/translate.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/mage/cookies.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/jquery.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/jquery.noconflict.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/bootstrap/bootstrap.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/plugin/jquery.bxslider.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/classie.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/plugin/jquery.ddslick.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/plugin/jquery.easing.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/jquery.alothemes.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/plugin/jquery.meanmenu.hack.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/magicaccordion.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/magicmenu.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/magicproduct.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/magiccart/plugin/jquery.parallax-1.1.3.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/js/lib/modernizr.custom.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/js/lib/selectivizr.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/js/lib/matchMedia.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/js/lib/matchMedia.addListener.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/js/lib/enquire.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/js/app.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/default/js/lib/imagesloaded.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/base/default/js/minicart.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/tm/lib/classList.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/js/tm/lib/swiper/js/swiper.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/base/default/tm/easyslide/js/easyslide.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/base/default/js/tm/testimonials.js",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.bespokeboxesco.com/skin/frontend/aloelectro/demo3/css/responsive.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "//fonts.googleapis.com/css?family=Open+Sans",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.googletagmanager.com/gtag/js?id=UA-134766474-1",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://wa.me/16463890938?text=Hello%2C%20I%20am%20interested%20in%20custom%20boxes%20from%20bespokeboxesco.com.%20I%20need%20more%20details.",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "tel:6463890938",
+      "text": "Call Us: 646 389 0938"
+    },
+    {
+      "tag": "a",
+      "href": "mailto:admin@bespokeboxesco.com",
+      "text": "help@bespokeboxesco.com"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation",
+      "text": "Get Quote"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/",
+      "text": ""
+    },
+    {
+      "tag": "form",
+      "href": "https://www.bespokeboxesco.com/catalogsearch/result/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.provenexpert.com/pdt-r-us/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/by-industry.html",
+      "text": "By Industry"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cbd-packaging.html",
+      "text": "CBD Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cbd-oil-packaging.html",
+      "text": "CBD oil packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cbd-boxes.html",
+      "text": "CBD Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/vape-packaging.html",
+      "text": "Vape Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/vape-mods-packaging.html",
+      "text": "Vape mods packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/e-cigarette-boxes.html",
+      "text": "E-Cigarette Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/fish-oil-packaging-boxes.html",
+      "text": "Fish Oil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cosmetic-boxes.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cream-boxes.html",
+      "text": "Cream Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/eyeliner-boxes.html",
+      "text": "Eyeliner Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/eyeshadow-boxes.html",
+      "text": "Eyeshadow Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/foundation-boxes.html",
+      "text": "Foundation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/hair-extension-boxes.html",
+      "text": "Hair Extension Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/hairspray-boxes.html",
+      "text": "Hairspray Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/lip-balm-boxes.html",
+      "text": "Lip Balm Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/lip-gloss-boxes.html",
+      "text": "Lip Gloss Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/lipstick-boxes.html",
+      "text": "Lipstick Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/lotion-boxes.html",
+      "text": "Lotion Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/makeup-boxes.html",
+      "text": "Makeup Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/mascara-boxes.html",
+      "text": "Mascara Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/nail-polish-boxes.html",
+      "text": "Nail Polish Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/perfume-boxes.html",
+      "text": "Perfume Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cosmetic-box-printing.html",
+      "text": "Cosmetic Box Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tights-packaging-boxes.html",
+      "text": "Tights Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/socks-packaging.html",
+      "text": "Socks Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/latex-glove-boxes.html",
+      "text": "Latex glove boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/foldable-hair-extension-boxes.html",
+      "text": "Foldable Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/face-mask-packaging-boxes.html",
+      "text": "Face Mask Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-printed-hair-extension-boxes.html",
+      "text": "Hair Extension Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/display-packaging.html",
+      "text": "Display Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cosmetic-display-boxes.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/display-boxes.html",
+      "text": "Display Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/display-packagings.html",
+      "text": "Display Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/window-packaging-boxes.html",
+      "text": "Window Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pop-up-display-boxes.html",
+      "text": "Pop up Display Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/eco-friendly-boxes.html",
+      "text": "Eco Friendly Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bux-board-boxes.html",
+      "text": "Bux Board Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/kraft-boxes.html",
+      "text": "Kraft Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/food-boxes.html",
+      "text": "Food Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/food-and-beverage.html",
+      "text": "Food And Beverage"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bakery-boxes.html",
+      "text": "Bakery Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cake-boxes.html",
+      "text": "Cake Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/candy-boxes.html",
+      "text": "Candy Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cereal-boxes.html",
+      "text": "Cereal Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/chinese-takeout-boxes.html",
+      "text": "Chinese Takeout Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/chinese-food-boxes.html",
+      "text": "Chinese Food Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/chocolate-boxes.html",
+      "text": "Chocolate Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/coffee-boxes.html",
+      "text": "Coffee Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cookie-boxes.html",
+      "text": "Cookie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cupcake-boxes.html",
+      "text": "CupCake Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/donut-boxes.html",
+      "text": "Donut Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/macaron-boxes.html",
+      "text": "Macaron Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/muffin-boxes.html",
+      "text": "Muffin Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/noodle-boxes.html",
+      "text": "Noodle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pastry-boxes.html",
+      "text": "Pastry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pie-boxes.html",
+      "text": "Pie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pizza-boxes.html",
+      "text": "Pizza Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/popcorn-boxes.html",
+      "text": "Popcorn Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/snack-boxes.html",
+      "text": "Snack Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tea-boxes.html",
+      "text": "Tea Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/truffle-boxes.html",
+      "text": "Truffle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/wine-boxes.html",
+      "text": "Wine Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/masala-packaging-boxes.html",
+      "text": "Masala Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cream-butter-packaging.html",
+      "text": "Cream Butter Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/biscuit-packaging-boxes.html",
+      "text": "Biscuit Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gift-boxes.html",
+      "text": "Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/favor-boxes.html",
+      "text": "Favor Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-box.html",
+      "text": "Gable Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-boxes.html",
+      "text": "Gable Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gift-card-boxes.html",
+      "text": "Gift Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/handle-boxes.html",
+      "text": "Handle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/ornament-boxes.html",
+      "text": "Ornament Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/metalized-boxes.html",
+      "text": "Metalized Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gold-foil-boxes.html",
+      "text": "Gold Foil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/silver-foil-boxes.html",
+      "text": "Silver Foil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/retail-product-boxes.html",
+      "text": "Retail Product Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/charity-boxes.html",
+      "text": "Charity Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bottle-packaging-boxes.html",
+      "text": "Bottle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cup-jar-sleeve-packaging.html",
+      "text": "Cup Jar Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/jar-candle-packaging-boxes.html",
+      "text": "Jar Candle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tuck-end-boxes.html",
+      "text": "Tuck End Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/archive-boxes.html",
+      "text": "Archive Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/book-boxes.html",
+      "text": "Book Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/business-card-boxes.html",
+      "text": "Business Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/candle-boxes.html",
+      "text": "Candle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cardboard-boxes.html",
+      "text": "Cardboard Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cd-dvd-storage-boxes.html",
+      "text": "CD/DVD Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/corrugated-boxes.html",
+      "text": "Corrugated Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cigarette-boxes.html",
+      "text": "Cigarette Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cube-boxes.html",
+      "text": "Cube Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-boxes.html",
+      "text": "Custom Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/die-cut-boxes.html",
+      "text": "Die Cut Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/folding-boxes.html",
+      "text": "Folding Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/game-boxes.html",
+      "text": "Game Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/invitation-boxes.html",
+      "text": "Invitation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/medicine-boxes.html",
+      "text": "Medicine Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pillow-boxes.html",
+      "text": "Pillow Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/playing-card-boxes.html",
+      "text": "Playing Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/postage-boxes.html",
+      "text": "Postage Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/presentation-boxes.html",
+      "text": "Presentation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/product-boxes.html",
+      "text": "Product Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pyramid-boxes.html",
+      "text": "Pyramid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/shirt-boxes.html",
+      "text": "Shirt Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sleeve-boxes.html",
+      "text": "Sleeve Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/soap-boxes.html",
+      "text": "Soap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/software-boxes.html",
+      "text": "Software Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sports-boxes.html",
+      "text": "Sports Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/suitcase-boxes.html",
+      "text": "Suitcase Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/toy-boxes.html",
+      "text": "Toy Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/wedding-card-boxes.html",
+      "text": "Wedding Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/white-boxes.html",
+      "text": "White Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/window-boxes.html",
+      "text": "Window Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/thread-packaging-boxes.html",
+      "text": "Thread Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/wrap-boxes.html",
+      "text": "Wrap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/stationary-packaging-boxes.html",
+      "text": "Stationary boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/swimwear-boxes.html",
+      "text": "Swimwear Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/promotional-boxes.html",
+      "text": "Promotional Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/mobile-accessory-packaging-boxes.html",
+      "text": "Mobile Accessory Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/fidget-spinner-packaging-boxes.html",
+      "text": "Fidget Spinner Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/eye-drops-packaging-boxes.html",
+      "text": "Eye Drops Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/golf-ball-boxes.html",
+      "text": "Golf Ball boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/energy-saver-packaging-boxes.html",
+      "text": "Energy Saver Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/compact-blushes-boxes.html",
+      "text": "Compact Blushes Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/electric-devices-packaging.html",
+      "text": "Electric Devices Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/belt-packaging-boxes.html",
+      "text": "Belt Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bandage-packaging.html",
+      "text": "Bandage Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bath-bomb-packaging.html",
+      "text": "Bath Bomb Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/ballot-boxes.html",
+      "text": "Ballot Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/auto-lock-bottom-boxes.html",
+      "text": "Autolock Bottom Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tamp-on-packaging-boxes.html",
+      "text": "Tamp On Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/spinning-wheel-chart-packaging-boxes.html",
+      "text": "Spinning Wheel Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/e-liquid.html",
+      "text": "E Liquid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tie-boxes.html",
+      "text": "Tie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/reverse-tuck-end-tea-boxes.html",
+      "text": "Tuck End Tea Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/stress-release-toys-packaging.html",
+      "text": "Stress Toys Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/retail-boxes-30.html",
+      "text": "Retail Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/by-box-style.html",
+      "text": "By Box Style"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bottom-closure.html",
+      "text": "Bottom Closure"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/1-2-3-bottom.html",
+      "text": "1-2-3 Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/4-pk-bottle-carrier.html",
+      "text": "4 Pk Bottle Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/auto-bottom-tray.html",
+      "text": "Auto Bottom Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/auto-bottom-with-display-lid.html",
+      "text": "A Bottom Display Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/full-flap-auto-bottom.html",
+      "text": "Full Flap Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/handle-bag-shape-box.html",
+      "text": "Handle Bag Shape Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/seal-end-auto-bottom.html",
+      "text": "Seal End Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/six-pk-bottle-carrier.html",
+      "text": "Six Pk Bottle Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tuck-end-cover.html",
+      "text": "Tuck End Cover"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tuck-with-bellow-dust-flap-lock.html",
+      "text": "Tuck Dust Flap Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cd-covers.html",
+      "text": "CD Covers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bookend-cd-case.html",
+      "text": "Bookend CD Case"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/four-panel-cd-jacket.html",
+      "text": "Four Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/two-panel-cd-jacket.html",
+      "text": "Two Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/six-panel-cd-jacket.html",
+      "text": "Six Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/figure-and-pattern.html",
+      "text": "Figure and Pattern"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bowl-sleeve.html",
+      "text": "Bowl Sleeve"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cube-shaped-carrier.html",
+      "text": "Cube Shaped Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/disc-folder.html",
+      "text": "Disc Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-glue-side-wall.html",
+      "text": "Double Glue Side Wall"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-locked-wall-lid.html",
+      "text": "Double Lock Wall Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-tray.html",
+      "text": "Double Wall Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/economy-disc-folder.html",
+      "text": "Economy Disc Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/fence-partitions.html",
+      "text": "Fence Partitions"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/foot-lock-tray.html",
+      "text": "Foot Lock Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/full-flat-double-tray.html",
+      "text": "Full Flat Double Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-bag.html",
+      "text": "Gable Bag"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/glass-carrier.html",
+      "text": "Glass Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/ice-cream-cone-holder.html",
+      "text": "Ice Cream Holder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/piece-tray-with-reinforced-side-wall.html",
+      "text": "Piece Tray Side Wall"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/punch-partition.html",
+      "text": "Punch Partition"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/regular-six-corner.html",
+      "text": "Regular Six Corner"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/side-lock-six-corner.html",
+      "text": "Side Lock Six Corner"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sleeve-with-product-retainers.html",
+      "text": "Sleeve With Retainers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sleeve-with-cap-lock.html",
+      "text": "Sleeve With Cap Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sleeve-with-tapered-side-panel.html",
+      "text": "Tapered Side Panel"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/fold-and-assemble.html",
+      "text": "Fold and Assemble"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bookend.html",
+      "text": "Bookend"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/box-with-hanging-and-locking-tabs.html",
+      "text": "Box With Locking Tabs"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-tuck-front.html",
+      "text": "Double Wall Front"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/four-corner-cake-box.html",
+      "text": "Four Corner Cake Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/french-fry-boxes.html",
+      "text": "French Fry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-box-auto-bottom.html",
+      "text": "Gable Box A Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/half-circular-interlocking.html",
+      "text": "Half Circular Interlock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/header-card.html",
+      "text": "Header Card"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/hexagon.html",
+      "text": "Hexagon"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/hexagon-2-pc.html",
+      "text": "Hexagon 2 PC"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/square-box-with-ladder-top.html",
+      "text": "Box With Ladder Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/self-locked-counter-display-tray.html",
+      "text": "Self-Lock Counter Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/t-box.html",
+      "text": "T Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tray-and-sleeve-box.html",
+      "text": "Tray And Sleeve Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/rectangular.html",
+      "text": "Rectangular"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/dispenser.html",
+      "text": "Dispenser"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-glued-side-wall-tray-and-sleeve.html",
+      "text": "Double Glued Side Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/flip-out-open-dispenser-box.html",
+      "text": "Flip Out Dispenser Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/four-corner-tray.html",
+      "text": "Four Corner Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/full-overlap-seal-end.html",
+      "text": "Full Overlap Seal End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/multi-purpose-header.html",
+      "text": "Multi Purpose Header"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/panel-hanger-snap-lock-bottom.html",
+      "text": "Panel Hanger Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/perforated-dispenser-box.html",
+      "text": "Perfor Dispenser Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pinch-lock-tray.html",
+      "text": "Pinch Lock Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/reverse-tuck-end.html",
+      "text": "Reverse Tuck End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/reverse-tuck-end-with-lock.html",
+      "text": "Reverse Tuck End Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/roll-end-tray.html",
+      "text": "Roll End Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/roll-end-tuck-top.html",
+      "text": "Roll End Tuck Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/roll-ends-with-lid.html",
+      "text": "Roll Ends With Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/seal-end.html",
+      "text": "Seal End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/seal-end-with-tear-open.html",
+      "text": "Seal End Tear Open"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/seal-end-with-tear-open-and-lock.html",
+      "text": "Seal End Open Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/straight-tuck-end.html",
+      "text": "Straight Tuck End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/simplex-tray.html",
+      "text": "Simplex Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/straight-tuck-with-customizable-window.html",
+      "text": "Straight T Window Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/straight-tuck-with-rise-up-insert.html",
+      "text": "Straight Tuck Rise Up"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/triangular-tray-lid.html",
+      "text": "Triangular Tray Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tuck-end-auto-bottom.html",
+      "text": "Tuck End Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/showcase-exhibit.html",
+      "text": "Showcase Exhibit"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/1-2-3-bottom-display-lid.html",
+      "text": "123 Bottom Display Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/4-corner-tray-tuck-top.html",
+      "text": "4 Corner Tray Tuck Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/4-corner-tray-with-lid.html",
+      "text": "4 Corner Tray With Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/auto-lock-cap.html",
+      "text": "Auto Lock Cap"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bag-shaped-box-auto-bottom.html",
+      "text": "Bag Shaped Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/brochure-display-holder.html",
+      "text": "Brochure Disp Holder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/display-box-auto-bottom.html",
+      "text": "Display Box A Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/door-hanger.html",
+      "text": "Door Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-display-lid.html",
+      "text": "Double Wall Display Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-frame-tray.html",
+      "text": "D Wall Frame Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-frame-tray-lid.html",
+      "text": "D Wall Frame Tray Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-tuck-top.html",
+      "text": "Double Wall Tuck Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/easel-counter-display.html",
+      "text": "Easel Counter Display"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/easel-display-stand.html",
+      "text": "Easel Display Stand"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/five-panel-hanger.html",
+      "text": "Five Panel Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/folder-business-card.html",
+      "text": "Folder Business Card"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/four-corner-with-display-lid.html",
+      "text": "Four Corner Lid Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/hanger-product-holder.html",
+      "text": "Hanger Product Hold"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/header-card-bag-topper.html",
+      "text": "Header Card Bag Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/mailer-with-zipper.html",
+      "text": "Mailer With Zipper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/paper-brief-case.html",
+      "text": "Paper Brief Case"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/prism-shaped-box.html",
+      "text": "Prism Shaped Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/reinforced-sides-with-hinged-top.html",
+      "text": "Reinforced Sides Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/side-lock-tuck-top-display-box.html",
+      "text": "Side Lock Top D Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/slope-top-reverse-tuck-end.html",
+      "text": "Slope Top Reverse End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tuck-end-snap-lock-bottom.html",
+      "text": "Snap Lock Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/wine-bottle-carriers.html",
+      "text": "Wine Bottle Carriers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/top-closure.html",
+      "text": "Top Closure"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/document-folder.html",
+      "text": "Document Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/flower-shaped-top-closure.html",
+      "text": "Flower Shaped Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/front-cut-out-display-tray.html",
+      "text": "Cut Out Display Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-bag-auto-bottom.html",
+      "text": "Gable Bag A Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-bag-bottom-hanger.html",
+      "text": "Gable Bag Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pillow-box.html",
+      "text": "Pillow Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pop-counter-display-tray.html",
+      "text": "Counter Display Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/seal-end-with-perforated-top.html",
+      "text": "Seal End Perforated"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/self-lock-cake-box.html",
+      "text": "Self Lock Cake Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/two-piece.html",
+      "text": "Two Piece"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-bags.html",
+      "text": "Custom Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/paper-bags-printing.html",
+      "text": "Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-laminated-bags.html",
+      "text": "Luxury Laminated"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-un-laminated-bags.html",
+      "text": "Luxury Un-Laminated Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-kraft-bags-printing.html",
+      "text": "Luxury Kraft"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/twisted-handle-bags.html",
+      "text": "Twisted Handle"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/folded-handle-bags.html",
+      "text": "Folded Handle"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/counter-bags-printing.html",
+      "text": "Counter Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/eco-bags-printing.html",
+      "text": "Eco Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cotton-bags.html",
+      "text": "Cotton"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/canvas-bags.html",
+      "text": "Canvas"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/jute-bags.html",
+      "text": "Jute"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/non-woven-bags.html",
+      "text": "Non-woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/lam-non-woven-bags.html",
+      "text": "Lam. Non-woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/woven-bags.html",
+      "text": "Woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/mailing-bags.html",
+      "text": "Mailing Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/paper-mailing-bags.html",
+      "text": "Paper Mailing Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bubble-bags.html",
+      "text": "Bubble Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gift-wrapping.html",
+      "text": "Gift Wrapping"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tissue-paper-printing.html",
+      "text": "Tissue Paper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/ribbon-designing.html",
+      "text": "Ribbon"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/labels-printing.html",
+      "text": "Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/printed-boxes.html",
+      "text": "Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/rigid-boxes.html",
+      "text": "Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-boxes.html",
+      "text": "Luxury Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-book-boxes.html",
+      "text": "Luxury Book Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/credit-card-boxes.html",
+      "text": "Credit Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-rigid-boxes.html",
+      "text": "Luxury Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/photography-packaging.html",
+      "text": "Photography Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/round-boxes.html",
+      "text": "Round Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-sleeve-boxes.html",
+      "text": "Luxury Sleeve Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sports-packaging-boxes.html",
+      "text": "Sports Packaging Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/boxes-for-hotels-and-spas.html",
+      "text": "Box For Hotels & Spas"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gourmet-boxes.html",
+      "text": "Gourmet Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-wallet-boxes.html",
+      "text": "Luxury Wallet Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-presentation-boxes.html",
+      "text": "Luxury Presentation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/shoe-boxes.html",
+      "text": "Shoe Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/slip-case-boxes.html",
+      "text": "Slip Case Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/watch-boxes.html",
+      "text": "Watch Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cell-phone-packaging.html",
+      "text": "Cell Phone Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-catalogs-boxes.html",
+      "text": "Luxury Catalogs Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pharmacy-rigid-boxes.html",
+      "text": "Pharmacy Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/promotional-boxes-27.html",
+      "text": "Promotional Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/shoulder-boxes.html",
+      "text": "Shoulder Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-soap-boxes.html",
+      "text": "Luxury Soap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-rigid-boxes.html",
+      "text": "Custom Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/collapsible-rigid-boxes.html",
+      "text": "Collapsible Rigid Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/magnetic-closure-rigid-boxes.html",
+      "text": "Magnetic Closure Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/two-piece-rigid-setup-boxes.html",
+      "text": "Two Piece Setup Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/single-color-rigid-boxes.html",
+      "text": "Single Color Rigid Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/jewelry-boxes.html",
+      "text": "Jewelry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bangle-boxes.html",
+      "text": "Bangle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cufflink-boxes.html",
+      "text": "Cufflink Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/earring-boxes.html",
+      "text": "Earring Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/necklace-boxes.html",
+      "text": "Necklace Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/ring-boxes.html",
+      "text": "Ring Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/apparel-boxes.html",
+      "text": "Apparel Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/boxes-for-belts.html",
+      "text": "Boxes For Belts"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-boutique.html",
+      "text": "Luxury Boutique"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-textile-boxes.html",
+      "text": "Luxury Textile Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-lingerie-boxes.html",
+      "text": "Luxury Lingerie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/rigid-tie-boxes.html",
+      "text": "Rigid Tie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/rigid-gift-boxes.html",
+      "text": "Rigid Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-business-card-boxes.html",
+      "text": "Business Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-gift-boxes.html",
+      "text": "Luxury Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/food-gift-boxes.html",
+      "text": "Food Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-gift-card-boxes.html",
+      "text": "Custom Gift Card Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes.html",
+      "text": "Useful Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/clothing-packaging-boxes.html",
+      "text": "Clothing Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/burger-packaging-boxes.html",
+      "text": "Burger Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/sushi-packaging-boxes.html",
+      "text": "Sushi Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/taco-packaging-boxes.html",
+      "text": "Taco Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/shrimp-packaging-boxes.html",
+      "text": "Shrimp Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/elegant-packaging-boxes.html",
+      "text": "Elegant Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/bagel-packaging-boxes.html",
+      "text": "Bagel Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/holiday-packaging-boxes.html",
+      "text": "Holiday Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/blunt-packaging-boxes.html",
+      "text": "Blunt Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/shipping-packaging-boxes.html",
+      "text": "Shipping Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/promo-packaging-boxes.html",
+      "text": "Promo packaging boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/tshirt-packaging-boxes.html",
+      "text": "Tshirt Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/bonbon-packaging-boxes.html",
+      "text": "Bonbon Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/blank-packaging-boxes.html",
+      "text": "Blank Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/sandwich-packaging-boxes.html",
+      "text": "Sandwich Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/mailer-packaging-boxes.html",
+      "text": "Mailer Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/roller-packaging-boxes-255.html",
+      "text": "Roller Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/condom-packaging-boxes.html",
+      "text": "Condom Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/dessert-packaging-boxes.html",
+      "text": "Dessert Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/ecommerce-packaging-boxes.html",
+      "text": "Ecommerce Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/knife-packaging-boxes.html",
+      "text": "Knife Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/useful-boxes",
+      "text": "Load More"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/blog",
+      "text": "Blog"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/by-industry.html",
+      "text": "By Industry"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cbd-packaging.html",
+      "text": "CBD Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cbd-oil-packaging.html",
+      "text": "CBD oil packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cbd-boxes.html",
+      "text": "CBD Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/vape-packaging.html",
+      "text": "Vape Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/vape-mods-packaging.html",
+      "text": "Vape mods packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/e-cigarette-boxes.html",
+      "text": "E-Cigarette Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/fish-oil-packaging-boxes.html",
+      "text": "Fish Oil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cosmetic-boxes.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cream-boxes.html",
+      "text": "Cream Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/eyeliner-boxes.html",
+      "text": "Eyeliner Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/eyeshadow-boxes.html",
+      "text": "Eyeshadow Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/foundation-boxes.html",
+      "text": "Foundation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/hair-extension-boxes.html",
+      "text": "Hair Extension Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/hairspray-boxes.html",
+      "text": "Hairspray Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/lip-balm-boxes.html",
+      "text": "Lip Balm Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/lip-gloss-boxes.html",
+      "text": "Lip Gloss Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/lipstick-boxes.html",
+      "text": "Lipstick Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/lotion-boxes.html",
+      "text": "Lotion Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/makeup-boxes.html",
+      "text": "Makeup Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/mascara-boxes.html",
+      "text": "Mascara Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/nail-polish-boxes.html",
+      "text": "Nail Polish Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/perfume-boxes.html",
+      "text": "Perfume Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cosmetic-box-printing.html",
+      "text": "Cosmetic Box Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tights-packaging-boxes.html",
+      "text": "Tights Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/socks-packaging.html",
+      "text": "Socks Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/latex-glove-boxes.html",
+      "text": "Latex glove boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/foldable-hair-extension-boxes.html",
+      "text": "Foldable Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/face-mask-packaging-boxes.html",
+      "text": "Face Mask Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-printed-hair-extension-boxes.html",
+      "text": "Hair Extension Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/display-packaging.html",
+      "text": "Display Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cosmetic-display-boxes.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/display-boxes.html",
+      "text": "Display Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/display-packagings.html",
+      "text": "Display Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/window-packaging-boxes.html",
+      "text": "Window Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pop-up-display-boxes.html",
+      "text": "Pop up Display Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/eco-friendly-boxes.html",
+      "text": "Eco Friendly Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bux-board-boxes.html",
+      "text": "Bux Board Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/kraft-boxes.html",
+      "text": "Kraft Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/food-boxes.html",
+      "text": "Food Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/food-and-beverage.html",
+      "text": "Food And Beverage"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bakery-boxes.html",
+      "text": "Bakery Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cake-boxes.html",
+      "text": "Cake Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/candy-boxes.html",
+      "text": "Candy Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cereal-boxes.html",
+      "text": "Cereal Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/chinese-takeout-boxes.html",
+      "text": "Chinese Takeout Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/chinese-food-boxes.html",
+      "text": "Chinese Food Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/chocolate-boxes.html",
+      "text": "Chocolate Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/coffee-boxes.html",
+      "text": "Coffee Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cookie-boxes.html",
+      "text": "Cookie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cupcake-boxes.html",
+      "text": "CupCake Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/donut-boxes.html",
+      "text": "Donut Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/macaron-boxes.html",
+      "text": "Macaron Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/muffin-boxes.html",
+      "text": "Muffin Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/noodle-boxes.html",
+      "text": "Noodle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pastry-boxes.html",
+      "text": "Pastry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pie-boxes.html",
+      "text": "Pie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pizza-boxes.html",
+      "text": "Pizza Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/popcorn-boxes.html",
+      "text": "Popcorn Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/snack-boxes.html",
+      "text": "Snack Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tea-boxes.html",
+      "text": "Tea Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/truffle-boxes.html",
+      "text": "Truffle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/wine-boxes.html",
+      "text": "Wine Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/masala-packaging-boxes.html",
+      "text": "Masala Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cream-butter-packaging.html",
+      "text": "Cream Butter Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/biscuit-packaging-boxes.html",
+      "text": "Biscuit Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gift-boxes.html",
+      "text": "Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/favor-boxes.html",
+      "text": "Favor Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-box.html",
+      "text": "Gable Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-boxes.html",
+      "text": "Gable Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gift-card-boxes.html",
+      "text": "Gift Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/handle-boxes.html",
+      "text": "Handle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/ornament-boxes.html",
+      "text": "Ornament Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/metalized-boxes.html",
+      "text": "Metalized Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gold-foil-boxes.html",
+      "text": "Gold Foil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/silver-foil-boxes.html",
+      "text": "Silver Foil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/retail-product-boxes.html",
+      "text": "Retail Product Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/charity-boxes.html",
+      "text": "Charity Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bottle-packaging-boxes.html",
+      "text": "Bottle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cup-jar-sleeve-packaging.html",
+      "text": "Cup Jar Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/jar-candle-packaging-boxes.html",
+      "text": "Jar Candle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tuck-end-boxes.html",
+      "text": "Tuck End Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/archive-boxes.html",
+      "text": "Archive Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/book-boxes.html",
+      "text": "Book Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/business-card-boxes.html",
+      "text": "Business Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/candle-boxes.html",
+      "text": "Candle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cardboard-boxes.html",
+      "text": "Cardboard Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cd-dvd-storage-boxes.html",
+      "text": "CD/DVD Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/corrugated-boxes.html",
+      "text": "Corrugated Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cigarette-boxes.html",
+      "text": "Cigarette Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cube-boxes.html",
+      "text": "Cube Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-boxes.html",
+      "text": "Custom Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/die-cut-boxes.html",
+      "text": "Die Cut Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/folding-boxes.html",
+      "text": "Folding Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/game-boxes.html",
+      "text": "Game Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/invitation-boxes.html",
+      "text": "Invitation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/medicine-boxes.html",
+      "text": "Medicine Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pillow-boxes.html",
+      "text": "Pillow Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/playing-card-boxes.html",
+      "text": "Playing Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/postage-boxes.html",
+      "text": "Postage Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/presentation-boxes.html",
+      "text": "Presentation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/product-boxes.html",
+      "text": "Product Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pyramid-boxes.html",
+      "text": "Pyramid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/shirt-boxes.html",
+      "text": "Shirt Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sleeve-boxes.html",
+      "text": "Sleeve Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/soap-boxes.html",
+      "text": "Soap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/software-boxes.html",
+      "text": "Software Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sports-boxes.html",
+      "text": "Sports Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/suitcase-boxes.html",
+      "text": "Suitcase Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/toy-boxes.html",
+      "text": "Toy Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/wedding-card-boxes.html",
+      "text": "Wedding Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/white-boxes.html",
+      "text": "White Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/window-boxes.html",
+      "text": "Window Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/thread-packaging-boxes.html",
+      "text": "Thread Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/wrap-boxes.html",
+      "text": "Wrap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/stationary-packaging-boxes.html",
+      "text": "Stationary boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/swimwear-boxes.html",
+      "text": "Swimwear Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/promotional-boxes.html",
+      "text": "Promotional Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/mobile-accessory-packaging-boxes.html",
+      "text": "Mobile Accessory Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/fidget-spinner-packaging-boxes.html",
+      "text": "Fidget Spinner Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/eye-drops-packaging-boxes.html",
+      "text": "Eye Drops Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/golf-ball-boxes.html",
+      "text": "Golf Ball boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/energy-saver-packaging-boxes.html",
+      "text": "Energy Saver Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/compact-blushes-boxes.html",
+      "text": "Compact Blushes Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/electric-devices-packaging.html",
+      "text": "Electric Devices Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/belt-packaging-boxes.html",
+      "text": "Belt Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bandage-packaging.html",
+      "text": "Bandage Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bath-bomb-packaging.html",
+      "text": "Bath Bomb Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/ballot-boxes.html",
+      "text": "Ballot Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/auto-lock-bottom-boxes.html",
+      "text": "Autolock Bottom Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tamp-on-packaging-boxes.html",
+      "text": "Tamp On Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/spinning-wheel-chart-packaging-boxes.html",
+      "text": "Spinning Wheel Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/e-liquid.html",
+      "text": "E Liquid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tie-boxes.html",
+      "text": "Tie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/reverse-tuck-end-tea-boxes.html",
+      "text": "Tuck End Tea Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/stress-release-toys-packaging.html",
+      "text": "Stress Toys Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/retail-boxes-30.html",
+      "text": "Retail Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/by-box-style.html",
+      "text": "By Box Style"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bottom-closure.html",
+      "text": "Bottom Closure"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/1-2-3-bottom.html",
+      "text": "1-2-3 Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/4-pk-bottle-carrier.html",
+      "text": "4 Pk Bottle Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/auto-bottom-tray.html",
+      "text": "Auto Bottom Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/auto-bottom-with-display-lid.html",
+      "text": "A Bottom Display Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/full-flap-auto-bottom.html",
+      "text": "Full Flap Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/handle-bag-shape-box.html",
+      "text": "Handle Bag Shape Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/seal-end-auto-bottom.html",
+      "text": "Seal End Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/six-pk-bottle-carrier.html",
+      "text": "Six Pk Bottle Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tuck-end-cover.html",
+      "text": "Tuck End Cover"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tuck-with-bellow-dust-flap-lock.html",
+      "text": "Tuck Dust Flap Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cd-covers.html",
+      "text": "CD Covers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bookend-cd-case.html",
+      "text": "Bookend CD Case"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/four-panel-cd-jacket.html",
+      "text": "Four Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/two-panel-cd-jacket.html",
+      "text": "Two Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/six-panel-cd-jacket.html",
+      "text": "Six Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/figure-and-pattern.html",
+      "text": "Figure and Pattern"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bowl-sleeve.html",
+      "text": "Bowl Sleeve"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cube-shaped-carrier.html",
+      "text": "Cube Shaped Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/disc-folder.html",
+      "text": "Disc Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-glue-side-wall.html",
+      "text": "Double Glue Side Wall"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-locked-wall-lid.html",
+      "text": "Double Lock Wall Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-tray.html",
+      "text": "Double Wall Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/economy-disc-folder.html",
+      "text": "Economy Disc Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/fence-partitions.html",
+      "text": "Fence Partitions"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/foot-lock-tray.html",
+      "text": "Foot Lock Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/full-flat-double-tray.html",
+      "text": "Full Flat Double Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-bag.html",
+      "text": "Gable Bag"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/glass-carrier.html",
+      "text": "Glass Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/ice-cream-cone-holder.html",
+      "text": "Ice Cream Holder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/piece-tray-with-reinforced-side-wall.html",
+      "text": "Piece Tray Side Wall"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/punch-partition.html",
+      "text": "Punch Partition"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/regular-six-corner.html",
+      "text": "Regular Six Corner"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/side-lock-six-corner.html",
+      "text": "Side Lock Six Corner"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sleeve-with-product-retainers.html",
+      "text": "Sleeve With Retainers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sleeve-with-cap-lock.html",
+      "text": "Sleeve With Cap Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sleeve-with-tapered-side-panel.html",
+      "text": "Tapered Side Panel"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/fold-and-assemble.html",
+      "text": "Fold and Assemble"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bookend.html",
+      "text": "Bookend"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/box-with-hanging-and-locking-tabs.html",
+      "text": "Box With Locking Tabs"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-tuck-front.html",
+      "text": "Double Wall Front"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/four-corner-cake-box.html",
+      "text": "Four Corner Cake Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/french-fry-boxes.html",
+      "text": "French Fry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-box-auto-bottom.html",
+      "text": "Gable Box A Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/half-circular-interlocking.html",
+      "text": "Half Circular Interlock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/header-card.html",
+      "text": "Header Card"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/hexagon.html",
+      "text": "Hexagon"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/hexagon-2-pc.html",
+      "text": "Hexagon 2 PC"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/square-box-with-ladder-top.html",
+      "text": "Box With Ladder Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/self-locked-counter-display-tray.html",
+      "text": "Self-Lock Counter Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/t-box.html",
+      "text": "T Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tray-and-sleeve-box.html",
+      "text": "Tray And Sleeve Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/rectangular.html",
+      "text": "Rectangular"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/dispenser.html",
+      "text": "Dispenser"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-glued-side-wall-tray-and-sleeve.html",
+      "text": "Double Glued Side Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/flip-out-open-dispenser-box.html",
+      "text": "Flip Out Dispenser Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/four-corner-tray.html",
+      "text": "Four Corner Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/full-overlap-seal-end.html",
+      "text": "Full Overlap Seal End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/multi-purpose-header.html",
+      "text": "Multi Purpose Header"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/panel-hanger-snap-lock-bottom.html",
+      "text": "Panel Hanger Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/perforated-dispenser-box.html",
+      "text": "Perfor Dispenser Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pinch-lock-tray.html",
+      "text": "Pinch Lock Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/reverse-tuck-end.html",
+      "text": "Reverse Tuck End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/reverse-tuck-end-with-lock.html",
+      "text": "Reverse Tuck End Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/roll-end-tray.html",
+      "text": "Roll End Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/roll-end-tuck-top.html",
+      "text": "Roll End Tuck Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/roll-ends-with-lid.html",
+      "text": "Roll Ends With Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/seal-end.html",
+      "text": "Seal End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/seal-end-with-tear-open.html",
+      "text": "Seal End Tear Open"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/seal-end-with-tear-open-and-lock.html",
+      "text": "Seal End Open Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/straight-tuck-end.html",
+      "text": "Straight Tuck End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/simplex-tray.html",
+      "text": "Simplex Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/straight-tuck-with-customizable-window.html",
+      "text": "Straight T Window Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/straight-tuck-with-rise-up-insert.html",
+      "text": "Straight Tuck Rise Up"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/triangular-tray-lid.html",
+      "text": "Triangular Tray Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tuck-end-auto-bottom.html",
+      "text": "Tuck End Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/showcase-exhibit.html",
+      "text": "Showcase Exhibit"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/1-2-3-bottom-display-lid.html",
+      "text": "123 Bottom Display Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/4-corner-tray-tuck-top.html",
+      "text": "4 Corner Tray Tuck Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/4-corner-tray-with-lid.html",
+      "text": "4 Corner Tray With Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/auto-lock-cap.html",
+      "text": "Auto Lock Cap"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bag-shaped-box-auto-bottom.html",
+      "text": "Bag Shaped Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/brochure-display-holder.html",
+      "text": "Brochure Disp Holder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/display-box-auto-bottom.html",
+      "text": "Display Box A Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/door-hanger.html",
+      "text": "Door Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-display-lid.html",
+      "text": "Double Wall Display Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-frame-tray.html",
+      "text": "D Wall Frame Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-frame-tray-lid.html",
+      "text": "D Wall Frame Tray Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/double-wall-tuck-top.html",
+      "text": "Double Wall Tuck Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/easel-counter-display.html",
+      "text": "Easel Counter Display"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/easel-display-stand.html",
+      "text": "Easel Display Stand"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/five-panel-hanger.html",
+      "text": "Five Panel Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/folder-business-card.html",
+      "text": "Folder Business Card"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/four-corner-with-display-lid.html",
+      "text": "Four Corner Lid Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/hanger-product-holder.html",
+      "text": "Hanger Product Hold"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/header-card-bag-topper.html",
+      "text": "Header Card Bag Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/mailer-with-zipper.html",
+      "text": "Mailer With Zipper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/paper-brief-case.html",
+      "text": "Paper Brief Case"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/prism-shaped-box.html",
+      "text": "Prism Shaped Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/reinforced-sides-with-hinged-top.html",
+      "text": "Reinforced Sides Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/side-lock-tuck-top-display-box.html",
+      "text": "Side Lock Top D Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/slope-top-reverse-tuck-end.html",
+      "text": "Slope Top Reverse End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tuck-end-snap-lock-bottom.html",
+      "text": "Snap Lock Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/wine-bottle-carriers.html",
+      "text": "Wine Bottle Carriers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/top-closure.html",
+      "text": "Top Closure"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/document-folder.html",
+      "text": "Document Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/flower-shaped-top-closure.html",
+      "text": "Flower Shaped Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/front-cut-out-display-tray.html",
+      "text": "Cut Out Display Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-bag-auto-bottom.html",
+      "text": "Gable Bag A Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gable-bag-bottom-hanger.html",
+      "text": "Gable Bag Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pillow-box.html",
+      "text": "Pillow Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pop-counter-display-tray.html",
+      "text": "Counter Display Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/seal-end-with-perforated-top.html",
+      "text": "Seal End Perforated"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/self-lock-cake-box.html",
+      "text": "Self Lock Cake Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/two-piece.html",
+      "text": "Two Piece"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-bags.html",
+      "text": "Custom Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/paper-bags-printing.html",
+      "text": "Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-laminated-bags.html",
+      "text": "Luxury Laminated"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-un-laminated-bags.html",
+      "text": "Luxury Un-Laminated Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-kraft-bags-printing.html",
+      "text": "Luxury Kraft"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/twisted-handle-bags.html",
+      "text": "Twisted Handle"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/folded-handle-bags.html",
+      "text": "Folded Handle"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/counter-bags-printing.html",
+      "text": "Counter Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/eco-bags-printing.html",
+      "text": "Eco Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cotton-bags.html",
+      "text": "Cotton"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/canvas-bags.html",
+      "text": "Canvas"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/jute-bags.html",
+      "text": "Jute"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/non-woven-bags.html",
+      "text": "Non-woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/lam-non-woven-bags.html",
+      "text": "Lam. Non-woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/woven-bags.html",
+      "text": "Woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/mailing-bags.html",
+      "text": "Mailing Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/paper-mailing-bags.html",
+      "text": "Paper Mailing Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bubble-bags.html",
+      "text": "Bubble Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gift-wrapping.html",
+      "text": "Gift Wrapping"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tissue-paper-printing.html",
+      "text": "Tissue Paper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/ribbon-designing.html",
+      "text": "Ribbon"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/labels-printing.html",
+      "text": "Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/printed-boxes.html",
+      "text": "Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/rigid-boxes.html",
+      "text": "Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-boxes.html",
+      "text": "Luxury Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-book-boxes.html",
+      "text": "Luxury Book Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/credit-card-boxes.html",
+      "text": "Credit Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-rigid-boxes.html",
+      "text": "Luxury Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/photography-packaging.html",
+      "text": "Photography Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/round-boxes.html",
+      "text": "Round Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-sleeve-boxes.html",
+      "text": "Luxury Sleeve Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/sports-packaging-boxes.html",
+      "text": "Sports Packaging Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/boxes-for-hotels-and-spas.html",
+      "text": "Box For Hotels & Spas"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/gourmet-boxes.html",
+      "text": "Gourmet Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-wallet-boxes.html",
+      "text": "Luxury Wallet Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-presentation-boxes.html",
+      "text": "Luxury Presentation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/shoe-boxes.html",
+      "text": "Shoe Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/slip-case-boxes.html",
+      "text": "Slip Case Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/watch-boxes.html",
+      "text": "Watch Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cell-phone-packaging.html",
+      "text": "Cell Phone Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-catalogs-boxes.html",
+      "text": "Luxury Catalogs Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pharmacy-rigid-boxes.html",
+      "text": "Pharmacy Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/promotional-boxes-27.html",
+      "text": "Promotional Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/shoulder-boxes.html",
+      "text": "Shoulder Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-soap-boxes.html",
+      "text": "Luxury Soap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-rigid-boxes.html",
+      "text": "Custom Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/collapsible-rigid-boxes.html",
+      "text": "Collapsible Rigid Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/magnetic-closure-rigid-boxes.html",
+      "text": "Magnetic Closure Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/two-piece-rigid-setup-boxes.html",
+      "text": "Two Piece Setup Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/single-color-rigid-boxes.html",
+      "text": "Single Color Rigid Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/jewelry-boxes.html",
+      "text": "Jewelry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bangle-boxes.html",
+      "text": "Bangle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cufflink-boxes.html",
+      "text": "Cufflink Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/earring-boxes.html",
+      "text": "Earring Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/necklace-boxes.html",
+      "text": "Necklace Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/ring-boxes.html",
+      "text": "Ring Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/apparel-boxes.html",
+      "text": "Apparel Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/boxes-for-belts.html",
+      "text": "Boxes For Belts"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-boutique.html",
+      "text": "Luxury Boutique"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-textile-boxes.html",
+      "text": "Luxury Textile Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-lingerie-boxes.html",
+      "text": "Luxury Lingerie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/rigid-tie-boxes.html",
+      "text": "Rigid Tie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/rigid-gift-boxes.html",
+      "text": "Rigid Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-business-card-boxes.html",
+      "text": "Business Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/luxury-gift-boxes.html",
+      "text": "Luxury Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/food-gift-boxes.html",
+      "text": "Food Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-gift-card-boxes.html",
+      "text": "Custom Gift Card Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/other-cardstock-products.html",
+      "text": "Other Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bags.html",
+      "text": "Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/booklets.html",
+      "text": "Booklets"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bookmarks.html",
+      "text": "Bookmarks"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/brochures.html",
+      "text": "Brochures"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/business-cards.html",
+      "text": "Business Cards"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/cd-jackets.html",
+      "text": "CD Jackets"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/decals.html",
+      "text": "Decals"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/folders-printing.html",
+      "text": "Folders Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/pvc-bags.html",
+      "text": "PVC Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/backing-card-printing.html",
+      "text": "Backing card printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/table-tents.html",
+      "text": "Table Tents"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/tags-printing.html",
+      "text": "Tags Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/vinyl-banners.html",
+      "text": "Vinyl Banners"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/bespoke-cardboard-packaging-usa.html",
+      "text": "Bespoke Cardboard Packaging USA"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes.html",
+      "text": "Useful Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes.html",
+      "text": "Useful Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/clothing-packaging-boxes.html",
+      "text": "Clothing Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/burger-packaging-boxes.html",
+      "text": "Burger Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/sushi-packaging-boxes.html",
+      "text": "Sushi Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/taco-packaging-boxes.html",
+      "text": "Taco Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/shrimp-packaging-boxes.html",
+      "text": "Shrimp Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/elegant-packaging-boxes.html",
+      "text": "Elegant Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/bagel-packaging-boxes.html",
+      "text": "Bagel Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/holiday-packaging-boxes.html",
+      "text": "Holiday Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/blunt-packaging-boxes.html",
+      "text": "Blunt Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/shipping-packaging-boxes.html",
+      "text": "Shipping Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/promo-packaging-boxes.html",
+      "text": "Promo packaging boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/tshirt-packaging-boxes.html",
+      "text": "Tshirt Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/bonbon-packaging-boxes.html",
+      "text": "Bonbon Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/blank-packaging-boxes.html",
+      "text": "Blank Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/sandwich-packaging-boxes.html",
+      "text": "Sandwich Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/mailer-packaging-boxes.html",
+      "text": "Mailer Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/roller-packaging-boxes-255.html",
+      "text": "Roller Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/condom-packaging-boxes.html",
+      "text": "Condom Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/dessert-packaging-boxes.html",
+      "text": "Dessert Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/ecommerce-packaging-boxes.html",
+      "text": "Ecommerce Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes/knife-packaging-boxes.html",
+      "text": "Knife Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/useful-boxes",
+      "text": "Load More"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/blog",
+      "text": "Blog"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Start Generating Quote"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Free Quote"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Talk to an Expert"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/custom-bags.html",
+      "text": "View Category"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/by-industry.html",
+      "text": "View Category"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/rigid-boxes.html",
+      "text": "View Category"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/useful-boxes.html",
+      "text": "View Category"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/other-cardstock-products.html",
+      "text": "View Category"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/by-box-style.html",
+      "text": "View Category"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/",
+      "text": "bespokeboxesco.com"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Start Your Packaging Quote"
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Start Generating Quote"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/blog/",
+      "text": "View All →"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/blog/stylish-and-functional-15ml-bottle-packaging-boxes-for-your-products/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/blog/stylish-and-functional-15ml-bottle-packaging-boxes-for-your-products/",
+      "text": "Read More"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/blog/mastering-the-1-2-3-bottom-boxes-strategy-simplify-and-organize-like-a-pro/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/blog/mastering-the-1-2-3-bottom-boxes-strategy-simplify-and-organize-like-a-pro/",
+      "text": "Read More"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/blog/sweet-packaging-ideas-the-ultimate-guide-to-candy-boxes-4/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.bespokeboxesco.com/blog/sweet-packaging-ideas-the-ultimate-guide-to-candy-boxes-4/",
+      "text": "Read More"
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-boxes.html",
+      "text": "Cosmetic Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/eco-friendly-boxes.html",
+      "text": "Eco Friendly Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/food-and-beverage.html",
+      "text": "Food And Beverage"
+    },
+    {
+      "tag": "a",
+      "href": "/double-wall-display-lid.html",
+      "text": "Double Wall Display Lid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/display-packaging.html",
+      "text": "Product Display Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.provenexpert.com/pdt-r-us/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/about-us/",
+      "text": "About"
+    },
+    {
+      "tag": "a",
+      "href": "/privacy-policy/",
+      "text": "Privacy"
+    },
+    {
+      "tag": "a",
+      "href": "/shipping-and-returns/",
+      "text": "Shipping"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Contact"
+    },
+    {
+      "tag": "script",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js",
+      "text": ""
+    }
+  ],
+  "telephone_links": [
+    "tel:6463890938",
+    "wa.me/16463890938?text=Hello%2C%20I%20am%20interested%20in%20custom%20boxes%20from%20bespokeboxesco.com.%20I%20need%20more%20details."
+  ],
+  "tracking_ids": [
+    "UA-134766474-1",
+    "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua",
+    "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+  ],
+  "external_domains": [
+    "cdn.jsdelivr.net",
+    "wa.me",
+    "www.bespokeboxesco.com",
+    "www.googletagmanager.com",
+    "www.provenexpert.com"
+  ],
+  "footer_text": "Get high-quality, fully customisable Custom Boxes at great prices. Perfect for clothing, jewellery, candles, and retail products, our durable and stylish tags help your brand stand out with eco-friendly materials and premium finishes. Featured Categories Cosmetic Packaging Boxes Eco Friendly Packaging Boxes Food And Beverage Double Wall Display Lid Boxes Product Display Boxes Trusted Quality Payment Methods © 2026 Bespoke Boxes . All Rights Reserved. About Privacy Shipping Contact"
+}

@@ -1,0 +1,3913 @@
+[
+  {
+    "host": "astickerprinting.co.uk",
+    "kind": "page",
+    "url": "https://www.astickerprinting.co.uk/",
+    "status": 200,
+    "final": "https://www.astickerprinting.co.uk/",
+    "bytes": 108689,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533",
+      "7993 6533"
+    ],
+    "lang": "en",
+    "title": "Custom Sticker Printing UK | Stickers & Labels to Order",
+    "hreflang": [
+      {
+        "lang": "en-us",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-gb",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-au",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      }
+    ],
+    "canonical": "https://www.astickerprinting.co.uk/",
+    "localized_links": []
+  },
+  {
+    "host": "astickerprinting.co.uk",
+    "kind": "robots",
+    "url": "https://www.astickerprinting.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.astickerprinting.co.uk/robots.txt",
+    "bytes": 1202,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.astickerprinting.co.uk/sitemap.xml"
+    ]
+  },
+  {
+    "host": "astickerprinting.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.astickerprinting.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.astickerprinting.co.uk/sitemap.xml",
+    "bytes": 116635,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 585,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "astickerprinting.co.uk",
+    "kind": "path",
+    "url": "https://www.astickerprinting.co.uk/de/",
+    "status": 404,
+    "final": "https://www.astickerprinting.co.uk/de/",
+    "bytes": 87365,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533",
+      "7993 6533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      }
+    ],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "astickerprinting.co.uk",
+    "kind": "path",
+    "url": "https://www.astickerprinting.co.uk/es/",
+    "status": 404,
+    "final": "https://www.astickerprinting.co.uk/es/",
+    "bytes": 87365,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533",
+      "7993 6533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      }
+    ],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "astickerprinting.co.uk",
+    "kind": "path",
+    "url": "https://www.astickerprinting.co.uk/fr/",
+    "status": 404,
+    "final": "https://www.astickerprinting.co.uk/fr/",
+    "bytes": 87365,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533",
+      "7993 6533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      }
+    ],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "astickerprinting.co.uk",
+    "kind": "path",
+    "url": "https://www.astickerprinting.co.uk/it/",
+    "status": 404,
+    "final": "https://www.astickerprinting.co.uk/it/",
+    "bytes": 87365,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533",
+      "7993 6533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      }
+    ],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "astickerprinting.co.uk",
+    "kind": "path",
+    "url": "https://www.astickerprinting.co.uk/pl/",
+    "status": 404,
+    "final": "https://www.astickerprinting.co.uk/pl/",
+    "bytes": 87365,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533",
+      "7993 6533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      }
+    ],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "astickerprinting.co.uk",
+    "kind": "path",
+    "url": "https://www.astickerprinting.co.uk/ru/",
+    "status": 404,
+    "final": "https://www.astickerprinting.co.uk/ru/",
+    "bytes": 87365,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533",
+      "7993 6533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      }
+    ],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "astickerprinting.com",
+    "kind": "page",
+    "url": "https://www.astickerprinting.com/",
+    "status": 200,
+    "final": "https://www.astickerprinting.com/",
+    "bytes": 134077,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Custom Sticker & Label Printing | AStickerPrinting",
+    "hreflang": [
+      {
+        "lang": "en-us",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-gb",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-au",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      }
+    ],
+    "canonical": "https://www.astickerprinting.com/",
+    "localized_links": []
+  },
+  {
+    "host": "astickerprinting.com",
+    "kind": "robots",
+    "url": "https://www.astickerprinting.com/robots.txt",
+    "status": 200,
+    "final": "https://www.astickerprinting.com/robots.txt",
+    "bytes": 1209,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.astickerprinting.com/sitemap.xml",
+      "https://www.astickerprinting.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "astickerprinting.com",
+    "kind": "sitemap",
+    "url": "https://www.astickerprinting.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.astickerprinting.com/sitemap.xml",
+    "bytes": 93110,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 530,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "astickerprinting.com.au",
+    "kind": "page",
+    "url": "https://www.astickerprinting.com.au/",
+    "status": 200,
+    "final": "https://www.astickerprinting.com.au/",
+    "bytes": 132502,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "8520 3915"
+    ],
+    "lang": "en",
+    "title": "Custom Sticker & Label Printing | AStickerPrinting AU",
+    "hreflang": [
+      {
+        "lang": "en-us",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-gb",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-au",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      },
+      {
+        "lang": "en-US",
+        "url": "https://www.astickerprinting.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.astickerprinting.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.astickerprinting.com.au/"
+      }
+    ],
+    "canonical": "https://www.astickerprinting.com.au/",
+    "localized_links": []
+  },
+  {
+    "host": "astickerprinting.com.au",
+    "kind": "robots",
+    "url": "https://www.astickerprinting.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.astickerprinting.com.au/robots.txt",
+    "bytes": 1364,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.astickerprinting.com.au/sitemap.xml"
+    ]
+  },
+  {
+    "host": "astickerprinting.com.au",
+    "kind": "sitemap",
+    "url": "https://www.astickerprinting.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.astickerprinting.com.au/sitemap.xml",
+    "bytes": 95466,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 475,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "bespokeboxesco.co.uk",
+    "kind": "page",
+    "url": "https://www.bespokeboxesco.co.uk/",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.co.uk/",
+    "bytes": 259246,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Get 100% Premium Bespoke Boxes | Custom Printed Boxes UK",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "bespokeboxesco.co.uk",
+    "kind": "robots",
+    "url": "https://www.bespokeboxesco.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.co.uk/robots.txt",
+    "bytes": 1209,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.bespokeboxesco.co.uk/sitemap.xml",
+      "https://www.bespokeboxesco.co.uk/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "bespokeboxesco.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.bespokeboxesco.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.co.uk/sitemap.xml",
+    "bytes": 54894,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 342,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "bespokeboxesco.com",
+    "kind": "page",
+    "url": "https://www.bespokeboxesco.com/",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.com/",
+    "bytes": 216386,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938"
+    ],
+    "lang": "en",
+    "title": "Custom Boxes & Bespoke Packaging – Cardboard Boxes USA",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "bespokeboxesco.com",
+    "kind": "robots",
+    "url": "https://www.bespokeboxesco.com/robots.txt",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.com/robots.txt",
+    "bytes": 1205,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.bespokeboxesco.com/sitemap.xml",
+      "https://www.bespokeboxesco.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "bespokeboxesco.com",
+    "kind": "sitemap",
+    "url": "https://www.bespokeboxesco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.com/sitemap.xml",
+    "bytes": 101102,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 603,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "bespokeboxesco.com.au",
+    "kind": "page",
+    "url": "https://www.bespokeboxesco.com.au/",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.com.au/",
+    "bytes": 28012,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "Premium Quality Bespoke Packaging Boxes | Custom Printed Boxes",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "bespokeboxesco.com.au",
+    "kind": "robots",
+    "url": "https://www.bespokeboxesco.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.com.au/robots.txt",
+    "bytes": 1916,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": []
+  },
+  {
+    "host": "bespokeboxesco.com.au",
+    "kind": "sitemap",
+    "url": "https://www.bespokeboxesco.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.com.au/sitemap.xml",
+    "bytes": 56154,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 348,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "bespokeboxesco.com.au",
+    "kind": "sample",
+    "url": "https://www.bespokeboxesco.com.au/custom-boxes.html",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.com.au/custom-boxes.html",
+    "bytes": 254168,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "8520 3915"
+    ],
+    "lang": "en",
+    "title": "Buy Custom Boxes | Custom Packaging Boxes Solutions Australia",
+    "hreflang": [],
+    "canonical": "https://www.bespokeboxesco.com.au/custom-boxes.html",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "page",
+    "url": "https://www.customboxesco.co.uk/",
+    "status": 200,
+    "final": "https://customboxesco.co.uk/",
+    "bytes": 93549,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Custom Boxes | Buy Custom Boxes | Custom Boxes Packaging",
+    "hreflang": [],
+    "canonical": "https://customboxesco.co.uk/",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "robots",
+    "url": "https://www.customboxesco.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://customboxesco.co.uk/robots.txt",
+    "bytes": 1199,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://customboxesco.co.uk/sitemap.xml",
+      "https://customboxesco.co.uk/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.customboxesco.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://customboxesco.co.uk/sitemap.xml",
+    "bytes": 168947,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1099,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "path",
+    "url": "https://www.customboxesco.co.uk/de/",
+    "status": 404,
+    "final": "https://customboxesco.co.uk/de/",
+    "bytes": 70731,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "path",
+    "url": "https://www.customboxesco.co.uk/es/",
+    "status": 404,
+    "final": "https://customboxesco.co.uk/es/",
+    "bytes": 70731,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "path",
+    "url": "https://www.customboxesco.co.uk/fr/",
+    "status": 404,
+    "final": "https://customboxesco.co.uk/fr/",
+    "bytes": 70731,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "path",
+    "url": "https://www.customboxesco.co.uk/it/",
+    "status": 404,
+    "final": "https://customboxesco.co.uk/it/",
+    "bytes": 70731,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "path",
+    "url": "https://www.customboxesco.co.uk/pl/",
+    "status": 404,
+    "final": "https://customboxesco.co.uk/pl/",
+    "bytes": 70731,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "path",
+    "url": "https://www.customboxesco.co.uk/ru/",
+    "status": 404,
+    "final": "https://customboxesco.co.uk/ru/",
+    "bytes": 70731,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.com",
+    "kind": "page",
+    "url": "https://www.customboxesco.com/",
+    "status": 200,
+    "final": "https://www.customboxesco.com/",
+    "bytes": 132297,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "en",
+    "title": "Custom Boxes | Custom Printed Packaging Boxes | CustomBoxesCo",
+    "hreflang": [],
+    "canonical": "https://www.customboxesco.com/",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.com",
+    "kind": "robots",
+    "url": "https://www.customboxesco.com/robots.txt",
+    "status": 200,
+    "final": "https://www.customboxesco.com/robots.txt",
+    "bytes": 1203,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.customboxesco.com/sitemap.xml",
+      "https://www.customboxesco.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "customboxesco.com",
+    "kind": "sitemap",
+    "url": "https://www.customboxesco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.customboxesco.com/sitemap.xml",
+    "bytes": 208045,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1219,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customboxesco.com",
+    "kind": "path",
+    "url": "https://www.customboxesco.com/de/",
+    "status": 404,
+    "final": "https://www.customboxesco.com/de",
+    "bytes": 104094,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "404 Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.com",
+    "kind": "path",
+    "url": "https://www.customboxesco.com/es/",
+    "status": 404,
+    "final": "https://www.customboxesco.com/es",
+    "bytes": 104094,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "404 Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.com",
+    "kind": "path",
+    "url": "https://www.customboxesco.com/fr/",
+    "status": 404,
+    "final": "https://www.customboxesco.com/fr",
+    "bytes": 104094,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "404 Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.com",
+    "kind": "path",
+    "url": "https://www.customboxesco.com/it/",
+    "status": 404,
+    "final": "https://www.customboxesco.com/it",
+    "bytes": 104094,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "404 Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.com",
+    "kind": "path",
+    "url": "https://www.customboxesco.com/pl/",
+    "status": 404,
+    "final": "https://www.customboxesco.com/pl",
+    "bytes": 104094,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "404 Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.com",
+    "kind": "path",
+    "url": "https://www.customboxesco.com/ru/",
+    "status": 404,
+    "final": "https://www.customboxesco.com/ru",
+    "bytes": 104094,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "404 Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.com.au",
+    "kind": "page",
+    "url": "https://www.customboxesco.com.au/",
+    "status": 200,
+    "final": "https://www.customboxesco.com.au/",
+    "bytes": 144632,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "en",
+    "title": "Custom Boxes | Custom Printed Boxes | Custom Packaging Boxes",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesco.com.au",
+    "kind": "robots",
+    "url": "https://www.customboxesco.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.customboxesco.com.au/robots.txt",
+    "bytes": 1916,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": []
+  },
+  {
+    "host": "customboxesco.com.au",
+    "kind": "sitemap",
+    "url": "https://www.customboxesco.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.customboxesco.com.au/sitemap.xml",
+    "bytes": 167966,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1060,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customboxesshop.co.uk",
+    "kind": "page",
+    "url": "https://www.customboxesshop.co.uk/",
+    "status": 200,
+    "final": "https://www.customboxesshop.co.uk/",
+    "bytes": 198097,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Buy Custom Boxes | Custom Packaging Online | Custom Printed Boxes",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesshop.co.uk",
+    "kind": "robots",
+    "url": "https://www.customboxesshop.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.customboxesshop.co.uk/robots.txt",
+    "bytes": 1206,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.customboxesshop.co.uk/sitemap.xml",
+      "https://www.customboxesshop.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "customboxesshop.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.customboxesshop.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.customboxesshop.co.uk/sitemap.xml",
+    "bytes": 55391,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 343,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customboxesshop.com",
+    "kind": "page",
+    "url": "https://www.customboxesshop.com/",
+    "status": 200,
+    "final": "https://www.customboxesshop.com/",
+    "bytes": 209702,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "en",
+    "title": "Buy Custom Boxes | Order Custom Printed Boxes Wholesale",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesshop.com",
+    "kind": "robots",
+    "url": "https://www.customboxesshop.com/robots.txt",
+    "status": 200,
+    "final": "https://www.customboxesshop.com/robots.txt",
+    "bytes": 1207,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.customboxesshop.com/sitemap.xml",
+      "https://www.customboxesshop.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "customboxesshop.com",
+    "kind": "sitemap",
+    "url": "https://www.customboxesshop.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.customboxesshop.com/sitemap.xml",
+    "bytes": 82581,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 500,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customboxesshop.com.au",
+    "kind": "page",
+    "url": "https://www.customboxesshop.com.au/",
+    "status": 200,
+    "final": "https://www.customboxesshop.com.au/",
+    "bytes": 20473,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "Custom Boxes Australia | Design & order Custom Printed Boxes",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxesshop.com.au",
+    "kind": "robots",
+    "url": "https://www.customboxesshop.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.customboxesshop.com.au/robots.txt",
+    "bytes": 1916,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": []
+  },
+  {
+    "host": "customboxesshop.com.au",
+    "kind": "sitemap",
+    "url": "https://www.customboxesshop.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.customboxesshop.com.au/sitemap.xml",
+    "bytes": 56015,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 345,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customboxesshop.com.au",
+    "kind": "sample",
+    "url": "https://www.customboxesshop.com.au/custom-boxes.html",
+    "status": 200,
+    "final": "https://www.customboxesshop.com.au/custom-boxes.html",
+    "bytes": 231418,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "8520 3915"
+    ],
+    "lang": "en",
+    "title": "Printed Custom Boxes | Customized Box Packaging And Printing",
+    "hreflang": [],
+    "canonical": "https://www.customboxesshop.com.au/custom-boxes.html",
+    "localized_links": []
+  },
+  {
+    "host": "customcardboardboxesco.co.uk",
+    "kind": "page",
+    "url": "https://www.customcardboardboxesco.co.uk/",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.co.uk/",
+    "bytes": 270872,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Premium Quality Custom cardboard boxes | Custom Printed Boxes",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customcardboardboxesco.co.uk",
+    "kind": "robots",
+    "url": "https://www.customcardboardboxesco.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.co.uk/robots.txt",
+    "bytes": 1220,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.customcardboardboxesco.co.uk/sitemap.xml",
+      "https://www.customcardboardboxesco.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "customcardboardboxesco.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.customcardboardboxesco.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.co.uk/sitemap.xml",
+    "bytes": 50372,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 299,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customcardboardboxesco.com",
+    "kind": "page",
+    "url": "https://www.customcardboardboxesco.com/",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.com/",
+    "bytes": 281607,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Custom Cardboard Boxes | Wholesale Packaging Solutions USA",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customcardboardboxesco.com",
+    "kind": "robots",
+    "url": "https://www.customcardboardboxesco.com/robots.txt",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.com/robots.txt",
+    "bytes": 1221,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.customcardboardboxesco.com/sitemap.xml",
+      "https://www.customcardboardboxesco.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "customcardboardboxesco.com",
+    "kind": "sitemap",
+    "url": "https://www.customcardboardboxesco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.com/sitemap.xml",
+    "bytes": 86843,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 500,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customcardboardboxesco.com.au",
+    "kind": "page",
+    "url": "https://www.customcardboardboxesco.com.au/",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.com.au/",
+    "bytes": 28576,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "Top Quality Custom Cardboard Boxes | Custom Packaging Australia",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customcardboardboxesco.com.au",
+    "kind": "robots",
+    "url": "https://www.customcardboardboxesco.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.com.au/robots.txt",
+    "bytes": 1916,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": []
+  },
+  {
+    "host": "customcardboardboxesco.com.au",
+    "kind": "sitemap",
+    "url": "https://www.customcardboardboxesco.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.com.au/sitemap.xml",
+    "bytes": 51806,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 306,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customcardboardboxesco.com.au",
+    "kind": "sample",
+    "url": "https://www.customcardboardboxesco.com.au/double-wall-display-lid.html",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.com.au/double-wall-display-lid.html",
+    "bytes": 273196,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "8520 3915"
+    ],
+    "lang": "en",
+    "title": "Boxes and Packaging Solutions | Double Wall Display Lid",
+    "hreflang": [],
+    "canonical": "https://www.customcardboardboxesco.com.au/double-wall-display-lid.html",
+    "localized_links": []
+  },
+  {
+    "host": "custompackagingboxesco.co.uk",
+    "kind": "page",
+    "url": "https://www.custompackagingboxesco.co.uk/",
+    "status": 200,
+    "final": "https://www.custompackagingboxesco.co.uk/",
+    "bytes": 260121,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Custom Packaging Boxes | Buy Custom Boxes | Custom Printed Boxes",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "custompackagingboxesco.co.uk",
+    "kind": "robots",
+    "url": "https://www.custompackagingboxesco.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.custompackagingboxesco.co.uk/robots.txt",
+    "bytes": 1220,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.custompackagingboxesco.co.uk/sitemap.xml",
+      "https://www.custompackagingboxesco.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "custompackagingboxesco.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.custompackagingboxesco.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.custompackagingboxesco.co.uk/sitemap.xml",
+    "bytes": 57789,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 343,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "custompackagingboxesco.com",
+    "kind": "page",
+    "url": "https://www.custompackagingboxesco.com/",
+    "status": 200,
+    "final": "https://www.custompackagingboxesco.com/",
+    "bytes": 305635,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Custom Packaging Boxes | Wholesale Printed Boxes USA",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "custompackagingboxesco.com",
+    "kind": "robots",
+    "url": "https://www.custompackagingboxesco.com/robots.txt",
+    "status": 200,
+    "final": "https://www.custompackagingboxesco.com/robots.txt",
+    "bytes": 1221,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.custompackagingboxesco.com/sitemap.xml",
+      "https://www.custompackagingboxesco.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "custompackagingboxesco.com",
+    "kind": "sitemap",
+    "url": "https://www.custompackagingboxesco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.custompackagingboxesco.com/sitemap.xml",
+    "bytes": 95471,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 518,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "custompackagingboxesco.com.au",
+    "kind": "page",
+    "url": "https://www.custompackagingboxesco.com.au/",
+    "status": 200,
+    "final": "https://www.custompackagingboxesco.com.au/",
+    "bytes": 285703,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "8520 3915"
+    ],
+    "lang": "en",
+    "title": "Custom Packaging Boxes Australia | Custom Packaging & Printing",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "custompackagingboxesco.com.au",
+    "kind": "robots",
+    "url": "https://www.custompackagingboxesco.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.custompackagingboxesco.com.au/robots.txt",
+    "bytes": 1916,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": []
+  },
+  {
+    "host": "custompackagingboxesco.com.au",
+    "kind": "sitemap",
+    "url": "https://www.custompackagingboxesco.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.custompackagingboxesco.com.au/sitemap.xml",
+    "bytes": 58918,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 348,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "custompaperbagsco.co.uk",
+    "kind": "page",
+    "url": "https://www.custompaperbagsco.co.uk/",
+    "status": 200,
+    "final": "https://www.custompaperbagsco.co.uk/",
+    "bytes": 50346,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en-GB",
+    "title": "Printed Paper Bags UK | Custom Paper Carrier Bags",
+    "hreflang": [
+      {
+        "lang": "en-gb",
+        "url": "https://www.custompaperbagsco.co.uk/"
+      },
+      {
+        "lang": "en-us",
+        "url": "https://www.custompaperbagsco.com/"
+      },
+      {
+        "lang": "en-au",
+        "url": "https://www.custompaperbagsco.com.au/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.custompaperbagsco.com/"
+      }
+    ],
+    "canonical": "https://www.custompaperbagsco.co.uk/",
+    "localized_links": []
+  },
+  {
+    "host": "custompaperbagsco.co.uk",
+    "kind": "robots",
+    "url": "https://www.custompaperbagsco.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.custompaperbagsco.co.uk/robots.txt",
+    "bytes": 148,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.custompaperbagsco.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "custompaperbagsco.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.custompaperbagsco.co.uk/sitemap.xml",
+    "status": 404,
+    "final": "https://www.custompaperbagsco.co.uk/sitemap.xml",
+    "bytes": 17785,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en-GB",
+    "title": "Page not found | Custom Paper Bags Co",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "custompaperbagsco.co.uk",
+    "kind": "path",
+    "url": "https://www.custompaperbagsco.co.uk/de/",
+    "status": 404,
+    "final": "https://www.custompaperbagsco.co.uk/de/",
+    "bytes": 17785,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en-GB",
+    "title": "Page not found | Custom Paper Bags Co",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.custompaperbagsco.co.uk/de/",
+        "label": "Bag types"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/de/",
+        "label": "Buy"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/de/",
+        "label": "Sizes"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/de/",
+        "label": "Trades"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/de/",
+        "label": "Company"
+      }
+    ]
+  },
+  {
+    "host": "custompaperbagsco.co.uk",
+    "kind": "path",
+    "url": "https://www.custompaperbagsco.co.uk/es/",
+    "status": 404,
+    "final": "https://www.custompaperbagsco.co.uk/es/",
+    "bytes": 17785,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en-GB",
+    "title": "Page not found | Custom Paper Bags Co",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.custompaperbagsco.co.uk/es/",
+        "label": "Bag types"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/es/",
+        "label": "Buy"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/es/",
+        "label": "Sizes"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/es/",
+        "label": "Trades"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/es/",
+        "label": "Company"
+      }
+    ]
+  },
+  {
+    "host": "custompaperbagsco.co.uk",
+    "kind": "path",
+    "url": "https://www.custompaperbagsco.co.uk/fr/",
+    "status": 404,
+    "final": "https://www.custompaperbagsco.co.uk/fr/",
+    "bytes": 17785,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en-GB",
+    "title": "Page not found | Custom Paper Bags Co",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.custompaperbagsco.co.uk/fr/",
+        "label": "Bag types"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/fr/",
+        "label": "Buy"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/fr/",
+        "label": "Sizes"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/fr/",
+        "label": "Trades"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/fr/",
+        "label": "Company"
+      }
+    ]
+  },
+  {
+    "host": "custompaperbagsco.co.uk",
+    "kind": "path",
+    "url": "https://www.custompaperbagsco.co.uk/it/",
+    "status": 404,
+    "final": "https://www.custompaperbagsco.co.uk/it/",
+    "bytes": 17785,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en-GB",
+    "title": "Page not found | Custom Paper Bags Co",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.custompaperbagsco.co.uk/it/",
+        "label": "Bag types"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/it/",
+        "label": "Buy"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/it/",
+        "label": "Sizes"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/it/",
+        "label": "Trades"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/it/",
+        "label": "Company"
+      }
+    ]
+  },
+  {
+    "host": "custompaperbagsco.co.uk",
+    "kind": "path",
+    "url": "https://www.custompaperbagsco.co.uk/pl/",
+    "status": 404,
+    "final": "https://www.custompaperbagsco.co.uk/pl/",
+    "bytes": 17785,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en-GB",
+    "title": "Page not found | Custom Paper Bags Co",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.custompaperbagsco.co.uk/pl/",
+        "label": "Bag types"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/pl/",
+        "label": "Buy"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/pl/",
+        "label": "Sizes"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/pl/",
+        "label": "Trades"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/pl/",
+        "label": "Company"
+      }
+    ]
+  },
+  {
+    "host": "custompaperbagsco.co.uk",
+    "kind": "path",
+    "url": "https://www.custompaperbagsco.co.uk/ru/",
+    "status": 404,
+    "final": "https://www.custompaperbagsco.co.uk/ru/",
+    "bytes": 17785,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en-GB",
+    "title": "Page not found | Custom Paper Bags Co",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.custompaperbagsco.co.uk/ru/",
+        "label": "Bag types"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/ru/",
+        "label": "Buy"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/ru/",
+        "label": "Sizes"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/ru/",
+        "label": "Trades"
+      },
+      {
+        "url": "https://www.custompaperbagsco.co.uk/ru/",
+        "label": "Company"
+      }
+    ]
+  },
+  {
+    "host": "custompaperbagsco.com",
+    "kind": "page",
+    "url": "https://www.custompaperbagsco.com/",
+    "status": 200,
+    "final": "https://www.custompaperbagsco.com/",
+    "bytes": 63982,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938"
+    ],
+    "lang": "en-US",
+    "title": "Custom Paper Bags Co | Printed Paper Bags Made to Your Size",
+    "hreflang": [
+      {
+        "lang": "en-us",
+        "url": "https://www.custompaperbagsco.com/"
+      },
+      {
+        "lang": "en-gb",
+        "url": "https://www.custompaperbagsco.co.uk/"
+      },
+      {
+        "lang": "en-au",
+        "url": "https://www.custompaperbagsco.com.au/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.custompaperbagsco.com/"
+      }
+    ],
+    "canonical": "https://www.custompaperbagsco.com/",
+    "localized_links": []
+  },
+  {
+    "host": "custompaperbagsco.com",
+    "kind": "robots",
+    "url": "https://www.custompaperbagsco.com/robots.txt",
+    "status": 200,
+    "final": "https://www.custompaperbagsco.com/robots.txt",
+    "bytes": 497,
+    "ctype": "text/plain; charset=utf-8",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.custompaperbagsco.com/sitemap.xml",
+      "https://www.custompaperbagsco.com/sitemap.xml",
+      "https://www.custompaperbagsco.com/cpb-sitemap.xml"
+    ]
+  },
+  {
+    "host": "custompaperbagsco.com",
+    "kind": "sitemap",
+    "url": "https://www.custompaperbagsco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.custompaperbagsco.com/sitemap.xml",
+    "bytes": 8634,
+    "ctype": "application/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 65,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "custompaperbagsco.com.au",
+    "kind": "page",
+    "url": "https://www.custompaperbagsco.com.au/",
+    "status": 200,
+    "final": "https://www.custompaperbagsco.com.au/",
+    "bytes": 60236,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "8520 3915"
+    ],
+    "lang": "en-AU",
+    "title": "Custom Paper Bags Australia | Printed Paper Carry Bags",
+    "hreflang": [
+      {
+        "lang": "en-au",
+        "url": "https://www.custompaperbagsco.com.au/"
+      },
+      {
+        "lang": "en-gb",
+        "url": "https://www.custompaperbagsco.co.uk/"
+      },
+      {
+        "lang": "en-us",
+        "url": "https://www.custompaperbagsco.com/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.custompaperbagsco.com/"
+      }
+    ],
+    "canonical": "https://www.custompaperbagsco.com.au/",
+    "localized_links": []
+  },
+  {
+    "host": "custompaperbagsco.com.au",
+    "kind": "robots",
+    "url": "https://www.custompaperbagsco.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.custompaperbagsco.com.au/robots.txt",
+    "bytes": 186,
+    "ctype": "text/plain; charset=utf-8",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.custompaperbagsco.com.au/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "custompaperbagsco.com.au",
+    "kind": "sitemap",
+    "url": "https://www.custompaperbagsco.com.au/sitemap.xml",
+    "status": 404,
+    "final": "https://www.custompaperbagsco.com.au/sitemap.xml",
+    "bytes": 24363,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "8520 3915"
+    ],
+    "lang": "en-AU",
+    "title": "Page not found | Custom Paper Bags Co",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customstickers.us",
+    "kind": "page",
+    "url": "https://www.customstickers.us/",
+    "status": 200,
+    "final": "https://www.customstickers.us/",
+    "bytes": 123631,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "en",
+    "title": "Order Custom Stickers | Custom Vinyl Stickers | Cheap Customized Stickers",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customstickers.us",
+    "kind": "robots",
+    "url": "https://www.customstickers.us/robots.txt",
+    "status": 200,
+    "final": "https://www.customstickers.us/robots.txt",
+    "bytes": 1203,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.customstickers.us/sitemap.xml",
+      "https://www.customstickers.us/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "customstickers.us",
+    "kind": "sitemap",
+    "url": "https://www.customstickers.us/sitemap.xml",
+    "status": 200,
+    "final": "https://www.customstickers.us/sitemap.xml",
+    "bytes": 169166,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 963,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "designmediaservice.com",
+    "kind": "page",
+    "url": "https://designmediaservice.com/",
+    "status": 200,
+    "final": "https://www.designmediaservice.com/",
+    "bytes": 43416,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "designmediaservice.com",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "",
+    "title": "Design Media Service | Online Packaging, Labelling, Hang Tags and Custom Printing Service Provider All Over The Globe",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "designmediaservice.com",
+    "kind": "robots",
+    "url": "https://designmediaservice.com/robots.txt",
+    "status": 200,
+    "final": "https://www.designmediaservice.com/robots.txt",
+    "bytes": 440,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "/sitemap.xml"
+    ]
+  },
+  {
+    "host": "designmediaservice.com",
+    "kind": "sitemap",
+    "url": "https://designmediaservice.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.designmediaservice.com/404",
+    "bytes": 42682,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "designmediaservice.com",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "",
+    "title": "404",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "designmediaservice.com",
+    "kind": "path",
+    "url": "https://designmediaservice.com/de/",
+    "status": 200,
+    "final": "https://www.designmediaservice.com/404",
+    "bytes": 42682,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "designmediaservice.com",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "",
+    "title": "404",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "designmediaservice.com",
+    "kind": "path",
+    "url": "https://designmediaservice.com/es/",
+    "status": 200,
+    "final": "https://www.designmediaservice.com/404",
+    "bytes": 42682,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "designmediaservice.com",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "",
+    "title": "404",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "designmediaservice.com",
+    "kind": "path",
+    "url": "https://designmediaservice.com/fr/",
+    "status": 200,
+    "final": "https://www.designmediaservice.com/404",
+    "bytes": 42682,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "designmediaservice.com",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "",
+    "title": "404",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "designmediaservice.com",
+    "kind": "path",
+    "url": "https://designmediaservice.com/it/",
+    "status": 200,
+    "final": "https://www.designmediaservice.com/404",
+    "bytes": 42682,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "designmediaservice.com",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "",
+    "title": "404",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "designmediaservice.com",
+    "kind": "path",
+    "url": "https://designmediaservice.com/pl/",
+    "status": 200,
+    "final": "https://www.designmediaservice.com/404",
+    "bytes": 42682,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "designmediaservice.com",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "",
+    "title": "404",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "designmediaservice.com",
+    "kind": "path",
+    "url": "https://designmediaservice.com/ru/",
+    "status": 200,
+    "final": "https://www.designmediaservice.com/404",
+    "bytes": 42682,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "designmediaservice.com",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "",
+    "title": "404",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "hangtagsco.com",
+    "kind": "page",
+    "url": "https://www.hangtagsco.com/",
+    "status": 200,
+    "final": "https://www.hangtagsco.com/",
+    "bytes": 123219,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938"
+    ],
+    "lang": "en",
+    "title": "Custom Hang Tags | Design Your Own, 100 Minimum",
+    "hreflang": [
+      {
+        "lang": "en-us",
+        "url": "https://www.hangtagsco.com/"
+      },
+      {
+        "lang": "en-gb",
+        "url": "https://swingtagsco.co.uk/"
+      },
+      {
+        "lang": "en-au",
+        "url": "https://www.swingtagsco.com.au/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.hangtagsco.com/"
+      }
+    ],
+    "canonical": "https://www.hangtagsco.com/",
+    "localized_links": []
+  },
+  {
+    "host": "hangtagsco.com",
+    "kind": "robots",
+    "url": "https://www.hangtagsco.com/robots.txt",
+    "status": 200,
+    "final": "https://www.hangtagsco.com/robots.txt",
+    "bytes": 1176,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.hangtagsco.com/sitemap.xml",
+      "https://www.hangtagsco.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "hangtagsco.com",
+    "kind": "sitemap",
+    "url": "https://www.hangtagsco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.hangtagsco.com/sitemap.xml",
+    "bytes": 80714,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 508,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "labelprintingco.co.uk",
+    "kind": "page",
+    "url": "https://www.labelprintingco.co.uk/",
+    "status": 200,
+    "final": "https://www.labelprintingco.co.uk/",
+    "bytes": 132496,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Label Printing | Product Labels Printing | Barcode Label Printing",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "labelprintingco.co.uk",
+    "kind": "robots",
+    "url": "https://www.labelprintingco.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.labelprintingco.co.uk/robots.txt",
+    "bytes": 1206,
+    "ctype": "text/plain; charset=UTF-8",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.labelprintingco.co.uk/sitemap.xml",
+      "https://www.labelprintingco.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "labelprintingco.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.labelprintingco.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.labelprintingco.co.uk/sitemap.xml",
+    "bytes": 58880,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 379,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "labelprintingco.com",
+    "kind": "page",
+    "url": "https://www.labelprintingco.com/",
+    "status": 200,
+    "final": "https://www.labelprintingco.com/",
+    "bytes": 124244,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Label Printing | Address Labels Printing | Waterproof Labels USA",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "labelprintingco.com",
+    "kind": "robots",
+    "url": "https://www.labelprintingco.com/robots.txt",
+    "status": 200,
+    "final": "https://www.labelprintingco.com/robots.txt",
+    "bytes": 1207,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.labelprintingco.com/sitemap.xml",
+      "https://www.labelprintingco.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "labelprintingco.com",
+    "kind": "sitemap",
+    "url": "https://www.labelprintingco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.labelprintingco.com/sitemap.xml",
+    "bytes": 235118,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1262,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "labelprintingco.com.au",
+    "kind": "page",
+    "url": "https://www.labelprintingco.com.au/",
+    "status": 200,
+    "final": "https://www.labelprintingco.com.au/",
+    "bytes": 23335,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "Label Printing | Product Label Printing | Labels Printing Services",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "labelprintingco.com.au",
+    "kind": "robots",
+    "url": "https://www.labelprintingco.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.labelprintingco.com.au/robots.txt",
+    "bytes": 1925,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": []
+  },
+  {
+    "host": "labelprintingco.com.au",
+    "kind": "sitemap",
+    "url": "https://www.labelprintingco.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.labelprintingco.com.au/sitemap.xml",
+    "bytes": 22749,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "labelprintingco.com.au",
+    "kind": "sample",
+    "url": "https://www.labelprintingco.com.au/product-label-printing.html",
+    "status": 200,
+    "final": "https://www.labelprintingco.com.au/product-label-printing.html",
+    "bytes": 139250,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "en",
+    "title": "Product Labels | Cleaning Product Labels | Labels For Clothing",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "packagingboxesco.co.uk",
+    "kind": "page",
+    "url": "https://www.packagingboxesco.co.uk/",
+    "status": 200,
+    "final": "https://www.packagingboxesco.co.uk/",
+    "bytes": 138704,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Buy Custom Packaging Boxes | Online Packaging Boxes Supplier In UK",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "packagingboxesco.co.uk",
+    "kind": "robots",
+    "url": "https://www.packagingboxesco.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.packagingboxesco.co.uk/robots.txt",
+    "bytes": 1208,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.packagingboxesco.co.uk/sitemap.xml",
+      "https://www.packagingboxesco.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "packagingboxesco.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.packagingboxesco.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.packagingboxesco.co.uk/sitemap.xml",
+    "bytes": 142721,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 920,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "packagingboxesco.com",
+    "kind": "page",
+    "url": "https://www.packagingboxesco.com/",
+    "status": 200,
+    "final": "https://www.packagingboxesco.com/",
+    "bytes": 152174,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Packaging Boxes | Printed Packaging Boxes | Box Printing Services - USA",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "packagingboxesco.com",
+    "kind": "robots",
+    "url": "https://www.packagingboxesco.com/robots.txt",
+    "status": 200,
+    "final": "https://www.packagingboxesco.com/robots.txt",
+    "bytes": 1209,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.packagingboxesco.com/sitemap.xml",
+      "https://www.packagingboxesco.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "packagingboxesco.com",
+    "kind": "sitemap",
+    "url": "https://www.packagingboxesco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.packagingboxesco.com/sitemap.xml",
+    "bytes": 429702,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 2411,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "packagingboxesco.com",
+    "kind": "path",
+    "url": "https://www.packagingboxesco.com/de/",
+    "status": 404,
+    "final": "https://www.packagingboxesco.com/de/",
+    "bytes": 124803,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.packagingboxesco.com/de/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "packagingboxesco.com",
+    "kind": "path",
+    "url": "https://www.packagingboxesco.com/es/",
+    "status": 404,
+    "final": "https://www.packagingboxesco.com/es/",
+    "bytes": 124803,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.packagingboxesco.com/es/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "packagingboxesco.com",
+    "kind": "path",
+    "url": "https://www.packagingboxesco.com/fr/",
+    "status": 404,
+    "final": "https://www.packagingboxesco.com/fr/",
+    "bytes": 124803,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.packagingboxesco.com/fr/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "packagingboxesco.com",
+    "kind": "path",
+    "url": "https://www.packagingboxesco.com/it/",
+    "status": 404,
+    "final": "https://www.packagingboxesco.com/it/",
+    "bytes": 124803,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.packagingboxesco.com/it/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "packagingboxesco.com",
+    "kind": "path",
+    "url": "https://www.packagingboxesco.com/pl/",
+    "status": 404,
+    "final": "https://www.packagingboxesco.com/pl/",
+    "bytes": 124803,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.packagingboxesco.com/pl/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "packagingboxesco.com",
+    "kind": "path",
+    "url": "https://www.packagingboxesco.com/ru/",
+    "status": 404,
+    "final": "https://www.packagingboxesco.com/ru/",
+    "bytes": 124803,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.packagingboxesco.com/ru/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "packagingboxesco.com.au",
+    "kind": "page",
+    "url": "https://www.packagingboxesco.com.au/",
+    "status": 200,
+    "final": "https://www.packagingboxesco.com.au/",
+    "bytes": 147229,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "en",
+    "title": "Buy Cardboard Packaging Boxes | Printed Packaging Boxes Wholesale",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "packagingboxesco.com.au",
+    "kind": "robots",
+    "url": "https://www.packagingboxesco.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.packagingboxesco.com.au/robots.txt",
+    "bytes": 4355,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": []
+  },
+  {
+    "host": "packagingboxesco.com.au",
+    "kind": "sitemap",
+    "url": "https://www.packagingboxesco.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.packagingboxesco.com.au/sitemap.xml",
+    "bytes": 170989,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1060,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "pdtrus.co.uk",
+    "kind": "page",
+    "url": "https://www.pdtrus.co.uk/",
+    "status": 200,
+    "final": "https://www.pdtrus.co.uk/",
+    "bytes": 17224,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "en",
+    "title": "Home | PDTRUS",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.co.uk",
+    "kind": "robots",
+    "url": "https://www.pdtrus.co.uk/robots.txt",
+    "status": 404,
+    "final": "https://www.pdtrus.co.uk/robots.txt",
+    "bytes": 315,
+    "ctype": "text/html; charset=iso-8859-1",
+    "indicators": [],
+    "sitemaps": [],
+    "lang": "",
+    "title": "404 Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.pdtrus.co.uk/sitemap.xml",
+    "status": 404,
+    "final": "https://www.pdtrus.co.uk/sitemap.xml",
+    "bytes": 315,
+    "ctype": "text/html; charset=iso-8859-1",
+    "indicators": [],
+    "lang": "",
+    "title": "404 Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "pdtrus.co.uk",
+    "kind": "path",
+    "url": "https://www.pdtrus.co.uk/de/",
+    "status": 404,
+    "final": "https://www.pdtrus.co.uk/de/",
+    "bytes": 315,
+    "ctype": "text/html; charset=iso-8859-1",
+    "indicators": [],
+    "lang": "",
+    "title": "404 Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.co.uk",
+    "kind": "path",
+    "url": "https://www.pdtrus.co.uk/es/",
+    "status": 404,
+    "final": "https://www.pdtrus.co.uk/es/",
+    "bytes": 315,
+    "ctype": "text/html; charset=iso-8859-1",
+    "indicators": [],
+    "lang": "",
+    "title": "404 Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.co.uk",
+    "kind": "path",
+    "url": "https://www.pdtrus.co.uk/fr/",
+    "status": 404,
+    "final": "https://www.pdtrus.co.uk/fr/",
+    "bytes": 315,
+    "ctype": "text/html; charset=iso-8859-1",
+    "indicators": [],
+    "lang": "",
+    "title": "404 Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.co.uk",
+    "kind": "path",
+    "url": "https://www.pdtrus.co.uk/it/",
+    "status": 404,
+    "final": "https://www.pdtrus.co.uk/it/",
+    "bytes": 315,
+    "ctype": "text/html; charset=iso-8859-1",
+    "indicators": [],
+    "lang": "",
+    "title": "404 Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.co.uk",
+    "kind": "path",
+    "url": "https://www.pdtrus.co.uk/pl/",
+    "status": 404,
+    "final": "https://www.pdtrus.co.uk/pl/",
+    "bytes": 315,
+    "ctype": "text/html; charset=iso-8859-1",
+    "indicators": [],
+    "lang": "",
+    "title": "404 Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.co.uk",
+    "kind": "path",
+    "url": "https://www.pdtrus.co.uk/ru/",
+    "status": 404,
+    "final": "https://www.pdtrus.co.uk/ru/",
+    "bytes": 315,
+    "ctype": "text/html; charset=iso-8859-1",
+    "indicators": [],
+    "lang": "",
+    "title": "404 Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.com",
+    "kind": "page",
+    "url": "https://pdtrus.com/",
+    "status": 200,
+    "final": "https://pdtrus.com/",
+    "bytes": 17362,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "646 389 0938"
+    ],
+    "lang": "en",
+    "title": "Home | PDTRUS",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.com",
+    "kind": "robots",
+    "url": "https://pdtrus.com/robots.txt",
+    "status": 404,
+    "final": "https://pdtrus.com/robots.txt",
+    "bytes": 982,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "sitemaps": [],
+    "lang": "en",
+    "title": "Object not found!",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.com",
+    "kind": "sitemap",
+    "url": "https://pdtrus.com/sitemap.xml",
+    "status": 404,
+    "final": "https://pdtrus.com/sitemap.xml",
+    "bytes": 982,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "lang": "en",
+    "title": "Object not found!",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "pdtrus.com",
+    "kind": "path",
+    "url": "https://pdtrus.com/de/",
+    "status": 404,
+    "final": "https://pdtrus.com/de/",
+    "bytes": 982,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "lang": "en",
+    "title": "Object not found!",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.com",
+    "kind": "path",
+    "url": "https://pdtrus.com/es/",
+    "status": 404,
+    "final": "https://pdtrus.com/es/",
+    "bytes": 982,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "lang": "en",
+    "title": "Object not found!",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.com",
+    "kind": "path",
+    "url": "https://pdtrus.com/fr/",
+    "status": 404,
+    "final": "https://pdtrus.com/fr/",
+    "bytes": 982,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "lang": "en",
+    "title": "Object not found!",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.com",
+    "kind": "path",
+    "url": "https://pdtrus.com/it/",
+    "status": 404,
+    "final": "https://pdtrus.com/it/",
+    "bytes": 982,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "lang": "en",
+    "title": "Object not found!",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.com",
+    "kind": "path",
+    "url": "https://pdtrus.com/pl/",
+    "status": 404,
+    "final": "https://pdtrus.com/pl/",
+    "bytes": 982,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "lang": "en",
+    "title": "Object not found!",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "pdtrus.com",
+    "kind": "path",
+    "url": "https://pdtrus.com/ru/",
+    "status": 404,
+    "final": "https://pdtrus.com/ru/",
+    "bytes": 982,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "lang": "en",
+    "title": "Object not found!",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "printinggood.co.uk",
+    "kind": "page",
+    "url": "https://www.printinggood.co.uk/",
+    "status": 200,
+    "final": "https://www.printinggood.co.uk/",
+    "bytes": 106590,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Online Printing Company UK | Custom Printing Services, Stickers, Business Card, Brochures | PrintingGood UK",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "printinggood.co.uk",
+    "kind": "robots",
+    "url": "https://www.printinggood.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.printinggood.co.uk/robots.txt",
+    "bytes": 1200,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.printinggood.co.uk/sitemap.xml",
+      "https://www.printinggood.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "printinggood.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.printinggood.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.printinggood.co.uk/sitemap.xml",
+    "bytes": 41424,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 276,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "page",
+    "url": "https://www.rigidboxesco.co.uk/",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/",
+    "bytes": 83185,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en-US",
+    "title": "Luxury Magnetic Gift Boxes Bespoke | Customized Foldable Boxes UK",
+    "hreflang": [
+      {
+        "lang": "en-US",
+        "url": "https://www.rigidboxesco.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.rigidboxesco.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://rigidboxesco.com.au/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.rigidboxesco.com/"
+      }
+    ],
+    "canonical": "https://www.rigidboxesco.co.uk/",
+    "localized_links": []
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "robots",
+    "url": "https://www.rigidboxesco.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/robots.txt",
+    "bytes": 126,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.rigidboxesco.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.rigidboxesco.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/sitemap_index.xml",
+    "bytes": 1185,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 7,
+    "nested_sitemaps": [
+      "https://www.rigidboxesco.co.uk/page-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/product-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/category-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/post_tag-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/product_cat-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/dt_portfolio_category-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/sitemap-boxes.xml"
+    ]
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "page",
+    "url": "https://www.rigidboxesco.com/",
+    "status": 200,
+    "final": "https://www.rigidboxesco.com/",
+    "bytes": 86080,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938"
+    ],
+    "lang": "en-US",
+    "title": "Foldable Luxury Rigid Boxes | Customized Hamper and Keepsake Boxes",
+    "hreflang": [
+      {
+        "lang": "en-US",
+        "url": "https://www.rigidboxesco.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.rigidboxesco.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://rigidboxesco.com.au/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.rigidboxesco.com/"
+      }
+    ],
+    "canonical": "https://www.rigidboxesco.com/",
+    "localized_links": []
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "robots",
+    "url": "https://www.rigidboxesco.com/robots.txt",
+    "status": 200,
+    "final": "https://www.rigidboxesco.com/robots.txt",
+    "bytes": 137,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.rigidboxesco.com/sitemap_index.xml",
+      "https://www.rigidboxesco.com/sitemap-boxes.xml"
+    ]
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "sitemap",
+    "url": "https://www.rigidboxesco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.com/sitemap.xml",
+    "bytes": 186575,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 995,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "path",
+    "url": "https://www.rigidboxesco.com/de/",
+    "status": 200,
+    "final": "https://www.rigidboxesco.com/product/deep-sage-80cm-grosgrain-ribbon/",
+    "bytes": 48848,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938"
+    ],
+    "lang": "en-US",
+    "title": "Deep Sage 80cm Grosgrain Ribbon - Rigidboxes.com",
+    "hreflang": [],
+    "canonical": "https://www.rigidboxesco.com/product/deep-sage-80cm-grosgrain-ribbon/",
+    "localized_links": []
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "path",
+    "url": "https://www.rigidboxesco.com/es/",
+    "status": 200,
+    "final": "https://www.rigidboxesco.com/2025/09/29/essential-guide-to-custom-marker-packaging-boxes-boost-your-brand-appeal/",
+    "bytes": 110134,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646 389 0938"
+    ],
+    "lang": "en-US",
+    "title": "Essential Guide to Custom Marker Packaging Boxes",
+    "hreflang": [],
+    "canonical": "https://www.rigidboxesco.com/2025/09/29/essential-guide-to-custom-marker-packaging-boxes-boost-your-brand-appeal/",
+    "localized_links": []
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "path",
+    "url": "https://www.rigidboxesco.com/fr/",
+    "status": 200,
+    "final": "https://www.rigidboxesco.com/product/french-light-blue-50m-grosgrain-ribbon-roll/",
+    "bytes": 48795,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938"
+    ],
+    "lang": "en-US",
+    "title": "French Light Blue 50m Grosgrain Ribbon Roll - Rigidboxes.com",
+    "hreflang": [],
+    "canonical": "https://www.rigidboxesco.com/product/french-light-blue-50m-grosgrain-ribbon-roll/",
+    "localized_links": []
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "path",
+    "url": "https://www.rigidboxesco.com/it/",
+    "status": 404,
+    "final": "https://www.rigidboxesco.com/it/",
+    "bytes": 33762,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "646 389 0938"
+    ],
+    "lang": "en-US",
+    "title": "Page not found | Rigidboxes.com",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.rigidboxesco.com/it/#main",
+        "label": "Skip to content"
+      }
+    ]
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "path",
+    "url": "https://www.rigidboxesco.com/pl/",
+    "status": 200,
+    "final": "https://www.rigidboxesco.com/product/plain-packaging-boxes/",
+    "bytes": 63969,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938"
+    ],
+    "lang": "en-US",
+    "title": "Plain Packaging Boxes Wholesale – Durable & Customizable Solutions",
+    "hreflang": [],
+    "canonical": "https://www.rigidboxesco.com/product/plain-packaging-boxes/",
+    "localized_links": []
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "path",
+    "url": "https://www.rigidboxesco.com/ru/",
+    "status": 200,
+    "final": "https://www.rigidboxesco.com/product/ruby-gemstone-gift-box-closure/",
+    "bytes": 49763,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938"
+    ],
+    "lang": "en-US",
+    "title": "Ruby Gemstone Gift Box Closure - Rigidboxes.com",
+    "hreflang": [],
+    "canonical": "https://www.rigidboxesco.com/product/ruby-gemstone-gift-box-closure/",
+    "localized_links": []
+  },
+  {
+    "host": "rigidboxesco.com.au",
+    "kind": "page",
+    "url": "https://rigidboxesco.com.au/",
+    "status": 200,
+    "final": "https://rigidboxesco.com.au/",
+    "bytes": 88316,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "bmsgl.typeform.com",
+      "588f544d46ba8058582eccc2",
+      "8520 3915"
+    ],
+    "lang": "en-US",
+    "title": "Shop Luxury Rigid Boxes | Customized Fold Able Gift Packaging Boxes",
+    "hreflang": [
+      {
+        "lang": "en-US",
+        "url": "https://www.rigidboxesco.com/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.rigidboxesco.co.uk/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://rigidboxesco.com.au/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.rigidboxesco.com/"
+      }
+    ],
+    "canonical": "https://rigidboxesco.com.au/",
+    "localized_links": []
+  },
+  {
+    "host": "rigidboxesco.com.au",
+    "kind": "robots",
+    "url": "https://rigidboxesco.com.au/robots.txt",
+    "status": 200,
+    "final": "https://rigidboxesco.com.au/robots.txt",
+    "bytes": 136,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://rigidboxesco.com.au/sitemap_index.xml",
+      "https://rigidboxesco.com.au/sitemap-boxes.xml"
+    ]
+  },
+  {
+    "host": "rigidboxesco.com.au",
+    "kind": "sitemap",
+    "url": "https://rigidboxesco.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://rigidboxesco.com.au/sitemap_index.xml",
+    "bytes": 671,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 3,
+    "nested_sitemaps": [
+      "https://rigidboxesco.com.au/product-sitemap.xml",
+      "https://rigidboxesco.com.au/product_cat-sitemap.xml",
+      "https://rigidboxesco.com.au/sitemap-boxes.xml"
+    ]
+  },
+  {
+    "host": "rollstickersco.com",
+    "kind": "page",
+    "url": "https://www.rollstickersco.com/",
+    "status": 200,
+    "final": "https://www.rollstickersco.com/",
+    "bytes": 112271,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "en",
+    "title": "Roll Stickers | Custom Roll Of Stickers | Roll Sticker Printing",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "rollstickersco.com",
+    "kind": "robots",
+    "url": "https://www.rollstickersco.com/robots.txt",
+    "status": 200,
+    "final": "https://www.rollstickersco.com/robots.txt",
+    "bytes": 1197,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://rollstickersco.com/sitemap.xml",
+      "https://rollstickersco.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "rollstickersco.com",
+    "kind": "sitemap",
+    "url": "https://www.rollstickersco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.rollstickersco.com/sitemap.xml",
+    "bytes": 197120,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1086,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rollstickersco.com.au",
+    "kind": "page",
+    "url": "https://www.rollstickersco.com.au/",
+    "status": 200,
+    "final": "https://www.rollstickersco.com.au/",
+    "bytes": 114064,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "en",
+    "title": "Roll Stickers | Custom Roll Sticker Printing | Stickers Printing",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "rollstickersco.com.au",
+    "kind": "robots",
+    "url": "https://www.rollstickersco.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.rollstickersco.com.au/robots.txt",
+    "bytes": 1930,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": []
+  },
+  {
+    "host": "rollstickersco.com.au",
+    "kind": "sitemap",
+    "url": "https://www.rollstickersco.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.rollstickersco.com.au/sitemap.xml",
+    "bytes": 35500,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 183,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "smallcustomboxes.co.uk",
+    "kind": "page",
+    "url": "https://www.smallcustomboxes.co.uk/",
+    "status": 200,
+    "final": "https://www.smallcustomboxes.co.uk/",
+    "bytes": 247935,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Small Custom Boxes | Cheap Custom Packaging | Custom Printed boxes",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "smallcustomboxes.co.uk",
+    "kind": "robots",
+    "url": "https://www.smallcustomboxes.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.smallcustomboxes.co.uk/robots.txt",
+    "bytes": 1208,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.smallcustomboxes.co.uk/sitemap.xml",
+      "https://www.smallcustomboxes.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "smallcustomboxes.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.smallcustomboxes.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.smallcustomboxes.co.uk/sitemap.xml",
+    "bytes": 55726,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 343,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "smallcustomboxes.com",
+    "kind": "page",
+    "url": "https://www.smallcustomboxes.com/",
+    "status": 200,
+    "final": "https://www.smallcustomboxes.com/",
+    "bytes": 220661,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Buy Small Custom Boxes | Custom Packaging Boxes Wholesale",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "smallcustomboxes.com",
+    "kind": "robots",
+    "url": "https://www.smallcustomboxes.com/robots.txt",
+    "status": 200,
+    "final": "https://www.smallcustomboxes.com/robots.txt",
+    "bytes": 1209,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.smallcustomboxes.com/sitemap.xml",
+      "https://www.smallcustomboxes.com/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "smallcustomboxes.com",
+    "kind": "sitemap",
+    "url": "https://www.smallcustomboxes.com/sitemap.xml",
+    "status": 200,
+    "final": "https://www.smallcustomboxes.com/sitemap.xml",
+    "bytes": 135058,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 779,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "smallcustomboxes.com",
+    "kind": "path",
+    "url": "https://www.smallcustomboxes.com/de/",
+    "status": 404,
+    "final": "https://www.smallcustomboxes.com/de/",
+    "bytes": 171616,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.smallcustomboxes.com/de/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "smallcustomboxes.com",
+    "kind": "path",
+    "url": "https://www.smallcustomboxes.com/es/",
+    "status": 404,
+    "final": "https://www.smallcustomboxes.com/es/",
+    "bytes": 171616,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.smallcustomboxes.com/es/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "smallcustomboxes.com",
+    "kind": "path",
+    "url": "https://www.smallcustomboxes.com/fr/",
+    "status": 404,
+    "final": "https://www.smallcustomboxes.com/fr/",
+    "bytes": 171616,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.smallcustomboxes.com/fr/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "smallcustomboxes.com",
+    "kind": "path",
+    "url": "https://www.smallcustomboxes.com/it/",
+    "status": 404,
+    "final": "https://www.smallcustomboxes.com/it/",
+    "bytes": 171616,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.smallcustomboxes.com/it/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "smallcustomboxes.com",
+    "kind": "path",
+    "url": "https://www.smallcustomboxes.com/pl/",
+    "status": 404,
+    "final": "https://www.smallcustomboxes.com/pl/",
+    "bytes": 171616,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.smallcustomboxes.com/pl/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "smallcustomboxes.com",
+    "kind": "path",
+    "url": "https://www.smallcustomboxes.com/ru/",
+    "status": 404,
+    "final": "https://www.smallcustomboxes.com/ru/",
+    "bytes": 171616,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "646 389 0938",
+      "646.389.0938"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.smallcustomboxes.com/ru/",
+        "label": "Back to Top"
+      }
+    ]
+  },
+  {
+    "host": "smallcustomboxes.com.au",
+    "kind": "page",
+    "url": "https://www.smallcustomboxes.com.au/",
+    "status": 200,
+    "final": "https://www.smallcustomboxes.com.au/",
+    "bytes": 252041,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "8520 3915"
+    ],
+    "lang": "en",
+    "title": "Small Custom Boxes | Packaging Boxes-Custom Printed Boxes Australia",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "smallcustomboxes.com.au",
+    "kind": "robots",
+    "url": "https://www.smallcustomboxes.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.smallcustomboxes.com.au/robots.txt",
+    "bytes": 1916,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": []
+  },
+  {
+    "host": "smallcustomboxes.com.au",
+    "kind": "sitemap",
+    "url": "https://www.smallcustomboxes.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.smallcustomboxes.com.au/sitemap.xml",
+    "bytes": 56990,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 349,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "stickerprinting.co.uk",
+    "kind": "page",
+    "url": "https://stickerprinting.co.uk/",
+    "status": 200,
+    "final": "https://stickerprinting.co.uk/",
+    "bytes": 103702,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Cheap custom sticker printing | stickerprinting.co.uk",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "stickerprinting.co.uk",
+    "kind": "robots",
+    "url": "https://stickerprinting.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://stickerprinting.co.uk/robots.txt",
+    "bytes": 1198,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://stickerprinting.co.uk/sitemap.xml",
+      "https://stickerprinting.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "stickerprinting.co.uk",
+    "kind": "sitemap",
+    "url": "https://stickerprinting.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://stickerprinting.co.uk/sitemap.xml",
+    "bytes": 120548,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 729,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "stickersprinting.co.uk",
+    "kind": "page",
+    "url": "https://www.stickersprinting.co.uk/",
+    "status": 200,
+    "final": "https://www.stickersprinting.co.uk/",
+    "bytes": 105692,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Stickers Printing in UK – Premium Custom Stickers Online",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "stickersprinting.co.uk",
+    "kind": "robots",
+    "url": "https://www.stickersprinting.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://www.stickersprinting.co.uk/robots.txt",
+    "bytes": 1208,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.stickersprinting.co.uk/sitemap.xml",
+      "https://www.stickersprinting.co.uk/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "stickersprinting.co.uk",
+    "kind": "sitemap",
+    "url": "https://www.stickersprinting.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://www.stickersprinting.co.uk/sitemap.xml",
+    "bytes": 40960,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 236,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "stickersprinting.us",
+    "kind": "page",
+    "url": "https://www.stickersprinting.us/",
+    "status": 200,
+    "final": "https://www.stickersprinting.us/",
+    "bytes": 132722,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "en",
+    "title": "Custom Stickers | Customized & Personalized Sticker Printing",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "stickersprinting.us",
+    "kind": "robots",
+    "url": "https://www.stickersprinting.us/robots.txt",
+    "status": 200,
+    "final": "https://www.stickersprinting.us/robots.txt",
+    "bytes": 1207,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://www.stickersprinting.us/sitemap.xml",
+      "https://www.stickersprinting.us/blog/sitemap_index.xml"
+    ]
+  },
+  {
+    "host": "stickersprinting.us",
+    "kind": "sitemap",
+    "url": "https://www.stickersprinting.us/sitemap.xml",
+    "status": 200,
+    "final": "https://www.stickersprinting.us/sitemap.xml",
+    "bytes": 204422,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1152,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "swingtagsco.co.uk",
+    "kind": "page",
+    "url": "https://swingtagsco.co.uk/",
+    "status": 200,
+    "final": "https://swingtagsco.co.uk/",
+    "bytes": 144159,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Custom Swing Tags UK | Printed Hang Tags, Any Shape",
+    "hreflang": [
+      {
+        "lang": "en-gb",
+        "url": "https://swingtagsco.co.uk/"
+      },
+      {
+        "lang": "en-us",
+        "url": "https://www.hangtagsco.com/"
+      },
+      {
+        "lang": "en-au",
+        "url": "https://www.swingtagsco.com.au/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://swingtagsco.co.uk/"
+      }
+    ],
+    "canonical": "https://swingtagsco.co.uk/",
+    "localized_links": []
+  },
+  {
+    "host": "swingtagsco.co.uk",
+    "kind": "robots",
+    "url": "https://swingtagsco.co.uk/robots.txt",
+    "status": 200,
+    "final": "https://swingtagsco.co.uk/robots.txt",
+    "bytes": 1137,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": [
+      "https://swingtagsco.co.uk/sitemap.xml"
+    ]
+  },
+  {
+    "host": "swingtagsco.co.uk",
+    "kind": "sitemap",
+    "url": "https://swingtagsco.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://swingtagsco.co.uk/sitemap.xml",
+    "bytes": 67991,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 435,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "swingtagsco.com.au",
+    "kind": "page",
+    "url": "https://www.swingtagsco.com.au/",
+    "status": 200,
+    "final": "https://www.swingtagsco.com.au/",
+    "bytes": 119280,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "pdt-r-us",
+      "588f544d46ba8058582eccc2"
+    ],
+    "lang": "en",
+    "title": "Swing Tags | Printable Hang Tags | Hanging Tags Printing",
+    "hreflang": [
+      {
+        "lang": "en-au",
+        "url": "https://www.swingtagsco.com.au/"
+      },
+      {
+        "lang": "en-gb",
+        "url": "https://swingtagsco.co.uk/"
+      },
+      {
+        "lang": "en-us",
+        "url": "https://www.hangtagsco.com/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.hangtagsco.com/"
+      }
+    ],
+    "canonical": "https://www.swingtagsco.com.au/",
+    "localized_links": []
+  },
+  {
+    "host": "swingtagsco.com.au",
+    "kind": "robots",
+    "url": "https://www.swingtagsco.com.au/robots.txt",
+    "status": 200,
+    "final": "https://www.swingtagsco.com.au/robots.txt",
+    "bytes": 1953,
+    "ctype": "text/plain",
+    "indicators": [],
+    "sitemaps": []
+  },
+  {
+    "host": "swingtagsco.com.au",
+    "kind": "sitemap",
+    "url": "https://www.swingtagsco.com.au/sitemap.xml",
+    "status": 200,
+    "final": "https://www.swingtagsco.com.au/sitemap.xml",
+    "bytes": 55200,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 315,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "bestmediaservice.com",
+    "kind": "page",
+    "url": "https://bestmediaservice.com/",
+    "status": 200,
+    "final": "https://bestmediaservice.com/",
+    "bytes": 12668,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "888.202.7564"
+    ],
+    "lang": "en",
+    "title": "Home | Best Media Service",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "bestmediaservice.com",
+    "kind": "robots",
+    "url": "https://bestmediaservice.com/robots.txt",
+    "status": 404,
+    "final": "https://bestmediaservice.com/robots.txt",
+    "bytes": 315,
+    "ctype": "text/html; charset=iso-8859-1",
+    "indicators": [],
+    "sitemaps": [],
+    "lang": "",
+    "title": "404 Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "bestmediaservice.com",
+    "kind": "sitemap",
+    "url": "https://bestmediaservice.com/sitemap.xml",
+    "status": 404,
+    "final": "https://bestmediaservice.com/sitemap.xml",
+    "bytes": 315,
+    "ctype": "text/html; charset=iso-8859-1",
+    "indicators": [],
+    "lang": "",
+    "title": "404 Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  }
+]

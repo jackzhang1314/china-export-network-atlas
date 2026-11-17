@@ -1,0 +1,728 @@
+[
+  {
+    "host": "astickerprinting.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.astickerprinting.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.astickerprinting.com/blog/sitemap_index.xml",
+    "bytes": 850,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.astickerprinting.com/blog/post-sitemap.xml",
+      "https://www.astickerprinting.com/blog/page-sitemap.xml",
+      "https://www.astickerprinting.com/blog/category-sitemap.xml",
+      "https://www.astickerprinting.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "bespokeboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.bespokeboxesco.co.uk/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.co.uk/blog/sitemap_index.xml",
+    "bytes": 850,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.bespokeboxesco.co.uk/blog/post-sitemap.xml",
+      "https://www.bespokeboxesco.co.uk/blog/page-sitemap.xml",
+      "https://www.bespokeboxesco.co.uk/blog/category-sitemap.xml",
+      "https://www.bespokeboxesco.co.uk/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "bespokeboxesco.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.bespokeboxesco.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.bespokeboxesco.com/blog/sitemap_index.xml",
+    "bytes": 840,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.bespokeboxesco.com/blog/post-sitemap.xml",
+      "https://www.bespokeboxesco.com/blog/page-sitemap.xml",
+      "https://www.bespokeboxesco.com/blog/category-sitemap.xml",
+      "https://www.bespokeboxesco.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://customboxesco.co.uk/blog/sitemap_index.xml",
+    "status": 404,
+    "final": "https://customboxesco.co.uk/blog/sitemap_index.xml",
+    "bytes": 43861,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "en-US",
+    "title": "Page not found – Blogs",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://customboxesco.co.uk/sitemap.xml",
+    "status": 200,
+    "final": "https://customboxesco.co.uk/sitemap.xml",
+    "bytes": 168947,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1099,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customboxesco.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.customboxesco.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.customboxesco.com/blog/sitemap_index.xml",
+    "bytes": 835,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.customboxesco.com/blog/post-sitemap.xml",
+      "https://www.customboxesco.com/blog/page-sitemap.xml",
+      "https://www.customboxesco.com/blog/category-sitemap.xml",
+      "https://www.customboxesco.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "customboxesshop.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.customboxesshop.co.uk/sitemap_index.xml",
+    "status": 404,
+    "final": "https://www.customboxesshop.co.uk/sitemap_index.xml",
+    "bytes": 151255,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customboxesshop.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.customboxesshop.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.customboxesshop.com/blog/sitemap_index.xml",
+    "bytes": 845,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.customboxesshop.com/blog/post-sitemap.xml",
+      "https://www.customboxesshop.com/blog/page-sitemap.xml",
+      "https://www.customboxesshop.com/blog/category-sitemap.xml",
+      "https://www.customboxesshop.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "customcardboardboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.customcardboardboxesco.co.uk/sitemap_index.xml",
+    "status": 404,
+    "final": "https://www.customcardboardboxesco.co.uk/sitemap_index.xml",
+    "bytes": 240306,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "customcardboardboxesco.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.customcardboardboxesco.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.customcardboardboxesco.com/blog/sitemap_index.xml",
+    "bytes": 880,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.customcardboardboxesco.com/blog/post-sitemap.xml",
+      "https://www.customcardboardboxesco.com/blog/page-sitemap.xml",
+      "https://www.customcardboardboxesco.com/blog/category-sitemap.xml",
+      "https://www.customcardboardboxesco.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "custompackagingboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.custompackagingboxesco.co.uk/sitemap_index.xml",
+    "status": 404,
+    "final": "https://www.custompackagingboxesco.co.uk/sitemap_index.xml",
+    "bytes": 226098,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "custompackagingboxesco.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.custompackagingboxesco.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.custompackagingboxesco.com/blog/sitemap_index.xml",
+    "bytes": 880,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.custompackagingboxesco.com/blog/post-sitemap.xml",
+      "https://www.custompackagingboxesco.com/blog/page-sitemap.xml",
+      "https://www.custompackagingboxesco.com/blog/category-sitemap.xml",
+      "https://www.custompackagingboxesco.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "custompaperbagsco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.custompaperbagsco.co.uk/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.custompaperbagsco.co.uk/sitemap_index.xml",
+    "bytes": 426,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1,
+    "nested_sitemaps": [
+      "https://www.custompaperbagsco.co.uk/page-sitemap.xml"
+    ]
+  },
+  {
+    "host": "custompaperbagsco.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.custompaperbagsco.com/cpb-sitemap.xml",
+    "status": 200,
+    "final": "https://www.custompaperbagsco.com/sitemap.xml",
+    "bytes": 8634,
+    "ctype": "application/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 65,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "custompaperbagsco.com.au",
+    "kind": "sitemap-listed",
+    "url": "https://www.custompaperbagsco.com.au/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.custompaperbagsco.com.au/sitemap_index.xml",
+    "bytes": 428,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1,
+    "nested_sitemaps": [
+      "https://www.custompaperbagsco.com.au/page-sitemap.xml"
+    ]
+  },
+  {
+    "host": "customstickers.us",
+    "kind": "sitemap-listed",
+    "url": "https://www.customstickers.us/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.customstickers.us/blog/sitemap_index.xml",
+    "bytes": 835,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.customstickers.us/blog/post-sitemap.xml",
+      "https://www.customstickers.us/blog/page-sitemap.xml",
+      "https://www.customstickers.us/blog/category-sitemap.xml",
+      "https://www.customstickers.us/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "hangtagsco.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.hangtagsco.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.hangtagsco.com/blog/sitemap_index.xml",
+    "bytes": 820,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.hangtagsco.com/blog/post-sitemap.xml",
+      "https://www.hangtagsco.com/blog/page-sitemap.xml",
+      "https://www.hangtagsco.com/blog/category-sitemap.xml",
+      "https://www.hangtagsco.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "labelprintingco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.labelprintingco.co.uk/sitemap_index.xml",
+    "status": 404,
+    "final": "https://www.labelprintingco.co.uk/sitemap_index.xml",
+    "bytes": 90773,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "labelprintingco.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.labelprintingco.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.labelprintingco.com/blog/sitemap_index.xml",
+    "bytes": 845,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.labelprintingco.com/blog/post-sitemap.xml",
+      "https://www.labelprintingco.com/blog/page-sitemap.xml",
+      "https://www.labelprintingco.com/blog/category-sitemap.xml",
+      "https://www.labelprintingco.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "packagingboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.packagingboxesco.co.uk/sitemap_index.xml",
+    "status": 404,
+    "final": "https://www.packagingboxesco.co.uk/sitemap_index.xml",
+    "bytes": 101160,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "packagingboxesco.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.packagingboxesco.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.packagingboxesco.com/blog/sitemap_index.xml",
+    "bytes": 850,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.packagingboxesco.com/blog/post-sitemap.xml",
+      "https://www.packagingboxesco.com/blog/page-sitemap.xml",
+      "https://www.packagingboxesco.com/blog/category-sitemap.xml",
+      "https://www.packagingboxesco.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "printinggood.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.printinggood.co.uk/sitemap_index.xml",
+    "status": 404,
+    "final": "https://www.printinggood.co.uk/sitemap_index.xml",
+    "bytes": 72903,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.rigidboxesco.co.uk/category-sitemap.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/category-sitemap.xml",
+    "bytes": 1505,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 7,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.rigidboxesco.co.uk/dt_portfolio_category-sitemap.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/dt_portfolio_category-sitemap.xml",
+    "bytes": 804,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 2,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.rigidboxesco.co.uk/page-sitemap.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/page-sitemap.xml",
+    "bytes": 22798,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 18,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.rigidboxesco.co.uk/post_tag-sitemap.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/post_tag-sitemap.xml",
+    "bytes": 1677,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 9,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.rigidboxesco.co.uk/product-sitemap.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/product-sitemap.xml",
+    "bytes": 91909,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 314,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.rigidboxesco.co.uk/product_cat-sitemap.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/product_cat-sitemap.xml",
+    "bytes": 5130,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 32,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.rigidboxesco.co.uk/sitemap-boxes.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/sitemap-boxes.xml",
+    "bytes": 536,
+    "ctype": "application/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.rigidboxesco.co.uk/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.co.uk/sitemap_index.xml",
+    "bytes": 1185,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 7,
+    "nested_sitemaps": [
+      "https://www.rigidboxesco.co.uk/page-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/product-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/category-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/post_tag-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/product_cat-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/dt_portfolio_category-sitemap.xml",
+      "https://www.rigidboxesco.co.uk/sitemap-boxes.xml"
+    ]
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.rigidboxesco.com/sitemap-boxes.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.com/sitemap-boxes.xml",
+    "bytes": 3959,
+    "ctype": "application/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 31,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.rigidboxesco.com/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.rigidboxesco.com/sitemap_index.xml",
+    "bytes": 675,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 3,
+    "nested_sitemaps": [
+      "https://www.rigidboxesco.com/product-sitemap.xml",
+      "https://www.rigidboxesco.com/product_cat-sitemap.xml",
+      "https://www.rigidboxesco.com/sitemap-boxes.xml"
+    ]
+  },
+  {
+    "host": "rigidboxesco.com.au",
+    "kind": "sitemap-listed",
+    "url": "https://rigidboxesco.com.au/product-sitemap.xml",
+    "status": 200,
+    "final": "https://rigidboxesco.com.au/product-sitemap.xml",
+    "bytes": 90031,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 314,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.com.au",
+    "kind": "sitemap-listed",
+    "url": "https://rigidboxesco.com.au/product_cat-sitemap.xml",
+    "status": 200,
+    "final": "https://rigidboxesco.com.au/product_cat-sitemap.xml",
+    "bytes": 5031,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 32,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.com.au",
+    "kind": "sitemap-listed",
+    "url": "https://rigidboxesco.com.au/sitemap-boxes.xml",
+    "status": 200,
+    "final": "https://rigidboxesco.com.au/sitemap-boxes.xml",
+    "bytes": 3932,
+    "ctype": "application/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 31,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "rigidboxesco.com.au",
+    "kind": "sitemap-listed",
+    "url": "https://rigidboxesco.com.au/sitemap_index.xml",
+    "status": 200,
+    "final": "https://rigidboxesco.com.au/sitemap_index.xml",
+    "bytes": 671,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 3,
+    "nested_sitemaps": [
+      "https://rigidboxesco.com.au/product-sitemap.xml",
+      "https://rigidboxesco.com.au/product_cat-sitemap.xml",
+      "https://rigidboxesco.com.au/sitemap-boxes.xml"
+    ]
+  },
+  {
+    "host": "rollstickersco.com",
+    "kind": "sitemap-listed",
+    "url": "https://rollstickersco.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://rollstickersco.com/blog/sitemap_index.xml",
+    "bytes": 840,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.rollstickersco.com/blog/post-sitemap.xml",
+      "https://www.rollstickersco.com/blog/page-sitemap.xml",
+      "https://www.rollstickersco.com/blog/category-sitemap.xml",
+      "https://www.rollstickersco.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "rollstickersco.com",
+    "kind": "sitemap-listed",
+    "url": "https://rollstickersco.com/sitemap.xml",
+    "status": 200,
+    "final": "https://rollstickersco.com/sitemap.xml",
+    "bytes": 197120,
+    "ctype": "application/xml",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 1086,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "smallcustomboxes.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.smallcustomboxes.co.uk/sitemap_index.xml",
+    "status": 404,
+    "final": "https://www.smallcustomboxes.co.uk/sitemap_index.xml",
+    "bytes": 216448,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "smallcustomboxes.com",
+    "kind": "sitemap-listed",
+    "url": "https://www.smallcustomboxes.com/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.smallcustomboxes.com/blog/sitemap_index.xml",
+    "bytes": 850,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.smallcustomboxes.com/blog/post-sitemap.xml",
+      "https://www.smallcustomboxes.com/blog/page-sitemap.xml",
+      "https://www.smallcustomboxes.com/blog/category-sitemap.xml",
+      "https://www.smallcustomboxes.com/blog/author-sitemap.xml"
+    ]
+  },
+  {
+    "host": "stickerprinting.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://stickerprinting.co.uk/sitemap_index.xml",
+    "status": 404,
+    "final": "https://stickerprinting.co.uk/sitemap_index.xml",
+    "bytes": 70269,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "stickersprinting.co.uk",
+    "kind": "sitemap-listed",
+    "url": "https://www.stickersprinting.co.uk/sitemap_index.xml",
+    "status": 404,
+    "final": "https://www.stickersprinting.co.uk/sitemap_index.xml",
+    "bytes": 68735,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Page Not Found",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "locale_urls": [],
+    "sitemap_count": 0,
+    "nested_sitemaps": []
+  },
+  {
+    "host": "stickersprinting.us",
+    "kind": "sitemap-listed",
+    "url": "https://www.stickersprinting.us/blog/sitemap_index.xml",
+    "status": 200,
+    "final": "https://www.stickersprinting.us/blog/sitemap_index.xml",
+    "bytes": 845,
+    "ctype": "text/xml; charset=UTF-8",
+    "indicators": [],
+    "locale_urls": [],
+    "sitemap_count": 4,
+    "nested_sitemaps": [
+      "https://www.stickersprinting.us/blog/post-sitemap.xml",
+      "https://www.stickersprinting.us/blog/page-sitemap.xml",
+      "https://www.stickersprinting.us/blog/category-sitemap.xml",
+      "https://www.stickersprinting.us/blog/author-sitemap.xml"
+    ]
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=BBCOM&r=3",
+    "observed_at": "2026-11-05T20:22:15.980315+08:00",
+    "status": 200,
+    "code": "BBCOM",
+    "text": "Locate Us\nPrint Design & Tech R US LLC\nID: 2023-001203673\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@bespokeboxesco.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=BBCOUK&r=3",
+    "observed_at": "2026-11-05T20:22:15.980171+08:00",
+    "status": 200,
+    "code": "BBCOUK",
+    "text": "Locate Us\nBespoke Boxes Co\n128 City Road\nLondon\nEC1V 2NX\n0207 993 6533\nhelp@bespokeboxesco.co.uk\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=ASPCOM&r=3",
+    "observed_at": "2026-11-05T20:22:15.979368+08:00",
+    "status": 200,
+    "code": "ASPCOM",
+    "text": "Locate Us\nA Sticker Printing\nPrint Design & Tech R Us LLC\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@astickerprinting.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=ASPCOUK&r=3",
+    "observed_at": "2026-11-05T20:22:15.980654+08:00",
+    "status": 200,
+    "code": "ASPCOUK",
+    "text": "Locate Us\nA Sticker Printing\n128 City Road\nLondon\nEC1V 2NX\n0207 993 6533\nhelp@astickerprinting.co.uk\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=ASPCOMAU&r=3",
+    "observed_at": "2026-11-05T20:22:15.979974+08:00",
+    "status": 200,
+    "code": "ASPCOMAU",
+    "text": "Locate Us\nA Sticker Printing\n75 Pitt Street\nSydney\nNSW 2000\n+61 28 5203915\nhelp@astickerprinting.com.au\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=CBCOM&r=3",
+    "observed_at": "2026-11-05T20:22:15.980825+08:00",
+    "status": 200,
+    "code": "CBCOM",
+    "text": "Locate Us\nCustom Boxes Company USA\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@customboxesco.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=CBSCOM&r=3",
+    "observed_at": "2026-11-05T20:22:17.146923+08:00",
+    "status": 200,
+    "code": "CBSCOM",
+    "text": "Locate Us\nCustom Boxes Shop\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@customboxesshop.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=CPRBCOM&r=3",
+    "observed_at": "2026-11-05T20:22:17.172922+08:00",
+    "status": 200,
+    "code": "CPRBCOM",
+    "text": "Locate Us\nCustom Paper Bags US\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@custompaperbagsco.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=CCBBCOM&r=3",
+    "observed_at": "2026-11-05T20:22:17.148307+08:00",
+    "status": 200,
+    "code": "CCBBCOM",
+    "text": "Locate Us\nPrint Design & Tech R US LLC\nID: 2023-001203673\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@customcardboardboxesco.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=CBCOUK&r=3",
+    "observed_at": "2026-11-05T20:22:17.086638+08:00",
+    "status": 200,
+    "code": "CBCOUK",
+    "text": "Locate Us\nCustom Boxes UK\n128 City Road\nLondon\nEC1V 2NX\n0207 993 6533\nhelp@customboxesco.co.uk\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=CBCOMAU&r=3",
+    "observed_at": "2026-11-05T20:22:17.086029+08:00",
+    "status": 200,
+    "code": "CBCOMAU",
+    "text": "Locate Us\nCustom Boxes Company Australia\n75 Pitt Street\nSydney\nNSW 2000\n(+61) 28 5203915\nhelp@customboxesco.com.au\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=CPRBCOMAU&r=3",
+    "observed_at": "2026-11-05T20:22:17.352454+08:00",
+    "status": 200,
+    "code": "CPRBCOMAU",
+    "text": "Locate Us\nCustom Paper Bags Company\n75 Pitt Street\nSydney\nNSW 2000\n(+61) 28 5203915\nhelp@custompaperbagsco.com.au\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=HTCOM&r=3",
+    "observed_at": "2026-11-05T20:22:18.208926+08:00",
+    "status": 200,
+    "code": "HTCOM",
+    "text": "Locate Us\nHang Tags Company US\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@hangtagsco.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=RGBXCOM&r=3",
+    "observed_at": "2026-11-05T20:22:18.302197+08:00",
+    "status": 200,
+    "code": "RGBXCOM",
+    "text": "Locate Us\nPrint Design & Tech R US LLC\nID: 2023-001203673\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@rigidboxesco.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=LPCOUK&r=3",
+    "observed_at": "2026-11-05T20:22:18.216851+08:00",
+    "status": 200,
+    "code": "LPCOUK",
+    "text": "Locate Us\nLabel Printing Company UK\n128 City Road\nLondon\nEC1V 2NX\n0207 993 6533\nhelp@labelprintingco.co.uk\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=RGDBXAU&r=3",
+    "observed_at": "2026-11-05T20:22:18.333124+08:00",
+    "status": 200,
+    "code": "RGDBXAU",
+    "text": "Locate Us\nPDT R US\n75 Pitt Street\nSydney\nNSW 2000\n(+61) 28 5203915\nhelp@rigidboxesco.com.au\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=PBCOM&r=3",
+    "observed_at": "2026-11-05T20:22:18.216954+08:00",
+    "status": 200,
+    "code": "PBCOM",
+    "text": "Locate Us\nPackaging Boxes Co US\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@packagingboxesco.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=PBCOUK&r=3",
+    "observed_at": "2026-11-05T20:22:18.301461+08:00",
+    "status": 200,
+    "code": "PBCOUK",
+    "text": "Locate Us\nPackaging Boxes Company UK\n128 City Road\nLondon\nEC1V 2NX\n0207 993 6533\nhelp@packagingboxesco.co.uk\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=SCBCOM&r=3",
+    "observed_at": "2026-11-05T20:22:19.290048+08:00",
+    "status": 200,
+    "code": "SCBCOM",
+    "text": "Locate Us\nSmall Custom Boxes US\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@smallcustomboxes.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=RGDBXUK&r=3",
+    "observed_at": "2026-11-05T20:22:19.274963+08:00",
+    "status": 200,
+    "code": "RGDBXUK",
+    "text": "Locate Us\nRigid Boxes Company UK\n128 City Road\nLondon\nEC1V 2NX\n0207 993 6533\nhelp@rigidboxesco.co.uk\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=RSCOMAU&r=3",
+    "observed_at": "2026-11-05T20:22:19.284773+08:00",
+    "status": 200,
+    "code": "RSCOMAU",
+    "text": "Locate Us\nRoll Stickers Co Australia\n75 Pitt Street\nSydney\nNSW 2000\n(+61) 28 5203915\nhelp@rollstickersco.com.au\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=SCBCOMAU&r=3",
+    "observed_at": "2026-11-05T20:22:19.373269+08:00",
+    "status": 200,
+    "code": "SCBCOMAU",
+    "text": "Locate Us\nSmall Custom Boxes Australia\n75 Pitt Street\nSydney\nNSW 2000\n(+61) 28 5203915\nhelp@smallcustomboxes.com.au\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=SCBCOUK&r=3",
+    "observed_at": "2026-11-05T20:22:19.448873+08:00",
+    "status": 200,
+    "code": "SCBCOUK",
+    "text": "Locate Us\nSmall Custom Boxes UK\n128 City Road\nLondon\nEC1V 2NX\n0207 993 6533\nhelp@smallcustomboxes.co.uk\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=RSCOM&r=3",
+    "observed_at": "2026-11-05T20:22:19.283150+08:00",
+    "status": 200,
+    "code": "RSCOM",
+    "text": "Locate Us\nRoll Stickers Co US\n30 N Gould St Ste R\nSheridan\nWyoming\n82801\nUnited States\n646 389 0938\nhelp@rollstickersco.com\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=STCOUK&r=3",
+    "observed_at": "2026-11-05T20:22:20.258490+08:00",
+    "status": 200,
+    "code": "STCOUK",
+    "text": "Locate Us\nSwing Tags UK\n128 City Road\nLondon\nEC1V 2NX\n0207 993 6533\nhelp@swingtagsco.co.uk\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  },
+  {
+    "requested_url": "https://www.designmediaservice.com/genform.php?w=CBSCOMAU&r=3",
+    "observed_at": "2026-11-05T20:22:20.310306+08:00",
+    "status": 200,
+    "code": "CBSCOMAU",
+    "text": "Locate Us\nCustom Boxes Shop Australia\n75 Pitt Street\nSydney\nNSW 2000\n(+61) 28 5203915\nhelp@customboxesshop.com.au\nContact Us\nName*\nEmail*\nPhone\nMessage",
+    "form_action": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,1497 @@
+{
+  "requested_url": "https://www.astickerprinting.com.au/",
+  "observed_at": "2026-11-05T20:19:54.638938+08:00",
+  "status": 200,
+  "final_url": "https://www.astickerprinting.com.au/",
+  "title": "Custom Sticker & Label Printing | AStickerPrinting AU",
+  "links": [
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/favicon.ico",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/favicon.ico",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.googletagmanager.com/gtag/js?id=G-HT2HXWFX4K",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/js/tm/lib/swiper/css/swiper.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/plugin/fontawesome/css/font-awesome.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/plugin/pe-icon-stroke/css/pe-icon-7-stroke.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/plugin/font-SVG/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/plugin/css/bootstrap/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/plugin/css/jquery.bxslider.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/demo3/css/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/base/default/css/widgets.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/base/default/css/codnitive/sidenav.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/blog/css/blog.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/plugin/css/magicaccordion.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/magicmenu/css/magicmenu.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/magicsocial/css/magicsocial.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/base/default/tm/easycatalogimg/css/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/base/default/tm/easyslide/css/easyslide.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/base/default/css/tm/testimonials.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/plugin/css/animate.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/magiccart/magicslider/css/magicslider.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/css/print.css",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/prototype/prototype.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/lib/ccard.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/prototype/validation.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/scriptaculous/builder.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/scriptaculous/effects.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/scriptaculous/dragdrop.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/scriptaculous/controls.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/scriptaculous/slider.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/varien/js.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/varien/form.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/varien/menu.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/mage/translate.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/mage/cookies.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/jquery.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/jquery.noconflict.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/bootstrap/bootstrap.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/plugin/jquery.bxslider.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/classie.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/plugin/jquery.ddslick.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/varien/product.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/varien/product_options.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/plugin/jquery.easing.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/jquery.alothemes.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/magicproduct.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/plugin/jquery.meanmenu.hack.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/magicaccordion.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/magiccart/magicmenu.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/js/lib/modernizr.custom.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/js/lib/selectivizr.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/js/lib/matchMedia.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/js/lib/matchMedia.addListener.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/js/lib/enquire.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/js/app.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/js/lib/imagesloaded.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/base/default/js/minicart.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/tm/lib/classList.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/js/tm/lib/swiper/js/swiper.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/base/default/tm/easyslide/js/easyslide.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/base/default/js/tm/testimonials.js",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/blog/rss/index/store_id/1/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/skin/frontend/aloelectro/default/css/asa-layout.css?v=20260916b",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://wa.me/+61285203915?text=Hello%2C%20I%20am%20interested%20in%20Custom%20Stickers%20from%20astickerprinting.com.au.%20I%20need%20more%20details.",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com/",
+      "text": "United States astickerprinting.com"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": "United Kingdom astickerprinting.co.uk"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/",
+      "text": "Australia astickerprinting.com.au"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Our Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/auto-stickers",
+      "text": "Auto Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/band-stickers",
+      "text": "Band Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bike-stickers",
+      "text": "Bike Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bumper-stickers",
+      "text": "Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-stickers",
+      "text": "Business Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/car-stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/clear-vinyl-stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Create Custom Product"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/auto-stickers",
+      "text": "Auto Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/band-stickers",
+      "text": "Band Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bike-stickers",
+      "text": "Bike Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bumper-stickers",
+      "text": "Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-stickers",
+      "text": "Business Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/car-stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/clear-vinyl-stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/auto-stickers",
+      "text": "Auto Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/band-stickers",
+      "text": "Band Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bike-stickers",
+      "text": "Bike Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bumper-stickers",
+      "text": "Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-stickers",
+      "text": "Business Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/car-stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/clear-vinyl-stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/decals-sticker",
+      "text": "Decals Sticker"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/foil-stickers",
+      "text": "Foil Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/helmet-stickers",
+      "text": "Helmet Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/hologram-stickers",
+      "text": "Hologram Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/label-stickers",
+      "text": "Labels Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/laptop-stickers",
+      "text": "Laptop Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/letter-cut-stickers",
+      "text": "Letter Cut Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/logo-stickers",
+      "text": "Logo Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/metallic-stickers",
+      "text": "Metallic Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/packging-stickers",
+      "text": "Packging Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/reflective-stickers",
+      "text": "Reflective Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/roll-stickers",
+      "text": "Roll Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/static-clings",
+      "text": "Static Clings"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/stickers-paper",
+      "text": "Stickers Paper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/truck-stickers",
+      "text": "Truck Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/waterproof-stickers",
+      "text": "Waterproof Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/wedding-stickers",
+      "text": "Wedding Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/white-vinyl-stickers",
+      "text": "White Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/wholesale-stickers",
+      "text": "Wholesale Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/window-stickers",
+      "text": "Window Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/Accessibility-Stickers",
+      "text": "Accessibility Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/Carbon-Wheel-Stickers",
+      "text": "Carbon Wheel Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/Cherry-Stickers",
+      "text": "Cherry Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/Disney-Wall-Stickers",
+      "text": "Disney Wall Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/barcode-labels",
+      "text": "Barcode Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-logo-stickers",
+      "text": "Business Logo Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/beverage-labels",
+      "text": "Beverage Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-labels",
+      "text": "Business Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/customized-sticker-printing",
+      "text": "Custom Sticker Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/candle-labels",
+      "text": "Candle Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/canning-labels",
+      "text": "Canning Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/cheese-labels",
+      "text": "Cheese Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/clear-labels",
+      "text": "Clear Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/vinyl-sticker-printing",
+      "text": "Vinyl Sticker Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/cosmetic-labels",
+      "text": "Cosmetic Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-labels",
+      "text": "Custom Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/fluorescent-labels",
+      "text": "Fluorescent Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/foiled-labels",
+      "text": "Foiled Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/food-labels",
+      "text": "Food Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/gold-labels",
+      "text": "Gold Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/packaging-stickers-1",
+      "text": "Packaging Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/name-stickers-1",
+      "text": "Name Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/packaging-labels",
+      "text": "Packaging Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/paper-labels",
+      "text": "Paper Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/roll-labels",
+      "text": "Roll Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/silver-labels",
+      "text": "Silver labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/vinyl-labels",
+      "text": "Vinyl Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/warning-labels",
+      "text": "Warning Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/waterproof-labels",
+      "text": "Waterproof Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/woven-labels",
+      "text": "Woven Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-vinyl-stickers",
+      "text": "Custom vinyl stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/vinyl-floor-stickers",
+      "text": "Vinyl Floor Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/funny-warning-labels",
+      "text": "Funny warning labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/warning-stickers",
+      "text": "Warning Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Custom Quotation Custom Quotation"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com/",
+      "text": "United States astickerprinting.com"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": "United Kingdom astickerprinting.co.uk"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/",
+      "text": "Australia astickerprinting.com.au"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Our Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/auto-stickers",
+      "text": "Auto Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/band-stickers",
+      "text": "Band Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bike-stickers",
+      "text": "Bike Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bumper-stickers",
+      "text": "Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-stickers",
+      "text": "Business Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/car-stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/clear-vinyl-stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Create Custom Product"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/auto-stickers",
+      "text": "Auto Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/band-stickers",
+      "text": "Band Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bike-stickers",
+      "text": "Bike Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bumper-stickers",
+      "text": "Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-stickers",
+      "text": "Business Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/car-stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/clear-vinyl-stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/auto-stickers",
+      "text": "Auto Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/band-stickers",
+      "text": "Band Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bike-stickers",
+      "text": "Bike Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bumper-stickers",
+      "text": "Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-stickers",
+      "text": "Business Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/car-stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/clear-vinyl-stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/decals-sticker",
+      "text": "Decals Sticker"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/foil-stickers",
+      "text": "Foil Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/helmet-stickers",
+      "text": "Helmet Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/hologram-stickers",
+      "text": "Hologram Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/label-stickers",
+      "text": "Labels Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/laptop-stickers",
+      "text": "Laptop Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/letter-cut-stickers",
+      "text": "Letter Cut Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/logo-stickers",
+      "text": "Logo Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/metallic-stickers",
+      "text": "Metallic Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/packging-stickers",
+      "text": "Packging Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/reflective-stickers",
+      "text": "Reflective Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/roll-stickers",
+      "text": "Roll Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/static-clings",
+      "text": "Static Clings"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/stickers-paper",
+      "text": "Stickers Paper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/truck-stickers",
+      "text": "Truck Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/waterproof-stickers",
+      "text": "Waterproof Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/wedding-stickers",
+      "text": "Wedding Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/white-vinyl-stickers",
+      "text": "White Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/wholesale-stickers",
+      "text": "Wholesale Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/window-stickers",
+      "text": "Window Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/Accessibility-Stickers",
+      "text": "Accessibility Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/Carbon-Wheel-Stickers",
+      "text": "Carbon Wheel Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/Cherry-Stickers",
+      "text": "Cherry Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/Disney-Wall-Stickers",
+      "text": "Disney Wall Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/barcode-labels",
+      "text": "Barcode Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-logo-stickers",
+      "text": "Business Logo Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/beverage-labels",
+      "text": "Beverage Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-labels",
+      "text": "Business Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/customized-sticker-printing",
+      "text": "Custom Sticker Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/candle-labels",
+      "text": "Candle Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/canning-labels",
+      "text": "Canning Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/cheese-labels",
+      "text": "Cheese Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/clear-labels",
+      "text": "Clear Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/vinyl-sticker-printing",
+      "text": "Vinyl Sticker Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/cosmetic-labels",
+      "text": "Cosmetic Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-labels",
+      "text": "Custom Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/fluorescent-labels",
+      "text": "Fluorescent Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/foiled-labels",
+      "text": "Foiled Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/food-labels",
+      "text": "Food Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/gold-labels",
+      "text": "Gold Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/packaging-stickers-1",
+      "text": "Packaging Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/name-stickers-1",
+      "text": "Name Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/packaging-labels",
+      "text": "Packaging Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/paper-labels",
+      "text": "Paper Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/roll-labels",
+      "text": "Roll Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/silver-labels",
+      "text": "Silver labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/vinyl-labels",
+      "text": "Vinyl Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/warning-labels",
+      "text": "Warning Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/waterproof-labels",
+      "text": "Waterproof Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/woven-labels",
+      "text": "Woven Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-vinyl-stickers",
+      "text": "Custom vinyl stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/vinyl-floor-stickers",
+      "text": "Vinyl Floor Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/funny-warning-labels",
+      "text": "Funny warning labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/warning-stickers",
+      "text": "Warning Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Custom Quotation Custom Quotation"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Start Generating Quote"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories",
+      "text": "Browse Sticker Styles"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-stickers",
+      "text": "Custom Stickers Logos, giveaways and merchandise, cut to a standard shape or to the outline of your design. See custom stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/label-stickers",
+      "text": "Label Stickers Product names, contents and contact details for jars, bottles, bags and boxes you already use. See label stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/clear-vinyl-stickers",
+      "text": "Clear Vinyl Stickers A transparent base so the glass, bottle or surface behind shows through around your artwork. See clear vinyl"
+    },
+    {
+      "tag": "a",
+      "href": "/roll-stickers",
+      "text": "Roll Stickers Stickers supplied on a roll, handy when you are applying larger quantities by hand or dispenser. See roll stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/car-stickers",
+      "text": "Car Stickers Rear windows, doors and tool boxes: tell us the vehicle surface when you ask for a quote. View range →"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/logo-stickers",
+      "text": "Logo Stickers Your brand mark on its own, for packaging, equipment and giveaways. View range →"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/bumper-stickers",
+      "text": "Bumper Stickers Slogans, club names and campaign messages sized for a car bumper. View range →"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-stickers",
+      "text": "Business Stickers Seal envelopes, brand packaging and hand out your logo at events. View range →"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/laptop-stickers",
+      "text": "Laptop Stickers Small-format designs for laptops, notebooks and drink bottles. View range →"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/hologram-stickers",
+      "text": "Hologram Stickers A shifting, reflective finish for seals, launches and collectables. View range →"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/packging-stickers",
+      "text": "Packging Stickers Close mailers and brand product packaging with your own design. View range →"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/waterproof-stickers",
+      "text": "Waterproof Stickers For items that get wet in use; describe the conditions in your quote. View range →"
+    },
+    {
+      "tag": "a",
+      "href": "/white-vinyl-stickers",
+      "text": "White vinyl"
+    },
+    {
+      "tag": "a",
+      "href": "/clear-vinyl-stickers",
+      "text": "Clear vinyl"
+    },
+    {
+      "tag": "a",
+      "href": "/stickers-paper",
+      "text": "Paper stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/foil-stickers",
+      "text": "Foil"
+    },
+    {
+      "tag": "a",
+      "href": "/metallic-stickers",
+      "text": "Metallic"
+    },
+    {
+      "tag": "a",
+      "href": "/hologram-stickers",
+      "text": "Holographic"
+    },
+    {
+      "tag": "a",
+      "href": "/reflective-stickers",
+      "text": "Reflective"
+    },
+    {
+      "tag": "a",
+      "href": "/static-clings",
+      "text": "Static clings"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get a Material Recommendation"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories",
+      "text": "See All Categories"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Request a Quote"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us",
+      "text": "Ask a question first"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Custom Quotation →"
+    },
+    {
+      "tag": "link",
+      "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/business-stickers",
+      "text": "Business Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/car-stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/clear-vinyl-stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/custom-stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/auto-stickers",
+      "text": "Auto Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "tel:+61285203915",
+      "text": "(+61) 2 8520 3915"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Custom Quotation"
+    },
+    {
+      "tag": "a",
+      "href": "/about-us/",
+      "text": "About"
+    },
+    {
+      "tag": "a",
+      "href": "/privacy-policy/",
+      "text": "Privacy"
+    },
+    {
+      "tag": "a",
+      "href": "/shipping-and-returns/",
+      "text": "Shipping"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Contact"
+    },
+    {
+      "tag": "script",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js",
+      "text": ""
+    }
+  ],
+  "telephone_links": [
+    "tel:+61285203915",
+    "wa.me/+61285203915?text=Hello%2C%20I%20am%20interested%20in%20Custom%20Stickers%20from%20astickerprinting.com.au.%20I%20need%20more%20details."
+  ],
+  "tracking_ids": [
+    "G-HT2HXWFX4K",
+    "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+  ],
+  "external_domains": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "wa.me",
+    "www.astickerprinting.co.uk",
+    "www.astickerprinting.com",
+    "www.astickerprinting.com.au",
+    "www.googletagmanager.com"
+  ],
+  "footer_text": "Get premium-quality sticker printing at unbeatable prices. Enjoy fast turnaround, vibrant designs, and reliable service perfect for both business and personal use. Custom sizes, finishes, and materials available made to match your exact needs. Featured Categories Business Stickers Car Stickers Clear Vinyl Stickers Custom Stickers Auto Stickers Contact (+61) 2 8520 3915 Free design support, a PDF proof before printing and free shipping on every order. Get Custom Quotation Payment Methods © 2026 Asticker Printing . All Rights Reserved. About Privacy Shipping Contact"
+}

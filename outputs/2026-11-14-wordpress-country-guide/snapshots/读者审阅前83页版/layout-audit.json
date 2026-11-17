@@ -1,0 +1,583 @@
+[
+  {
+    "page": 1,
+    "key": "cover",
+    "title": "",
+    "bottom": 42.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 2,
+    "key": "contents",
+    "title": "这份手册，怎样帮你落地",
+    "bottom": 68.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 3,
+    "key": "start",
+    "title": "从第一个国家站，走向能长期经营的网站",
+    "bottom": 258.84,
+    "body_scale": 1.0
+  },
+  {
+    "page": 4,
+    "key": "buyer_journey",
+    "title": "客户先有采购问题，然后才会找到你",
+    "bottom": 209.16,
+    "body_scale": 1.0
+  },
+  {
+    "page": 5,
+    "key": "three_layers",
+    "title": "多语言、本地化、国家域名，各自解决一个问题",
+    "bottom": 157.21,
+    "body_scale": 1.0
+  },
+  {
+    "page": 6,
+    "key": "language_country",
+    "title": "国家决定服务市场，语言决定怎样沟通",
+    "bottom": 161.19,
+    "body_scale": 1.0
+  },
+  {
+    "page": 7,
+    "key": "domain_value",
+    "title": "国家域名的作用：把目标市场说清楚",
+    "bottom": 196.76,
+    "body_scale": 1.0
+  },
+  {
+    "page": 8,
+    "key": "search_steps",
+    "title": "网站上线后，搜索引擎还要认识你的页面",
+    "bottom": 211.16,
+    "body_scale": 1.0
+  },
+  {
+    "page": 9,
+    "key": "mainplan",
+    "title": "一套产品资料，支持多个国家的业务入口",
+    "bottom": 173.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 10,
+    "key": "promise",
+    "title": "AI 的价值，落在建站、本地化和日常更新",
+    "bottom": 182.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 11,
+    "key": "choose",
+    "title": "先找到一个有能力服务好的国家",
+    "bottom": 241.35,
+    "body_scale": 1.0
+  },
+  {
+    "page": 12,
+    "key": "case_map",
+    "title": "125 组案例全景：按行业与任务找到你的参考",
+    "bottom": 76.93,
+    "body_scale": 0.925
+  },
+  {
+    "page": 13,
+    "key": "evidence_guide",
+    "title": "看一个案例，先知道它能说明什么",
+    "bottom": 212.19,
+    "body_scale": 1.0
+  },
+  {
+    "page": 14,
+    "key": "packaging_europe",
+    "title": "欧洲贴纸：统一品牌，分别经营当地语言页面",
+    "bottom": 132.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 15,
+    "key": "packaging_terms",
+    "title": "同一种硬盒，进入不同语言的采购语境",
+    "bottom": 167.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 16,
+    "key": "china_vehicles",
+    "title": "中国制造的国家站，把产品与当地销售接起来",
+    "bottom": 192.71,
+    "body_scale": 1.0
+  },
+  {
+    "page": 17,
+    "key": "china_industry",
+    "title": "工业买家需要参数，也需要交付与服务答案",
+    "bottom": 173.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 18,
+    "key": "industry_pages",
+    "title": "igus：同一产品，四个当地语言入口",
+    "bottom": 169.71,
+    "body_scale": 1.0
+  },
+  {
+    "page": 19,
+    "key": "industry_compare",
+    "title": "PERI 与 Hilti：把“对应关系”做到具体页面",
+    "bottom": 212.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 20,
+    "key": "sany",
+    "title": "三一印度：一个国家域名，承接完整业务",
+    "bottom": 152.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 21,
+    "key": "sany_market",
+    "title": "三一全球布局，提供的是管理分工参考",
+    "bottom": 94.81,
+    "body_scale": 1.0
+  },
+  {
+    "page": 22,
+    "key": "sany_product",
+    "title": "一台 SY215C，怎样变成多个市场的产品资料",
+    "bottom": 233.71,
+    "body_scale": 1.0
+  },
+  {
+    "page": 23,
+    "key": "packaging",
+    "title": "包装网络：按产品和国家安排入口",
+    "bottom": 64.91,
+    "body_scale": 0.975
+  },
+  {
+    "page": 24,
+    "key": "packaging_ops",
+    "title": "买家从不同站进入，团队可以集中处理",
+    "bottom": 165.71,
+    "body_scale": 1.0
+  },
+  {
+    "page": 25,
+    "key": "seo_results",
+    "title": "有结果的 SEO 项目，做的是一组持续工作",
+    "bottom": 107.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 26,
+    "key": "maintenance_cases",
+    "title": "成熟团队把共同工作与当地工作分开安排",
+    "bottom": 205.24,
+    "body_scale": 1.0
+  },
+  {
+    "page": 27,
+    "key": "query_intent",
+    "title": "先理解客户要找什么，再决定做什么页面",
+    "bottom": 150.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 28,
+    "key": "search_snippet",
+    "title": "搜索结果里的几行字，要让买家知道你提供什么",
+    "bottom": 122.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 29,
+    "key": "page_structure",
+    "title": "一个好产品页，帮助买家完成一次判断",
+    "bottom": 203.14,
+    "body_scale": 1.0
+  },
+  {
+    "page": 30,
+    "key": "content_links",
+    "title": "内链就是网站里的路标：从问题走到产品",
+    "bottom": 199.71,
+    "body_scale": 1.0
+  },
+  {
+    "page": 31,
+    "key": "trust_links",
+    "title": "让客户信任你，需要可核对的资料与真实联系",
+    "bottom": 213.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 32,
+    "key": "language_seo",
+    "title": "两个技术标记：首选地址与对应语言版本",
+    "bottom": 152.71,
+    "body_scale": 1.0
+  },
+  {
+    "page": 33,
+    "key": "seo_check",
+    "title": "多语言 SEO：交给 AI 实施，也要看懂验收点",
+    "bottom": 135.54,
+    "body_scale": 1.0
+  },
+  {
+    "page": 34,
+    "key": "ai_quality",
+    "title": "AI 做初稿，资料与审核决定内容能否发布",
+    "bottom": 222.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 35,
+    "key": "operations",
+    "title": "网站上线后，日常工作才有了固定落点",
+    "bottom": 169.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 36,
+    "key": "wp_stack",
+    "title": "看懂三个角色：Codex、Harness 与 WordPress",
+    "bottom": 114.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 37,
+    "key": "wp_editor",
+    "title": "产品页的内容，可以变成一张好填写的表",
+    "bottom": 122.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 38,
+    "key": "wp_seo",
+    "title": "把客户问过的问题，逐步写成网站里的答案",
+    "bottom": 148.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 39,
+    "key": "wp_team",
+    "title": "你、业务员与 AI，可以各自负责一部分工作",
+    "bottom": 153.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 40,
+    "key": "wp_country",
+    "title": "一个国家一个 WordPress 站，共用已确认的方法",
+    "bottom": 144.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 41,
+    "key": "route_choice",
+    "title": "选哪条路线，看日后谁来更新、怎样更新",
+    "bottom": 261.81,
+    "body_scale": 1.0
+  },
+  {
+    "page": 42,
+    "key": "static",
+    "title": "免费静态站 Skill：把一个明确需求快速做成网页",
+    "bottom": 145.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 43,
+    "key": "hybrid",
+    "title": "主力市场用 WordPress，静态站补充具体任务",
+    "bottom": 141.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 44,
+    "key": "domain_ops",
+    "title": "每个国家域名，配一份可检查的网站记录",
+    "bottom": 151.42,
+    "body_scale": 1.0
+  },
+  {
+    "page": 45,
+    "key": "materials",
+    "title": "建站前，把资料整理成可以复用的输入",
+    "bottom": 128.04,
+    "body_scale": 1.0
+  },
+  {
+    "page": 46,
+    "key": "pages",
+    "title": "首站页面蓝图：让买家完成一次有效咨询",
+    "bottom": 180.43,
+    "body_scale": 1.0
+  },
+  {
+    "page": 47,
+    "key": "localize",
+    "title": "当地化内容，把产品事实变成买家能用的答案",
+    "bottom": 190.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 48,
+    "key": "launch",
+    "title": "首站验收：能阅读、能修改、能实际收件",
+    "bottom": 191.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 49,
+    "key": "budget",
+    "title": "把服务器费用和每月维护工作一起算",
+    "bottom": 181.98,
+    "body_scale": 1.0
+  },
+  {
+    "page": 50,
+    "key": "maintain",
+    "title": "参数改一次，先找出哪些国家页面需要更新",
+    "bottom": 130.31,
+    "body_scale": 1.0
+  },
+  {
+    "page": 51,
+    "key": "measure",
+    "title": "看懂五层数据，才知道下一步该改哪里",
+    "bottom": 139.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 52,
+    "key": "faq",
+    "title": "第一次做国家站，最常问的六个问题",
+    "bottom": 206.49,
+    "body_scale": 1.0
+  },
+  {
+    "page": 53,
+    "key": "learning_path",
+    "title": "学会这套方案，要能亲手完成六件事",
+    "bottom": 178.16,
+    "body_scale": 1.0
+  },
+  {
+    "page": 54,
+    "key": "prompts_1",
+    "title": "提示词 1 与 2：先规划，再选择建站路线",
+    "bottom": 265.14,
+    "body_scale": 1.0
+  },
+  {
+    "page": 55,
+    "key": "prompts_2",
+    "title": "提示词 3 至 5：本地化、更新与验收",
+    "bottom": 281.14,
+    "body_scale": 1.0
+  },
+  {
+    "page": 56,
+    "key": "action",
+    "title": "先把一个国家站，做到你和团队都能继续使用",
+    "bottom": 174.44,
+    "body_scale": 1.0
+  },
+  {
+    "page": 57,
+    "key": "architectures",
+    "title": "读案例时，分清国家域名与其他网址结构",
+    "bottom": 263.42,
+    "body_scale": 1.0
+  },
+  {
+    "page": 58,
+    "key": "compare",
+    "title": "迁移案例：域名存在，还要看最终落地页面",
+    "bottom": 247.42,
+    "body_scale": 1.0
+  },
+  {
+    "page": 59,
+    "key": "china_map",
+    "title": "21 组中国案例，按销售方式与网址结构查阅",
+    "bottom": 231.42,
+    "body_scale": 1.0
+  },
+  {
+    "page": 60,
+    "key": "sany_domains_1",
+    "title": "三一：25 个集团与业务根域 · 1/2",
+    "bottom": 105.03,
+    "body_scale": 1.0
+  },
+  {
+    "page": 61,
+    "key": "sany_domains_2",
+    "title": "三一：25 个集团与业务根域 · 2/2",
+    "bottom": 136.99,
+    "body_scale": 1.0
+  },
+  {
+    "page": 62,
+    "key": "pack_matrix_1",
+    "title": "包装：47 个核心根域 · 1/2",
+    "bottom": 122.78,
+    "body_scale": 1.0
+  },
+  {
+    "page": 63,
+    "key": "pack_matrix_2",
+    "title": "包装：47 个核心根域 · 2/2",
+    "bottom": 149.75,
+    "body_scale": 1.0
+  },
+  {
+    "page": 64,
+    "key": "catalog_1_0",
+    "title": "中国制造 · 1/3",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 65,
+    "key": "catalog_1_1",
+    "title": "中国制造 · 2/3",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 66,
+    "key": "catalog_1_2",
+    "title": "中国制造 · 3/3",
+    "bottom": 215.22,
+    "body_scale": 1.0
+  },
+  {
+    "page": 67,
+    "key": "catalog_2_0",
+    "title": "工业与 B2B · 1/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 68,
+    "key": "catalog_2_1",
+    "title": "工业与 B2B · 2/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 69,
+    "key": "catalog_2_2",
+    "title": "工业与 B2B · 3/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 70,
+    "key": "catalog_2_3",
+    "title": "工业与 B2B · 4/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 71,
+    "key": "catalog_2_4",
+    "title": "工业与 B2B · 5/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 72,
+    "key": "catalog_2_5",
+    "title": "工业与 B2B · 6/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 73,
+    "key": "catalog_2_6",
+    "title": "工业与 B2B · 7/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 74,
+    "key": "catalog_2_7",
+    "title": "工业与 B2B · 8/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 75,
+    "key": "catalog_2_8",
+    "title": "工业与 B2B · 9/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 76,
+    "key": "catalog_3_0",
+    "title": "跨行业与架构参照 · 1/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 77,
+    "key": "catalog_3_1",
+    "title": "跨行业与架构参照 · 2/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 78,
+    "key": "catalog_3_2",
+    "title": "跨行业与架构参照 · 3/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 79,
+    "key": "catalog_3_3",
+    "title": "跨行业与架构参照 · 4/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 80,
+    "key": "glossary_search",
+    "title": "SEO 术语速查：把专业词换成能理解的工作",
+    "bottom": 125.44,
+    "body_scale": 1.0
+  },
+  {
+    "page": 81,
+    "key": "glossary_build",
+    "title": "建站术语速查：知道各工具负责哪件事",
+    "bottom": 108.04,
+    "body_scale": 1.0
+  },
+  {
+    "page": 82,
+    "key": "methods",
+    "title": "怎样继续研究这些网站",
+    "bottom": 73.86,
+    "body_scale": 0.975
+  },
+  {
+    "page": 83,
+    "key": "resources",
+    "title": "配套工具：把理解变成自己的第一张工作表",
+    "bottom": 74.53,
+    "body_scale": 1.0
+  }
+]

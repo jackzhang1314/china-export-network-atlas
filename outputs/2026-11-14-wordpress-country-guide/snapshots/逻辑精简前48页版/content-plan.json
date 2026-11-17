@@ -1,0 +1,93 @@
+{
+  "revision": "历史与SEO证据贯穿的WordPress国家站获客叙事",
+  "updated_at": "2026-11-14T17:08:59+08:00",
+  "user_objective": "让外贸工厂、小型外贸公司与SOHO理解：多语言本地域名获客已有长期企业实践及项目结果；过去投入高，AI与WordPress Builder Harness + Codex减少重复制作负担，使小团队更有条件采用。",
+  "narrative": [
+    "历史与已披露结果",
+    "当地搜索、专业内容与国家域名的作用",
+    "代表企业如何承接产品与市场",
+    "过去的持续投入与AI改变的工作量",
+    "WordPress方案的能力、资产价值与培训衔接",
+    "完整案例与域名索引"
+  ],
+  "previous_delivered_pages": 70,
+  "intermediate_pages": [
+    45,
+    49
+  ],
+  "current_pages": 48,
+  "current_figures": 20,
+  "authored_sections": 26,
+  "case_count": 125,
+  "key_pages": {
+    "thesis": 3,
+    "history": 4,
+    "mascus_results": 5,
+    "seo_mechanism": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "case_studies": [
+      10,
+      21
+    ],
+    "old_cost": 22,
+    "ai_economics": 23,
+    "wordpress_solution": [
+      24,
+      25,
+      26
+    ],
+    "appendices": [
+      27,
+      48
+    ]
+  },
+  "removed_sections": [
+    "action",
+    "ai_quality",
+    "budget",
+    "choose",
+    "content_links",
+    "domain_ops",
+    "glossary_search",
+    "language_seo",
+    "launch",
+    "mainplan",
+    "maintain",
+    "materials",
+    "measure",
+    "operations",
+    "page_structure",
+    "pages",
+    "prompts_1",
+    "query_intent",
+    "resources",
+    "route_choice",
+    "search_snippet",
+    "search_steps",
+    "static",
+    "trust_links",
+    "wp_country",
+    "wp_editor",
+    "wp_team",
+    "methods"
+  ],
+  "removed_public_material": [
+    "WordPress建站操作",
+    "后台修改与更新步骤",
+    "提示词",
+    "上线验收与填写工作表",
+    "资料说明页",
+    "资料整理与制作日期说明"
+  ],
+  "preserved": "全部125组案例与完整来源；三一25根域、包装47根域；3张研究数据表字节不变；历史事件日期与结果比较周期。",
+  "public_package": "PDF + 3 CSV research tables + readme; 5 files",
+  "course_invitations": 1,
+  "scope_limit": "研究与方案介绍；项目指标按发布方原文，未独立审计第三方后台；未测试全部建站运行能力或读者转化。",
+  "status": "已完成并验证",
+  "completed_at": "2026-11-14T17:10:20+08:00",
+  "pdf_sha256": "aa9ddaefd6ea8b94dbfb134caf37096560b0b2cc6ea455f1309c1bb063f7a3dd"
+}

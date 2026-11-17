@@ -1,0 +1,373 @@
+[
+  {
+    "page": 1,
+    "key": "cover",
+    "title": "",
+    "bottom": 42.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 2,
+    "key": "contents",
+    "title": "这份手册，怎样帮你落地",
+    "bottom": 68.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 3,
+    "key": "start",
+    "title": "从案例出发，做出你的第一个国家站",
+    "bottom": 249.81,
+    "body_scale": 1.0
+  },
+  {
+    "page": 4,
+    "key": "promise",
+    "title": "AI 改变三个环节，你要留下三类资产",
+    "bottom": 257.38,
+    "body_scale": 1.0
+  },
+  {
+    "page": 5,
+    "key": "architectures",
+    "title": "四种架构，都能服务海外市场",
+    "bottom": 263.42,
+    "body_scale": 1.0
+  },
+  {
+    "page": 6,
+    "key": "choose",
+    "title": "先找到一个有能力服务好的国家",
+    "bottom": 241.35,
+    "body_scale": 1.0
+  },
+  {
+    "page": 7,
+    "key": "sany",
+    "title": "三一：把全球品牌与当地业务连接起来",
+    "bottom": 288.16,
+    "body_scale": 1.0
+  },
+  {
+    "page": 8,
+    "key": "sany_market",
+    "title": "四个市场，四种入口安排",
+    "bottom": 263.33,
+    "body_scale": 1.0
+  },
+  {
+    "page": 9,
+    "key": "sany_product",
+    "title": "用一台 SY215C，理解产品如何跨市场维护",
+    "bottom": 207.91,
+    "body_scale": 1.0
+  },
+  {
+    "page": 10,
+    "key": "sany_domains_1",
+    "title": "25 个集团与业务根域 · 1/2",
+    "bottom": 105.03,
+    "body_scale": 1.0
+  },
+  {
+    "page": 11,
+    "key": "sany_domains_2",
+    "title": "25 个集团与业务根域 · 2/2",
+    "bottom": 136.99,
+    "body_scale": 1.0
+  },
+  {
+    "page": 12,
+    "key": "packaging",
+    "title": "包装案例：产品入口与市场入口相互组合",
+    "bottom": 279.28,
+    "body_scale": 1.0
+  },
+  {
+    "page": 13,
+    "key": "pack_matrix_1",
+    "title": "产品 × 市场：47 个核心根域 · 1/2",
+    "bottom": 122.78,
+    "body_scale": 1.0
+  },
+  {
+    "page": 14,
+    "key": "pack_matrix_2",
+    "title": "产品 × 市场：47 个核心根域 · 2/2",
+    "bottom": 149.75,
+    "body_scale": 1.0
+  },
+  {
+    "page": 15,
+    "key": "packaging_ops",
+    "title": "多个入口，怎样减少重复维护",
+    "bottom": 262.61,
+    "body_scale": 1.0
+  },
+  {
+    "page": 16,
+    "key": "packaging_europe",
+    "title": "真正的小语种包装站，可以看这两组",
+    "bottom": 285.81,
+    "body_scale": 1.0
+  },
+  {
+    "page": 17,
+    "key": "china_map",
+    "title": "21 组中国案例，按你的销售方式选择",
+    "bottom": 231.42,
+    "body_scale": 1.0
+  },
+  {
+    "page": 18,
+    "key": "china_vehicles",
+    "title": "徐工、福田、MAXUS：当地站承担销售任务",
+    "bottom": 294.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 19,
+    "key": "china_industry",
+    "title": "杭叉、海天、NOARK：产品资料怎样服务当地采购",
+    "bottom": 313.76,
+    "body_scale": 1.0
+  },
+  {
+    "page": 20,
+    "key": "industry_pages",
+    "title": "同一产品的不同语言页，才是有用的对照",
+    "bottom": 279.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 21,
+    "key": "seo_results",
+    "title": "有结果披露的项目，实际做了哪些工作",
+    "bottom": 294.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 22,
+    "key": "maintenance_cases",
+    "title": "长期维护的效率，来自清楚的分工",
+    "bottom": 243.42,
+    "body_scale": 1.0
+  },
+  {
+    "page": 23,
+    "key": "compare",
+    "title": "有的企业扩展多域，有的企业集中到一个域名",
+    "bottom": 247.42,
+    "body_scale": 1.0
+  },
+  {
+    "page": 24,
+    "key": "static",
+    "title": "第一条路线：AI 管文件，Cloudflare 发布网站",
+    "bottom": 224.66,
+    "body_scale": 1.0
+  },
+  {
+    "page": 25,
+    "key": "materials",
+    "title": "建站前，把资料整理成可以复用的输入",
+    "bottom": 144.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 26,
+    "key": "pages",
+    "title": "首站页面蓝图：让买家完成一次有效咨询",
+    "bottom": 180.43,
+    "body_scale": 1.0
+  },
+  {
+    "page": 27,
+    "key": "localize",
+    "title": "小语种内容：从“翻译句子”推进到“回答采购问题”",
+    "bottom": 228.37,
+    "body_scale": 1.0
+  },
+  {
+    "page": 28,
+    "key": "seo_check",
+    "title": "多语言 SEO：交给 AI 实施，也要看懂验收点",
+    "bottom": 199.4,
+    "body_scale": 1.0
+  },
+  {
+    "page": 29,
+    "key": "launch",
+    "title": "生成、部署、交付，是三个不同的检查点",
+    "bottom": 218.84,
+    "body_scale": 1.0
+  },
+  {
+    "page": 30,
+    "key": "budget",
+    "title": "免费额度可以起步，成本按实际用量计算",
+    "bottom": 228.41,
+    "body_scale": 1.0
+  },
+  {
+    "page": 31,
+    "key": "maintain",
+    "title": "建完之后，用固定流程维护多个国家站",
+    "bottom": 226.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 32,
+    "key": "measure",
+    "title": "用有效询盘和维护成本决定下一步",
+    "bottom": 207.9,
+    "body_scale": 1.0
+  },
+  {
+    "page": 33,
+    "key": "prompts_1",
+    "title": "提示词 1 与 2：先规划，再建站",
+    "bottom": 316.59,
+    "body_scale": 1.0
+  },
+  {
+    "page": 34,
+    "key": "prompts_2",
+    "title": "提示词 3 至 5：本地化、更新与验收",
+    "bottom": 297.14,
+    "body_scale": 1.0
+  },
+  {
+    "page": 35,
+    "key": "action",
+    "title": "给自己安排一个可完成的启动周期",
+    "bottom": 109.47,
+    "body_scale": 1.0
+  },
+  {
+    "page": 36,
+    "key": "catalog_1_0",
+    "title": "中国制造 · 1/3",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 37,
+    "key": "catalog_1_1",
+    "title": "中国制造 · 2/3",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 38,
+    "key": "catalog_1_2",
+    "title": "中国制造 · 3/3",
+    "bottom": 215.22,
+    "body_scale": 1.0
+  },
+  {
+    "page": 39,
+    "key": "catalog_2_0",
+    "title": "工业与 B2B · 1/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 40,
+    "key": "catalog_2_1",
+    "title": "工业与 B2B · 2/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 41,
+    "key": "catalog_2_2",
+    "title": "工业与 B2B · 3/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 42,
+    "key": "catalog_2_3",
+    "title": "工业与 B2B · 4/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 43,
+    "key": "catalog_2_4",
+    "title": "工业与 B2B · 5/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 44,
+    "key": "catalog_2_5",
+    "title": "工业与 B2B · 6/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 45,
+    "key": "catalog_2_6",
+    "title": "工业与 B2B · 7/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 46,
+    "key": "catalog_2_7",
+    "title": "工业与 B2B · 8/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 47,
+    "key": "catalog_2_8",
+    "title": "工业与 B2B · 9/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 48,
+    "key": "catalog_3_0",
+    "title": "跨行业与架构参照 · 1/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 49,
+    "key": "catalog_3_1",
+    "title": "跨行业与架构参照 · 2/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 50,
+    "key": "catalog_3_2",
+    "title": "跨行业与架构参照 · 3/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 51,
+    "key": "catalog_3_3",
+    "title": "跨行业与架构参照 · 4/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 52,
+    "key": "methods",
+    "title": "怎样继续研究这些网站",
+    "bottom": 77.06,
+    "body_scale": 1.0
+  },
+  {
+    "page": 53,
+    "key": "resources",
+    "title": "官方参考与随包工具",
+    "bottom": 67.08,
+    "body_scale": 1.0
+  }
+]

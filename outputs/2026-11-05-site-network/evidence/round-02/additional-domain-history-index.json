@@ -1,0 +1,26 @@
+[
+  {
+    "label": "blog-bestmediaservices",
+    "domain": "http://blog.bestmediaservices.com/",
+    "observed_at": "2026-11-05T23:39:40.492870+08:00",
+    "status": 200,
+    "url": "https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fblog.bestmediaservices.com%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&fl=timestamp%2Coriginal%2Cdigest&collapse=digest&limit=8",
+    "body": "[]\n"
+  },
+  {
+    "label": "bestmediaservices-root",
+    "domain": "bestmediaservices.com/",
+    "observed_at": "2026-11-05T23:39:40.493183+08:00",
+    "status": 200,
+    "url": "https://web.archive.org/cdx/search/cdx?url=bestmediaservices.com%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&fl=timestamp%2Coriginal%2Cdigest&collapse=digest&limit=8",
+    "body": "[[\"timestamp\",\"original\",\"digest\"],\n[\"20120812172444\",\"http://bestmediaservices.com/\",\"QC6DX2BEDWNXSQWQDE75KQCDGYHEPQF7\"],\n[\"20120912235430\",\"http://bestmediaservices.com:80/\",\"2RSJ2JOQ2LEFP7RIIDFQK376U5P4GPY7\"],\n[\"20120923210230\",\"http://bestmediaservices.com:80/\",\"TPISFLICEPQQOWVKGOI6BUXIFYWSD6PA\"],\n[\"20121124231836\",\"http://bestmediaservices.com:80/\",\"3DMVH3X6BL3AUBVAAS6FPRFSH4KTEK6H\"],\n[\"20180829160438\",\"https://bestmediaservices.com/\",\"6OT7FEFHRU5NVFGGBEO7HDYDLRL632Z7\"],\n[\"20190514060045\",\"http://bestmediaservices.com/\",\"PWOTJXFNP2GSOYOHTBXZDWSXJMMVEETV\"],\n[\"20211222024234\",\"https://bestmediaservices.com/\",\"2NTBSVBRI6WXEA7CVYUVD4KTAIACHJ36\"],\n[\"20230121050028\",\"https://bestmediaservices.com/\",\"ABCKTQHNKKVCLMFWOUBAKV4XVME6PUEV\"]]\n"
+  },
+  {
+    "label": "bestmediaservice-uk",
+    "domain": "bestmediaservice.co.uk/",
+    "observed_at": "2026-11-05T23:39:42.945527+08:00",
+    "status": 200,
+    "url": "https://web.archive.org/cdx/search/cdx?url=bestmediaservice.co.uk%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&fl=timestamp%2Coriginal%2Cdigest&collapse=digest&limit=8",
+    "body": "[]\n"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "revision": "读者视角通读与精简",
+  "updated_at": "2026-11-14T16:33:13+08:00",
+  "previous_authored_sections": 61,
+  "current_authored_sections": 48,
+  "removed_or_merged_sections": [
+    "compare",
+    "evidence_guide",
+    "faq",
+    "glossary_build",
+    "hybrid",
+    "language_country",
+    "learning_path",
+    "localize",
+    "promise",
+    "prompts_2",
+    "seo_check",
+    "wp_seo",
+    "wp_stack"
+  ],
+  "rewritten_sections": [
+    "start",
+    "three_layers",
+    "mainplan",
+    "ai_quality",
+    "operations",
+    "wp_editor",
+    "wp_team",
+    "wp_country",
+    "route_choice",
+    "static",
+    "budget",
+    "prompts_1",
+    "action",
+    "glossary_search",
+    "methods",
+    "resources",
+    "content_links",
+    "case_map",
+    "architectures"
+  ],
+  "audience_checks": [
+    "工厂老板：能否交给同事维护，如何把握产品事实和发布",
+    "SOHO：少量改动能否自己完成，批量任务如何交给AI",
+    "外贸公司：供应商资料与公开产品的对应，团队如何接手"
+  ],
+  "editorial_decisions": [
+    "先讲三类读者的具体工作，再解释后台与工具",
+    "WordPress长期内容维护与协作作为主线；静态方案按任务公平比较",
+    "课程邀请只出现一次，放在读者能开始实操之后",
+    "长提示词移到独立源文件和配套资料，PDF只留短示例",
+    "保留125组案例及全部核心域名、关键SEO解释与证据范围"
+  ],
+  "previous_snapshot": "outputs/2026-11-14-wordpress-country-guide/snapshots/读者审阅前83页版",
+  "completed_at": "2026-11-14T16:38:58+08:00",
+  "previous_pages": 83,
+  "current_pages": 70,
+  "previous_figures": 42,
+  "current_figures": 35,
+  "course_invitations_before": 3,
+  "course_invitations_after": 1,
+  "key_pages": {
+    "reader_scenarios": 31,
+    "editing_example": 32,
+    "team_work": 33,
+    "country_expansion": 34,
+    "route_comparison": 35,
+    "short_prompt_examples": 44,
+    "practice_and_course_invitation": 45
+  },
+  "scope_limit": "基于三类读者工作场景的编辑审阅；未进行真实读者测试或课程转化测试。"
+}

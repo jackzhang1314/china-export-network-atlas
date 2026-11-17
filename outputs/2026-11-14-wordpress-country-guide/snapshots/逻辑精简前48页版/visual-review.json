@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-11-14T17:10:20+08:00",
+  "pdf_sha256": "aa9ddaefd6ea8b94dbfb134caf37096560b0b2cc6ea455f1309c1bb063f7a3dd",
+  "page_count": 48,
+  "all_pages_rendered": true,
+  "all_contact_sheets_reviewed": 4,
+  "narrative_detail_pages_reviewed_before_final_date_removal": [
+    3,
+    4,
+    5,
+    10,
+    18,
+    21,
+    23,
+    24,
+    26,
+    27
+  ],
+  "final_detail_pages_reviewed": [
+    1,
+    2,
+    29,
+    30,
+    48
+  ],
+  "last_revision": "Removed the entire information section and editorial dates; final PDF rebuilt with 48 pages and all pages re-rendered.",
+  "observed_defects": [],
+  "render_dpi": 90,
+  "preview_directory": "排版预览/获客逻辑与证据",
+  "notes": "All 48 final pages reviewed through four contact sheets; cover, contents, changed SANY appendix pages and final catalog page inspected at full image size. Narrative details were inspected before the final uniform header/page-count update. No clipping, overlap or missing glyphs observed. Case coverage and package consistency were checked separately; this is not reader-conversion testing."
+}

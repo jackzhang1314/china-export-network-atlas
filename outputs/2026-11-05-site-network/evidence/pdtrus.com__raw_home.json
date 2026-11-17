@@ -1,0 +1,196 @@
+{
+  "requested_url": "https://pdtrus.com/",
+  "observed_at": "2026-11-05T20:19:58.137158+08:00",
+  "status": 200,
+  "final_url": "https://pdtrus.com/",
+  "title": "Home | PDTRUS",
+  "links": [
+    {
+      "tag": "link",
+      "href": "https://fonts.googleapis.com",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://fonts.gstatic.com",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/css/style.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/images/favicon.svg",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "/about",
+      "text": "About"
+    },
+    {
+      "tag": "a",
+      "href": "/services",
+      "text": "Services"
+    },
+    {
+      "tag": "a",
+      "href": "/portfolio",
+      "text": "Portfolio"
+    },
+    {
+      "tag": "a",
+      "href": "/contact",
+      "text": "Contact"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Get a Quote"
+    },
+    {
+      "tag": "a",
+      "href": "/services",
+      "text": "Our Services"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Get a Free Quote"
+    },
+    {
+      "tag": "a",
+      "href": "/portfolio",
+      "text": "View All Projects"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Get a Free Quote"
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "/about",
+      "text": "About Us"
+    },
+    {
+      "tag": "a",
+      "href": "/services",
+      "text": "Services"
+    },
+    {
+      "tag": "a",
+      "href": "/portfolio",
+      "text": "Portfolio"
+    },
+    {
+      "tag": "a",
+      "href": "/contact",
+      "text": "Contact"
+    },
+    {
+      "tag": "a",
+      "href": "/services",
+      "text": "Print Media"
+    },
+    {
+      "tag": "a",
+      "href": "/services",
+      "text": "Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "/services",
+      "text": "Labels & Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/services",
+      "text": "Custom Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/services",
+      "text": "Branding"
+    },
+    {
+      "tag": "a",
+      "href": "mailto:help@pdtrus.co.uk",
+      "text": "help@pdtrus.co.uk"
+    },
+    {
+      "tag": "a",
+      "href": "/privacy-policy",
+      "text": "Privacy Policy"
+    },
+    {
+      "tag": "a",
+      "href": "/terms-of-service",
+      "text": "Terms of Service"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "/js/main.js",
+      "text": ""
+    }
+  ],
+  "telephone_links": [],
+  "tracking_ids": [],
+  "external_domains": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com"
+  ],
+  "footer_text": "Delivering premium print media and packaging solutions worldwide. Quality, innovation, and reliability in every project. Quick Links Home About Us Services Portfolio Contact Services Print Media Packaging Labels & Stickers Custom Boxes Branding Contact help@pdtrus.co.uk © 2026 Print Design & Tech R US LTD. All rights reserved. Privacy Policy · Terms of Service"
+}

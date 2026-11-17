@@ -1,0 +1,222 @@
+{
+  "checkedAt": "2026-11-12T09:11:35.662Z",
+  "browser": "157.0.8103.78",
+  "checks": [
+    {
+      "name": "15 screens",
+      "pass": true
+    },
+    {
+      "name": "exact opening",
+      "pass": true
+    },
+    {
+      "name": "manual next screen",
+      "pass": true
+    },
+    {
+      "name": "manual incremental reveal",
+      "pass": true
+    },
+    {
+      "name": "manual previous reveal",
+      "pass": true
+    },
+    {
+      "name": "reveal all current screen",
+      "pass": true
+    },
+    {
+      "name": "replay resets current screen",
+      "pass": true
+    },
+    {
+      "name": "autoplay advances clock",
+      "pass": true
+    },
+    {
+      "name": "pause freezes clock",
+      "pass": true
+    },
+    {
+      "name": "notes contain voiceover and provenance",
+      "pass": true
+    },
+    {
+      "name": "overview contains 15 destinations",
+      "pass": true
+    },
+    {
+      "name": "jump to selected screen",
+      "pass": true
+    },
+    {
+      "name": "clean filming hides controls",
+      "pass": true
+    },
+    {
+      "name": "double click restores controls",
+      "pass": true
+    },
+    {
+      "name": "fullscreen entry",
+      "pass": true
+    },
+    {
+      "name": "stops at 03:55 on last screen",
+      "pass": true
+    },
+    {
+      "name": "continuous script timing",
+      "pass": true
+    },
+    {
+      "name": "case cards open the corresponding evidence",
+      "pass": true
+    },
+    {
+      "name": "case library includes 10 researched examples",
+      "pass": true
+    },
+    {
+      "name": "case switching displays source URLs",
+      "pass": true
+    },
+    {
+      "name": "cost scenario recalculates from stated assumptions",
+      "pass": true
+    },
+    {
+      "name": "obsolete model and valve examples removed",
+      "pass": true
+    },
+    {
+      "name": "no horizontal text overflow or canvas clipping at 1920×1080",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "canvas fits 1280×720",
+      "pass": true
+    },
+    {
+      "name": "canvas and controls fit mobile viewport",
+      "pass": true
+    },
+    {
+      "name": "reduced motion respected",
+      "pass": true
+    },
+    {
+      "name": "offline opening works",
+      "pass": true
+    },
+    {
+      "name": "no remote requests required",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "no JavaScript errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "bounds": [
+    {
+      "slide": 1,
+      "overflow": []
+    },
+    {
+      "slide": 2,
+      "overflow": []
+    },
+    {
+      "slide": 3,
+      "overflow": []
+    },
+    {
+      "slide": 4,
+      "overflow": []
+    },
+    {
+      "slide": 5,
+      "overflow": []
+    },
+    {
+      "slide": 6,
+      "overflow": []
+    },
+    {
+      "slide": 7,
+      "overflow": []
+    },
+    {
+      "slide": 8,
+      "overflow": []
+    },
+    {
+      "slide": 9,
+      "overflow": []
+    },
+    {
+      "slide": 10,
+      "overflow": []
+    },
+    {
+      "slide": 11,
+      "overflow": []
+    },
+    {
+      "slide": 12,
+      "overflow": []
+    },
+    {
+      "slide": 13,
+      "overflow": []
+    },
+    {
+      "slide": 14,
+      "overflow": []
+    },
+    {
+      "slide": 15,
+      "overflow": []
+    }
+  ],
+  "errors": [],
+  "finalRevisionChecks": [
+    {
+      "name": "unrevealed case cards are not keyboard focusable",
+      "pass": true
+    },
+    {
+      "name": "revealed case card remains interactive",
+      "pass": true
+    },
+    {
+      "name": "budget interaction pauses playback",
+      "pass": true
+    },
+    {
+      "name": "budget totals remain correct",
+      "pass": true
+    },
+    {
+      "name": "referenced local reports exist",
+      "pass": true
+    },
+    {
+      "name": "all procurement scenes use excavator scenario",
+      "pass": true
+    },
+    {
+      "name": "no final JavaScript errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "finalCheckedAt": "2026-11-12T09:14:08.650Z",
+  "htmlSha256": "446f1dc772ffdd70ff3f77bcd2c461b2399c80c7d63372ca1e981ab3fda5526c",
+  "imageCount": 15
+}

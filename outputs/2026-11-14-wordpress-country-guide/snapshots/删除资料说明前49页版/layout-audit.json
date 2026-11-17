@@ -1,0 +1,345 @@
+[
+  {
+    "page": 1,
+    "key": "cover",
+    "title": "",
+    "bottom": 42.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 2,
+    "key": "contents",
+    "title": "从历史实践，看见今天的机会",
+    "bottom": 68.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 3,
+    "key": "start",
+    "title": "大企业走过的获客路径，小团队也值得拥有",
+    "bottom": 287.86,
+    "body_scale": 1.0
+  },
+  {
+    "page": 4,
+    "key": "history",
+    "title": "2011 年的公告，已经把这套逻辑讲清楚了",
+    "bottom": 167.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 5,
+    "key": "mascus_results",
+    "title": "Mascus：多国家域名的搜索与联系结果",
+    "bottom": 178.76,
+    "body_scale": 1.0
+  },
+  {
+    "page": 6,
+    "key": "buyer_journey",
+    "title": "小语种搜索背后，是已经存在的采购需求",
+    "bottom": 201.76,
+    "body_scale": 1.0
+  },
+  {
+    "page": 7,
+    "key": "three_layers",
+    "title": "当地语言、专业内容、本地域名，各自发挥作用",
+    "bottom": 152.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 8,
+    "key": "domain_value",
+    "title": "为什么本方案强调独立国家域名？",
+    "bottom": 148.81,
+    "body_scale": 1.0
+  },
+  {
+    "page": 9,
+    "key": "precision",
+    "title": "精准询盘，来自搜索问题与供应能力的匹配",
+    "bottom": 261.88,
+    "body_scale": 1.0
+  },
+  {
+    "page": 10,
+    "key": "case_map",
+    "title": "每一组案例，都在回答同一条获客逻辑",
+    "bottom": 140.37,
+    "body_scale": 1.0
+  },
+  {
+    "page": 11,
+    "key": "packaging_europe",
+    "title": "欧洲贴纸：同一品牌，进入多个当地搜索市场",
+    "bottom": 151.76,
+    "body_scale": 1.0
+  },
+  {
+    "page": 12,
+    "key": "packaging_terms",
+    "title": "同一种硬盒，对应多种语言的产品需求",
+    "bottom": 163.76,
+    "body_scale": 1.0
+  },
+  {
+    "page": 13,
+    "key": "china_vehicles",
+    "title": "中国制造，也在把国家站接到当地销售体系",
+    "bottom": 173.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 14,
+    "key": "china_industry",
+    "title": "工业国家站，承载的是专业采购判断",
+    "bottom": 173.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 15,
+    "key": "industry_pages",
+    "title": "igus：同一产品，拥有多个国家的搜索入口",
+    "bottom": 185.76,
+    "body_scale": 1.0
+  },
+  {
+    "page": 16,
+    "key": "industry_compare",
+    "title": "PERI 与 Hilti：成熟工业品牌的多国产品表达",
+    "bottom": 164.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 17,
+    "key": "sany",
+    "title": "三一印度：国家域名承接一整套采购信息",
+    "bottom": 168.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 18,
+    "key": "sany_market",
+    "title": "三一全球网络：海外获客与当地业务相互连接",
+    "bottom": 171.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 19,
+    "key": "packaging",
+    "title": "包装网络：按产品与国家，建立多个获客入口",
+    "bottom": 103.33,
+    "body_scale": 1.0
+  },
+  {
+    "page": 20,
+    "key": "packaging_ops",
+    "title": "多个当地网站，也可以服务于同一个业务团队",
+    "bottom": 200.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 21,
+    "key": "seo_results",
+    "title": "内容与 SEO 投入，怎样体现到项目结果中？",
+    "bottom": 145.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 22,
+    "key": "old_cost",
+    "title": "过去的门槛，来自多国语言与长期协作",
+    "bottom": 171.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 23,
+    "key": "ai_economics",
+    "title": "AI 把重复制作变轻，让多国经营更可负担",
+    "bottom": 181.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 24,
+    "key": "solution_capabilities",
+    "title": "快速建设高质量网站，承接多国长期获客",
+    "bottom": 119.39,
+    "body_scale": 1.0
+  },
+  {
+    "page": 25,
+    "key": "wordpress_value",
+    "title": "为什么用 WordPress 承载长期内容资产？",
+    "bottom": 292.36,
+    "body_scale": 1.0
+  },
+  {
+    "page": 26,
+    "key": "why_now",
+    "title": "对工厂、外贸公司和 SOHO，现在值得重新评估",
+    "bottom": 271.38,
+    "body_scale": 1.0
+  },
+  {
+    "page": 27,
+    "key": "architectures",
+    "title": "研究中的网址结构，各自说明什么？",
+    "bottom": 231.43,
+    "body_scale": 1.0
+  },
+  {
+    "page": 28,
+    "key": "china_map",
+    "title": "21 组中国制造与渠道案例，覆盖多种出海业务",
+    "bottom": 215.45,
+    "body_scale": 1.0
+  },
+  {
+    "page": 29,
+    "key": "sany_domains_1",
+    "title": "三一：25 个集团与业务根域 · 1/2",
+    "bottom": 105.03,
+    "body_scale": 1.0
+  },
+  {
+    "page": 30,
+    "key": "sany_domains_2",
+    "title": "三一：25 个集团与业务根域 · 2/2",
+    "bottom": 136.99,
+    "body_scale": 1.0
+  },
+  {
+    "page": 31,
+    "key": "pack_matrix_1",
+    "title": "包装：47 个核心根域 · 1/2",
+    "bottom": 122.78,
+    "body_scale": 1.0
+  },
+  {
+    "page": 32,
+    "key": "pack_matrix_2",
+    "title": "包装：47 个核心根域 · 2/2",
+    "bottom": 149.75,
+    "body_scale": 1.0
+  },
+  {
+    "page": 33,
+    "key": "catalog_1_0",
+    "title": "中国制造 · 1/3",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 34,
+    "key": "catalog_1_1",
+    "title": "中国制造 · 2/3",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 35,
+    "key": "catalog_1_2",
+    "title": "中国制造 · 3/3",
+    "bottom": 215.22,
+    "body_scale": 1.0
+  },
+  {
+    "page": 36,
+    "key": "catalog_2_0",
+    "title": "工业与 B2B · 1/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 37,
+    "key": "catalog_2_1",
+    "title": "工业与 B2B · 2/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 38,
+    "key": "catalog_2_2",
+    "title": "工业与 B2B · 3/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 39,
+    "key": "catalog_2_3",
+    "title": "工业与 B2B · 4/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 40,
+    "key": "catalog_2_4",
+    "title": "工业与 B2B · 5/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 41,
+    "key": "catalog_2_5",
+    "title": "工业与 B2B · 6/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 42,
+    "key": "catalog_2_6",
+    "title": "工业与 B2B · 7/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 43,
+    "key": "catalog_2_7",
+    "title": "工业与 B2B · 8/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 44,
+    "key": "catalog_2_8",
+    "title": "工业与 B2B · 9/9",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 45,
+    "key": "catalog_3_0",
+    "title": "跨行业与架构参照 · 1/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 46,
+    "key": "catalog_3_1",
+    "title": "跨行业与架构参照 · 2/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 47,
+    "key": "catalog_3_2",
+    "title": "跨行业与架构参照 · 3/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 48,
+    "key": "catalog_3_3",
+    "title": "跨行业与架构参照 · 4/4",
+    "bottom": 61.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 49,
+    "key": "methods",
+    "title": "案例范围、项目口径与公开来源",
+    "bottom": 240.46,
+    "body_scale": 1.0
+  }
+]

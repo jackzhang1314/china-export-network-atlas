@@ -1,0 +1,239 @@
+[
+  {
+    "requested_url": "https://bestmediaservice.com/contact",
+    "status": 200,
+    "final_url": "https://bestmediaservice.com/contact",
+    "title": "Contact Us | Best Media Service",
+    "forms": [
+      null,
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2818.5!2d-106.95!3d44.797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDTCsDQ3JzQ5LjIiTiAxMDbCsDU2JzQ4LjAiVw!5e0!3m2!1sen!2sus!4v1",
+      null
+    ],
+    "tawk": [],
+    "text_file": "bestmediaservice.com__detail_contact.txt",
+    "text_length": 1372,
+    "fingerprint_lines": [
+      "888.202.7564",
+      "30 N Gould St Ste R",
+      "888.202.7564",
+      "30 N Gould St Ste R",
+      "888.202.7564"
+    ]
+  },
+  {
+    "requested_url": "https://www.stickersprinting.us/contact-us/",
+    "status": 200,
+    "final_url": "https://www.stickersprinting.us/contact-us/",
+    "title": "Contact Us | Free Contact For Information | For Question",
+    "forms": [
+      "https://www.designmediaservice.com/genform.php?w=SSPUS&r=3"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+    ],
+    "text_file": "stickersprinting.us__detail_contact-us.txt",
+    "text_length": 5532,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://stickerprinting.co.uk/contact-us/",
+    "status": 200,
+    "final_url": "https://stickerprinting.co.uk/contact-us/",
+    "title": "Contact Us",
+    "forms": [
+      "https://www.designmediaservice.com/genform.php?w=SPCOUK&r=3"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+    ],
+    "text_file": "stickerprinting.co.uk__detail_contact-us.txt",
+    "text_length": 2001,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://www.printinggood.co.uk/contact-us/",
+    "status": 200,
+    "final_url": "https://www.printinggood.co.uk/contact-us/",
+    "title": "Contact Us",
+    "forms": [
+      "https://www.designmediaservice.com/genform.php?w=PGCOUK&r=3"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+    ],
+    "text_file": "printinggood.co.uk__detail_contact-us.txt",
+    "text_length": 1866,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://www.custompackagingboxesco.co.uk/contact-us/",
+    "status": 200,
+    "final_url": "https://www.custompackagingboxesco.co.uk/contact-us/",
+    "title": "Contact Us",
+    "forms": [
+      "https://www.designmediaservice.com/genform.php?w=CPBCOUK&r=3"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua",
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+    ],
+    "text_file": "custompackagingboxesco.co.uk__detail_contact-us.txt",
+    "text_length": 20097,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://www.custompackagingboxesco.com/contact-us/",
+    "status": 200,
+    "final_url": "https://www.custompackagingboxesco.com/contact-us/",
+    "title": "Contact Us | Get in Touch for Custom Packaging Solutions",
+    "forms": [
+      "https://www.designmediaservice.com/genform.php?w=CPBCOM&r=3",
+      "https://www.custompackagingboxesco.com/newsletter/subscriber/new/"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua",
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+    ],
+    "text_file": "custompackagingboxesco.com__detail_contact-us.txt",
+    "text_length": 24348,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://bestmediaservice.com/about",
+    "status": 200,
+    "final_url": "https://bestmediaservice.com/about",
+    "title": "About Us | Best Media Service",
+    "forms": [
+      null
+    ],
+    "tawk": [],
+    "text_file": "bestmediaservice.com__detail_about.txt",
+    "text_length": 2316,
+    "fingerprint_lines": [
+      "888.202.7564",
+      "30 N Gould St Ste R",
+      "888.202.7564"
+    ]
+  },
+  {
+    "requested_url": "https://www.stickersprinting.co.uk/contact-us/",
+    "status": 200,
+    "final_url": "https://www.stickersprinting.co.uk/contact-us/",
+    "title": "Contact Us | Reach Our UK Team for Sticker Prints Inquiries",
+    "forms": [
+      "https://www.designmediaservice.com/genform.php?w=SSPCOUK&r=3"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+    ],
+    "text_file": "stickersprinting.co.uk__detail_contact-us.txt",
+    "text_length": 3217,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://bestmediaservice.com/contact",
+    "status": 200,
+    "final_url": "https://bestmediaservice.com/contact",
+    "title": "Contact Us | Best Media Service",
+    "forms": [
+      null,
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2818.5!2d-106.95!3d44.797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDTCsDQ3JzQ5LjIiTiAxMDbCsDU2JzQ4LjAiVw!5e0!3m2!1sen!2sus!4v1",
+      null
+    ],
+    "tawk": [],
+    "text_file": "bestmediaservice.com__detail_contact.txt",
+    "text_length": 1372,
+    "fingerprint_lines": [
+      "888.202.7564",
+      "30 N Gould St Ste R",
+      "888.202.7564",
+      "30 N Gould St Ste R",
+      "888.202.7564"
+    ]
+  },
+  {
+    "requested_url": "https://www.custompackagingboxesco.com.au/contact-us/",
+    "status": 200,
+    "final_url": "https://www.custompackagingboxesco.com.au/contact-us/",
+    "title": "Contact Us",
+    "forms": [
+      "https://www.designmediaservice.com/genform.php?w=CPBCOMAU&r=3"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua",
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+    ],
+    "text_file": "custompackagingboxesco.com.au__detail_contact-us.txt",
+    "text_length": 23058,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://packagingdaddy.com/about",
+    "status": 200,
+    "final_url": "https://packagingdaddy.com/about",
+    "title": "About Us | PACKAGING DADDY (SMC-PRIVATE) LIMITED",
+    "forms": [
+      "submit.php"
+    ],
+    "tawk": [],
+    "text_file": "packagingdaddy.com__detail_about.txt",
+    "text_length": 4008,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://find-and-update.company-information.service.gov.uk/company/12014906",
+    "status": 200,
+    "final_url": "https://find-and-update.company-information.service.gov.uk/company/12014906",
+    "title": "DESIGNS MEDIA SERVICE LTD overview - Find and update company information - GOV.UK",
+    "forms": [
+      "/search"
+    ],
+    "tawk": [],
+    "text_file": "find-and-update.company-information.service.gov.uk__detail_company_12014906.txt",
+    "text_length": 1781,
+    "fingerprint_lines": [
+      "DESIGNS MEDIA SERVICE LTD overview - Find and update company information - GOV.UK",
+      "DESIGNS MEDIA SERVICE LTD",
+      "for DESIGNS MEDIA SERVICE LTD (12014906)",
+      "for DESIGNS MEDIA SERVICE LTD (12014906)",
+      "for DESIGNS MEDIA SERVICE LTD (12014906)",
+      "for DESIGNS MEDIA SERVICE LTD (12014906)",
+      "Registered office address",
+      "128 City Road, London, United Kingdom, EC1V 2NX",
+      "Dissolved",
+      "Dissolved on"
+    ]
+  },
+  {
+    "requested_url": "https://www.customboxesshop.com.au/custom-boxes.html",
+    "status": 200,
+    "final_url": "https://www.customboxesshop.com.au/custom-boxes.html",
+    "title": "Printed Custom Boxes | Customized Box Packaging And Printing",
+    "forms": [
+      "https://www.customboxesshop.com.au/newsletter/subscriber/new/"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua",
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+    ],
+    "text_file": "customboxesshop.com.au__detail_custom-boxes.html.txt",
+    "text_length": 25570,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://www.customcardboardboxesco.com.au/double-wall-display-lid.html",
+    "status": 200,
+    "final_url": "https://www.customcardboardboxesco.com.au/double-wall-display-lid.html",
+    "title": "Boxes and Packaging Solutions | Double Wall Display Lid",
+    "forms": [
+      "https://www.customcardboardboxesco.com.au/newsletter/subscriber/new/"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua",
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+    ],
+    "text_file": "customcardboardboxesco.com.au__detail_double-wall-display-lid.html.txt",
+    "text_length": 27897,
+    "fingerprint_lines": []
+  }
+]

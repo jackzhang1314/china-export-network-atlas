@@ -1,0 +1,4238 @@
+[
+  {
+    "host": "aufkleberdruck.de",
+    "kind": "candidate",
+    "url": "https://aufkleberdruck.de/",
+    "status": 200,
+    "final": "https://aufkleberdruck.de/en-gb",
+    "bytes": 31104,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "lang": "en-gb",
+    "title": "",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://aufkleberdruck.de/nl-be",
+        "label": "België Nederlands (nld)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/en-ca",
+        "label": "Canada English (eng)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/de-de",
+        "label": "Deutschland Deutsch (deu)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/es-es",
+        "label": "España Español (esp)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/fr-fr",
+        "label": "France Français (fra)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/it-it",
+        "label": "Italia Italiano (ita)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/nl-nl",
+        "label": "Nederland Nederlands (nld)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/de-at",
+        "label": "Österreich Deutsch (deu)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/pl-pl",
+        "label": "Polska polski (pln)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/pt-pt",
+        "label": "Portugal Português (por)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/sv-se",
+        "label": "Sverige Svenska (swe)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/tr-tr",
+        "label": "Türkiye Türkçe (tur)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/en-us",
+        "label": "United States English (eng)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/zh-cn",
+        "label": "中国 中文 (zho)"
+      },
+      {
+        "url": "https://aufkleberdruck.de/en-gb#order",
+        "label": "Buy now"
+      }
+    ],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": "Nameshift.com Open language menu en België Nederlands (nld) Canada English (eng) Deutschland Deutsch (deu) España Español (esp) France Français (fra) Italia Italiano (ita) Nederland Nederlands (nld) Österreich Deutsch (deu) Polska polski (pln) Portugal Português (por) Sverige Svenska (swe) Türkiye Türkçe (tur) United States English (eng) 中国 中文 (zho"
+  },
+  {
+    "host": "boitesrigides.fr",
+    "kind": "candidate",
+    "url": "https://boitesrigides.fr/",
+    "status": 200,
+    "final": "https://boitesrigides.fr/",
+    "bytes": 95552,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "fr-FR",
+    "title": "Accueil - Cajas forradas a medida fabricadas 100% en España",
+    "hreflang": [
+      {
+        "lang": "es",
+        "url": "https://cajasforradas.es/"
+      },
+      {
+        "lang": "en",
+        "url": "https://rigidboxespackaging.co.uk/"
+      },
+      {
+        "lang": "fr",
+        "url": "https://boitesrigides.fr/"
+      },
+      {
+        "lang": "de",
+        "url": "https://stabileschachtel.de/"
+      },
+      {
+        "lang": "it",
+        "url": "https://scatolerivestite.it/"
+      }
+    ],
+    "canonical": "https://boitesrigides.fr/",
+    "localized_links": [
+      {
+        "url": "https://cajasforradas.es/",
+        "label": "Accueil - Cajas forradas a medida fabricadas 100% en España"
+      },
+      {
+        "url": "https://boitesrigides.fr/",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/feed/",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboitesrigides.fr%2F&lang=fr",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboitesrigides.fr%2F&format=xml&lang=fr",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/polylang/css/build/language-switcher.min.css?ver=3.9.2",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/polylang/css/build/navigation-language-switcher.min.css?ver=3.9.2",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/uploads/elementor/css/post-5.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.57.0",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/pro-elements/assets/css/modules/motion-fx.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/uploads/elementor/css/post-660.css?ver=1794372229",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/uploads/elementor/css/post-98.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/uploads/elementor/css/post-106.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css?ver=1742228245",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-json/",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-json/wp/v2/pages/660",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/xmlrpc.php?rsd",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-32x32.png",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-192x192.png",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-180x180.png",
+        "label": ""
+      },
+      {
+        "url": "https://boitesrigides.fr/#content",
+        "label": "Aller au contenu"
+      },
+      {
+        "url": "https://boitesrigides.fr/#formContact",
+        "label": "Contact"
+      },
+      {
+        "url": "https://boitesrigides.fr",
+        "label": "Boîtes Rigides"
+      },
+      {
+        "url": "https://boitesrigides.fr/#tiposCajas",
+        "label": "Types de boîtes"
+      },
+      {
+        "url": "https://boitesrigides.fr/finitions-pour-boites-rigides/",
+        "label": "Finitions"
+      },
+      {
+        "url": "https://boitesrigides.fr/galerie/",
+        "label": "Galerie"
+      },
+      {
+        "url": "https://boitesrigides.fr/qui-sommes-nous/",
+        "label": "QUI SOMMES-NOUS"
+      },
+      {
+        "url": "https://boitesrigides.fr/#formContact",
+        "label": "POSSIAMO AIUTARVI?"
+      },
+      {
+        "url": "https://boitesrigides.fr/#formContact",
+        "label": "DEMANDER UN DEVIS"
+      },
+      {
+        "url": "https://boitesrigides.fr/politique-de-confidentialite-et-de-cookies/",
+        "label": "Politique Des Données Personnelles"
+      }
+    ],
+    "description": "",
+    "business_contacts": [
+      "tel:0186650734"
+    ],
+    "text_excerpt": "Accueil - Cajas forradas a medida fabricadas 100% en España Aller au contenu Contact Boîtes Rigides Types de boîtes Finitions Galerie QUI SOMMES-NOUS Contact Types de boîtes Finitions Galerie QUI SOMMES-NOUS Contact UNBOXING PARFAIT Sur BoîtesRigides.fr, nous vous aiderons à concevoir et à produire vos boîtes doublées pour surprendre vos clients. V"
+  },
+  {
+    "host": "cajasamedida.es",
+    "kind": "candidate",
+    "url": "https://cajasamedida.es/",
+    "status": 200,
+    "final": "https://tienda.casemedia.es/",
+    "bytes": 137888,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "es",
+    "title": "Tienda online de flight cases | Casemedia",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://tienda.casemedia.es/favicon.ico",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/img/touch-icon.png",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/assets/2f8593e051291cd73db4f52f50adc7a9.css",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/",
+        "label": "logo"
+      },
+      {
+        "url": "https://casemedia.es/",
+        "label": "Sobre nosotros"
+      },
+      {
+        "url": "https://tienda.casemedia.es/",
+        "label": "Productos"
+      },
+      {
+        "url": "https://tienda.casemedia.es/#fabricacion",
+        "label": "Fabricación"
+      },
+      {
+        "url": "https://casemedia.es//#noticias",
+        "label": "Noticias"
+      },
+      {
+        "url": "https://tienda.casemedia.es/#contacto",
+        "label": "Contacto"
+      },
+      {
+        "url": "https://tienda.casemedia.es/catalogo",
+        "label": "Catálogo"
+      },
+      {
+        "url": "https://tienda.casemedia.es/#open_carrito",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/inicio",
+        "label": "Identificarme"
+      },
+      {
+        "url": "https://tienda.casemedia.es/pages?lang=es_ES",
+        "label": "Español"
+      },
+      {
+        "url": "https://tienda.casemedia.es/pages?lang=de_DE",
+        "label": "Alemán"
+      },
+      {
+        "url": "https://tienda.casemedia.es/pages?lang=en_EN",
+        "label": "Inglés"
+      },
+      {
+        "url": "https://tienda.casemedia.es/pages?lang=fr_FR",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/MALETAS-IP67",
+        "label": "MALETAS IP67"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/NANUK-CASES",
+        "label": "NANUK CASES"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/HPRC",
+        "label": "HPRC"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/PELI",
+        "label": "PELI"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/MALETINES-DE-PLASTICO",
+        "label": "MALETINES DE PLÁSTICO"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/AUER",
+        "label": "AUER"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/MAX",
+        "label": "MAX"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/EMBALAJES-DE-ALUMINIO",
+        "label": "EMBALAJES DE ALUMINIO"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/ZARGES",
+        "label": "ZARGES"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/EMBALAJES-DE-MADERA-nimf15",
+        "label": "EMBALAJES DE MADERA nimf15"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/CERCOS-PARA-PALETS",
+        "label": "CERCOS PARA PALETS"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/FLIGHTCASES",
+        "label": "FLIGHTCASES"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/BAULES",
+        "label": "BAÚLES"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/FLIGHTCASE",
+        "label": "FLIGHTCASE"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/RACK",
+        "label": "RACK"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/OTRAS-SOLUCIONES",
+        "label": "OTRAS SOLUCIONES"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/CABINAS-DE-TRADUCCION-SIMULTANEA",
+        "label": "CABINAS DE TRADUCCIÓN"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/CABINA-DE-TRADUCCION",
+        "label": "CABINA DE TRADUCCIÓN"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/FLIGHTCASE-PARA-CABINAS",
+        "label": "FLIGHTCASE PARA CABINAS"
+      },
+      {
+        "url": "https://es.linkedin.com/company/casemedia-embalajes-s-l-",
+        "label": "LinkedIn"
+      },
+      {
+        "url": "https://tienda.casemedia.es/assets/f15f91bbceb1e8e3f26b2ea2e01a8012.css",
+        "label": "Moldes de espuma Pregunta por nuestros moldes de espuma personalizados Maletas estancas Ver más Flightcase / Embalaje industrial V"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/MALETAS",
+        "label": "Ver más"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/CAJAS-TECNICAS",
+        "label": "Ver más"
+      },
+      {
+        "url": "https://tienda.casemedia.es/categorias/EMBALAJES-DE-EXPORTACION",
+        "label": "Ver más"
+      },
+      {
+        "url": "https://tienda.casemedia.es/#slider_Portada",
+        "label": "Anterior"
+      },
+      {
+        "url": "https://tienda.casemedia.es/#slider_Portada",
+        "label": "Siguiente"
+      },
+      {
+        "url": "https://tienda.casemedia.es/ventas/carritos/crear-uno/FLIGHTCASE-FLIGHTCASE-PARA-PANTALLA-DE-86",
+        "label": "Comprar"
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/FLIGHTCASE-FLIGHTCASE-PARA-PANTALLA-DE-86",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/ventas/carritos/crear-uno/FLIGHTCASE-FLIGHTCASE-ADAPTABLE-PARA-PANTALLA-DE-85-a-100",
+        "label": "Comprar"
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/FLIGHTCASE-FLIGHTCASE-ADAPTABLE-PARA-PANTALLA-DE-85-a-100",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/ventas/carritos/crear-uno/FLIGHTCASE-FLIGHTCASE-MODULAR",
+        "label": "Comprar"
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/FLIGHTCASE-FLIGHTCASE-MODULAR",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/ventas/carritos/crear-uno/OTRAS-SOLUCIONES-MALETA-CAMERINO-CON-ESPEJO",
+        "label": "Comprar"
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/OTRAS-SOLUCIONES-MALETA-CAMERINO-CON-ESPEJO",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/MAX-MAX235H105",
+        "label": "Comprar"
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/MAX-MAX235H105",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/MAX-MAX505",
+        "label": "Comprar"
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/MAX-MAX505",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/HPRC-HPRC2350",
+        "label": "Comprar"
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/HPRC-HPRC2350",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/ZARGES-CAJA-UNIVERSAL-DE-ALUMINIO-K470-PARA-PICK-UP",
+        "label": "Comprar"
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/ZARGES-CAJA-UNIVERSAL-DE-ALUMINIO-K470-PARA-PICK-UP",
+        "label": ""
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/RACK-RACK-DE-10-UD",
+        "label": "Comprar"
+      },
+      {
+        "url": "https://tienda.casemedia.es/productos/RACK-RACK-DE-10-UD",
+        "label": ""
+      }
+    ],
+    "description": "Diseñamos y fabricamos flight cases, maletines, baúles y embalajes de madera para el sector audiovisual, aeronáutico, industrial o sanitario.",
+    "business_contacts": [
+      "tel:+34678732004",
+      "tel:34678732004"
+    ],
+    "text_excerpt": "Tienda online de flight cases | Casemedia logo Sobre nosotros Productos Fabricación Noticias Contacto Catálogo Identificarme Español Alemán Inglés MALETAS IP67 NANUK CASES HPRC PELI MALETINES DE PLÁSTICO AUER MAX EMBALAJES DE ALUMINIO ZARGES EMBALAJES DE MADERA nimf15 CERCOS PARA PALETS FLIGHTCASES BAÚLES FLIGHTCASE RACK OTRAS SOLUCIONES CABINAS DE"
+  },
+  {
+    "host": "cajaspersonalizadas.es",
+    "kind": "candidate",
+    "url": "https://cajaspersonalizadas.es/",
+    "error": "HTTPSConnectionPool(host='cajaspersonalizadas.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cajaspersonalizadas.es'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "customboxes.ca",
+    "kind": "candidate",
+    "url": "https://customboxes.ca/",
+    "status": 200,
+    "final": "https://customboxes.ca/",
+    "bytes": 19004,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "CustomBoxes.ca for sale | Spaceship.com",
+    "hreflang": [],
+    "canonical": "https://customboxes.ca",
+    "localized_links": [
+      {
+        "url": "https://customboxes.ca",
+        "label": ""
+      }
+    ],
+    "description": "CustomBoxes.ca is for sale on Spaceship. Secure checkout and quick transfer. See all purchase options. No hidden fees.",
+    "business_contacts": [],
+    "text_excerpt": "CustomBoxes.ca for sale | Spaceship.com Domain for sale CustomBoxes.ca Free transaction support Secure payments Spaceship reliability Listed with spaceship.com get this domain Make offer Your offer must be higher than the seller’s minimum price. $ Please enter an offer amount up to 9 digits. Payment methods Submit your offer You will be redirected "
+  },
+  {
+    "host": "customboxes.de",
+    "kind": "candidate",
+    "url": "https://customboxes.de/",
+    "status": 503,
+    "final": "https://sedo.com/search/details/?domain=customboxes.de&campaignId=329145&origin=sales_lander_15",
+    "bytes": 489,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "",
+    "title": "The page is temporarily unavailable",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": []
+  },
+  {
+    "host": "customboxes.it",
+    "kind": "candidate",
+    "url": "https://customboxes.it/",
+    "error": "HTTPSConnectionPool(host='customboxes.it', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"
+  },
+  {
+    "host": "customstickers.ca",
+    "kind": "candidate",
+    "url": "https://customstickers.ca/",
+    "status": 200,
+    "final": "https://www.customstickers.ca/",
+    "bytes": 577217,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "lang": "en-CA",
+    "title": "Custom Sticker: High-Quality Printing & Cheap Price Guaranteed",
+    "hreflang": [
+      {
+        "lang": "en-US",
+        "url": "https://www.vinylstickers.com/us/"
+      },
+      {
+        "lang": "de",
+        "url": "https://www.stickererstellen.de/"
+      },
+      {
+        "lang": "en-AU",
+        "url": "https://www.customstickers.com.au/"
+      },
+      {
+        "lang": "en-CA",
+        "url": "https://www.customstickers.ca/"
+      },
+      {
+        "lang": "en-GB",
+        "url": "https://www.vinylstickers.co.uk/"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://www.vinylstickers.com/us/"
+      }
+    ],
+    "canonical": "https://www.customstickers.ca/",
+    "localized_links": [
+      {
+        "url": "https://www.stickererstellen.de/",
+        "label": ""
+      },
+      {
+        "url": "https://www.customstickers.ca/",
+        "label": ""
+      },
+      {
+        "url": "https://www.customstickers.ca/custom-stickers",
+        "label": "Custom Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/die-cut-stickers",
+        "label": "Die Cut Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/bumper-stickers",
+        "label": "Bumper Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/kiss-cut-stickers",
+        "label": "Kiss Cut Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/circle-stickers",
+        "label": "Circle Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/oval-stickers",
+        "label": "Oval Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/rectangle-stickers",
+        "label": "Rectangle Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/rounded-corner-stickers",
+        "label": "Round Corner Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/square-stickers",
+        "label": "Square Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/sticker-sheets",
+        "label": "Sticker Sheets"
+      },
+      {
+        "url": "https://www.customstickers.ca/qr-code-stickers",
+        "label": "QR Code Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/other-stickers",
+        "label": "Other Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/uses-types",
+        "label": "Uses"
+      },
+      {
+        "url": "https://www.customstickers.ca/mailing-labels",
+        "label": "Mailing Labels"
+      },
+      {
+        "url": "https://www.customstickers.ca/soap-labels",
+        "label": "Soap Labels"
+      },
+      {
+        "url": "https://www.customstickers.ca/custom-wine-labels",
+        "label": "Wine Labels"
+      },
+      {
+        "url": "https://www.customstickers.ca/band-stickers",
+        "label": "Band Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/custom-laptop-stickers",
+        "label": "Laptop Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/logo-stickers",
+        "label": "Logo Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/custom-labels",
+        "label": "Labels"
+      },
+      {
+        "url": "https://www.customstickers.ca/die-cut-labels",
+        "label": "Die Cut Labels"
+      },
+      {
+        "url": "https://www.customstickers.ca/circle-labels",
+        "label": "Circle Labels"
+      },
+      {
+        "url": "https://www.customstickers.ca/custom-rectangle-labels",
+        "label": "Rectangle Labels"
+      },
+      {
+        "url": "https://www.customstickers.ca/square-labels",
+        "label": "Square Labels"
+      },
+      {
+        "url": "https://www.customstickers.ca/oval-labels",
+        "label": "Oval Labels"
+      },
+      {
+        "url": "https://www.customstickers.ca/make-your-own",
+        "label": "Make Your Own"
+      },
+      {
+        "url": "https://www.customstickers.ca/cart",
+        "label": "0 C$0.00"
+      },
+      {
+        "url": "https://www.customstickers.ca/die-cut-stickers",
+        "label": "GET STARTED"
+      },
+      {
+        "url": "https://www.customstickers.ca/custom-stickers",
+        "label": "Customize Now >>"
+      },
+      {
+        "url": "https://www.customstickers.ca/custom-labels",
+        "label": "Customize Now >>"
+      },
+      {
+        "url": "https://www.customstickers.ca/custom-buttons",
+        "label": "Customize Now >>"
+      },
+      {
+        "url": "https://www.customstickers.ca/uses-types",
+        "label": "Customize Now >>"
+      },
+      {
+        "url": "https://www.customstickers.ca/custom-laptop-stickers",
+        "label": "Custom Laptop Stickers"
+      },
+      {
+        "url": "https://www.customstickers.ca/custom-wine-labels",
+        "label": "Custom Wine Labels"
+      },
+      {
+        "url": "https://www.customstickers.ca/info/faq-help",
+        "label": "FAQ & Help"
+      },
+      {
+        "url": "https://www.customstickers.ca/info/privacy-policy",
+        "label": "Privacy Policy"
+      },
+      {
+        "url": "https://www.customstickers.ca/info/terms-and-conditions",
+        "label": "Terms and Conditions"
+      },
+      {
+        "url": "https://www.customstickers.ca/info/contact-us",
+        "label": "Contact Us"
+      },
+      {
+        "url": "https://www.customstickers.ca/info/about-us",
+        "label": "About Us"
+      },
+      {
+        "url": "https://www.customstickers.ca/info/influencer-program",
+        "label": "Influencer Program"
+      }
+    ],
+    "description": "Custom Sticker: [Print-On-Demand]. ✓Clear Printing Color Guaranteed. ✓Service Life Up To 3-5 Years. ✓Factory Direct Selling Price. ✓Free Design & Delivery. ",
+    "business_contacts": [
+      "tel:1-866-573-4920",
+      "mailto:Info@gs-jj.com"
+    ],
+    "text_excerpt": "Custom Sticker: High-Quality Printing & Cheap Price Guaranteed CustomStickers.Ca GS-JJ.com BPS.com Tel: CALL US 1-866-573-4920 Email: E-MAIL US Info@GS-JJ.com Free Shipping - On All Orders Custom Stickers Die Cut Stickers Bumper Stickers Kiss Cut Stickers Circle Stickers Oval Stickers Rectangle Stickers Round Corner Stickers Square Stickers Sticker"
+  },
+  {
+    "host": "customstickers.de",
+    "kind": "candidate",
+    "url": "https://customstickers.de/",
+    "status": 200,
+    "final": "https://nicsell.com/en/domain/customstickers.de",
+    "bytes": 69357,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "en",
+    "title": "Bid on the domain customstickers.de now | nicsell",
+    "hreflang": [
+      {
+        "lang": "de",
+        "url": "https://nicsell.com/de/domain/customstickers.de"
+      },
+      {
+        "lang": "en",
+        "url": "https://nicsell.com/en/domain/customstickers.de"
+      },
+      {
+        "lang": "fr",
+        "url": "https://nicsell.com/fr/domain/customstickers.de"
+      },
+      {
+        "lang": "nl",
+        "url": "https://nicsell.com/nl/domain/customstickers.de"
+      },
+      {
+        "lang": "it",
+        "url": "https://nicsell.com/it/domain/customstickers.de"
+      },
+      {
+        "lang": "es",
+        "url": "https://nicsell.com/es/domain/customstickers.de"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://nicsell.com/en/domain/customstickers.de"
+      }
+    ],
+    "canonical": "https://nicsell.com/en/domain/customstickers.de",
+    "localized_links": [
+      {
+        "url": "https://nicsell.com/de/domain/customstickers.de",
+        "label": ""
+      },
+      {
+        "url": "https://nicsell.com/fr/domain/customstickers.de",
+        "label": ""
+      },
+      {
+        "url": "https://nicsell.com/nl/domain/customstickers.de",
+        "label": ""
+      },
+      {
+        "url": "https://nicsell.com/it/domain/customstickers.de",
+        "label": ""
+      },
+      {
+        "url": "https://nicsell.com/es/domain/customstickers.de",
+        "label": ""
+      },
+      {
+        "url": "https://nicsell.com/de/domain/customstickers.de",
+        "label": "deutsch"
+      },
+      {
+        "url": "https://nicsell.com/fr/domain/customstickers.de",
+        "label": "français"
+      },
+      {
+        "url": "https://nicsell.com/nl/domain/customstickers.de",
+        "label": "nederlands"
+      },
+      {
+        "url": "https://nicsell.com/it/domain/customstickers.de",
+        "label": "italiano"
+      },
+      {
+        "url": "https://nicsell.com/es/domain/customstickers.de",
+        "label": "español"
+      }
+    ],
+    "description": "Bid on the RGP-Domain customstickers.de. Bid now from €10 and secure the domain at an early stage!",
+    "business_contacts": [
+      "mailto:sales@nicsell.com"
+    ],
+    "text_excerpt": "Bid on the domain customstickers.de now | nicsell english deutsch english français nederlands italiano español Register Login change navigation Domainlist Dropcatching Marketplace Help FAQ Contact Search Domain information Home page Domainlist customstickers.de x Whoops! Please fill in all required fields correctly! customstickers.de Auction closed"
+  },
+  {
+    "host": "customstickers.eu",
+    "kind": "candidate",
+    "url": "https://customstickers.eu/",
+    "status": 200,
+    "final": "https://customstickers.eu/en-gb",
+    "bytes": 31104,
+    "ctype": "text/html; charset=utf-8",
+    "indicators": [],
+    "lang": "en-gb",
+    "title": "",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://customstickers.eu/nl-be",
+        "label": "België Nederlands (nld)"
+      },
+      {
+        "url": "https://customstickers.eu/en-ca",
+        "label": "Canada English (eng)"
+      },
+      {
+        "url": "https://customstickers.eu/de-de",
+        "label": "Deutschland Deutsch (deu)"
+      },
+      {
+        "url": "https://customstickers.eu/es-es",
+        "label": "España Español (esp)"
+      },
+      {
+        "url": "https://customstickers.eu/fr-fr",
+        "label": "France Français (fra)"
+      },
+      {
+        "url": "https://customstickers.eu/it-it",
+        "label": "Italia Italiano (ita)"
+      },
+      {
+        "url": "https://customstickers.eu/nl-nl",
+        "label": "Nederland Nederlands (nld)"
+      },
+      {
+        "url": "https://customstickers.eu/de-at",
+        "label": "Österreich Deutsch (deu)"
+      },
+      {
+        "url": "https://customstickers.eu/pl-pl",
+        "label": "Polska polski (pln)"
+      },
+      {
+        "url": "https://customstickers.eu/pt-pt",
+        "label": "Portugal Português (por)"
+      },
+      {
+        "url": "https://customstickers.eu/sv-se",
+        "label": "Sverige Svenska (swe)"
+      },
+      {
+        "url": "https://customstickers.eu/tr-tr",
+        "label": "Türkiye Türkçe (tur)"
+      },
+      {
+        "url": "https://customstickers.eu/en-us",
+        "label": "United States English (eng)"
+      },
+      {
+        "url": "https://customstickers.eu/zh-cn",
+        "label": "中国 中文 (zho)"
+      },
+      {
+        "url": "https://customstickers.eu/en-gb#order",
+        "label": "Buy now"
+      }
+    ],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": "Nameshift.com Open language menu en België Nederlands (nld) Canada English (eng) Deutschland Deutsch (deu) España Español (esp) France Français (fra) Italia Italiano (ita) Nederland Nederlands (nld) Österreich Deutsch (deu) Polska polski (pln) Portugal Português (por) Sverige Svenska (swe) Türkiye Türkçe (tur) United States English (eng) 中国 中文 (zho"
+  },
+  {
+    "host": "customstickers.ru",
+    "kind": "candidate",
+    "url": "https://customstickers.ru/",
+    "error": "HTTPSConnectionPool(host='customstickers.ru', port=443): Read timed out. (read timeout=5)"
+  },
+  {
+    "host": "druketykiet.pl",
+    "kind": "candidate",
+    "url": "https://druketykiet.pl/",
+    "error": "HTTPSConnectionPool(host='druketykiet.pl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'druketykiet.pl'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "etichettepersonalizzate.it",
+    "kind": "candidate",
+    "url": "https://etichettepersonalizzate.it/",
+    "status": 200,
+    "final": "https://www.etichettepersonalizzate.it/",
+    "bytes": 14091,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "IT",
+    "title": "Etichette personalizzate",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette personalizzate_files/etichette-personalizzate.css",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/favicon.ico",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-chiudipacco.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-chiudipacco.html",
+        "label": "ETICHETTE CHIUDIPACCO"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-adesive-personalizzate.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-adesive-personalizzate.html",
+        "label": "ETICHETTE ADESIVE"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-resinate.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-resinate.html",
+        "label": "ETICHETTE RESINATE"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-antimanomissione.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-antimanomissione.html",
+        "label": "ETICHETTE ANTI MANOMISSIONE"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-verificazione-periodica.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-verificazione-periodica.html",
+        "label": "ETICHETTE DI VERIFICAZIONE PERIODICA"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/sigilli-fiscali-per-registratori-di-cassa-alternativi-al-piombo.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/sigilli-fiscali-per-registratori-di-cassa-alternativi-al-piombo.html",
+        "label": "SIGILLI FISCALI PER REGISTRATORI DI CASSA ALTERNATIVI AL PIOMBO"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-calzature.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-calzature.html",
+        "label": "ETICHETTE PER CALZATURE - PITTOGRAMMI"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-marcatura.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-marcatura.html",
+        "label": "ETICHETTE DI MARCATURA CE - RAEE - ROHS"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-per-abbigliamento.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-per-abbigliamento.html",
+        "label": "ETICHETTE PER ABBIGLIAMENTO"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/#etichette-personalizzate",
+        "label": "torna su"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/index.html",
+        "label": "Home Page"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-personalizzate-chi-siamo.html",
+        "label": "Chi siamo"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-chiudipacco.html",
+        "label": "Etichette chiudipacco"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-adesive-personalizzate.html",
+        "label": "Etichette adesive"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-resinate.html",
+        "label": "Etichette resinate"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-antimanomissione.html",
+        "label": "Etichette antimanomissione"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-verificazione-periodica.html",
+        "label": "Etichette di verificazione periodica"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/sigilli-fiscali-per-registratori-di-cassa-alternativi-al-piombo.html",
+        "label": "Sigilli fiscali per registratori di cassa alternativi al piombo"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-marcatura.html",
+        "label": "Etichette marcatura"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-calzature.html",
+        "label": "Etichette per calzature"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-per-abbigliamento.html",
+        "label": "Etichette per abbigliamento"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/faq-etichette-personalizzate.html",
+        "label": "Faq"
+      },
+      {
+        "url": "https://www.etichettepersonalizzate.it/etichette-personalizzate-contatti.html",
+        "label": "Contatti / Dove siamo"
+      },
+      {
+        "url": "http://www.studio-87.it",
+        "label": ""
+      },
+      {
+        "url": "http://www.studio-87.it/",
+        "label": "www.studio-87.it"
+      },
+      {
+        "url": "http://www.studio-87.it",
+        "label": "Etichettepersonalizzate.it è ai primi posti su Google nella ricerca di chi produce e vende etichette personalizzate."
+      }
+    ],
+    "description": "Etichette personalizzate in bobina o fogli stampate a caldo o in digitale. Studio 87 realizza etichette adesive personalizzate di alta qualità per l'industria e l'artigianato.",
+    "business_contacts": [
+      "mailto:info@studio-87.it",
+      "mailto:info@studio-87.it"
+    ],
+    "text_excerpt": "Etichette personalizzate Etichette personalizzate Etichette personalizzate adesive STUDIO 87 è una ditta specializzata nella stampa di etichette personalizzate adesive realizzate su diversi supporti a piacere (carta adesiva, pvc adesivo, poliestere adesivo, ecc), con logo, testi e grafica secondo le esigenze del cliente. L'azienda grafica, fondata "
+  },
+  {
+    "host": "etikettendruck.de",
+    "kind": "candidate",
+    "url": "https://etikettendruck.de/",
+    "status": 200,
+    "final": "https://www.etikettendruck.de/home.html",
+    "bytes": 28078,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "de",
+    "title": "Etikettendruck.de – die Informationsseite für Etikettendruck, Rollenetiketten, Blattetiketten, Lochrand-Haftetiketten, Multilayer-Rollenetiketten,  Reiterkarten, Vordrucke, etc.- E",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://www.etikettendruck.de/misc/bootstrap/css/bootstrap.min.css?v=1",
+        "label": ""
+      },
+      {
+        "url": "https://www.etikettendruck.de/misc/fonts/fontawesome/css/all.css?v=1",
+        "label": ""
+      },
+      {
+        "url": "https://www.etikettendruck.de/misc/css/stylesheet.min.css?v=1",
+        "label": ""
+      },
+      {
+        "url": "https://www.etikettendruck.de/misc/css/content.min.css?v=2",
+        "label": ""
+      },
+      {
+        "url": "https://www.etikettendruck.de/misc/cookie/css/thcookie.css?v=1",
+        "label": ""
+      },
+      {
+        "url": "https://www.etikettendruck.de/misc/cookie/css/thcookie_child.css?v=1",
+        "label": ""
+      },
+      {
+        "url": "https://www.etikettendruck.de/",
+        "label": ""
+      },
+      {
+        "url": "https://www.megadruck.de/kontakt.asp",
+        "label": ""
+      },
+      {
+        "url": "https://www.megadruck.de/team.asp",
+        "label": ""
+      },
+      {
+        "url": "https://www.megadruck.de/checkout/login_konto.asp",
+        "label": ""
+      },
+      {
+        "url": "https://www.etikettendruck.de/home.html#skipNavigation22",
+        "label": "Navigation überspringen"
+      },
+      {
+        "url": "https://www.etikettendruck.de/rollenetiketten.html",
+        "label": "Rollenetiketten"
+      },
+      {
+        "url": "https://www.etikettendruck.de/multilayer-rollenetiketten.html",
+        "label": "Multilayer-Rollenetiketten"
+      },
+      {
+        "url": "https://www.etikettendruck.de/blattetiketten.html",
+        "label": "Blattetiketten"
+      },
+      {
+        "url": "https://www.etikettendruck.de/leporello-haftetiketten.html",
+        "label": "Leporello-Haftetiketten"
+      },
+      {
+        "url": "https://www.etikettendruck.de/h%C3%A4ngeetiketten.html",
+        "label": "Hängeetiketten"
+      },
+      {
+        "url": "https://www.etikettendruck.de/vordrucke-mit-integrierter-karte.html",
+        "label": "Vordrucke mit integrierter Karte"
+      },
+      {
+        "url": "https://www.etikettendruck.de/vordrucke-mit-sesametiketten.html",
+        "label": "Vordrucke mit Sesametiketten"
+      },
+      {
+        "url": "https://www.etikettendruck.de/vordrucke-mit-sesametiketten-inkl-code.html",
+        "label": "Vordrucke mit Sesametiketten inkl. Code"
+      },
+      {
+        "url": "https://www.etikettendruck.de/sandwichetiketten.html",
+        "label": "Sandwichetiketten"
+      },
+      {
+        "url": "https://www.etikettendruck.de/home.html#skipNavigation27",
+        "label": "Navigation überspringen"
+      },
+      {
+        "url": "https://www.etikettendruck.de/217.html",
+        "label": "Gestaltungsservice"
+      },
+      {
+        "url": "https://www.etikettendruck.de/home.html#skipNavigation28",
+        "label": "Navigation überspringen"
+      },
+      {
+        "url": "https://www.megadruck.de/produkte/Etikettendruck/Etikettendruck.asp?produktgruppe=15&men=6.2.1",
+        "label": "Rollenetiketten Flexodruck"
+      },
+      {
+        "url": "https://www.megadruck.de/produkte/Etikettendruck/Etikettendruck.asp?digi=true&produktgruppe=15&men=6.2.2",
+        "label": "Rollenetiketten Digitaldruck"
+      },
+      {
+        "url": "https://www.megadruck.de/produkte/artikel.asp?produktgruppe=15&kategorie=311&men=6.1.1.1",
+        "label": "Einzeletiketten"
+      },
+      {
+        "url": "https://www.etikettendruck.de/home.html#skipNavigation26",
+        "label": "Navigation überspringen"
+      },
+      {
+        "url": "https://www.etikettendruck.de/241.html",
+        "label": "Verpackung und Versand"
+      },
+      {
+        "url": "https://www.etikettendruck.de/242.html",
+        "label": "Bestellablauf"
+      },
+      {
+        "url": "https://www.etikettendruck.de/243.html",
+        "label": "Bezahlarten"
+      },
+      {
+        "url": "https://www.etikettendruck.de/244.html",
+        "label": "Downloads"
+      },
+      {
+        "url": "https://www.etikettendruck.de/kontakt.asp",
+        "label": "Kontaktformular"
+      },
+      {
+        "url": "https://www.megadruck.de/grueneproduktion.asp",
+        "label": ""
+      },
+      {
+        "url": "https://www.megadruck.de//rechner.asp",
+        "label": "Gewichtsrechner"
+      },
+      {
+        "url": "https://www.megadruck.de//Niedrigpreis-Garantie.asp",
+        "label": "Niedrigpreis-Garantie"
+      },
+      {
+        "url": "https://www.megadruck.de/kontakt.asp",
+        "label": "zum Formular"
+      },
+      {
+        "url": "https://www.megadruck.de/jobs.asp",
+        "label": "Jobs"
+      },
+      {
+        "url": "https://www.megadruck.de/ueber_uns.asp",
+        "label": "Über uns"
+      },
+      {
+        "url": "https://www.megadruck.de/agb.asp",
+        "label": "AGB"
+      },
+      {
+        "url": "https://www.megadruck.de/datenschutz.asp",
+        "label": "Datenschutz"
+      },
+      {
+        "url": "https://www.megadruck.de/impressum.asp",
+        "label": "Impressum"
+      },
+      {
+        "url": "https://www.faltplandruck.de",
+        "label": "www.faltplandruck.de"
+      },
+      {
+        "url": "https://www.endlosdruck.de",
+        "label": "www.endlosdruck.de"
+      },
+      {
+        "url": "https://www.megadruck.de",
+        "label": "www.megadruck.de"
+      },
+      {
+        "url": "https://www.formulardruck.de",
+        "label": "www.formulardruck.de"
+      },
+      {
+        "url": "https://www.stimmzetteldruck.de",
+        "label": "www.stimmzetteldruck.de"
+      },
+      {
+        "url": "https://www.business-print.de",
+        "label": "www.business-print.de"
+      },
+      {
+        "url": "https://www.zeitungsdruck.de",
+        "label": "www.zeitungsdruck.de"
+      },
+      {
+        "url": "https://www.megadruck.de/rechner.asp",
+        "label": "Gewichtsrechner"
+      },
+      {
+        "url": "https://www.megadruck.de/Niedrigpreis-Garantie.asp",
+        "label": "Niedrigpreis-Garantie"
+      },
+      {
+        "url": "https://www.megadruck.de/sogehts.asp",
+        "label": "So geht es"
+      },
+      {
+        "url": "https://www.megadruck.de/faq.asp",
+        "label": "FAQ"
+      }
+    ],
+    "description": "Informationen rund um den Etikettendruck\nOnlinedruckerei für Etiketten\nEtiketten online bestellen",
+    "business_contacts": [
+      "tel:+494488525400"
+    ],
+    "text_excerpt": "Etikettendruck.de – die Informationsseite für Etikettendruck, Rollenetiketten, Blattetiketten, Lochrand-Haftetiketten, Multilayer-Rollenetiketten,  Reiterkarten, Vordrucke, etc.- Etikettendruck Menue Kontakt Team Login Etikettendruck Navigation überspringen Rollenetiketten Multilayer-Rollenetiketten Blattetiketten Leporello-Haftetiketten Hängeetike"
+  },
+  {
+    "host": "etiquetaspersonalizadas.es",
+    "kind": "candidate",
+    "url": "https://etiquetaspersonalizadas.es/",
+    "error": "HTTPSConnectionPool(host='etiquetaspersonalizadas.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+  },
+  {
+    "host": "haengeetiketten.de",
+    "kind": "candidate",
+    "url": "https://haengeetiketten.de/",
+    "status": 200,
+    "final": "https://smartperformance.eu/domainforsale/?url=haengeetiketten.de",
+    "bytes": 134661,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "de",
+    "title": "Domain steht zum Verkauf - Smartperformance",
+    "hreflang": [],
+    "canonical": "https://smartperformance.eu/domainforsale/",
+    "localized_links": [
+      {
+        "url": "https://smartperformance.eu/domainforsale/",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/feed/",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/comments/feed/",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/uploads/2020/12/favicon.png",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/plugins/real-cookie-banner-pro/public/dist/vendor-banner.pro.js?ver=4da9deaa8edb67e014c200f7fb07caf2",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/plugins/real-cookie-banner-pro/public/dist/banner.pro.js?ver=732ad35f443770a07f882b63abcc50bd",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/plugins/real-cookie-banner-pro/public/dist/blocker.pro.js?ver=06019e5ab24fa628a3910af8aed66f89",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsmartperformance.eu%2Fdomainforsale%2F",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsmartperformance.eu%2Fdomainforsale%2F&format=xml",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/plugins/quform/cache/quform.css?ver=1787129367",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/uploads/fusion-styles/e60e45316e8fe3206420df454e51e490.min.css?ver=3.15.3",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-json/",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-json/wp/v2/pages/338",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/xmlrpc.php?rsd",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/?p=338",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/uploads/fusion-gfonts/nwpStKy2OAdR1K-IwhWudF-R3wIaZfrc.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/uploads/fusion-gfonts/nwpStKy2OAdR1K-IwhWudF-R3wsaZfrc.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/uploads/fusion-gfonts/nwpStKy2OAdR1K-IwhWudF-R3wMaZfrc.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/uploads/fusion-gfonts/nwpStKy2OAdR1K-IwhWudF-R3wwaZfrc.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/uploads/fusion-gfonts/nwpStKy2OAdR1K-IwhWudF-R3wAaZfrc.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/uploads/fusion-gfonts/nwpStKy2OAdR1K-IwhWudF-R3wEaZfrc.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/wp-content/uploads/fusion-gfonts/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/domainforsale/?url=haengeetiketten.de#content",
+        "label": "Zum Inhalt springen"
+      },
+      {
+        "url": "https://smartperformance.eu/author/manuel-praschak/",
+        "label": "Manuel Praschak"
+      },
+      {
+        "url": "https://smartperformance.eu/",
+        "label": ""
+      },
+      {
+        "url": "https://smartperformance.eu/impressum/",
+        "label": "Impressum"
+      },
+      {
+        "url": "https://smartperformance.eu/datenschutz/",
+        "label": "Datenschutz"
+      },
+      {
+        "url": "https://smartperformance.eu/domainforsale/?url=haengeetiketten.de#consent-change",
+        "label": "Privatsphäre-Einstellungen ändern"
+      },
+      {
+        "url": "https://smartperformance.eu/domainforsale/?url=haengeetiketten.de#consent-revoke",
+        "label": "Einwilligungen widerrufen"
+      },
+      {
+        "url": "https://smartperformance.eu/#management",
+        "label": "Domain-Management"
+      },
+      {
+        "url": "https://smartperformance.eu/#beratung",
+        "label": "Domain-Beratung"
+      },
+      {
+        "url": "https://smartperformance.eu/#monitoring",
+        "label": "Domain-Monitoring"
+      },
+      {
+        "url": "https://smartperformance.eu/#broker",
+        "label": "Domain-Broker"
+      },
+      {
+        "url": "https://smartperformance.eu/seo-beratung/",
+        "label": "SEO-Beratung"
+      },
+      {
+        "url": "https://smartperformance.eu/#kontakt",
+        "label": "Kontakt"
+      },
+      {
+        "url": "https://smartperformance.eu/domainforsale/?url=haengeetiketten.de",
+        "label": "Page load link"
+      },
+      {
+        "url": "https://smartperformance.eu/?blackhole=7b4b101bfd",
+        "label": "Smartperformance"
+      },
+      {
+        "url": "https://smartperformance.eu/domainforsale/?url=haengeetiketten.de",
+        "label": "Nach oben"
+      }
+    ],
+    "description": "Ihre angefragte Domain steht zum Verkauf ✅ mehr Besucher, mehr Sichtbarkeit und mehr Kundenvertrauen ✅ Jetzt Wunschdomain anfragen",
+    "business_contacts": [],
+    "text_excerpt": "Domain steht zum Verkauf - Smartperformance Zum Inhalt springen Domain for Sale Manuel Praschak 2024-04-01T18:38:41+02:00 Der Domainname steht zum Verkauf: haengeetiketten.de Steigern Sie den Online-Umsatz Ihres Unternehmens oder Projektes durch den Erwerb eines kurzen und einprägsamen Domainnamen. Füllen Sie dazu einfach das Formular mit Ihrem Pre"
+  },
+  {
+    "host": "korobkinazakaz.ru",
+    "kind": "candidate",
+    "url": "https://korobkinazakaz.ru/",
+    "status": 200,
+    "final": "https://korobkinazakaz.ru/",
+    "bytes": 44415,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "",
+    "title": "Производство коробок на заказ. Изготавливаем упаковку которая действительно продает!",
+    "hreflang": [],
+    "canonical": "https://korobkinazakaz.ru",
+    "localized_links": [
+      {
+        "url": "https://korobkinazakaz.ru",
+        "label": ""
+      },
+      {
+        "url": "https://korobkinazakaz.ru/box",
+        "label": "Коробки по назначению"
+      },
+      {
+        "url": "https://korobkinazakaz.ru/upak",
+        "label": "Конструкции"
+      },
+      {
+        "url": "https://korobkinazakaz.ru/delivery",
+        "label": "Доставка"
+      },
+      {
+        "url": "https://korobkinazakaz.ru/conditions",
+        "label": "Оплата"
+      },
+      {
+        "url": "https://pin.it/3VQBdtUqH",
+        "label": ""
+      },
+      {
+        "url": "https://max.ru/u/f9LHodD0cOL5XnmdCe0LGly9ltbDmW1kpRYPxhtfy7p4mUPlNl2LPuktumE",
+        "label": ""
+      }
+    ],
+    "description": " Коробки любой сложности, пакеты, брендированная лента и многое другое. Собственное производство с 2016 г.",
+    "business_contacts": [
+      "tel:+7 962 445 20 23"
+    ],
+    "text_excerpt": "Производство коробок на заказ. Изготавливаем упаковку которая действительно продает! Коробки с логотипом на заказ коробки из переплетного картона и самосборные коробки, пакеты и лента с вашим логотипом. Коробки по назначению Конструкции Корпоративная упаковка как продолжение вашего бренда Мы предлагаем широкий выбор упаковочных решений, которые под"
+  },
+  {
+    "host": "papiertueten.de",
+    "kind": "candidate",
+    "url": "https://papiertueten.de/",
+    "status": 200,
+    "final": "https://bagstage.de/",
+    "bytes": 71203,
+    "ctype": "text/html;charset=UTF-8",
+    "indicators": [],
+    "lang": "de",
+    "title": "BAGSTAGE GmbH — Die Tragetaschen Company",
+    "hreflang": [],
+    "canonical": "https://bagstage.de/",
+    "localized_links": [
+      {
+        "url": "https://bagstage.de/wp-content/cache/autoptimize/css/autoptimize_1ba4a14d5dc09226e1286ebf1b784ff2.css",
+        "label": ""
+      },
+      {
+        "url": "https://bagstage.de/",
+        "label": ""
+      },
+      {
+        "url": "https://bagstage.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbagstage.de%2F",
+        "label": ""
+      },
+      {
+        "url": "https://bagstage.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbagstage.de%2F&format=xml",
+        "label": ""
+      },
+      {
+        "url": "https://bagstage.de/wp-content/cache/autoptimize/css/autoptimize_single_93ad94e74663f2fb4f9c11b3fc00e77a.css?ver=7.1.4",
+        "label": ""
+      },
+      {
+        "url": "https://bagstage.de/wp-content/cache/autoptimize/css/autoptimize_single_de40bf101ac16751e775cdd6bb38a4e8.css?ver=7.1.4",
+        "label": ""
+      },
+      {
+        "url": "https://bagstage.de/wp-content/cache/autoptimize/css/autoptimize_single_ff1d9fac13ca188f74c0ba344d759b02.css?ver=8670ca",
+        "label": ""
+      },
+      {
+        "url": "https://bagstage.de/wp-includes/css/dashicons.min.css?ver=7.1.4",
+        "label": ""
+      },
+      {
+        "url": "https://bagstage.de/xmlrpc.php",
+        "label": ""
+      },
+      {
+        "url": "https://bagstage.de/shop/",
+        "label": "Produkte ohne Druck?"
+      },
+      {
+        "url": "https://bagstage.de/tragetaschen/",
+        "label": "Tragetaschen bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/tragetaschen/papiertueten-bedrucken/",
+        "label": "Papiertüten bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/tragetaschen/plastiktueten-bedrucken/",
+        "label": "Plastiktüten bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/tragetaschen/stofftaschen-bedrucken/",
+        "label": "Stoffbeutel bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/shop/tragetaschen/",
+        "label": "Tragetaschen Shop"
+      },
+      {
+        "url": "https://bagstage.de/shop/tragetaschen/papiertragetaschen/",
+        "label": "Papiertüten ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/tragetaschen/plastiktragetaschen/",
+        "label": "Plastiktüten ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/tragetaschen/stofftragetaschen/",
+        "label": "Stoffbeutel ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/kleidersaecke/",
+        "label": "Kleidersäcke bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/kleidersaecke/kleiderhuellen-bedrucken/",
+        "label": "Kleiderhüllen bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/kleidersaecke/brautkleidersaecke-bedrucken/",
+        "label": "Brautkleidersäcke bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/kleidersaecke/kollektionssaecke-bedrucken/",
+        "label": "Kollektionssäcke bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/shop/kleidersaecke/",
+        "label": "Kleidersäcke Shop"
+      },
+      {
+        "url": "https://bagstage.de/shop/kleidersaecke/kleidersaecke-vlies/",
+        "label": "Kleidersäcke VLIES ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/kleidersaecke/brautkleidersaecke/",
+        "label": "Brautkleidersäcke ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/kleidersaecke/kollektionssaecke/",
+        "label": "Kollektionssäcke ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/kleidersaecke/kleiderstaender/",
+        "label": "Kleiderständer ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/verpackungen/",
+        "label": "Verpackungen bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/verpackungen/versandverpackungen-bedrucken/",
+        "label": "Versandverpackungen bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/verpackungen/kartons-bedrucken/",
+        "label": "Kartons bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/verpackungen/faltschachteln/",
+        "label": "Faltschachteln bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/verpackungen/kissenschachteln/",
+        "label": "Kissenschachteln bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/shop/verpackungen/",
+        "label": "Verpackungen Shop"
+      },
+      {
+        "url": "https://bagstage.de/shop/verpackungen/versandverpackungen/",
+        "label": "Versandverpackungen ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/verpackungen/magnetboxen/",
+        "label": "Magnetboxen ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/verpackungen/kissenschachteln/",
+        "label": "Kissenschachteln ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/verpackungen/flachbeutel/",
+        "label": "Flachbeutel ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/verpackungen/blockbodenbeutel/",
+        "label": "Blockbodenbeutel ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/verpackungen/saeckchen/",
+        "label": "Säckchen ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/papiere-baender/",
+        "label": "Papiere & Bänder bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/papiere-baender/seidenpapier-bedrucken/",
+        "label": "Seidenpapier bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/papiere-baender/etiketten-bedrucken/",
+        "label": "Etiketten bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/papiere-baender/geschenkbaender-bedrucken/",
+        "label": "Geschenkbänder bedrucken"
+      },
+      {
+        "url": "https://bagstage.de/shop/papiere-baender/",
+        "label": "Papiere & Bänder Shop"
+      },
+      {
+        "url": "https://bagstage.de/shop/papiere-baender/seidenpapier/",
+        "label": "Seidenpapier ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/papiere-baender/geschenkpapier/",
+        "label": "Geschenkpapier ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/papiere-baender/geschenkbaender/",
+        "label": "Geschenkbänder ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/shop/papiere-baender/geschenkschleifen/",
+        "label": "Geschenkschleifen ab Lager"
+      },
+      {
+        "url": "https://bagstage.de/blog/",
+        "label": "Blog"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/service/",
+        "label": "Service"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/nachhaltigkeit/",
+        "label": "Nachhaltigkeit"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/fsc/",
+        "label": "FSC®"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/duale-entsorgung/",
+        "label": "Duale Entsorgung"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/firmengeschichte/",
+        "label": "Firmengeschichte"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/informationen-druck-veredelung/",
+        "label": "Informationen zu Druck und Veredelung"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/informationen-papiersorten/",
+        "label": "Informationen zu Papiersorten"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/was-bringt-werbung-auf-tueten/",
+        "label": "Was bringt Werbung auf Tüten wirklich?"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/plastiktuete-umweltkampf/",
+        "label": "Artikel – Die Plastiktüte und die Umwelt"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/eine-tragende-verbindung/",
+        "label": "Artikel – Eine tragende Verbindung"
+      },
+      {
+        "url": "https://bagstage.de/wissenswertes/allerlei-taschenspielereien/",
+        "label": "Artikel – Allerlei Taschenspielereien"
+      }
+    ],
+    "description": "Für Einzelhandel & Gewerbe: Individuelle Tragetaschen, Kleidersäcke, Kartonagen & mehr ⇒ mit Motiv ⇒ Hier die größte Auswahl an Verpackungen!",
+    "business_contacts": [
+      "tel:+4921115760700",
+      "tel:+4921115760700",
+      "mailto:info@bagstage.de",
+      "mailto:info@bagstage.de",
+      "tel:+4921115760700",
+      "tel:+4921115760700",
+      "mailto:info@bagstage.de"
+    ],
+    "text_excerpt": "BAGSTAGE GmbH — Die Tragetaschen Company 0211 15760700 | info(at)bagstage.de Produkte ohne Druck? 0 Artikel - 0,00€ Warenkorb ist noch leer. Menü Tragetaschen Tragetaschen bedrucken Papiertüten bedrucken Plastiktüten bedrucken Stoffbeutel bedrucken Tragetaschen Shop Papiertüten ab Lager Plastiktüten ab Lager Stoffbeutel ab Lager Kleidersäcke Kleide"
+  },
+  {
+    "host": "pegatinaspersonalizadas.es",
+    "kind": "candidate",
+    "url": "https://pegatinaspersonalizadas.es/",
+    "error": "HTTPSConnectionPool(host='pegatinaspersonalizadas.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pegatinaspersonalizadas.es'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "pudelkanawymiar.pl",
+    "kind": "candidate",
+    "url": "https://pudelkanawymiar.pl/",
+    "status": 200,
+    "final": "https://pudelkanawymiar.pl/",
+    "bytes": 402475,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "pl-PL",
+    "title": "Strona główna - Pudełka na wymiar",
+    "hreflang": [],
+    "canonical": "https://pudelkanawymiar.pl/",
+    "localized_links": [
+      {
+        "url": "https://pudelkanawymiar.pl/",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/feed/",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/comments/feed/",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/disable-payment-method-for-woocommerce/public/css/style.css?ver=7.1.4",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/tier-pricing-table/assets/frontend/main.min.css?ver=8.3.1",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/woocommerce-openapi-master/views/css/main.css?ver=1794417118",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.3",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/themes/minimog/assets/fonts/awesome/css/all.min.css?ver=5.15.4",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/themes/minimog/style.min.css?ver=4.1.2",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/themes/minimog/assets/libs/perfect-scrollbar/perfect-scrollbar.min.css?ver=7.1.4",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/themes/minimog/assets/css/wc/frontend.min.css?ver=4.1.2",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.5",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/uploads/elementor/css/post-25989.css?ver=1794399310",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.5",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.5",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.3.5",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.3.5",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.5",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.3.5",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/uploads/elementor/css/post-26138.css?ver=1794399311",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/uploads/elementor/css/base-desktop.css?ver=6af45c4f15b4e",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/uploads/elementor/css/local-26138-frontend-desktop.css?ver=6af45c4f16230",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/uploads/elementor/css/local-26138-frontend-tablet.css?ver=6af45c4f16230",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/uploads/elementor/css/base-mobile.css?ver=6af45c4f15b4e",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/uploads/elementor/css/local-26138-frontend-mobile.css?ver=6af45c4f16230",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/uploads/elementor/css/post-8321.css?ver=1794399311",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/themes/minimog-child02/style.css?ver=7.1.4",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/pnw-custom/assets/box-quote.css?ver=1792017942",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/pnw-custom/assets/product-loop-pricing.css?ver=1791472680",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/pnw-custom/assets/hero-slider.css?ver=1791408344",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/pnw-custom/assets/mega-menu.css?ver=1792509408",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/pnw-custom/assets/footer-refresh.css?ver=1792296976",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/pnw-custom/assets/products-home.css?ver=1791472179",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/pnw-custom/assets/inpost-shipping.css?ver=1792347840",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main.css?ver=5.2.2",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/plugins/flexible-ean-for-woocommerce/assets/css/front.css?ver=2.0.12",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-json/",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-json/wp/v2/pages/26138",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/xmlrpc.php?rsd",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wp-content/uploads/2024/04/ss.svg",
+        "label": ""
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/kartony/",
+        "label": "Kartony"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/pudelka-z-okienkiem/",
+        "label": "Pudełka z okienkiem"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/eco/",
+        "label": "Pudełka gładkie z okienkiem"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/premium/",
+        "label": "Pudełka karbowane z okienkiem"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/kartony-fasonowe/",
+        "label": "Kartony fasonowe"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/kartony-klapowe/",
+        "label": "Kartony klapowe"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wklady-kratownice/",
+        "label": "Wkłady / kratownice"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/kartony-paletowe/",
+        "label": "Kartony paletowe"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/opakowania-cukiernicze/",
+        "label": "Opakowania cukiernicze"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/pudelka-tortowe/",
+        "label": "Pudełka tortowe"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/pudelka-z-uchwytem/",
+        "label": "Pudełka na torty z uchwytem"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/pudelka-na-torty-pietrowe/",
+        "label": "Pudełka na torty piętrowe"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/tacki-i-podklady/",
+        "label": "Tacki i podkłady"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wypelniacze",
+        "label": "Wypełniacze"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wypelniacze-kartonowe/",
+        "label": "Kartonowe"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/wypelniacze-zigzag/",
+        "label": "ZigZag"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/standy-i-ekspozytory/",
+        "label": "Standy i ekspozytory"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/postac-kartonowa/",
+        "label": "Postać kartonowa"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/stojaki/",
+        "label": "Stojak"
+      },
+      {
+        "url": "https://pudelkanawymiar.pl/druk-i-reklama/",
+        "label": "Druk i reklama"
+      }
+    ],
+    "description": "Opakowania, które pasują do Twoich potrzeb.",
+    "business_contacts": [
+      "tel:746009466",
+      "tel:726860642",
+      "mailto:kontakt@pudelkanawymiar.pl"
+    ],
+    "text_excerpt": "Strona główna - Pudełka na wymiar Kartony Pudełka z okienkiem Pudełka gładkie z okienkiem Pudełka karbowane z okienkiem Kartony fasonowe Kartony klapowe Wkłady / kratownice Kartony paletowe Opakowania cukiernicze Pudełka tortowe Pudełka na torty z uchwytem Pudełka na torty piętrowe Tacki i podkłady Wypełniacze Kartonowe ZigZag Standy i ekspozytory "
+  },
+  {
+    "host": "sacspapierpersonnalises.fr",
+    "kind": "candidate",
+    "url": "https://sacspapierpersonnalises.fr/",
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
+  },
+  {
+    "host": "scatolepersonalizzate.it",
+    "kind": "candidate",
+    "url": "https://scatolepersonalizzate.it/",
+    "status": 200,
+    "final": "https://scatolepersonalizzate.it/",
+    "bytes": 114,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "",
+    "title": "",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": ""
+  },
+  {
+    "host": "scatolesumisura.it",
+    "kind": "candidate",
+    "url": "https://scatolesumisura.it/",
+    "status": 200,
+    "final": "https://scatolesumisura.it/",
+    "bytes": 149138,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "it",
+    "title": "Scatole Su Misura - Store Online di Scatole in Cartone, Shopper e Casse in Legno",
+    "hreflang": [],
+    "canonical": "https://scatolesumisura.it",
+    "localized_links": [
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/mage/calendar.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/css/styles-m.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/Amasty_ShopbyBase/css/swiper.min.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_AjaxCart/css/style.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/mage/gallery/gallery.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_ExtraGallery/css/style.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_GDPR/css/gdpr.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Lookbook/css/theme.default.min.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Lookbook/css/styles.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Mmegamenu/css/megamenu.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_ThemeSettings/css/theme_setting.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/Narnitech_Chooser/css/schedaprodotto.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/Narnitech_Chooser/css/preventivo.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_InstantSearch/css/styles.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/Magefan_Blog/css/blog-m.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/Magefan_Blog/css/blog-new.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/Magefan_Blog/css/blog-custom.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Fbuilder/css/fontawesome.v4.7.0/fontawesome.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Fbuilder/css/owl.carousel.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Fbuilder/css/owl.theme.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Fbuilder/css/animate.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Fbuilder/css/magnific-popup.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Fbuilder/css/pbanner.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Fbuilder/css/styles.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Fbuilder/css/lightbox.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Fbuilder/css/twentytwenty.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/Anowave_Ec/css/ec.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/css/mgs_theme_style_guide.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/css/mgs_theme_fonts.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/css/mgs_theme.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/css/mgs_theme_responsive.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Aquickview/css/aquickview.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/MGS_Brand/css/mgs_brand.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/css/styles-l.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/static/version1791111914/frontend/Mgs/supro/it_IT/css/print.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/media/favicon/stores/1/Logo_ScatoleSuMisuraMarroneQuadrato.png",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/media/mgs/fbuilder/css/blocks.min.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/media/mgs/fbuilder/css/1/fbuilder_config.min.css",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/shop.html",
+        "label": "Tutto il Catalogo"
+      },
+      {
+        "url": "https://scatolesumisura.it/scatole-per-confezione.html",
+        "label": "Confezione"
+      },
+      {
+        "url": "https://scatolesumisura.it/scatole-per-imballaggi.html",
+        "label": "Imballaggio"
+      },
+      {
+        "url": "https://scatolesumisura.it/richiedi-un-preventivo.html",
+        "label": "Consulenza"
+      },
+      {
+        "url": "https://scatolesumisura.it/catalogsearch/advanced/",
+        "label": "Ricerca avanzata"
+      },
+      {
+        "url": "https://scatolesumisura.it/customer/account/",
+        "label": "Il mio Account"
+      },
+      {
+        "url": "https://scatolesumisura.it/guestwishlist/",
+        "label": "La mia lista desideri"
+      },
+      {
+        "url": "https://scatolesumisura.it/customer/account/login/",
+        "label": "Accedi"
+      },
+      {
+        "url": "https://scatolesumisura.it/customer/account/create/",
+        "label": "Crea un Account"
+      },
+      {
+        "url": "https://scatolesumisura.it/guestwishlist/",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/",
+        "label": "Aggiungi al Carrello"
+      },
+      {
+        "url": "https://scatolesumisura.it/",
+        "label": "Rimuovi questo articolo"
+      },
+      {
+        "url": "https://scatolesumisura.it/guestwishlist/",
+        "label": "View All Wish List"
+      },
+      {
+        "url": "https://scatolesumisura.it/checkout/cart/",
+        "label": "Carrello"
+      },
+      {
+        "url": "https://scatolesumisura.it/",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/shop.html",
+        "label": "Acquista ora"
+      },
+      {
+        "url": "https://scatolesumisura.it/richiedi-un-preventivo.html",
+        "label": "Chiedi una consulenza"
+      },
+      {
+        "url": "https://scatolesumisura.it/scatole-su-misura.html",
+        "label": "Scatole Su Misura"
+      },
+      {
+        "url": "https://scatolesumisura.it/scatole-su-misura.html",
+        "label": "Totalmente Su Misura"
+      },
+      {
+        "url": "https://scatolesumisura.it/scatole-su-misura/scatola-americana-su-misura.html",
+        "label": ""
+      },
+      {
+        "url": "https://scatolesumisura.it/scatole-su-misura/scatola-su-misura-automontante-1.html",
+        "label": ""
+      }
+    ],
+    "description": "Scatole Su Misura è il più grande store online di Scatole in Cartone, Shopper e Casse in Legno. Oltre 20 mila formati di scatole per imballaggio e confezione.",
+    "business_contacts": [
+      "mailto:staff@scatolesumisura.it",
+      "tel:+3907441991126",
+      "mailto:staff@scatolesumisura.it",
+      "tel:+3907441991126",
+      "mailto:staff@scatolesumisura.it",
+      "tel:+3907441991126"
+    ],
+    "text_excerpt": "Scatole Su Misura - Store Online di Scatole in Cartone, Shopper e Casse in Legno The store will not work correctly in the case when cookies are disabled. I JavaScript sembrano essere disabilitati nel tuo browser. Per una migliore esperienza sul nostro sito, assicurati di attivare i javascript nel tuo browser. Customize Active CMS Builder Spedizione"
+  },
+  {
+    "host": "schachtelnnachmass.de",
+    "kind": "candidate",
+    "url": "https://schachtelnnachmass.de/",
+    "error": "HTTPSConnectionPool(host='schachtelnnachmass.de', port=443): Read timed out. (read timeout=5)"
+  },
+  {
+    "host": "stickerprinting.at",
+    "kind": "candidate",
+    "url": "https://stickerprinting.at/",
+    "error": "HTTPSConnectionPool(host='stickerprinting.at', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'stickerprinting.at'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "stickerprinting.be",
+    "kind": "candidate",
+    "url": "https://stickerprinting.be/",
+    "error": "HTTPSConnectionPool(host='stickerprinting.be', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'stickerprinting.be'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "stickerprinting.ca",
+    "kind": "candidate",
+    "url": "https://stickerprinting.ca/",
+    "error": "HTTPSConnectionPool(host='stickerprinting.ca', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)')))"
+  },
+  {
+    "host": "stickerprinting.ch",
+    "kind": "candidate",
+    "url": "https://stickerprinting.ch/",
+    "status": 200,
+    "final": "https://stickerprinting.ch/",
+    "bytes": 80098,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "ch",
+    "title": "Stickerprinting",
+    "hreflang": [
+      {
+        "lang": "de",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      },
+      {
+        "lang": "de-AT",
+        "url": "https://aufkleberdrucker24.at/index.php"
+      },
+      {
+        "lang": "de-CH",
+        "url": "https://aufkleberdrucker24.ch/index.php"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      }
+    ],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://aufkleberdrucker24.de/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.at/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.ch/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/tpl/ds_aufkleberdrucker24Redux/assets/font/material-icons-outlined-20220627.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/tpl/ds_aufkleberdrucker24Redux/assets/font/druckshop-premium.woff",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/tpl/ds_aufkleberdrucker24Redux/data/application_pre.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/tpl/ds_aufkleberdrucker24Redux/data/application.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/tpl/ds_aufkleberdrucker24Redux/data/responsive.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/tpl/ds_master/data/extension.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/tpl/ds_aufkleberdrucker24Redux/data/custom.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/image.php?f=/customer_media/660/css/layout.538.css&t=cm",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/tpl/ds_aufkleberdrucker24Redux/data/sticker.css",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/image.php?t=cm&f=customer_media/660/favicon/2a29fdd3eb28a64991999e91602b8e5d.ico",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/kontakt.htm",
+        "label": "Kontakt"
+      },
+      {
+        "url": "https://stickerprinting.ch/impressum.htm",
+        "label": "Impressum"
+      },
+      {
+        "url": "https://stickerprinting.ch/index.htm",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.ch/cart_first.htm",
+        "label": "0"
+      },
+      {
+        "url": "https://stickerprinting.ch/pw_lost.htm",
+        "label": "Passwort vergessen"
+      },
+      {
+        "url": "https://stickerprinting.ch/adresse.htm?onlyreg=1&",
+        "label": "Registrieren"
+      },
+      {
+        "url": "https://stickerprinting.ch/konto_login.htm",
+        "label": "Login"
+      },
+      {
+        "url": "https://stickerprinting.ch/aufkleber-auswahl.htm",
+        "label": "Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/aufkleber-online-drucken-lassen.htm",
+        "label": "Standardaufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/premiumaufkleber-drucken.htm",
+        "label": "Premiumaufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/transparente-aufkleber-drucken.htm",
+        "label": "Transparente Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/stickerbogen-online-drucken.htm",
+        "label": "Stickerbogen"
+      },
+      {
+        "url": "https://stickerprinting.ch/haftfolien-aufkleber-drucken.htm",
+        "label": "Haftfolienaufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/fussbodenaufkleber-online-drucken.htm",
+        "label": "Fussbodenaufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/magnetfolien-drucken.htm",
+        "label": "Magnetaufkleber & Magnetfolien"
+      },
+      {
+        "url": "https://stickerprinting.ch/3d-gel-aufkleber-drucken.htm",
+        "label": "3D Gel Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/metalleffekt-aufkleber-drucken.htm",
+        "label": "Metalleffekt-Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/Hologramm-Aufkleber.htm",
+        "label": "Hologramm-Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/PVC-freie-Aufkleber.htm",
+        "label": "PVC-freie Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/Safety-Vinyl-Dokumentenfolie.htm",
+        "label": "Safety Vinyl - Dokumentenfolie"
+      },
+      {
+        "url": "https://stickerprinting.ch/Neon-Aufkleber.htm",
+        "label": "Neon-Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/Wunschprodukt-finden.htm",
+        "label": "Wunschprodukt nicht dabei?"
+      },
+      {
+        "url": "https://stickerprinting.ch/Etiketten,category,33650.html",
+        "label": "Etiketten"
+      },
+      {
+        "url": "https://stickerprinting.ch/etiketten-innenbereich-drucken.htm",
+        "label": "Rollenetiketten für Innen und Aussen"
+      },
+      {
+        "url": "https://stickerprinting.ch/etiketten-aussenbereich-drucken.htm",
+        "label": "Etiketten für den Aussenbereich"
+      },
+      {
+        "url": "https://stickerprinting.ch/papieretiketten-drucken.htm",
+        "label": "Papieretiketten"
+      },
+      {
+        "url": "https://stickerprinting.ch/transparente-etiketten-drucken.htm",
+        "label": "Transparente Etiketten"
+      },
+      {
+        "url": "https://stickerprinting.ch/flaschenetiketten-drucken.htm",
+        "label": "Flaschenetiketten"
+      },
+      {
+        "url": "https://stickerprinting.ch/adressetiketten-drucken.htm",
+        "label": "Adressetiketten"
+      },
+      {
+        "url": "https://stickerprinting.ch/klebefolien-auswahl.htm",
+        "label": "Klebefolien"
+      },
+      {
+        "url": "https://stickerprinting.ch/kebefolien-permanent-klebend.htm",
+        "label": "Klebefolien, permanent klebend"
+      },
+      {
+        "url": "https://stickerprinting.ch/klebefolien-wiederverwendbare.htm",
+        "label": "Klebefolien, wiederverwendbar"
+      },
+      {
+        "url": "https://stickerprinting.ch/wand-klebefolien.htm",
+        "label": "Klebefolien für Wände"
+      },
+      {
+        "url": "https://stickerprinting.ch/klebefolien-fenster-tuer.htm",
+        "label": "Klebefolie für Fenster & Türen"
+      },
+      {
+        "url": "https://stickerprinting.ch/klebefolien-fahrzeuge.htm",
+        "label": "Klebefolie für Fahrzeuge"
+      },
+      {
+        "url": "https://stickerprinting.ch/klebefolien-boden.htm",
+        "label": "Klebefolie für Böden"
+      },
+      {
+        "url": "https://stickerprinting.ch/klebebuchstaben.htm",
+        "label": "Klebebuchstaben"
+      },
+      {
+        "url": "https://stickerprinting.ch/Klebebuchstaben_Standard,category,36992.html",
+        "label": "Klebebuchstaben Standard"
+      },
+      {
+        "url": "https://stickerprinting.ch/Klebebuchstaben_Premium,category,36993.html",
+        "label": "Klebebuchstaben Premium"
+      },
+      {
+        "url": "https://stickerprinting.ch/Glasdekor_amp_Milchglas,category,36994.html",
+        "label": "Glasdekor & Milchglas"
+      },
+      {
+        "url": "https://stickerprinting.ch/Klebebuchstaben_mehrfarbig,category,36995.html",
+        "label": "Klebebuchstaben mehrfarbig"
+      },
+      {
+        "url": "https://stickerprinting.ch/Klebebuchstaben_Metallic,category,36996.html",
+        "label": "Klebebuchstaben Metallic"
+      },
+      {
+        "url": "https://stickerprinting.ch/Fluoreszierende_Neon_Folie,category,36997.html",
+        "label": "Fluoreszierende Neon-Folie"
+      },
+      {
+        "url": "https://stickerprinting.ch/Anwendungen,category,35218.html",
+        "label": "Anwendungen"
+      },
+      {
+        "url": "https://stickerprinting.ch/Autoaufkleber,category,35219.html",
+        "label": "Autoaufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/Fensteraufkleber,category,35220.html",
+        "label": "Fensteraufkleber"
+      },
+      {
+        "url": "https://stickerprinting.ch/Flaschenetiketten,category,35222.html",
+        "label": "Flaschenetiketten"
+      }
+    ],
+    "description": "✓ Der Aufkleberspezialist ✓ Aufkleber online bestellen ✓ hochwertige Aufkleber zu kleinen Preisen ✓ individuelle Aufkleber ✓ gratis Versand ✓",
+    "business_contacts": [
+      "mailto:office@stickerprinting.ch",
+      "mailto:office@stickerprinting.ch"
+    ],
+    "text_excerpt": "Stickerprinting Sticker vom Profi gedruckt! Mo - Do 08:00 - 17:00 / Fr 08:00 - 14:00 office@stickerprinting.ch Kontakt | Impressum Facebook Instagram 0 Artikelsuche E-Mail/Kd-Nr. Passwort Einloggen Passwort vergessen Registrieren 0 Login Produkte Aufkleber Standardaufkleber Premiumaufkleber Transparente Aufkleber Stickerbogen Haftfolienaufkleber Fu"
+  },
+  {
+    "host": "stickerprinting.de",
+    "kind": "candidate",
+    "url": "https://stickerprinting.de/",
+    "status": 200,
+    "final": "https://stickerprinting.de/",
+    "bytes": 93567,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "de",
+    "title": "Günstig Aufkleber drucken | StickerPrinting.de",
+    "hreflang": [
+      {
+        "lang": "de",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      },
+      {
+        "lang": "de-AT",
+        "url": "https://aufkleberdrucker24.at/index.php"
+      },
+      {
+        "lang": "de-CH",
+        "url": "https://aufkleberdrucker24.ch/index.php"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      }
+    ],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://aufkleberdrucker24.de/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.at/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.ch/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://app.usercentrics.eu",
+        "label": ""
+      },
+      {
+        "url": "https://api.usercentrics.eu",
+        "label": ""
+      },
+      {
+        "url": "https://privacy-proxy.usercentrics.eu",
+        "label": ""
+      },
+      {
+        "url": "https://app.usercentrics.eu/browser-ui/latest/loader.js",
+        "label": ""
+      },
+      {
+        "url": "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/tpl/ds_aufkleberdrucker24Redux/assets/font/material-icons-outlined-20220627.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/tpl/ds_aufkleberdrucker24Redux/assets/font/druckshop-premium.woff",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/tpl/ds_aufkleberdrucker24Redux/data/application_pre.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/tpl/ds_aufkleberdrucker24Redux/data/application.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/tpl/ds_aufkleberdrucker24Redux/data/responsive.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/tpl/ds_master/data/extension.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/tpl/ds_aufkleberdrucker24Redux/data/custom.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/image.php?f=/customer_media/660/css/layout.css&t=cm",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/tpl/ds_aufkleberdrucker24Redux/data/sticker.css",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/image.php?t=cm&f=customer_media/660/favicon/2fddeba6fc708d62d4133ab23695a7d7.ico",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/kontakt.htm",
+        "label": "Kontakt"
+      },
+      {
+        "url": "https://stickerprinting.de/impressum.htm",
+        "label": "Impressum"
+      },
+      {
+        "url": "https://stickerprinting.de/index.htm",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de/cart_first.htm",
+        "label": "0"
+      },
+      {
+        "url": "https://stickerprinting.de/pw_lost.htm",
+        "label": "Passwort vergessen"
+      },
+      {
+        "url": "https://stickerprinting.de/adresse.htm?onlyreg=1&",
+        "label": "Registrieren"
+      },
+      {
+        "url": "https://stickerprinting.de/konto_login.htm",
+        "label": "Login"
+      },
+      {
+        "url": "https://stickerprinting.de/aufkleber-uebersicht.htm",
+        "label": "Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-jetzt-aufkleber-drucken-lassen.htm",
+        "label": "Standardaufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-premiumaufkleber-drucken-lassen.htm",
+        "label": "Premiumaufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-transparente-aufkleber-drucken-lassen.htm",
+        "label": "Transparente Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-stickerbogen-drucken-lassen.htm",
+        "label": "Stickerbogen"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-haftfolien-drucken-lassen.htm",
+        "label": "Haftfolien Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-rollenetiketten-drucken-lassen.htm",
+        "label": "Rollenetiketten"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-papieraufkleber-drucken-lassen.htm",
+        "label": "Papieraufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-klebebuchstaben-anfertigen-lassen.htm",
+        "label": "Klebebuchstaben"
+      },
+      {
+        "url": "https://stickerprinting.de/Sticker_Packs,category,45470.html",
+        "label": "Sticker Packs"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-fussbodenaufkleber-drucken-lassen.htm",
+        "label": "Fußbodenaufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/UV_DTF_Transfer_Sticker,category,45486.html",
+        "label": "UV-DTF Transfer Sticker"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-3d-gel-aufkleber-drucken-lassen.htm",
+        "label": "3D Gel Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-magnet-aufkleber-drucken-lassen.htm",
+        "label": "Magnetfolien"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-metall-effekt-aufkleber-drucken.htm",
+        "label": "Metall-Effekt-Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-hologramm-aufkleber-drucken-lassen.htm",
+        "label": "Hologramm-Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-doppelseitige-hinterglas-aufkleber-drucken-lassen.htm",
+        "label": "Doppelseitige Hinterglasaufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-pvc-freie-aufkleber-drucken-lassen.htm",
+        "label": "PVC-freie Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-safety-vinyl-dokumentenfolie-drucken-lassen.htm",
+        "label": "Safety Vinyl - Dokumentenfolie"
+      },
+      {
+        "url": "https://stickerprinting.de/wl-neon-aufkleber-drucken-lassen.htm",
+        "label": "Neon-Aufkleber"
+      },
+      {
+        "url": "https://stickerprinting.de/etiketten-bedrucken.htm",
+        "label": "Etiketten"
+      },
+      {
+        "url": "https://stickerprinting.de/etiketten-innenbereich-drucken-lassen.htm",
+        "label": "Etiketten für den Innenbereich"
+      },
+      {
+        "url": "https://stickerprinting.de/etiketten-aussenbereich-drucken-lassen.htm",
+        "label": "Etiketten für den Außenbereich"
+      },
+      {
+        "url": "https://stickerprinting.de/papieretiketten-drucken-lassen.htm",
+        "label": "Papieretiketten"
+      },
+      {
+        "url": "https://stickerprinting.de/transparente-etiketten-drucken-lassen.htm",
+        "label": "Transparente Etiketten"
+      },
+      {
+        "url": "https://stickerprinting.de/flaschenetiketten-drucken-lassen.htm",
+        "label": "Flaschenetiketten"
+      },
+      {
+        "url": "https://stickerprinting.de/lebensmitteletiketten-drucken-lassen.htm",
+        "label": "Lebensmitteletiketten"
+      },
+      {
+        "url": "https://stickerprinting.de/textiletiketten-drucken-lassen.htm",
+        "label": "Textiletiketten"
+      },
+      {
+        "url": "https://stickerprinting.de/adressetiketten-drucken-lassen.htm",
+        "label": "Adressetiketten"
+      },
+      {
+        "url": "https://stickerprinting.de/Etiketten_aus_Silberfolie,category,42184.html",
+        "label": "Etiketten aus Silberfolie"
+      },
+      {
+        "url": "https://stickerprinting.de/Glitzer_Etiketten,category,42185.html",
+        "label": "Glitzer-Etiketten"
+      },
+      {
+        "url": "https://stickerprinting.de/Hologramm_Etiketten,category,42186.html",
+        "label": "Hologramm-Etiketten"
+      },
+      {
+        "url": "https://stickerprinting.de/Etiketten_mit_Teillackierung,category,42187.html",
+        "label": "Etiketten mit Teillackierung"
+      },
+      {
+        "url": "https://stickerprinting.de/Etiketten_mit_Gold_oder_Silberpraegung,category,42197.html",
+        "label": "Etiketten mit Gold- oder Silberprägung"
+      },
+      {
+        "url": "https://stickerprinting.de/klebefolien-uebersicht.htm",
+        "label": "Klebefolien"
+      }
+    ],
+    "description": "✓ Der Aufkleberspezialist ✓ Aufkleber online bestellen ✓ hochwertige Aufkleber zu kleinen Preisen ✓ individuelle Aufkleber ✓ gratis Versand ✓",
+    "business_contacts": [
+      "mailto:mail@stickerprinting.de",
+      "mailto:mail@stickerprinting.de"
+    ],
+    "text_excerpt": "Günstig Aufkleber drucken | StickerPrinting.de Sticker vom Profi gedruckt! +49 331 - 9799 4141 Mo - Do 08:00 - 17:00 / Fr 08:00 - 14:00 mail@stickerprinting.de Kontakt | Impressum Facebook YouTube 0 Artikelsuche E-Mail/Kd-Nr. Passwort Einloggen Passwort vergessen Registrieren 0 Login Produkte Aufkleber Standardaufkleber Premiumaufkleber Transparent"
+  },
+  {
+    "host": "stickerprinting.es",
+    "kind": "candidate",
+    "url": "https://stickerprinting.es/",
+    "status": 200,
+    "final": "https://stickerprinting.es/",
+    "bytes": 52470,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "es",
+    "title": "Imprima etiquetas adhesivas con en el especialista online: StickerPrinting",
+    "hreflang": [
+      {
+        "lang": "de",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      },
+      {
+        "lang": "de-AT",
+        "url": "https://aufkleberdrucker24.at/index.php"
+      },
+      {
+        "lang": "de-CH",
+        "url": "https://aufkleberdrucker24.ch/index.php"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      }
+    ],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://aufkleberdrucker24.de/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.at/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.ch/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/tpl/ds_aufkleberdrucker24Redux/assets/font/material-icons-outlined-20220627.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/tpl/ds_aufkleberdrucker24Redux/assets/font/druckshop-premium.woff",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/tpl/ds_aufkleberdrucker24Redux/data/application_pre.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/tpl/ds_aufkleberdrucker24Redux/data/application.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/tpl/ds_aufkleberdrucker24Redux/data/responsive.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/tpl/ds_master/data/extension.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/tpl/ds_aufkleberdrucker24Redux/data/custom.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/image.php?f=/customer_media/660/css/layout.537.css&t=cm",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/tpl/ds_aufkleberdrucker24Redux/data/sticker.css",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/image.php?t=cm&f=customer_media/660/favicon/ccac2b8c089a6feaae941a0cb48742c5.ico",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/kontakt.htm",
+        "label": "Contacto"
+      },
+      {
+        "url": "https://stickerprinting.es/aviso-legal.htm",
+        "label": "Aviso legal"
+      },
+      {
+        "url": "https://stickerprinting.es/index.htm",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.es/cart_first.htm",
+        "label": "0"
+      },
+      {
+        "url": "https://stickerprinting.es/pw_lost.htm",
+        "label": "He olvidado mi contraseña"
+      },
+      {
+        "url": "https://stickerprinting.es/adresse.htm?onlyreg=1&",
+        "label": "Registrarse"
+      },
+      {
+        "url": "https://stickerprinting.es/konto_login.htm",
+        "label": "Login"
+      },
+      {
+        "url": "https://stickerprinting.es/pegatinas.htm",
+        "label": "Pegatinas"
+      },
+      {
+        "url": "https://stickerprinting.es/pegatinas-adhesivas-estandar.htm",
+        "label": "Pegatinas"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-adhesivas-transparentes.htm",
+        "label": "Pegatinas transparentes"
+      },
+      {
+        "url": "https://stickerprinting.es/hojas-de-etiquetas.htm",
+        "label": "Hojas de pagatinas"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-adhesivas-premium.htm",
+        "label": "Paquete de pegatinas"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-adhesivas-de-papel.htm",
+        "label": "Pagatinas de papel"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-con-efecto-metalico.htm",
+        "label": "Pegatinas metálicas"
+      },
+      {
+        "url": "https://stickerprinting.es/Pegatinas_holograficas,category,45560.html",
+        "label": "Pegatinas holograficas"
+      },
+      {
+        "url": "https://stickerprinting.es/Pegatinas_UV_DTF,category,45541.html",
+        "label": "Pegatinas UV DTF"
+      },
+      {
+        "url": "https://stickerprinting.es/pegatinas-de-gel-en-3d.htm",
+        "label": "Pegatinas con gota de resina"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-adhesivas-para-el-suelo.htm",
+        "label": "Pegatinas para el suelo"
+      },
+      {
+        "url": "https://stickerprinting.es/Pegatinas_fluorescentes,category,45558.html",
+        "label": "Pegatinas fluorescentes"
+      },
+      {
+        "url": "https://stickerprinting.es/Etiquetas_de_Seguridad,category,45559.html",
+        "label": "Etiquetas de Seguridad"
+      },
+      {
+        "url": "https://stickerprinting.es/rollo-de-etiquetas.htm",
+        "label": "Etiquetas en rollo"
+      },
+      {
+        "url": "https://stickerprinting.es/letras-adhesivas.htm",
+        "label": "Letras adhesivas"
+      },
+      {
+        "url": "https://stickerprinting.es/Pegantinas-con-pelicula-adhesiva.htm",
+        "label": "Pegantinas con película adhesiva"
+      },
+      {
+        "url": "https://stickerprinting.es/laminas-magneticas.htm",
+        "label": "Láminas magnéticas"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-en-rollo.htm",
+        "label": "Etiquetas en rollo"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-para-exterioes.htm",
+        "label": "Etiquetas para exterioes"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-de-papel.htm",
+        "label": "Etiquetas de papel en bobina"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-transparentes.htm",
+        "label": "Etiqueta Transparente en Bobina"
+      },
+      {
+        "url": "https://stickerprinting.es/Etiquetas_plateadas_metalicas,category,45687.html",
+        "label": "Etiquetas plateadas metálicas"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-de-botella.htm",
+        "label": "Etiquetas de botella"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-para-alimentos.htm",
+        "label": "Etiquetas para alimentos"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-textiles.htm",
+        "label": "Etiquetas textiles"
+      },
+      {
+        "url": "https://stickerprinting.es/etiquetas-de-direccion.htm",
+        "label": "Etiquetas de dirección"
+      },
+      {
+        "url": "https://stickerprinting.es/letras.htm",
+        "label": "Letras adhesivas"
+      },
+      {
+        "url": "https://stickerprinting.es/letras-adhesivas-premium.htm",
+        "label": "Letras adhesivas premium"
+      },
+      {
+        "url": "https://stickerprinting.es/letras-adhesivas-estandar.htm",
+        "label": "Letras adhesivas estándar"
+      },
+      {
+        "url": "https://stickerprinting.es/lamina-decorativa-para-cristal.htm",
+        "label": "Lámina decorativa para cristal"
+      },
+      {
+        "url": "https://stickerprinting.es/letras-adhesivas-multicolor.htm",
+        "label": "Letras adhesivas multicolor"
+      },
+      {
+        "url": "https://stickerprinting.es/letras-adhesivas-metalico.htm",
+        "label": "Letras adhesivas metálico"
+      },
+      {
+        "url": "https://stickerprinting.es/letras-adhesivas-fluorescent.htm",
+        "label": "Letras adhesivas fluorescent"
+      },
+      {
+        "url": "https://stickerprinting.es/vinilos.htm",
+        "label": "Vinilos gran formato"
+      },
+      {
+        "url": "https://stickerprinting.es/vinilos-adhesivos-para-superficies-planas.htm",
+        "label": "Vinilos adhesivos para superficies planas"
+      },
+      {
+        "url": "https://stickerprinting.es/vinilos-adhesivos-para-escaparates.htm",
+        "label": "Vinilos adhesivos para escaparates"
+      },
+      {
+        "url": "https://stickerprinting.es/vinilos-adhesivos-para-pared.htm",
+        "label": "Vinilos adhesivos para pared"
+      },
+      {
+        "url": "https://stickerprinting.es/vinilos-adhesivos-para-vehiculos.htm",
+        "label": "Vinilos adhesivos para vehículos"
+      },
+      {
+        "url": "https://stickerprinting.es/vinilos-adhesivos-para-suelos.htm",
+        "label": "Vinilos adhesivos para suelos"
+      },
+      {
+        "url": "https://stickerprinting.es/vinilos-electrostaticos-reposicionables.htm",
+        "label": "Vinilos electrostáticos reposicionables"
+      }
+    ],
+    "description": "✓ el especialista en pegatinas ✓ pedir pegatinas en línea ✓ pegatinas de alta calidad a bajo precio ✓ pegatinas individuales ✓",
+    "business_contacts": [
+      "mailto:office@stickerprinting.es",
+      "mailto:office@stickerprinting.es"
+    ],
+    "text_excerpt": "Imprima etiquetas adhesivas con en el especialista online: StickerPrinting office@stickerprinting.es Contacto | Aviso legal 0 Búsqueda de artículos Correo electrónico/Número de cliente Contraseña Iniciar sesión He olvidado mi contraseña Registrarse 0 Login Productos Pegatinas Pegatinas Pegatinas transparentes Hojas de pagatinas Paquete de pegatinas"
+  },
+  {
+    "host": "stickerprinting.eu",
+    "kind": "candidate",
+    "url": "https://stickerprinting.eu/",
+    "status": 466,
+    "final": "https://stickerprinting.eu/",
+    "bytes": 2541,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "Access Forbidden",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "Webpage description goes here",
+    "business_contacts": [],
+    "text_excerpt": "Access Forbidden Access Denied We are sorry, but your request has been blocked by our web application firewall. This could be due to unusual activity or a potential security risk. Please contact your hosting provider for further information. </html"
+  },
+  {
+    "host": "stickerprinting.fr",
+    "kind": "candidate",
+    "url": "https://stickerprinting.fr/",
+    "status": 200,
+    "final": "https://stickerprinting.fr/",
+    "bytes": 74130,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "fr",
+    "title": "Imprimer des autocollants à bas prix | StickerPrinting.fr",
+    "hreflang": [
+      {
+        "lang": "de",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      },
+      {
+        "lang": "de-AT",
+        "url": "https://aufkleberdrucker24.at/index.php"
+      },
+      {
+        "lang": "de-CH",
+        "url": "https://aufkleberdrucker24.ch/index.php"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      }
+    ],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://aufkleberdrucker24.de/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.at/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.ch/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/tpl/ds_aufkleberdrucker24Redux/assets/font/material-icons-outlined-20220627.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/tpl/ds_aufkleberdrucker24Redux/assets/font/druckshop-premium.woff",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/tpl/ds_aufkleberdrucker24Redux/data/application_pre.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/tpl/ds_aufkleberdrucker24Redux/data/application.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/tpl/ds_aufkleberdrucker24Redux/data/responsive.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/tpl/ds_master/data/extension.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/tpl/ds_aufkleberdrucker24Redux/data/custom.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/image.php?f=/customer_media/660/css/layout.540.css&t=cm",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/tpl/ds_aufkleberdrucker24Redux/data/sticker.css",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/image.php?t=cm&f=customer_media/660/favicon/42736ca865c7792faee95246189dbbd5.ico",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/kontakt.htm",
+        "label": "Contact"
+      },
+      {
+        "url": "https://stickerprinting.fr/mentions-legales.htm",
+        "label": "Mentions légales"
+      },
+      {
+        "url": "https://stickerprinting.fr/index.htm",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.fr/cart_first.htm",
+        "label": "0"
+      },
+      {
+        "url": "https://stickerprinting.fr/pw_lost.htm",
+        "label": "Mot de passe oublié"
+      },
+      {
+        "url": "https://stickerprinting.fr/adresse.htm?onlyreg=1&",
+        "label": "S'inscrire"
+      },
+      {
+        "url": "https://stickerprinting.fr/konto_login.htm",
+        "label": "Login"
+      },
+      {
+        "url": "https://stickerprinting.fr/imprimer-des-autocollants-a-bas-prix.htm",
+        "label": "Stickers"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_standard,category,34412.html",
+        "label": "Stickers standard"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_premium,category,34413.html",
+        "label": "Stickers premium"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_transparents,category,39984.html",
+        "label": "Stickers transparents"
+      },
+      {
+        "url": "https://stickerprinting.fr/Planches_de_stickers,category,34415.html",
+        "label": "Planches de stickers"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_papier,category,34418.html",
+        "label": "Stickers papier"
+      },
+      {
+        "url": "https://stickerprinting.fr/Films_magnetiques,category,34421.html",
+        "label": "Films magnétiques"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_holographique,category,34417.html",
+        "label": "Stickers holographique"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_de_sol,category,34420.html",
+        "label": "Stickers de sol"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_SANS_PVC,category,34419.html",
+        "label": "Stickers SANS PVC"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_a_effet_metallique,category,34423.html",
+        "label": "Stickers à effet métallique"
+      },
+      {
+        "url": "https://stickerprinting.fr/Autocollants_double_face_pour_vitre,category,34414.html",
+        "label": "Autocollants double face pour vitre"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_doming_3D,category,34422.html",
+        "label": "Stickers doming 3D"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_sur_film_adhesif,category,34416.html",
+        "label": "Stickers sur film adhésif"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_NEON,category,45337.html",
+        "label": "Stickers NEON"
+      },
+      {
+        "url": "https://stickerprinting.fr/etiquettes-en-rouleau.htm",
+        "label": "Étiquettes en rouleau"
+      },
+      {
+        "url": "https://stickerprinting.fr/Etiquettes_interieures,category,34424.html",
+        "label": "Étiquettes intérieures"
+      },
+      {
+        "url": "https://stickerprinting.fr/Etiquettes_d_exterieur,category,34425.html",
+        "label": "Étiquettes d'extérieur"
+      },
+      {
+        "url": "https://stickerprinting.fr/Etiquettes_en_papier,category,34426.html",
+        "label": "Étiquettes en papier"
+      },
+      {
+        "url": "https://stickerprinting.fr/Etiquettes_transparentes,category,34427.html",
+        "label": "Étiquettes transparentes"
+      },
+      {
+        "url": "https://stickerprinting.fr/Etiquettes_de_bouteilles,category,34428.html",
+        "label": "Étiquettes de bouteilles"
+      },
+      {
+        "url": "https://stickerprinting.fr/Etiquettes_alimentaires,category,34429.html",
+        "label": "Étiquettes alimentaires"
+      },
+      {
+        "url": "https://stickerprinting.fr/lettrage-adhesif.htm",
+        "label": "Lettrage adhésif"
+      },
+      {
+        "url": "https://stickerprinting.fr/Lettrage_adhesif_premium,category,34430.html",
+        "label": "Lettrage adhésif premium"
+      },
+      {
+        "url": "https://stickerprinting.fr/Lettrage_adhesif_standards,category,34431.html",
+        "label": "Lettrage adhésif standards"
+      },
+      {
+        "url": "https://stickerprinting.fr/Lettrage_adhesif_effet_verre_depoli,category,34432.html",
+        "label": "Lettrage adhésif effet verre dépoli"
+      },
+      {
+        "url": "https://stickerprinting.fr/Lettrage_adhesif_multicolore,category,34433.html",
+        "label": "Lettrage adhésif multicolore"
+      },
+      {
+        "url": "https://stickerprinting.fr/Lettrage_adhesif_metallique,category,34434.html",
+        "label": "Lettrage adhésif métallique"
+      },
+      {
+        "url": "https://stickerprinting.fr/Lettrage_adhesif_fluorescent,category,34435.html",
+        "label": "Lettrage adhésif fluorescent"
+      },
+      {
+        "url": "https://stickerprinting.fr/donnees-dimpression.htm",
+        "label": "Données d'impression"
+      },
+      {
+        "url": "https://stickerprinting.fr/verifications-des-donnees.htm",
+        "label": "Vérifications des données"
+      },
+      {
+        "url": "https://stickerprinting.fr/informations-sur-la-livraison.htm",
+        "label": "Informations sur la livraison"
+      },
+      {
+        "url": "https://stickerprinting.fr/cookies-fr.htm",
+        "label": "Configuración de cookies"
+      },
+      {
+        "url": "https://stickerprinting.fr/protection-des-donnees.htm",
+        "label": "Protection des données"
+      },
+      {
+        "url": "https://stickerprinting.fr/conditions-generales-de-vente.htm",
+        "label": "CGV"
+      },
+      {
+        "url": "https://stickerprinting.fr/cms.htm?c=widerruf",
+        "label": "Conditions de rétractation"
+      },
+      {
+        "url": "https://stickerprinting.fr/stickers-standard.htm",
+        "label": "Commander maintenant"
+      },
+      {
+        "url": "https://stickerprinting.fr/stickers-premium.htm",
+        "label": "Commander maintenant"
+      },
+      {
+        "url": "https://stickerprinting.fr/planches-de-stickers.htm",
+        "label": "Commander maintenant"
+      },
+      {
+        "url": "https://stickerprinting.fr/Stickers_standard,category,34412.html",
+        "label": ""
+      }
+    ],
+    "description": "✓ le spécialiste de l'autocollant ✓ commander des autocollants en ligne ✓ autocollants de qualité à bas prix ✓ autocollants individuels ✓",
+    "business_contacts": [
+      "mailto:office@stickerprinting.fr",
+      "mailto:office@stickerprinting.fr"
+    ],
+    "text_excerpt": "Imprimer des autocollants à bas prix | StickerPrinting.fr office@stickerprinting.fr Contact | Mentions légales 0 Recherche d'articles E-mail/N° client Mot de passe Connexion Mot de passe oublié S'inscrire 0 Login Produits Stickers Stickers standard Stickers premium Stickers transparents Planches de stickers Stickers papier Films magnétiques Sticker"
+  },
+  {
+    "host": "stickerprinting.it",
+    "kind": "candidate",
+    "url": "https://stickerprinting.it/",
+    "status": 200,
+    "final": "https://stickerprinting.it/",
+    "bytes": 73460,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "it",
+    "title": "Adesivi personalizzati - StickerPrinting",
+    "hreflang": [
+      {
+        "lang": "de",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      },
+      {
+        "lang": "de-AT",
+        "url": "https://aufkleberdrucker24.at/index.php"
+      },
+      {
+        "lang": "de-CH",
+        "url": "https://aufkleberdrucker24.ch/index.php"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      }
+    ],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://aufkleberdrucker24.de/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.at/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.ch/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/tpl/ds_aufkleberdrucker24Redux/assets/font/material-icons-outlined-20220627.woff2",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/tpl/ds_aufkleberdrucker24Redux/assets/font/druckshop-premium.woff",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/tpl/ds_aufkleberdrucker24Redux/data/application_pre.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/tpl/ds_aufkleberdrucker24Redux/data/application.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/tpl/ds_aufkleberdrucker24Redux/data/responsive.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/tpl/ds_master/data/extension.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/tpl/ds_aufkleberdrucker24Redux/data/custom.css?bbv=1794307260925",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/image.php?f=/customer_media/660/css/layout.539.css&t=cm",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/tpl/ds_aufkleberdrucker24Redux/data/sticker.css",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/image.php?t=cm&f=customer_media/660/favicon/e6109c76e761ff3edd63c53b67201fd0.ico",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/kontakt.htm",
+        "label": "Contatto"
+      },
+      {
+        "url": "https://stickerprinting.it/impronta.htm",
+        "label": "Informazioni legali"
+      },
+      {
+        "url": "https://stickerprinting.it/index.htm",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.it/cart_first.htm",
+        "label": "0"
+      },
+      {
+        "url": "https://stickerprinting.it/pw_lost.htm",
+        "label": "Hai dimenticato la tua password?"
+      },
+      {
+        "url": "https://stickerprinting.it/adresse.htm?onlyreg=1&",
+        "label": "Registrati"
+      },
+      {
+        "url": "https://stickerprinting.it/konto_login.htm",
+        "label": "Login"
+      },
+      {
+        "url": "https://stickerprinting.it/Adesivi.htm",
+        "label": "Adesivi"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-adesivi-per-interni.htm",
+        "label": "Adesivi standard"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-adesivi-per-esterni.htm",
+        "label": "Adesivi premium"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-adesivi-trasparenti.htm",
+        "label": "Adesivi trasparenti"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-foglio-di-adesivi.htm",
+        "label": "Foglio di adesivi"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-adesivi-senza-colla.htm",
+        "label": "Adesivi senza colla"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-etichette-in-bobina.htm",
+        "label": "Etichette in bobina"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-adesivo-in-carta.htm",
+        "label": "Etichette di carta"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-lettere-adesive.htm",
+        "label": "Lettere adesive"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-adesivi-per-pavimenti.htm",
+        "label": "Adesivi per pavimenti"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-adesivi-magnetici.htm",
+        "label": "Adesivi magnetici"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-adesivi-resinati-doming.htm",
+        "label": "Adesivi resinati (Doming)"
+      },
+      {
+        "url": "https://stickerprinting.it/wl-adesivi-effetto-metallo.htm",
+        "label": "Adesivi effetto metallo"
+      },
+      {
+        "url": "https://stickerprinting.it/etichette-bobina.htm",
+        "label": "Etichette in bobina"
+      },
+      {
+        "url": "https://stickerprinting.it/etichette-per-interni.htm",
+        "label": "Etichette per interni"
+      },
+      {
+        "url": "https://stickerprinting.it/etichette-per-esterni.htm",
+        "label": "Etichette per esterni"
+      },
+      {
+        "url": "https://stickerprinting.it/etichette-di-carta.htm",
+        "label": "Etichette di carta"
+      },
+      {
+        "url": "https://stickerprinting.it/etichette-trasparenti.htm",
+        "label": "Etichette trasparenti"
+      },
+      {
+        "url": "https://stickerprinting.it/etichette-per-bottiglie.htm",
+        "label": "Etichette per bottiglie"
+      },
+      {
+        "url": "https://stickerprinting.it/etichette-alimentari.htm",
+        "label": "Etichette alimentari"
+      },
+      {
+        "url": "https://stickerprinting.it/etichette-tessili.htm",
+        "label": "Etichette tessili"
+      },
+      {
+        "url": "https://stickerprinting.it/etichette-per-indirizzi.htm",
+        "label": "Etichette per indirizzi"
+      },
+      {
+        "url": "https://stickerprinting.it/scritte-adesive.htm",
+        "label": "Scritte adesive"
+      },
+      {
+        "url": "https://stickerprinting.it/scritte-adesive-premium.htm",
+        "label": "Scritte adesive premium"
+      },
+      {
+        "url": "https://stickerprinting.it/scritte-adesive-standard.htm",
+        "label": "Scritte adesive standard"
+      },
+      {
+        "url": "https://stickerprinting.it/pellicola-per-decorazioni-in-vetro.htm",
+        "label": "Pellicola per decorazioni in vetro"
+      },
+      {
+        "url": "https://stickerprinting.it/scritte-multicolore.htm",
+        "label": "Scritte multicolore"
+      },
+      {
+        "url": "https://stickerprinting.it/scritte-metalliche.htm",
+        "label": "Scritte metalliche"
+      },
+      {
+        "url": "https://stickerprinting.it/scritte-fluorescente.htm",
+        "label": "Scritte fluorescente"
+      },
+      {
+        "url": "https://stickerprinting.it/adesivi-grande-formato.htm",
+        "label": "Adesivi grande formato"
+      },
+      {
+        "url": "https://stickerprinting.it/adesivi-per-superfici-piane.htm",
+        "label": "Adesivi per superfici piane"
+      },
+      {
+        "url": "https://stickerprinting.it/adesivi-per-vetrine.htm",
+        "label": "Adesivi per vetrine"
+      },
+      {
+        "url": "https://stickerprinting.it/adesivi-per-pareti.htm",
+        "label": "Adesivi per pareti"
+      },
+      {
+        "url": "https://stickerprinting.it/adesivi-per-auto-e-moto.htm",
+        "label": "Adesivi per auto e moto"
+      },
+      {
+        "url": "https://stickerprinting.it/adesivo-per-pavimenti.htm",
+        "label": "Adesivo per pavimenti"
+      },
+      {
+        "url": "https://stickerprinting.it/adesivi-carica-statica.htm",
+        "label": "Adesivi a carica statica"
+      },
+      {
+        "url": "https://stickerprinting.it/Utilizzo,category,36531.html",
+        "label": "Utilizzo"
+      },
+      {
+        "url": "https://stickerprinting.it/cms.htm?c=6743",
+        "label": "Lieferinformationen"
+      },
+      {
+        "url": "https://stickerprinting.it/cms.htm?c=6745",
+        "label": "ORACAL Folienfarben"
+      },
+      {
+        "url": "https://stickerprinting.it/dati-di-stampa.htm",
+        "label": "Dati di stampa"
+      }
+    ],
+    "description": "",
+    "business_contacts": [
+      "mailto:office@stickerprinting.it",
+      "mailto:office@stickerprinting.it"
+    ],
+    "text_excerpt": "Adesivi personalizzati - StickerPrinting Adesivi da un professionista 800 727460 Lun. – Gio. 08:00 – 17:00 / Ven. 08:00 – 14:00 office@stickerprinting.it Contatto | Informazioni legali 0 Ricerca articoli E-mail/N. Cliente Password Accedi Hai dimenticato la tua password? Registrati 0 Login Prodotti Adesivi Adesivi standard Adesivi premium Adesivi tr"
+  },
+  {
+    "host": "stickerprinting.pl",
+    "kind": "candidate",
+    "url": "https://stickerprinting.pl/",
+    "error": "HTTPSConnectionPool(host='stickerprinting.pl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'stickerprinting.pl'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "stickersprinting.eu",
+    "kind": "candidate",
+    "url": "https://stickersprinting.eu/",
+    "error": "HTTPSConnectionPool(host='stickersprinting.eu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'stickersprinting.eu'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "verpackungnachmass.de",
+    "kind": "candidate",
+    "url": "https://verpackungnachmass.de/",
+    "status": 200,
+    "final": "https://www.karton.de?utm_source=verpackungnachmass.de&utm_medium=Parked0Domains",
+    "bytes": 218109,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "de",
+    "title": "Sie suchen Kartons & Verpackungen für Ihre Anforderungen? | Karton.de",
+    "hreflang": [],
+    "canonical": "https://www.karton.de/",
+    "localized_links": [
+      {
+        "url": "https://www.karton.de/",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/index.php/feed/",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/index.php/comments/feed/",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/cache/borlabs-cookie/1/borlabs-cookie-config-de.json.js?ver=3.5.0-52",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/cache/borlabs-cookie/1/borlabs-cookie-1-de.css?ver=3.5.0-52",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=3.5.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.karton.de%2F",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.karton.de%2F&format=xml",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.2",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.2",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.2",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/uploads/elementor/css/post-5.css?ver=1794375022",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.57.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor/assets/css/widget-contact-buttons-base.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-10.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/uploads/elementor/css/post-177.css?ver=1794375045",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/uploads/elementor/css/post-180.css?ver=1794375045",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/uploads/elementor/css/post-209.css?ver=1794375022",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/uploads/elementor/css/post-234.css?ver=1794375045",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/index.php/wp-json/",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/index.php/wp-json/wp/v2/pages/177",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/xmlrpc.php?rsd",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/uploads/2025/11/cropped-favicon-32x32.png",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/uploads/2025/11/cropped-favicon-192x192.png",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de/wp-content/uploads/2025/11/cropped-favicon-180x180.png",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de?utm_source=verpackungnachmass.de&utm_medium=Parked0Domains#content",
+        "label": "Zum Inhalt springen"
+      },
+      {
+        "url": "http://karton.de/",
+        "label": ""
+      },
+      {
+        "url": "https://www.kartonagen.de/",
+        "label": "Kartonagen finden"
+      },
+      {
+        "url": "https://www.kartonagen.de/datenschutzerklaerung.php",
+        "label": "Datenschutzerklärung"
+      },
+      {
+        "url": "https://www.kartonagen.de/impressum.php",
+        "label": "Impressum"
+      },
+      {
+        "url": "https://www.ranketing.de/",
+        "label": "Neue Website?"
+      },
+      {
+        "url": "https://www.kartonagen.de/",
+        "label": "Kartonagen.de >"
+      },
+      {
+        "url": "https://www.kartonagen.de/",
+        "label": "Besuchen Sie das Verpackungsportal Kartonagen.de  >"
+      },
+      {
+        "url": "https://www.ranketing.de/",
+        "label": ""
+      },
+      {
+        "url": "https://www.karton.de?utm_source=verpackungnachmass.de&utm_medium=Parked0Domains",
+        "label": "Mehr Informationen"
+      },
+      {
+        "url": "https://www.karton.de?utm_source=verpackungnachmass.de&utm_medium=Parked0Domains",
+        "label": "Inhalt entsperren"
+      },
+      {
+        "url": "https://www.karton.de?utm_source=verpackungnachmass.de&utm_medium=Parked0Domains",
+        "label": "Erforderlichen Service akzeptieren und Inhalte entsperren"
+      },
+      {
+        "url": "https://www.kartonagen.de/",
+        "label": "Kartonagen.de aufrufen"
+      },
+      {
+        "url": "https://www.karton.de?utm_source=verpackungnachmass.de&utm_medium=Parked0Domains",
+        "label": ""
+      }
+    ],
+    "description": "Kartons und Verpackungen für jeden Zweck und für jeden Anspruch. Mit Karton.de direkt Ihre Anfrage bei Karton-Herstellern platzieren. Zum Portal ➡️",
+    "business_contacts": [
+      "tel:+4928335730970",
+      "mailto:kontakt@ranketing.de",
+      "tel:+4928335730970",
+      "mailto:kontakt@ranketing.de"
+    ],
+    "text_excerpt": "Sie suchen Kartons & Verpackungen für Ihre Anforderungen? | Karton.de Zum Inhalt springen Kartonagen finden Datenschutzerklärung Impressum Neue Website? Kartonagen finden Datenschutzerklärung Impressum Neue Website? Kartonagen.de > Kartons und Verpackungen für professionelle Anwendungen Einfach Schnell Individuell Sie sind auf der Suche nach indivi"
+  },
+  {
+    "host": "verpackungsboxen.de",
+    "kind": "candidate",
+    "url": "https://verpackungsboxen.de/",
+    "status": 200,
+    "final": "https://ts.domainname.de/verpackungsboxen.de",
+    "bytes": 212624,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "de",
+    "title": "Der Domainname verpackungsboxen.de steht zum Verkauf",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://ts.domainname.de/img/favicon.ico",
+        "label": ""
+      },
+      {
+        "url": "https://ts.domainname.de/css/canberra.css?id=8075cb9dd5978a9f46bf19aff454288d",
+        "label": ""
+      },
+      {
+        "url": "https://ts.domainname.de/css/negotiation.css?id=44fa639aecd43e1da79f28ea7b392029",
+        "label": ""
+      },
+      {
+        "url": "https://www.enable-javascript.com/de/",
+        "label": "Wie Sie JavaScript in Ihrem Browser aktivieren"
+      },
+      {
+        "url": "https://ts.domainname.de/auth/google/redirect?domain=verpackungsboxen.de",
+        "label": "Sofort mit Google bestätigen"
+      },
+      {
+        "url": "https://www.domainname.de/agb",
+        "label": "AGB"
+      },
+      {
+        "url": "https://www.domainname.de/datenschutz",
+        "label": "Datenschutzerklärung"
+      },
+      {
+        "url": "https://www.domainname.de/impressum",
+        "label": "Impressum"
+      }
+    ],
+    "description": "Sichern Sie sich jetzt Ihre Wunschdomain! ✓ Sichere Zahlungsabwicklung ✓ Kompetentes Serviceteam ✓ Treuhändische Abwicklung ✓",
+    "business_contacts": [],
+    "text_excerpt": "Der Domainname verpackungsboxen.de steht zum Verkauf Sie haben kein Javascript aktiviert. Bitte aktivieren Sie Javascript und laden Sie die Seite neu Wie Sie JavaScript in Ihrem Browser aktivieren Sprache wählen / Choose Language Bitte wählen Sie Ihre bevorzugte Sprache aus Deutsch Deutsche Sprache English English Language Abbrechen Weiter Sie könn"
+  },
+  {
+    "host": "de.pdtrus.com",
+    "kind": "candidate",
+    "url": "https://de.pdtrus.com/",
+    "error": "HTTPSConnectionPool(host='de.pdtrus.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'de.pdtrus.com'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "es.pdtrus.com",
+    "kind": "candidate",
+    "url": "https://es.pdtrus.com/",
+    "error": "HTTPSConnectionPool(host='es.pdtrus.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'es.pdtrus.com'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "fr.pdtrus.com",
+    "kind": "candidate",
+    "url": "https://fr.pdtrus.com/",
+    "error": "HTTPSConnectionPool(host='fr.pdtrus.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fr.pdtrus.com'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "it.pdtrus.com",
+    "kind": "candidate",
+    "url": "https://it.pdtrus.com/",
+    "error": "HTTPSConnectionPool(host='it.pdtrus.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'it.pdtrus.com'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "nl.pdtrus.com",
+    "kind": "candidate",
+    "url": "https://nl.pdtrus.com/",
+    "error": "HTTPSConnectionPool(host='nl.pdtrus.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nl.pdtrus.com'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "pl.pdtrus.com",
+    "kind": "candidate",
+    "url": "https://pl.pdtrus.com/",
+    "error": "HTTPSConnectionPool(host='pl.pdtrus.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pl.pdtrus.com'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "pt.pdtrus.com",
+    "kind": "candidate",
+    "url": "https://pt.pdtrus.com/",
+    "error": "HTTPSConnectionPool(host='pt.pdtrus.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pt.pdtrus.com'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "ru.pdtrus.com",
+    "kind": "candidate",
+    "url": "https://ru.pdtrus.com/",
+    "error": "HTTPSConnectionPool(host='ru.pdtrus.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ru.pdtrus.com'. (_ssl.c:1006)\")))"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "reviewed_on": "2026-11-14",
+  "case_observation_window": "2026-11-05 to 2026-11-12",
+  "selected_project_checks": [
+    {
+      "case": "Mascus",
+      "url": "https://www.bluerank.com/wp-content/uploads/2021/05/Mascus-International_Bluerank_ESA2019_case-study_ENG_1.pdf",
+      "verified": "Original PDF p9-10: EU H2 2018 versus H2 2017, sessions +21%, contact requests +13.1%. 32 country domains and 25 content languages are project scope."
+    },
+    {
+      "case": "PROFISHOP",
+      "url": "https://www.claneo.com/en/case-studies/content-jungheinrich-profishop/",
+      "verified": "Clicks +109%; since May 2020 launch, as of December 2022. German website named; no per-country breakdown."
+    },
+    {
+      "case": "Quick-Step",
+      "url": "https://seeders.com/case-studies/145-impression-growth-through-international-seo-for-unilin/",
+      "verified": "Optimized content pages average clicks +100.53% across six markets; project labeled 1 Year without exact comparison dates. Exposure growth appears as both 145.44% and 145.53%, so this guide uses the consistent click metric."
+    }
+  ],
+  "official_explainers": [
+    "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+    "https://developers.google.com/search/docs/fundamentals/how-search-works",
+    "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites",
+    "https://developers.google.com/search/docs/specialty/international/localized-versions",
+    "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls",
+    "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+    "https://developers.google.com/search/docs/appearance/title-link",
+    "https://developers.google.com/search/docs/appearance/snippet",
+    "https://developers.google.com/search/docs/fundamentals/using-gen-ai-content",
+    "https://developers.google.com/search/docs/essentials/spam-policies",
+    "https://support.google.com/webmasters/answer/7576553?hl=en"
+  ],
+  "scope": "Selected project and explainer checks; no full live audit of all cases or source URLs."
+}

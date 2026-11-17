@@ -1,0 +1,101 @@
+{
+  "checked_at": "2026-11-14T20:28:00+08:00",
+  "kind": "Local static design layout and export check",
+  "variants": [
+    {
+      "id": 8,
+      "folder": "01-industrial",
+      "label": "工业制造",
+      "mobile": {
+        "width": 390,
+        "height": 10957,
+        "horizontalOverflow": false,
+        "overflowElements": [],
+        "faqBeforeForm": true,
+        "missingAnchors": []
+      },
+      "desktop": {
+        "width": 1440,
+        "height": 7076,
+        "exportHeight": 7076,
+        "overflow": false,
+        "faqLeftOfForm": true,
+        "columnsGap": 64,
+        "inputHeight": 54,
+        "products": 8,
+        "faq": 6,
+        "journalCards": 3,
+        "arrows": 0,
+        "lookbookRatio": 3
+      }
+    },
+    {
+      "id": 9,
+      "folder": "02-clinical",
+      "label": "现代医疗",
+      "mobile": {
+        "width": 390,
+        "height": 10799,
+        "horizontalOverflow": false,
+        "overflowElements": [],
+        "faqBeforeForm": true,
+        "missingAnchors": []
+      },
+      "desktop": {
+        "width": 1440,
+        "height": 7164,
+        "exportHeight": 7164,
+        "overflow": false,
+        "faqLeftOfForm": true,
+        "columnsGap": 64,
+        "inputHeight": 54,
+        "products": 8,
+        "faq": 6,
+        "journalCards": 3,
+        "arrows": 0,
+        "lookbookRatio": 3
+      }
+    },
+    {
+      "id": 10,
+      "folder": "03-atelier",
+      "label": "服饰品牌",
+      "mobile": {
+        "width": 390,
+        "height": 11261,
+        "horizontalOverflow": false,
+        "overflowElements": [],
+        "faqBeforeForm": true,
+        "missingAnchors": []
+      },
+      "desktop": {
+        "width": 1440,
+        "height": 6835,
+        "exportHeight": 6835,
+        "overflow": false,
+        "faqLeftOfForm": true,
+        "columnsGap": 64,
+        "inputHeight": 54,
+        "products": 8,
+        "faq": 6,
+        "journalCards": 3,
+        "arrows": 0,
+        "lookbookRatio": 3.0000381723098064
+      }
+    }
+  ],
+  "limits": [
+    "AI photographs are conceptual, not actual factory photographs.",
+    "Inquiry submission, article pages and product detail pages are not connected.",
+    "Static layout checks do not constitute production website acceptance."
+  ],
+  "contrast_revision": {
+    "corrected": [
+      "Industrial journal headings",
+      "Clinical quality headings",
+      "Atelier quality headings and eyebrow"
+    ],
+    "all_page_heights_unchanged": true,
+    "initial_exports_preserved": "review-history/before-section-contrast-fix/"
+  }
+}

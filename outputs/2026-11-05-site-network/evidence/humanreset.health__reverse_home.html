@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>HumanReset | Sleep Reset</title>
+  <meta name="description" content="Educational sleep information for adults. Learn why many people wake up tired and what affects deep sleep." />
+  <meta name="robots" content="noindex,nofollow" />
+
+  <style>
+    :root{
+      --bg1:#0b1220;
+      --bg2:#0a1b2a;
+      --card: rgba(255,255,255,0.10);
+      --border: rgba(255,255,255,0.16);
+      --text: rgba(255,255,255,0.94);
+      --muted: rgba(255,255,255,0.76);
+      --muted2: rgba(255,255,255,0.62);
+      --primary:#ffffff;
+      --primaryText:#0b1220;
+      --accent1: rgba(94,234,212,0.18);
+      --accent2: rgba(59,130,246,0.16);
+      --shadow: rgba(0,0,0,0.35);
+      --radius: 18px;
+    }
+
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
+    body{
+      margin:0;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+      color:var(--text);
+      background:
+        radial-gradient(1000px 700px at 15% 10%, var(--accent1), transparent 60%),
+        radial-gradient(900px 600px at 85% 70%, var(--accent2), transparent 55%),
+        linear-gradient(160deg, var(--bg1), var(--bg2));
+      overflow:hidden;
+    }
+
+    .wrap{
+      height:100vh;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:18px;
+    }
+
+    .card{
+      width:min(1020px,100%);
+      background:linear-gradient(180deg,rgba(255,255,255,0.10),rgba(255,255,255,0.06));
+      border:1px solid var(--border);
+      border-radius:var(--radius);
+      padding:18px;
+      backdrop-filter:blur(10px);
+      box-shadow:0 16px 55px var(--shadow);
+    }
+
+    .brand .name{
+      font-weight:900;
+      font-size:18px;
+    }
+    .brand .tag{
+      font-size:12px;
+      color:var(--muted2);
+    }
+
+    .content{
+      display:grid;
+      grid-template-columns:1.05fr 1fr;
+      gap:16px;
+      align-items:center;
+    }
+
+    .imgBox{
+      height:340px;
+      border-radius:var(--radius);
+      overflow:hidden;
+      border:1px solid rgba(255,255,255,0.14);
+      position:relative;
+    }
+    .imgBox img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      filter:brightness(1.05) contrast(1.05);
+    }
+    .imgOverlay{
+      position:absolute;
+      inset:0;
+      background:linear-gradient(to top,rgba(0,0,0,0.25),transparent 60%);
+    }
+
+    h1{
+      font-size:28px;
+      line-height:1.15;
+      margin:0 0 10px;
+    }
+    .sub{
+      color:var(--muted);
+      font-size:14px;
+      margin-bottom:12px;
+    }
+    ul{
+      padding-left:18px;
+      color:var(--muted);
+      font-size:14px;
+      margin-bottom:10px;
+    }
+    .trustline{
+      font-size:12px;
+      color:rgba(255,255,255,0.7);
+      margin-bottom:14px;
+    }
+
+    .btn{
+      background:var(--primary);
+      color:var(--primaryText);
+      border:none;
+      border-radius:14px;
+      padding:14px 18px;
+      font-weight:900;
+      cursor:pointer;
+      min-width:260px;
+    }
+
+    .micro{
+      font-size:12px;
+      color:var(--muted2);
+      margin-top:6px;
+    }
+
+    .footer{
+      margin-top:12px;
+      padding-top:10px;
+      border-top:1px solid rgba(255,255,255,0.12);
+      font-size:11px;
+      color:var(--muted2);
+      display:flex;
+      justify-content:space-between;
+      flex-wrap:wrap;
+    }
+
+    /* Popup */
+    .modalBackdrop{
+      position:fixed;
+      inset:0;
+      background:rgba(0,0,0,0.65);
+      display:none;
+      align-items:center;
+      justify-content:center;
+      z-index:999;
+    }
+    .modal{
+      background:rgba(18,23,33,0.95);
+      border-radius:18px;
+      padding:16px;
+      width:min(520px,100%);
+      border:1px solid rgba(255,255,255,0.14);
+    }
+    .modal h2{ font-size:18px; margin:0; }
+    .modal p{ font-size:13px; color:var(--muted); }
+    input{
+      width:100%;
+      padding:12px;
+      border-radius:12px;
+      border:1px solid rgba(255,255,255,0.18);
+      background:rgba(255,255,255,0.08);
+      color:white;
+      margin-bottom:10px;
+    }
+    .btn2{
+      padding:12px 14px;
+      border-radius:12px;
+      border:none;
+      font-weight:800;
+      cursor:pointer;
+      background:white;
+      color:#0b1220;
+      width:100%;
+      margin-bottom:8px;
+    }
+    .btnSecondary{
+      background:rgba(255,255,255,0.12);
+      color:white;
+    }
+
+    @media(max-width:820px){
+      .content{ grid-template-columns:1fr; }
+      .imgBox{ height:220px; }
+      h1{ font-size:22px; }
+      .btn{ width:100%; }
+    }
+  </style>
+</head>
+
+<body>
+<div class="wrap">
+  <main class="card">
+    <div class="brand">
+      <div class="name">HumanReset</div>
+      <div class="tag">Sleep Education</div>
+    </div>
+
+    <section class="content">
+      <div class="imgBox">
+        <img src="hero.jpg" alt="Calm night sleep scene">
+        <div class="imgOverlay"></div>
+      </div>
+
+      <div>
+        <h1>Why So Many Adults Wake Up Tired — Even After a Full Night of Sleep</h1>
+        <p class="sub">
+          Most sleep problems aren’t caused by stress or habits.<br>
+          They’re linked to how your body regulates sleep hormones at night.
+        </p>
+        <ul>
+          <li>Why melatonin often stops working</li>
+          <li>The hormone that influences deep sleep</li>
+          <li>How people are supporting sleep naturally</li>
+        </ul>
+        <div class="trustline">Educational sleep insights for adults 35+</div>
+
+        <button class="btn" id="ctaBtn">Watch the Full Explanation</button>
+        <div class="micro"><strong>Takes about 5 minutes</strong> to watch</div>
+      </div>
+    </section>
+
+    <div class="footer">
+      <div>This site provides educational information only and does not offer medical advice.</div>
+      <div>
+        <a href="privacy.html">Privacy</a> •
+        <a href="terms.html">Terms</a> •
+        <a href="contact.html">Contact</a>
+      </div>
+    </div>
+  </main>
+</div>
+
+<!-- POPUP -->
+<div class="modalBackdrop" id="modal">
+  <div class="modal">
+    <h2>Free Sleep Reset Guide</h2>
+    <p>Want a quick breakdown before you watch?</p>
+    <input type="email" placeholder="Enter your email to receive the guide">
+    <button class="btn2" onclick="go()">Get the Free Guide</button>
+    <button class="btn2 btnSecondary" onclick="go()">Continue Without Guide</button>
+    <p style="font-size:11px;color:#9ca3af;">You can unsubscribe anytime.</p>
+  </div>
+</div>
+
+<script>
+  const OFFER_URL = "https://getyusleep.com?&shield=38b1ev2sk8h82l7x5cw2s95kdk";
+
+  document.getElementById("ctaBtn").onclick = function(){
+    document.getElementById("modal").style.display = "flex";
+  };
+
+  function go(){
+    window.location.href = OFFER_URL;
+  }
+</script>
+</body>
+</html>

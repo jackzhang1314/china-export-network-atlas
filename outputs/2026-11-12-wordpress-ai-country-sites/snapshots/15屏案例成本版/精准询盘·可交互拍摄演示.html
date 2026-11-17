@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>为什么你的网站没有询盘？ · 拍摄演示</title>
+<style>
+:root{--paper:#f7f9fc;--white:#fff;--ink:#152438;--muted:#5d6d81;--line:#d4deeb;--blue:#2459ce;--pale:#eaf0fd;--green:#16765e;--softgreen:#e8f4ef;--dim:#91a0b2;--font:"PingFang SC","Microsoft YaHei",sans-serif;--mono:"SFMono-Regular",Consolas,monospace}
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#e8edf4;color:var(--ink);font-family:var(--font)}button,a,input{touch-action:manipulation}button{font:inherit;cursor:pointer}button:focus-visible,a:focus-visible{outline:3px solid var(--blue);outline-offset:5px}button:disabled{opacity:.4;cursor:default}a{color:var(--blue)}[hidden]{display:none!important}
+#viewport{position:absolute;inset:0 0 84px;display:grid;place-items:center;overflow:hidden}#stage{position:absolute;width:1600px;height:900px;transform:scale(var(--scale,1));transform-origin:center;background:var(--paper);overflow:hidden}article{position:absolute;inset:0;padding:66px 88px 60px;display:none}article.active{display:block}.topline{font-size:23px;color:var(--muted);letter-spacing:1px;display:flex;justify-content:space-between;align-items:center}.topline .word{color:var(--blue);font-weight:650;letter-spacing:0}h1{font-size:62px;line-height:1.22;letter-spacing:-1.8px;margin:29px 0 14px;font-weight:650}h1 em{font-style:normal;color:var(--blue)}.subtitle{font-size:27px;line-height:1.5;color:var(--muted);margin:0}.scene{position:absolute;left:88px;right:88px;top:285px;bottom:112px}.foot{position:absolute;bottom:42px;left:88px;right:88px;display:flex;justify-content:space-between;align-items:center;font-size:20px;color:var(--muted)}.foot span:last-child{font-family:var(--mono);font-size:19px}.small{font-size:22px;color:var(--muted);line-height:1.55}.mono{font-family:var(--mono)}.blue{color:var(--blue)}.green{color:var(--green)}.arrow{color:var(--blue);font-size:48px;text-align:center}.card{background:var(--white);border:2px solid var(--line);border-radius:16px;padding:28px}.card h2{font-size:34px;line-height:1.3;margin:0 0 14px}.card p{font-size:26px;line-height:1.5;margin:0;color:var(--muted)}.tag{display:inline-block;background:var(--pale);color:var(--blue);padding:8px 15px;border-radius:7px;font-size:23px}.reveal{opacity:0;transform:translateY(14px);transition:opacity .42s ease,transform .42s ease;pointer-events:none}.reveal.shown{opacity:1;transform:none;pointer-events:auto}.divider{height:2px;background:var(--line);margin:23px 0}.big{font-size:90px;line-height:1.1;font-weight:650;letter-spacing:-3px}.caption{font-size:27px;color:var(--muted);line-height:1.5}.pill{border:2px solid var(--line);border-radius:80px;padding:12px 24px;background:#fff;font-size:25px;display:inline-block}.strip{background:var(--pale);border-radius:12px;color:var(--blue);padding:22px 28px;font-size:29px;line-height:1.45}.thin{font-weight:450}.center{text-align:center}.step-num{font-family:var(--mono);font-size:22px;color:var(--blue);margin-bottom:15px}.line-label{font-size:21px;color:var(--muted);text-align:center}
+/* A persistent buyer path is the visual spine of the film. */
+.chain{display:flex;align-items:center;gap:14px;width:100%;margin-top:50px}.chain .node{flex:1;min-width:0;padding:28px 12px;border-top:4px solid var(--blue);background:#fff;height:160px}.chain .node strong{display:block;font-size:30px;white-space:nowrap}.chain .node span{display:block;font-size:22px;color:var(--muted);margin-top:15px}.chain .node.result{background:var(--blue);color:white}.chain .node.result span{color:#dee7ff}.chain .arrow{font-size:32px}.base-rail{margin-top:54px;padding:25px 34px;border:2px solid var(--line);border-radius:12px;display:flex;align-items:center;justify-content:space-between;font-size:27px}.base-rail b{color:var(--blue);font-weight:600}
+.inquiry-grid{display:grid;grid-template-columns:1fr 1.7fr;gap:70px;align-items:center;height:100%}.bubble{background:#fff;border:2px solid var(--line);border-radius:20px;padding:34px;font-size:35px;line-height:1.5}.mail{background:#fff;border:2px solid var(--blue);border-radius:16px;padding:32px 40px}.mail .head{font-size:26px;color:var(--blue);padding-bottom:20px;border-bottom:2px solid var(--line)}.fields{display:flex;gap:16px;margin:25px 0}.field{flex:1;background:var(--paper);padding:23px 18px;border-radius:10px}.field label{display:block;font-size:21px;color:var(--muted);margin-bottom:10px}.field b{font-size:30px}.mail .ready{font-size:33px;color:var(--green);padding-top:12px}.searches{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}.search-card{padding:28px;background:#fff;border:2px solid var(--line);border-radius:16px}.search-card .country{font-size:29px;margin-bottom:26px}.query{font-size:24px;padding:20px 18px;border:2px solid var(--line);border-radius:9px;white-space:nowrap;background:var(--paper)}.search-card .lang{font-size:24px;color:var(--blue);margin-top:25px}.translation{display:flex;align-items:center;gap:20px;margin-top:50px}.translation>div:not(.arrow){flex:1;text-align:center;padding:24px;background:var(--pale);border-radius:12px;font-size:27px}.domains{display:grid;grid-template-columns:repeat(3,1fr);gap:30px}.domain{border-top:4px solid var(--blue);padding:26px;background:#fff}.domain .suffix{font-family:var(--mono);font-size:76px;color:var(--blue);font-weight:600}.domain h2{font-size:31px;margin:15px 0}.domain p{font-size:26px;margin:0;color:var(--muted)}.note-row{display:flex;align-items:center;justify-content:space-between;margin-top:38px;font-size:25px}.browser{background:#fff;border:2px solid var(--line);border-radius:16px;overflow:hidden}.browser-bar{padding:18px 24px;border-bottom:2px solid var(--line);font-size:23px;color:var(--muted);background:#f0f4f9;display:flex;justify-content:space-between}.browser-body{padding:28px}.country-route{display:grid;grid-template-columns:1fr 70px 1.3fr;gap:24px;align-items:center}.market-list{display:flex;flex-wrap:wrap;gap:14px;margin-top:30px}.truck{width:220px;height:95px;margin:20px 0;color:var(--blue)}.product-line{display:flex;align-items:center;justify-content:space-between}.product-line h2{font-size:40px;margin:0 0 12px}.cta{display:inline-block;background:var(--blue);color:#fff;padding:16px 28px;border-radius:8px;font-size:27px}.trace-layout{display:grid;grid-template-columns:1fr 1.4fr;gap:40px}.contact{padding:32px}.contact strong{font-size:38px;font-family:var(--mono);display:block;color:var(--blue);margin:24px 0}.search-box{padding:24px 28px;border:2px solid var(--blue);border-radius:12px;font-family:var(--mono);font-size:27px;background:#fff}.results{padding-top:10px}.result-line{padding:18px 0;border-bottom:2px solid var(--line);font-family:var(--mono);font-size:25px;color:var(--blue)}.trace-steps{display:flex;justify-content:space-between;align-items:center;margin-top:30px;font-size:25px}.count-row{display:grid;grid-template-columns:1fr 100px 1fr;align-items:center;width:700px;margin:0 auto 38px}.count .big{font-size:110px;color:var(--blue)}.count .caption{margin-top:12px}.evidence-row{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}.evidence-row .card{padding:25px}.evidence-row h2{font-size:28px}.evidence-row p{font-size:23px}.brands{display:grid;grid-template-columns:repeat(2,1fr);gap:32px}.brand-title{font-size:39px;margin:0 0 8px}.domain-list{list-style:none;padding:0;margin:26px 0 0}.domain-list li{display:flex;justify-content:space-between;border-top:2px solid var(--line);padding:18px 0;font-size:24px}.domain-list b{font:500 25px var(--mono);color:var(--blue)}.shared{display:grid;grid-template-columns:320px 100px 300px 100px 1fr;align-items:center;height:100%}.source-stack{display:grid;gap:16px}.source-stack .card{font-size:29px;padding:22px}.ai-core{border:2px solid var(--blue);background:var(--pale);padding:35px 20px;border-radius:18px;text-align:center}.ai-core h2{font-size:40px;margin:0 0 20px}.ai-core p{font-size:26px;margin:10px 0;color:var(--muted)}.site-stack{display:grid;gap:18px}.site-row{padding:22px;background:#fff;border:2px solid var(--line);border-left:6px solid var(--blue);border-radius:10px;font-size:27px;display:flex;justify-content:space-between}.site-row small{font-size:23px;color:var(--muted)}.ui-comparison{display:grid;grid-template-columns:1fr 90px 1.15fr;align-items:center;gap:25px}.clutter .skeleton{background:#e3e9f0;border-radius:6px}.clutter .banner{height:100px;display:grid;place-items:center;color:var(--muted);font-size:27px}.clutter .cells{display:flex;gap:12px;margin-top:14px}.clutter .cells div{height:65px;flex:1;display:grid;place-items:center;font-size:23px;color:var(--muted)}.ui-clean .browser-body{padding:24px 30px}.specs{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:20px 0}.specs div{border:2px solid var(--line);padding:18px;border-radius:8px;font-size:25px}.ui-clean h2{font-size:31px;margin:0}.ui-clean .cta{width:100%;text-align:center}.path-labels{display:flex;align-items:center;justify-content:center;gap:25px;margin-top:35px;font-size:29px}.delivery{display:grid;grid-template-columns:1.05fr 100px 1fr;gap:20px;align-items:center}.form-row{display:flex;justify-content:space-between;padding:19px 0;border-bottom:2px solid var(--line);font-size:28px}.form-row span{color:var(--muted)}.inbox-title{font-size:28px;margin-bottom:20px;color:var(--green)}.inbox .tag{background:var(--softgreen);color:var(--green);margin-top:25px}.start-line{display:grid;grid-template-columns:repeat(3,1fr);gap:35px}.start-line .card{height:250px;border-top:5px solid var(--blue);padding:34px}.start-line .step-num{font-size:30px}.start-line h2{font-size:39px;margin:25px 0 12px}.closing{margin-top:42px;text-align:center;font-size:36px;color:var(--blue)}
+/* Film controls stay outside the 16:9 canvas. */
+#controls{position:absolute;bottom:0;left:0;right:0;height:84px;padding:12px 24px;display:flex;align-items:center;gap:10px;background:#fff;border-top:1px solid var(--line);z-index:10}#controls button{border:1px solid var(--line);background:#fff;color:var(--ink);border-radius:8px;padding:11px 15px;font-size:15px;white-space:nowrap}#controls button.primary{background:var(--blue);color:#fff;border-color:var(--blue)}#controls .spacer{flex:1}#counter{font-size:15px;white-space:nowrap;min-width:94px}#clock{font:14px var(--mono);min-width:100px}#timeline{width:150px;accent-color:var(--blue)}#hint{position:fixed;top:14px;left:50%;transform:translateX(-50%);background:var(--ink);color:#fff;border-radius:8px;padding:10px 18px;font-size:15px;z-index:50;opacity:0;pointer-events:none;transition:opacity .2s}#hint.visible{opacity:1}.filming #viewport{bottom:0}.filming #controls{display:none}.capture #viewport{bottom:0}.capture #controls{display:none}.capture .reveal{transition:none}.panel{position:fixed;inset:5vh 5vw;background:white;border:1px solid var(--line);border-radius:16px;box-shadow:0 20px 80px #15243835;z-index:30;padding:34px;overflow:auto}.panel h2{font-size:28px;margin:0 0 20px}.panel .close{position:sticky;top:0;float:right;font-size:18px;background:#fff;border:1px solid var(--line);padding:10px 18px;border-radius:8px;z-index:2}.panel p{font-size:19px;line-height:1.8;max-width:1000px}.panel a{overflow-wrap:anywhere}.panel .meta{font-size:15px;color:var(--muted)}#grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:30px}#grid button{background:var(--paper);border:2px solid var(--line);border-radius:12px;padding:24px;text-align:left;min-height:130px}#grid button.current{border-color:var(--blue)}#grid button b{display:block;font-size:23px;margin:12px 0}#grid button span{font:14px var(--mono);color:var(--muted)}#keys{display:grid;grid-template-columns:170px 1fr;gap:16px;font-size:20px;line-height:1.5;max-width:900px}kbd{font:16px var(--mono);background:var(--paper);padding:5px 9px;border:1px solid var(--line);border-radius:5px}#notes .script{padding:20px 25px;background:var(--paper);border-left:4px solid var(--blue)}#notes li{font-size:18px;line-height:1.8;margin-bottom:10px}.mobile-help{display:none}
+@media(max-width:950px){#controls{gap:6px;padding:10px 12px;flex-wrap:wrap;justify-content:center;height:110px}#viewport{bottom:110px}#controls button{font-size:13px;padding:9px}#timeline{width:90px}#controls .spacer{display:none}#grid{grid-template-columns:repeat(2,1fr)}}
+@media(prefers-reduced-motion:reduce){.reveal{transition:none;transform:none}#hint{transition:none}}
+@media print{@page{size:landscape;margin:0}html,body{height:auto;overflow:visible;background:#fff}#viewport{position:static;display:block;overflow:visible}#stage{position:static;transform:none!important;width:1600px;height:auto;overflow:visible}article,article.active{display:block;position:relative;width:1600px;height:900px;break-after:page;page-break-after:always}.reveal{opacity:1!important;transform:none!important}#controls,.panel,#hint{display:none!important}*{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+
+.industry-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:25px;height:365px}.industry-card{width:100%;height:100%;padding:30px;text-align:left;background:white;border:2px solid var(--line);border-radius:16px;color:var(--ink)}.industry-card h2{font-size:31px;margin:35px 0 25px}.industry-card b{font:23px var(--mono);color:var(--blue)}.industry-card p{font-size:25px;line-height:1.5;color:var(--muted)}.case-open{display:block;color:var(--blue);font-size:21px;margin-top:25px}.industry-card:hover{border-color:var(--blue)}
+.budget-grid{display:grid;grid-template-columns:1.1fr 1fr;gap:40px}.formula{display:flex;align-items:center;gap:30px;margin:28px 0}.formula label{display:block;font-size:22px;color:var(--muted);margin-bottom:12px}.formula strong{font-size:48px;font-weight:600}.formula>span{font-size:38px;color:var(--muted)}.budget-total{display:flex;align-items:baseline;gap:25px;padding:18px 0}.budget-total b{font-size:64px;color:var(--blue)}.budget-total span{font-size:25px;color:var(--muted)}.budget-controls{display:flex;gap:25px;margin-top:18px;font-size:22px}.budget-controls select{font:22px var(--font);padding:8px;border:1px solid var(--line);background:white;border-radius:8px}.cost-work p{margin:18px 0}.translation-example{display:grid;grid-template-columns:1fr 80px 1fr;gap:24px;align-items:center}.translation-example ul{padding-left:30px;font-size:28px;line-height:1.9;margin:20px 0 0}.purchase-layout{display:grid;grid-template-columns:.8fr 70px 1.25fr;gap:25px;align-items:center}.buyer-search h2{font-size:38px;margin:30px 0 20px}.buyer-search p{font-size:26px;color:var(--muted)}.performance-strip{display:flex;align-items:center;justify-content:space-between;margin-top:30px;font-size:27px}.cases-layout{display:grid;grid-template-columns:220px 1fr;gap:32px;margin-top:25px}#caseNav{display:flex;flex-direction:column;gap:8px}#caseNav button{padding:14px;text-align:left;border:1px solid var(--line);background:var(--paper);font-size:18px;border-radius:7px}#caseNav button.selected{color:var(--blue);border-color:var(--blue);background:var(--pale)}#caseDetail h3{font-size:32px;margin:0 0 10px}#caseDetail h4{font-size:21px;margin:25px 0 8px}#caseDetail p{margin:0;font-size:20px}#caseDetail .domain-links{display:flex;flex-wrap:wrap;gap:12px;margin:15px 0}#caseDetail .domain-links a{padding:10px 15px;background:var(--pale);border-radius:6px;font-size:18px}.panel .caseMeta{font-size:14px;color:var(--muted)}@media(max-width:700px){.cases-layout{grid-template-columns:1fr}#caseNav{display:grid;grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<main id="viewport" aria-label="视频演示画布"><div id="stage"></div></main>
+<nav id="controls" aria-label="演示控制">
+<button id="prev" title="上一步 / ←">← 上一步</button><button id="next" class="primary" title="下一步 / →">下一步 →</button>
+<span id="counter" aria-live="polite"></span><button id="play" title="空格：播放或暂停">▶ 播放</button><button id="restart" title="R：重播本屏">↺ 本屏</button>
+<input id="timeline" type="range" min="0" max="235" value="0" step="0.1" aria-label="演示进度"><span id="clock"></span><span class="spacer"></span>
+<button id="overviewBtn" title="O：选屏">选屏</button><button id="casesBtn" title="C：真实企业案例库">案例库</button><button id="notesBtn" title="N：讲稿及证据">讲稿 / 依据</button><button id="film" title="H：隐藏或显示控制栏">净屏</button><button id="fullscreen" title="F：全屏">全屏</button><button id="helpBtn" title="?：使用说明">?</button>
+</nav>
+<div id="hint" role="status"></div>
+<section id="overview" class="panel" role="dialog" aria-modal="true" aria-label="选择画面" hidden><button class="close">关闭 ×</button><h2>选择一屏</h2><p class="meta">按口播顺序排列。点击进入后可用方向键逐步展开。</p><div id="grid"></div></section>
+<section id="notes" class="panel" role="dialog" aria-modal="true" aria-label="讲稿和研究依据" hidden><button class="close">关闭 ×</button><div id="noteBody"></div></section>
+<section id="help" class="panel" role="dialog" aria-modal="true" aria-label="播放说明" hidden><button class="close">关闭 ×</button><h2>边讲，边切换</h2><p>拍摄时推荐手动切换。每按一次右方向键，展开一个重点；本屏展开完后进入下一屏。自动播放沿用口播时码，共 3 分 55 秒，随时可以暂停。</p><div id="keys"><span><kbd>→</kbd> / <kbd>←</kbd></span><span>下一步 / 上一步（含逐步展开）</span><span><kbd>PageDown</kbd> / <kbd>PageUp</kbd></span><span>直接切换下一屏 / 上一屏</span><span><kbd>Space</kbd></span><span>自动播放 / 暂停</span><span><kbd>R</kbd> / <kbd>A</kbd></span><span>本屏从头开始 / 展开本屏全部内容</span><span><kbd>F</kbd> / <kbd>H</kbd></span><span>全屏 / 净屏隐藏控制栏</span><span><kbd>O</kbd> / <kbd>N</kbd> / <kbd>C</kbd></span><span>选屏 / 查看讲稿依据 / 10 组案例库</span><span><kbd>Home</kbd> / <kbd>End</kbd></span><span>第一屏 / 最后一屏</span><span><kbd>Esc</kbd></span><span>关闭面板或退出净屏</span></div><p>手机和平板可左右滑动画布。净屏后双击画面可恢复控制栏。切到其他标签页时自动暂停。此演示可离线打开，无音频，也不会发送任何询盘。</p><p>静态配图在同目录的「图片」文件夹中，每屏一张 1920 × 1080 PNG。画面中的询价、收件与产品页面均为教学示意；实拍收件请使用自有测试站。</p></section>
+<section id="cases" class="panel" role="dialog" aria-modal="true" aria-label="真实企业案例库" hidden><button class="close">关闭 ×</button><h2>真实企业案例库</h2><p class="caseMeta">沿用 2026 年 11 月研究快照。这里展示公开网站与业务关系，未据此推算 SEO 或询盘收益。打开案例会暂停主片。</p><div class="cases-layout"><nav id="caseNav" aria-label="案例选择"></nav><div id="caseDetail"></div></div></section>
+<script>
+'use strict';
+const voice=["为什么你的网站没有询盘？我们拿挖掘机举例，把一条获客链路走清楚。起点，是买家真实的采购需求。", "采购需求，比如一个德国经销商，想采购三台两吨小型挖掘机。他关心有没有合适的设备、能不能供货。第一步，是让他搜到你。", "搜到你，先围绕“小型挖掘机厂家”“两吨小型挖掘机”这类产品和采购需求做页面。德国客户可能用德语找供应商。你就要用当地语言，进入当地市场。", "当地市场，可以配当地国家域名。德国点 de，法国点 fr。再把设备、交货和服务讲清楚。这个做法，我们看几个真实案例。", "真实案例里，杭叉在法国有法语业务站，海天在土耳其展示注塑机，正泰旗下 NOARK 在波兰、捷克都有当地网站。它们都在接待当地买家。", "当地买家从福田全球官网选波兰，就能进入当地电动卡车销售站。想了解同行还在哪些国家布局，就去查竞品的网站。", "竞品的网站，会留下电话、公司名和页脚文字。复制公开电话，加引号搜，让 AI 批量整理、去重。得到候选后，再回到原网页核对证据。", "核对证据，我们就从十九个包装网址，查到了四十七个高置信关联根域。电话、表单、客服账号相互印证，才能看清它的多国布局。", "多国布局，三一、徐工也在做。大公司有团队、有预算，普通工厂往往卡在成本。", "成本，给你算一笔账。假设一个纯定制 WordPress 站报价两三万元，五个站就是十到十五万，后面还有维护。现在，重复开发、录产品这些工作，可以交给 Codex。", "Codex 配合专业流程，能协助你写页面、整理产品、修改代码。做好一套，再用于其他市场，你就有机会把每次从头做的成本降下来。关键是会用，还要配好专业 Skill。", "专业 Skill，要把做事的方法和验收要求讲清楚。比如这台小挖，把配置、供货条件和行业术语交给 AI，生成德语页面，再由懂产品的人复核。目的，是让当地买家看懂产品。", "看懂产品，还得打开顺畅。让 Codex 按轻量页面要求做，少堆用不到的功能，再拿手机实际测。页面写清两吨小挖、可选配置、交期和售后，买家才更有可能发来精准询盘。", "精准询盘，比如“我要三台两吨小挖，发到德国，请报配置、价格和交期”。确认业务员收得到、接得住，再验证你的第一站。", "第一站，就选一个你能服务的国家。AI 降低建站门槛，你学会工具和方法，先拿到有效询盘，再把经验用到下一个市场。"];
+const links={"pack": "../../2026-11-05-site-network/企业独立站站群深度研究报告.md", "packHtml": "../../2026-11-06-teaching-case/站群案例教学.html", "sany": "../../2026-11-12-sany-global-network/三一重工全球多语言站群深度报告.md", "china": "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md", "report": "../WordPress AI多语言国家站群·研究与SEO实战报告.html"};
+const slides=[
+  {
+    "title": "为什么你的网站没有询盘？",
+    "sub": "以德国经销商采购 2 吨小型挖掘机为例。",
+    "word": "整条逻辑",
+    "start": 0,
+    "end": 10,
+    "group": 0,
+    "steps": 0,
+    "foot": "采购情景示意 · 搜索需求 → 当地页面 → 供货判断 → 询价 → 跟进",
+    "body": "<div class=\"chain\"><div class=\"node \"><strong>搜产品／厂家</strong><span>2 吨小型挖掘机</span></div><div class=\"arrow\" aria-hidden=\"true\">→</div><div class=\"node \"><strong>进入当地站</strong><span>德语采购页面</span></div><div class=\"arrow\" aria-hidden=\"true\">→</div><div class=\"node \"><strong>判断能否供货</strong><span>设备＋配置＋交付</span></div><div class=\"arrow\" aria-hidden=\"true\">→</div><div class=\"node \"><strong>提交采购需求</strong><span>数量＋交货地</span></div><div class=\"arrow\" aria-hidden=\"true\">→</div><div class=\"node result\"><strong>形成有效询盘</strong><span>业务员跟进报价</span></div></div><div class=\"base-rail\"><span>真实案例找思路</span><div class=\"arrow\" aria-hidden=\"true\">→</div><b>Codex ＋ 专业 Skill 降低重复工作</b><div class=\"arrow\" aria-hidden=\"true\">→</div><span>先验证一站</span></div>",
+    "notes": "整条主线是德国设备经销商采购小型挖掘机的假设情景。搜索阶段围绕品类、吨位与厂家等需求；进入页面后了解配置和供货条件；询价由产品需求、数量和交货地驱动。没有假定买家事先知道企业内部型号。",
+    "sources": [
+      [
+        "../WordPress AI多语言国家站群·研究与SEO实战报告.html",
+        "既有研究与 SEO 实战报告"
+      ]
+    ]
+  },
+  {
+    "title": "老板要的是<em>具体的采购需求</em>",
+    "sub": "德国经销商，准备采购 3 台 2 吨小型挖掘机。",
+    "word": "采购需求 → 搜到你",
+    "start": 10,
+    "end": 23,
+    "steps": 2,
+    "body": "<div class=\"inquiry-grid\"><div><p class=\"caption\">买家此时的问题</p><div class=\"bubble\">有合适的设备吗？<br>能供货到德国吗？</div></div><div class=\"mail\"><div class=\"head\">一条可以继续沟通的需求</div><div class=\"fields\"><div class=\"field\"><label>采购产品</label><b>2 吨小挖</b></div><div class=\"reveal field\" data-step=\"1\"><label>采购数量</label><b>3 台</b></div><div class=\"reveal field\" data-step=\"1\"><label>交货国家</label><b>德国</b></div></div><div class=\"reveal ready\" data-step=\"2\">继续确认配置、价格与交期</div></div></div>",
+    "foot": "假设采购情景 · 不代表真实客户或已收到的询盘",
+    "notes": "3 台、2 吨和德国均为教学采购情景。B2B 精准性来自买家身份、设备需求、数量、交付地点及后续核实，不来自内部型号代码。",
+    "sources": [],
+    "group": 1
+  },
+  {
+    "title": "买家先搜<em>产品与采购需求</em>",
+    "sub": "围绕小型挖掘机、吨位、厂家等需求安排页面。",
+    "word": "搜到你 → 当地市场",
+    "start": 23,
+    "end": 43,
+    "steps": 2,
+    "body": "<div class=\"searches\"><div class=\"search-card\"><div class=\"country\">找产品</div><div class=\"query\">2 吨小型挖掘机</div><div class=\"lang\">德语表达：Minibagger 2 Tonnen</div></div><div class=\"reveal search-card\" data-step=\"1\"><div class=\"country\">找供应商</div><div class=\"query\">小型挖掘机厂家</div><div class=\"lang\">德语表达：Minibagger Hersteller</div></div><div class=\"reveal search-card\" data-step=\"2\"><div class=\"country\">找到合适的页面</div><div class=\"query\">德语小挖产品分类页</div><div class=\"lang\">设备选择＋配置＋供货联系</div></div></div><div class=\"strip\" style=\"margin-top:40px\">真实页面参照：三一欧洲官网设有 “MINIBAGGER” 小型挖掘机分类。</div>",
+    "foot": "采购搜索表达示例 · 未测关键词搜索量或转化率",
+    "notes": "本次实读三一欧洲德语挖掘机目录，确认以 MINIBAGGER 分类展示设备和配置。这里的搜索表达是采购意图教学示例，不是关键词工具测量或搜索日志。产品分类词适合获客研究；型号可以在后续选型时出现，不作为本片新买家搜索的前提。",
+    "sources": [
+      [
+        "https://www.sanyeurope.com/produkte/bagger/",
+        "本次实读：三一欧洲德语挖掘机分类"
+      ]
+    ],
+    "group": 2
+  },
+  {
+    "title": "一个目标国家，一套<em>当地采购入口</em>",
+    "sub": "语言、产品、服务与域名，共同指向目标市场。",
+    "word": "当地市场 → 真实案例",
+    "start": 43,
+    "end": 58,
+    "group": 3,
+    "steps": 2,
+    "foot": "国家域名是地域信号，不是排名保证；国家与语言分别规划",
+    "body": "<div class=\"domains\"><div class=\"domain\"><div class=\"suffix\">.de</div><h2>德国市场</h2><p>德语小挖与询价</p></div><div class=\"reveal domain\" data-step=\"1\"><div class=\"suffix\">.fr</div><h2>法国市场</h2><p>法语小挖与询价</p></div><div class=\"reveal domain\" data-step=\"1\"><div class=\"suffix\">.pl</div><h2>波兰市场</h2><p>波兰语小挖与询价</p></div></div><div class=\"reveal \" data-step=\"2\"><div class=\"note-row\"><span>适合当地的设备</span><span>可兑现的交期</span><span>当地联系方式与服务</span></div></div>",
+    "notes": "这些后缀用于说明国家定位，并不表示已经购买具体域名。国家域名不是必须选项；资源与市场需求也可以支持同域子目录方案。一个国家可能使用多种语言，一种语言也可能覆盖多个国家。注册条件及成本在采购前逐项核实。",
+    "sources": [
+      [
+        "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites",
+        "Google：管理多区域和多语言网站"
+      ],
+      [
+        "../WordPress AI多语言国家站群·研究与SEO实战报告.html",
+        "既有 SEO 最佳实践整理"
+      ]
+    ]
+  },
+  {
+    "title": "叉车、注塑机、电器，<em>都有当地站</em>",
+    "sub": "每个案例，都能对应一种当地采购需求。",
+    "word": "真实案例 → 当地买家",
+    "start": 58,
+    "end": 78,
+    "steps": 2,
+    "body": "<div class=\"industry-grid\"><button class=\"industry-card\" data-case=\"hangcha\"><span class=\"tag\">杭叉 · 叉车</span><h2>法国买家找叉车</h2><b>hcrs.fr</b><p>法语产品、服务与联系</p><span class=\"case-open\">查看依据 ↗</span></button><div class=\"reveal \" data-step=\"1\"><button class=\"industry-card\" data-case=\"haitian\"><span class=\"tag\">海天 · 注塑机</span><h2>土耳其买家找设备</h2><b>haitian.com.tr</b><p>当地语言展示工业设备</p><span class=\"case-open\">查看依据 ↗</span></button></div><div class=\"reveal \" data-step=\"2\"><button class=\"industry-card\" data-case=\"noark\"><span class=\"tag\">正泰旗下 NOARK · 电气</span><h2>波兰、捷克采购</h2><b>noark-electric.pl / .cz</b><p>当地电气产品目录</p><span class=\"case-open\">查看依据 ↗</span></button></div></div>",
+    "foot": "案例沿用 2026-11-12 研究快照 · 点击卡片看网址、证据与启发",
+    "notes": "这些实例说明面向当地买家的工业产品入口。所属关系按当地经营声明与集团公开目录分别记录，不将当地渠道与集团自营混为一谈。未用案例架构推断其 SEO 询盘效果。",
+    "sources": [
+      [
+        "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md",
+        "中国制造研究：杭叉、海天与 NOARK"
+      ]
+    ],
+    "group": 4
+  },
+  {
+    "title": "福田：把波兰买家带到<em>当地销售站</em>",
+    "sub": "全球入口连接当地语言、产品与销售服务。",
+    "word": "当地买家 → 竞品网站",
+    "start": 78,
+    "end": 90,
+    "group": 5,
+    "steps": 2,
+    "foot": "2026-11-12 研究快照 · 官网目录链接证明业务入口关联",
+    "body": "<div class=\"country-route\"><div class=\"browser\"><div class=\"browser-bar\">fotonmotor.com</div><div class=\"browser-body\"><h2 style=\"font-size:33px;margin:0\">全球市场选择</h2><div class=\"market-list\"><span class=\"pill\">Mexico</span><span class=\"pill\">Spain</span><span class=\"pill\" style=\"border-color:var(--blue);color:var(--blue)\">Poland</span></div></div></div><div class=\"reveal \" data-step=\"1\"><div class=\"arrow\" aria-hidden=\"true\">→</div></div><div class=\"reveal \" data-step=\"1\"><div class=\"browser\"><div class=\"browser-bar\"><span>e-van.com.pl</span><span>波兰</span></div><div class=\"browser-body\"><div class=\"product-line\"><div><h2>FOTON eAumark</h2><span class=\"tag\">波兰语 · 电动卡车</span></div><svg class=\"truck\" viewBox=\"0 0 240 95\" fill=\"none\" aria-label=\"卡车示意\"><path d=\"M12 12h140v57H12zM152 34h35l31 24v19h-66z\" stroke=\"currentColor\" stroke-width=\"4\"/><path d=\"M166 43h18l20 16h-38z\" fill=\"#eaf0fd\" stroke=\"currentColor\" stroke-width=\"3\"/><circle cx=\"52\" cy=\"77\" r=\"13\" fill=\"#fff\" stroke=\"currentColor\" stroke-width=\"4\"/><circle cx=\"186\" cy=\"77\" r=\"13\" fill=\"#fff\" stroke=\"currentColor\" stroke-width=\"4\"/></svg></div><div class=\"reveal \" data-step=\"2\"><div class=\"divider\"></div><span class=\"cta\">当地销售与联系入口</span></div></div></div></div></div>",
+    "notes": "画面重绘的是已研究的业务路径，不是实时官网截图。e-van.com.pl 为福田全球目录推荐的当地业务入口，不能据此认定是厂家同一法人直接运营。案例证明架构与渠道关系，未取得该站 SEO 流量或询盘增长数据。",
+    "sources": [
+      [
+        "https://www.fotonmotor.com/selectCountry.html",
+        "福田全球市场目录"
+      ],
+      [
+        "https://e-van.com.pl/",
+        "波兰 eAumark 网站"
+      ],
+      [
+        "https://e-van.com.pl/o-nas/",
+        "当地经营介绍"
+      ],
+      [
+        "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md",
+        "中国制造案例研究：福田"
+      ]
+    ]
+  },
+  {
+    "title": "从一个公开电话，<em>找到更多线索</em>",
+    "sub": "复制独特信息 → 精确搜索 → 收集候选 → 逐站核实。",
+    "word": "竞品的网站 → 核对证据",
+    "start": 90,
+    "end": 106,
+    "group": 6,
+    "steps": 3,
+    "foot": "检索过程示意 · 候选网址不等于已确认同一公司",
+    "body": "<div class=\"trace-layout\"><div class=\"card contact\"><span class=\"tag\">网站联系页</span><strong>0207 993 6533</strong><p>电话 / 公司名 / 注册编号<br>独特页脚 / 国家入口</p></div><div><div class=\"reveal \" data-step=\"1\"><div class=\"search-box\">“0207 993 6533”</div></div><div class=\"reveal \" data-step=\"2\"><div class=\"results\"><div class=\"result-line\">labelprintingco.co.uk</div><div class=\"result-line\">customboxesco.co.uk</div><div class=\"result-line\">smallcustomboxes.co.uk</div></div></div></div></div><div class=\"reveal \" data-step=\"3\"><div class=\"trace-steps\"><span>AI 批量整理</span><div class=\"arrow\" aria-hidden=\"true\">→</div><span>按根域名去重</span><div class=\"arrow\" aria-hidden=\"true\">→</div><span>回到原网页核对</span><div class=\"arrow\" aria-hidden=\"true\">→</div><span>用新线索再挖一轮</span></div></div>",
+    "notes": "本屏按既有研究重绘检索方法，不是实时 Google 结果。可复制的检索式：\"0207 993 6533\"；\"15545140\" packaging。不同地区同号归一化后再比对。不能只凭模板或 IP 认定归属，也不能承诺挖到全量网站。",
+    "sources": [
+      [
+        "https://www.labelprintingco.co.uk/contact-us/",
+        "起点联系页"
+      ],
+      [
+        "https://customboxesco.co.uk/contact-us/",
+        "扩展联系页"
+      ],
+      [
+        "../../2026-11-05-site-network/企业独立站站群深度研究报告.md",
+        "包装站群原始研究与检索路径"
+      ]
+    ]
+  },
+  {
+    "title": "19 个起点，<em>47 个高置信关联根域</em>",
+    "sub": "数字的背后，是多条公开证据相互印证。",
+    "word": "核对证据 → 多国布局",
+    "start": 106,
+    "end": 118,
+    "group": 7,
+    "steps": 2,
+    "foot": "2026-11 研究快照 · 共同运营关联，不等同于同一法律主体",
+    "body": "<div class=\"count-row\"><div class=\"count center\"><div class=\"big\">19</div><div class=\"caption\">原始根域名</div></div><div class=\"arrow\" aria-hidden=\"true\">→</div><div class=\"count center\"><div class=\"big\">47</div><div class=\"caption\">高置信关联根域名</div></div></div><div class=\"evidence-row\"><div class=\"card\"><h2>电话与公司资料</h2><p>同号、企业编号、地区地址</p></div><div class=\"reveal card\" data-step=\"1\"><h2>表单来源映射</h2><p>品牌邮箱与地区记录对应</p></div><div class=\"reveal card\" data-step=\"2\"><h2>客服账号与互链</h2><p>相同账号配置、国家站链接</p></div></div>",
+    "notes": "47 为此前两轮研究达到 A 级标准的根域数量，其中 43 个产品或综合印刷获客站、4 个公司或门户。原始之外增加 28 个。研究确认共同运营关联，不证明全部网站法律所有权，也不表示已测收件或获客效果。电话只是线索；统一表单映射、同一客服账号、公司信息和互链形成联合证据。",
+    "sources": [
+      [
+        "../../2026-11-05-site-network/企业独立站站群深度研究报告.md",
+        "原研究：47 个域名逐站证据"
+      ],
+      [
+        "../../2026-11-06-teaching-case/站群案例教学.html",
+        "完整交互教学报告"
+      ],
+      [
+        "https://www.designmediaservice.com/genform.php?w=LPCOUK&r=3",
+        "公开表单映射示例"
+      ]
+    ]
+  },
+  {
+    "title": "中国制造，已经有<em>全球网站布局</em>",
+    "sub": "从大型企业的区域分工中，找到适合自己的做法。",
+    "word": "多国布局 → 成本",
+    "start": 118,
+    "end": 131,
+    "group": 8,
+    "steps": 1,
+    "foot": "2026-11-12 研究快照 · 区域站、语言目录、渠道站需分别识别",
+    "body": "<div class=\"brands\"><div class=\"card\"><h2 class=\"brand-title\">三一 SANY</h2><p>全球主站＋区域站＋产品站</p><ul class=\"domain-list\"><li><b>sanyglobal.com</b><span>全球 / 多语言</span></li><li><b>sany.in</b><span>印度业务</span></li><li><b>sany-france.com</b><span>法国业务</span></li></ul></div><div class=\"reveal card\" data-step=\"1\"><h2 class=\"brand-title\">徐工 XCMG</h2><p>官网目录连接当地业务入口</p><ul class=\"domain-list\"><li><b>xcmg-europe.de</b><span>德国 / 欧洲</span></li><li><b>xcmg.cl</b><span>智利</span></li><li><b>xcmg.co.id</b><span>印度尼西亚</span></li></ul></div></div>",
+    "notes": "三一采用同域多语言、独立区域站、产品站与渠道网并行，法国站使用 .com，不能把三一包装成“一语言必配一个国家后缀”。徐工这里列出的当地入口来自厂家公开目录。公开架构可用于学习业务分工，不能据此倒推出 SEO 收益或“过去只有大企业能做”。",
+    "sources": [
+      [
+        "../../2026-11-12-sany-global-network/三一重工全球多语言站群深度报告.md",
+        "三一完整研究与证据"
+      ],
+      [
+        "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md",
+        "徐工与其他中国制造案例"
+      ],
+      [
+        "https://www.sanyglobal.com/",
+        "三一全球站"
+      ],
+      [
+        "https://www.xcmg.com/",
+        "徐工官网目录"
+      ]
+    ]
+  },
+  {
+    "title": "过去铺多个站，先要过<em>预算这一关</em>",
+    "sub": "以纯定制 WordPress 项目为例，算一笔建设账。",
+    "word": "成本 → Codex",
+    "start": 131,
+    "end": 151,
+    "steps": 2,
+    "body": "<div class=\"budget-grid\"><div class=\"card\"><span class=\"tag\">纯定制 WordPress · 情景估算</span><div class=\"formula\"><div><label>每站</label><strong id=\"unitValue\">2.5 万</strong></div><span>×</span><div><label>网站数</label><strong id=\"sitesValue\">5 个</strong></div><span>＝</span></div><div class=\"budget-total\"><b id=\"costValue\">12.5 万元</b><span>建设费用</span></div><div class=\"reveal \" data-step=\"1\"><div class=\"budget-controls\"><label>每站报价 <select id=\"unitCost\"><option value=\"2\">2 万元</option><option value=\"2.5\" selected>2.5 万元</option><option value=\"3\">3 万元</option></select></label><label>网站数量 <select id=\"siteCount\"><option>1</option><option>3</option><option selected>5</option><option>10</option></select></label></div></div></div><div class=\"reveal \" data-step=\"2\"><div class=\"card cost-work\"><h2>AI 重点降低这些重复工作</h2><p>重复页面开发</p><p>重复录入产品</p><p>多语言初稿与修改</p><div class=\"divider\"></div><span class=\"small\">域名、主机、复核和维护仍要投入。</span></div></div></div>",
+    "foot": "情景假设：每站 2–3 万元，各站独立报价，未计维护等费用",
+    "notes": "等价假设：每个站按选定单价独立报价、相同范围、无批量折扣。仅用于展示按站重复付费如何累积。2–3 万来自用户提供的情景，不作为普遍市场价格。未取得 AI 方案实测成本，所以不填“节省百分比”“100 倍效率”或确定的 AI 报价。大企业通常更有预算并不等于以前只有大企业能做。",
+    "sources": [],
+    "group": 9
+  },
+  {
+    "title": "让 <em>Codex ＋ 专业 Skill</em> 承接重复工作",
+    "sub": "人提供产品事实与目标，AI 按专业流程协助执行。",
+    "word": "Codex → 专业 Skill",
+    "start": 151,
+    "end": 173,
+    "steps": 3,
+    "body": "<div class=\"shared\"><div class=\"source-stack\"><div class=\"card\">小挖真实配置</div><div class=\"card\">图片与交付条件</div><div class=\"card\">德语采购需求</div></div><div class=\"reveal \" data-step=\"1\"><div class=\"arrow\" aria-hidden=\"true\">→</div></div><div class=\"reveal \" data-step=\"1\"><div class=\"ai-core\"><h2>Codex</h2><span class=\"tag\">专业 Skill</span><p>页面与内容规则</p><p>代码与测试流程</p><p>上线验收要求</p></div></div><div class=\"reveal \" data-step=\"2\"><div class=\"arrow\" aria-hidden=\"true\">→</div></div><div class=\"site-stack\"><div class=\"reveal site-row\" data-step=\"2\"><b>定制页面</b><small>分类与采购入口</small></div><div class=\"reveal site-row\" data-step=\"3\"><b>当地内容</b><small>按真实产品起草</small></div><div class=\"reveal site-row\" data-step=\"3\"><b>测试与修改</b><small>人工确认结果</small></div></div></div>",
+    "foot": "工作流示意 · 先做出可验收的一套，再复用到其他市场",
+    "notes": "已查看本地 WordPress Builder/Design/Delivery 的实际职责：拥有的自定义主题、页面模板、内容维护、性能检查和询盘验收。这里陈述建议工作流，不代表已在本片执行这些建站任务。Skill 是流程和约束，无法保证任何人自动达到相同效果。效率取决于资料、任务、操作者和验收，未提供“1 人抵 100 人”的实测依据。",
+    "sources": [
+      [
+        "../WordPress AI多语言国家站群·研究与SEO实战报告.html",
+        "既有 WordPress AI 研究与实施方案"
+      ]
+    ],
+    "group": 10
+  },
+  {
+    "title": "同一台小挖，<em>讲成当地买家听得懂的话</em>",
+    "sub": "内容要回答采购问题，产品事实始终来自工厂。",
+    "word": "专业 Skill → 看懂产品",
+    "start": 173,
+    "end": 190,
+    "steps": 2,
+    "body": "<div class=\"translation-example\"><div class=\"card\"><span class=\"tag\">提供给 AI 的真实资料</span><h2 style=\"margin-top:24px\">2 吨小型挖掘机</h2><ul><li>可选发动机与属具</li><li>能供货的配置</li><li>交期与售后范围</li></ul></div><div class=\"reveal \" data-step=\"1\"><div class=\"arrow\" aria-hidden=\"true\">→</div></div><div class=\"reveal \" data-step=\"1\"><div class=\"card\"><span class=\"tag\">德语页面草稿 · 示意</span><h2 style=\"margin-top:24px\">2-Tonnen-Minibagger</h2><ul><li>Motoroptionen · 发动机选项</li><li>Anbaugeräte · 属具</li><li>Lieferzeit · 交期</li></ul></div></div></div><div class=\"reveal \" data-step=\"2\"><div class=\"strip\" style=\"margin-top:26px\">由懂产品的人复核：术语、配置、交期，是否与真实供货一致？</div></div>",
+    "foot": "页面内容示意 · 大模型译文同样需要产品与语言复核",
+    "notes": "没有编造错误译文或宣称旧机翻必然差、大模型必然准确。对照的是资料与复核流程。正式生产需要掌握当地语言的人检查术语及表达，并由业务确认可交付条件。",
+    "sources": [
+      [
+        "https://developers.google.com/search/docs/fundamentals/using-gen-ai-content",
+        "本次读取：Google 对 AI 内容准确性与人工复核的说明"
+      ]
+    ],
+    "group": 11
+  },
+  {
+    "title": "让买家看明白：<em>这批设备能不能买</em>",
+    "sub": "从产品需求进入页面，再判断配置、交期和供货能力。",
+    "word": "看懂产品 → 精准询盘",
+    "start": 190,
+    "end": 211,
+    "steps": 2,
+    "body": "<div class=\"purchase-layout\"><div class=\"buyer-search\"><span class=\"tag\">采购搜索表达示意</span><h2>“两吨小型挖掘机”</h2><p>先找合适的设备与供应商</p></div><div class=\"arrow\" aria-hidden=\"true\">→</div><div class=\"browser ui-clean\"><div class=\"browser-bar\">德语小型挖掘机产品页 · 示意</div><div class=\"browser-body\"><h2>2 吨小型挖掘机</h2><div class=\"specs\"><div>有哪些可选配置？</div><div>能供货多少台？</div><div>交货需要多久？</div><div>售后怎么支持？</div></div><div class=\"reveal \" data-step=\"1\"><span class=\"cta\">告诉我们数量与交货地，获取报价</span></div></div></div></div><div class=\"reveal \" data-step=\"2\"><div class=\"performance-strip\"><span>轻量页面与必要功能</span><div class=\"arrow\" aria-hidden=\"true\">→</div><span>手机体验与测速验收</span><div class=\"arrow\" aria-hidden=\"true\">→</div><span>测试询价能否送达</span></div></div>",
+    "foot": "页面结构示意 · 未填写虚构速度、GEO 或询盘效果分数",
+    "notes": "已修正前版把内部型号放在获客起点的错误。示例从产品品类和吨位进入，站内再看选配与供货条件。Codex 可以协助按轻量目标开发和优化，实际性能需测试，不能由“AI 写的”直接推断更快。Google 页面体验文档说明良好体验重要，但高分不能保证排名。",
+    "sources": [
+      [
+        "https://www.sanyeurope.com/produkte/bagger/",
+        "三一欧洲德语产品分类实例"
+      ],
+      [
+        "https://developers.google.com/search/docs/appearance/page-experience",
+        "本次读取：Google 页面体验说明"
+      ]
+    ],
+    "group": 12
+  },
+  {
+    "title": "这样的询盘，<em>业务员才有东西可谈</em>",
+    "sub": "产品需求、数量、交货地，组成下一步报价的起点。",
+    "word": "精准询盘 → 第一站",
+    "start": 211,
+    "end": 224,
+    "steps": 2,
+    "body": "<div class=\"delivery\"><div class=\"card\"><h2>采购需求 · 示意</h2><div class=\"form-row\"><span>设备</span><b>2 吨小型挖掘机</b></div><div class=\"form-row\"><span>数量</span><b>3 台</b></div><div class=\"form-row\"><span>交货国家</span><b>德国</b></div><div class=\"reveal \" data-step=\"1\"><div class=\"cta\" style=\"margin-top:24px\">请提供配置、价格和交期</div></div></div><div class=\"reveal \" data-step=\"2\"><div class=\"arrow\" aria-hidden=\"true\">→</div></div><div class=\"reveal \" data-step=\"2\"><div class=\"mail inbox\"><div class=\"inbox-title\">业务收件箱 · 示意</div><h2 style=\"font-size:34px;margin:0\">德国设备经销商的采购咨询</h2><div class=\"divider\"></div><p style=\"font-size:29px;line-height:1.6\">需要 3 台 2 吨小型挖掘机。<br>请报价，并说明交期与售后。</p><span class=\"tag\">确认需求 → 匹配设备 → 报价</span></div></div></div>",
+    "foot": "假设采购情景 · 本地动画不发送询盘，不代表真实收件结果",
+    "notes": "与开场保持同一情景：德国经销商、3 台、2 吨小挖。真实业务还需确认采购身份、配置和交付条件。实际测试使用自有站并检查真实收件，本演示未执行邮件投递。",
+    "sources": [],
+    "group": 13
+  },
+  {
+    "title": "今天，从<em>一个国家</em>开始",
+    "sub": "先验证有效询盘，再把经验用到下一个市场。",
+    "word": "第一站 → 下一个市场",
+    "start": 224,
+    "end": 235,
+    "group": 14,
+    "steps": 2,
+    "foot": "2 吨小型挖掘机 → 德国采购需求 → 能跟进的有效询盘",
+    "body": "<div class=\"start-line\"><div class=\"card\"><div class=\"step-num\">01</div><h2>选一类产品</h2><p>例如：2 吨小型挖掘机</p></div><div class=\"reveal card\" data-step=\"1\"><div class=\"step-num\">02</div><h2>选一个国家</h2><p>能交货，有人回询盘</p></div><div class=\"reveal card\" data-step=\"2\"><div class=\"step-num\">03</div><h2>验证有效询盘</h2><p>走通，再拓第二站</p></div></div><div class=\"reveal \" data-step=\"2\"><div class=\"closing\">学会 Codex ＋ 专业 Skill，先把一个市场做扎实。</div></div>",
+    "notes": "收尾回到老板关心的结果。不要把网站数量当作成功指标。第二站的决策应参考采购需求、有效询盘、交付与维护能力。自动播放到本页结束会停住。",
+    "sources": [
+      [
+        "../WordPress AI多语言国家站群·研究与SEO实战报告.html",
+        "行动方案与验证指标"
+      ]
+    ]
+  }
+];
+const cases=[
+  {
+    "id": "sany",
+    "name": "三一 SANY",
+    "industry": "工程机械",
+    "seen": "全球站、多语目录、印度与法国区域站并行；德语产品分类直接使用“小型挖掘机”。",
+    "lesson": "从设备品类接待采购，进入页面后再查看具体设备；多种架构可以共存。",
+    "relation": "集团区域业务与当地渠道分开计数。法国 .com 说明当地站不必全部是国家后缀。",
+    "urls": [
+      [
+        "sanyglobal.com",
+        "https://www.sanyglobal.com/"
+      ],
+      [
+        "sany.in",
+        "https://www.sany.in/"
+      ],
+      [
+        "sany-france.com",
+        "https://sany-france.com/"
+      ],
+      [
+        "德语小挖分类",
+        "https://www.sanyeurope.com/produkte/bagger/"
+      ]
+    ],
+    "source": "../../2026-11-12-sany-global-network/三一重工全球多语言站群深度报告.md"
+  },
+  {
+    "id": "xcmg",
+    "name": "徐工 XCMG",
+    "industry": "挖掘机与工程机械",
+    "seen": "厂家官网目录连接德国、智利、印尼等业务站，智利有挖掘机报价入口。",
+    "lesson": "当地产品与报价路径一起做，让买家能从看设备继续到联系销售。",
+    "relation": "官方目录支持品牌业务关联，各地法律主体及股权须分别核实。",
+    "urls": [
+      [
+        "xcmg-europe.de",
+        "https://xcmg-europe.de/"
+      ],
+      [
+        "xcmg.cl",
+        "https://xcmg.cl/"
+      ],
+      [
+        "xcmg.co.id",
+        "https://www.xcmg.co.id/"
+      ],
+      [
+        "智利挖掘机报价",
+        "https://xcmg.cl/cotizar-excavadoras/"
+      ]
+    ],
+    "source": "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md"
+  },
+  {
+    "id": "hangcha",
+    "name": "杭叉",
+    "industry": "叉车与仓储设备",
+    "seen": "全球联系页列出法国、澳洲等业务入口。法国站有法语产品与服务。",
+    "lesson": "设备经销商要看产品，也要看后续服务。当地站可以把两者放在一起。",
+    "relation": "部分为官方分支，多数区域域名仍用 .com，不用后缀推断自营。",
+    "urls": [
+      [
+        "hcrs.fr",
+        "https://hcrs.fr/"
+      ],
+      [
+        "hangchaaustralia.com.au",
+        "https://hangchaaustralia.com.au/"
+      ],
+      [
+        "厂家全球联系页",
+        "https://www.hcforklift.com/contact/"
+      ]
+    ],
+    "source": "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md"
+  },
+  {
+    "id": "haitian",
+    "name": "海天国际",
+    "industry": "注塑机与工业设备",
+    "seen": "土耳其使用 .com.tr 当地语言站，同时有压铸、智能制造业务入口。",
+    "lesson": "同一个国家也有不同采购需求，可以按产品线和服务职责分工。",
+    "relation": "区域国家域与巴西等区域 .com 并存，经营关系按公开说明逐项区分。",
+    "urls": [
+      [
+        "haitian.com.tr",
+        "https://www.haitian.com.tr/"
+      ],
+      [
+        "haitian-dc.com.tr",
+        "https://www.haitian-dc.com.tr/"
+      ],
+      [
+        "haitiansmart.com.tr",
+        "https://www.haitiansmart.com.tr/"
+      ],
+      [
+        "集团全球布局",
+        "https://haitianinter.com/worldwide-presence/"
+      ]
+    ],
+    "source": "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md"
+  },
+  {
+    "id": "noark",
+    "name": "正泰旗下 NOARK",
+    "industry": "低压电气与配电",
+    "seen": "波兰、捷克、罗马尼亚有各自当地根域和工业产品目录。",
+    "lesson": "用当地语言组织产品分类，让采购先找到所需类别，再确认适用产品。",
+    "relation": "NOARK 集团关系和当地站分别取证，不将所有法人混为同一公司。",
+    "urls": [
+      [
+        "noark-electric.pl",
+        "https://noark-electric.pl/pl"
+      ],
+      [
+        "noark-electric.cz",
+        "https://noark-electric.cz/cz"
+      ],
+      [
+        "noark-electric.ro",
+        "https://noark-electric.ro/ro"
+      ],
+      [
+        "集团关系说明",
+        "https://na.noark-electric.com/about-us/"
+      ]
+    ],
+    "source": "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md"
+  },
+  {
+    "id": "foton",
+    "name": "福田",
+    "industry": "商用卡车",
+    "seen": "全球市场选择器把波兰买家引到 e-van.com.pl，以当地电动卡车和销售联系为重点。",
+    "lesson": "先挑适合一个市场的产品线，把产品信息和当地销售接起来。",
+    "relation": "厂家推荐的业务入口包含进口商与渠道，不默认全部厂家直接运营。",
+    "urls": [
+      [
+        "全球市场选择器",
+        "https://www.fotonmotor.com/selectCountry.html"
+      ],
+      [
+        "e-van.com.pl",
+        "https://e-van.com.pl/"
+      ],
+      [
+        "fotontrucks.es",
+        "https://fotontrucks.es/"
+      ]
+    ],
+    "source": "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md"
+  },
+  {
+    "id": "maxus",
+    "name": "上汽大通 MAXUS",
+    "industry": "轻型商用车与车队",
+    "seen": "厂家目录连接挪威、芬兰、瑞典、波兰等国家域，页面提供车型与当地销售。",
+    "lesson": "多个市场有各自语言和采购流程，国家站可服务当地车队和经销业务。",
+    "relation": "部分由进口商经营；品牌入口和股权归属分开。德国旧入口按最终落地去重。",
+    "urls": [
+      [
+        "maxus.no",
+        "https://maxus.no/"
+      ],
+      [
+        "maxus.fi",
+        "https://maxus.fi/"
+      ],
+      [
+        "maxus.se",
+        "https://maxus.se/"
+      ],
+      [
+        "maxuspolska.pl",
+        "https://maxuspolska.pl/"
+      ],
+      [
+        "厂家国家目录",
+        "https://en.saicmaxus.com/global.shtml"
+      ]
+    ],
+    "source": "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md"
+  },
+  {
+    "id": "yutong",
+    "name": "宇通",
+    "industry": "客车与车队",
+    "seen": "法国 yutong.fr 有客车、服务与联系入口；澳洲也有国家域名业务站。",
+    "lesson": "长期使用的大型设备要交代服务网络，采购才有条件继续询价。",
+    "relation": "法国主体与澳洲渠道分别记录，全球法语子域也保留。",
+    "urls": [
+      [
+        "yutong.fr",
+        "https://www.yutong.fr/"
+      ],
+      [
+        "yutong.com.au",
+        "https://www.yutong.com.au/"
+      ],
+      [
+        "法国联系",
+        "https://www.yutong.fr/contact/"
+      ]
+    ],
+    "source": "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md"
+  },
+  {
+    "id": "packaging",
+    "name": "包装印刷关联网络",
+    "industry": "定制包装与印刷",
+    "seen": "从 19 个起点整理出 47 个高置信关联根域；电话、公司信息、表单映射和客服配置互相支持。",
+    "lesson": "先找独特指纹，再批量检索、去重、核实，不只猜域名后缀。",
+    "relation": "共同运营关联，不等同于全部网站属于同一法律实体；未测询盘效果。",
+    "urls": [
+      [
+        "labelprintingco.co.uk",
+        "https://www.labelprintingco.co.uk/contact-us/"
+      ],
+      [
+        "customboxesco.co.uk",
+        "https://customboxesco.co.uk/contact-us/"
+      ],
+      [
+        "表单映射示例",
+        "https://www.designmediaservice.com/genform.php?w=LPCOUK&r=3"
+      ]
+    ],
+    "source": "../../2026-11-05-site-network/企业独立站站群深度研究报告.md"
+  },
+  {
+    "id": "rippa",
+    "name": "山东锐帕 RIPPA",
+    "industry": "小型挖掘机",
+    "seen": "既有研究记录多个业务根域与法语等目录；公开产品分类可按 2 吨小挖组织。",
+    "lesson": "小工厂学习从设备类别与采购用途切入，型号留到具体选型。",
+    "relation": "多根域与多语言有证据，国家后缀归属未确认。2 吨分类本次搜索可见，直接读取返回 502，不新增当前归属结论。",
+    "urls": [
+      [
+        "rippa.com",
+        "https://rippa.com/"
+      ],
+      [
+        "rippaexcavator.com",
+        "https://www.rippaexcavator.com/"
+      ],
+      [
+        "2 吨小挖分类",
+        "https://www.rippaminiexcavator.com/2-ton-mini-excavator/"
+      ]
+    ],
+    "source": "../../2026-11-12-china-b2b-country-networks/中国制造与外贸B2B多语言国家站群补充研究.md"
+  }
+];
+const stage=document.getElementById('stage');
+const fmt=t=>`${String(Math.floor(t/60)).padStart(2,'0')}:${String(Math.floor(t%60)).padStart(2,'0')}`;
+stage.innerHTML=slides.map((s,i)=>`<article data-index="${i}" aria-label="第 ${i+1} 屏：${s.title.replace(/<[^>]*>/g,'')}"><div class="topline"><span>外贸工厂 · 精准询盘</span><span class="word">${s.word}</span></div><h1>${s.title}</h1><p class="subtitle">${s.sub}</p><div class="scene">${s.body}</div><footer class="foot"><span>${s.foot}</span><span>${String(i+1).padStart(2,'0')} / ${slides.length}</span></footer></article>`).join('');
+let index=0,step=0,time=0,playing=false,lastStamp=0,frame=null,toastTimer=null,returnFocus=null;
+const articles=[...document.querySelectorAll('article')];
+const params=new URLSearchParams(location.search);
+if(params.get('capture')==='1')document.body.classList.add('capture');
+function fit(){const r=document.getElementById('viewport').getBoundingClientRect();stage.style.setProperty('--scale',Math.min(r.width/1600,r.height/900));}
+function render(){articles.forEach((a,i)=>{a.classList.toggle('active',i===index);a.setAttribute('aria-hidden',String(i!==index));a.querySelectorAll('[data-step]').forEach(el=>{const visible=i===index&&Number(el.dataset.step)<=step;el.classList.toggle('shown',visible);el.inert=!visible;});});document.getElementById('counter').textContent=`${index+1} / ${slides.length} · ${step+1}/${slides[index].steps+1}`;document.getElementById('clock').textContent=`${fmt(time)} / 03:55`;document.getElementById('timeline').value=time;document.getElementById('play').textContent=playing?'Ⅱ 暂停':'▶ 播放';document.getElementById('prev').disabled=index===0&&step===0;document.getElementById('next').disabled=index===slides.length-1&&step===slides[index].steps;document.title=`${index+1}/${slides.length} · ${slides[index].title.replace(/<[^>]*>/g,'')} · 拍摄演示`;}
+function phaseTime(i,k){const s=slides[i];return s.start+(s.end-s.start)*k/(s.steps+1);}
+function stop(){playing=false;if(frame!==null){cancelAnimationFrame(frame);frame=null;}render();}
+function go(i,k=0){stop();index=Math.max(0,Math.min(slides.length-1,i));step=Math.max(0,Math.min(slides[index].steps,k));time=phaseTime(index,step);render();}
+function next(){if(step<slides[index].steps)go(index,step+1);else if(index<slides.length-1)go(index+1);else stop();}
+function prev(){if(step>0)go(index,step-1);else if(index>0)go(index-1,slides[index-1].steps);}
+function seek(t){time=Math.max(0,Math.min(235,t));index=slides.findIndex(s=>time<s.end);if(index<0)index=slides.length-1;const s=slides[index];step=Math.min(s.steps,Math.floor((time-s.start)/(s.end-s.start)*(s.steps+1)));render();}
+function togglePlay(){if(playing){stop();return;}if(time>=235){go(0);}playing=true;lastStamp=performance.now();render();frame=requestAnimationFrame(tick);}
+function tick(stamp){frame=null;if(!playing)return;const dt=Math.max(0,(stamp-lastStamp)/1000);lastStamp=stamp;seek(time+dt);if(time>=235){stop();return;}frame=requestAnimationFrame(tick);}
+function toast(msg){clearTimeout(toastTimer);const el=document.getElementById('hint');el.textContent=msg;el.classList.add('visible');toastTimer=setTimeout(()=>el.classList.remove('visible'),2400);}
+function filming(){document.body.classList.toggle('filming');fit();if(document.body.classList.contains('filming'))toast('已净屏 · 按 H 或双击画面恢复控制栏');}
+async function fullscreen(){try{if(document.fullscreenElement)await document.exitFullscreen();else await document.documentElement.requestFullscreen();}catch(e){toast('请使用浏览器菜单进入全屏');}}
+let activeCase='sany';
+function renderCase(id){activeCase=id;const c=cases.find(x=>x.id===id)||cases[0];document.getElementById('caseNav').innerHTML=cases.map(x=>`<button data-case-select="${x.id}" class="${x.id===c.id?'selected':''}">${x.name}</button>`).join('');document.getElementById('caseDetail').innerHTML=`<h3>${c.name}</h3><p class="meta">${c.industry}</p><h4>实际看到什么</h4><p>${c.seen}</p><div class="domain-links">${c.urls.map(([label,url])=>`<a href="${url}" target="_blank" rel="noopener noreferrer">${label} ↗</a>`).join('')}</div><h4>工厂可以学什么</h4><p>${c.lesson}</p><h4>关系与证据口径</h4><p>${c.relation}</p><p style="margin-top:22px"><a href="${c.source}" target="_blank" rel="noopener noreferrer">查看原研究与逐站证据 ↗</a></p>`;}
+function updateBudget(){stop();const unit=Number(document.getElementById('unitCost').value),count=Number(document.getElementById('siteCount').value);document.getElementById('unitValue').textContent=unit+' 万';document.getElementById('sitesValue').textContent=count+' 个';document.getElementById('costValue').textContent=+(unit*count).toFixed(1)+' 万元';}
+function closePanels(){document.querySelectorAll('.panel').forEach(p=>p.hidden=true);if(returnFocus&&returnFocus.isConnected)returnFocus.focus();returnFocus=null;}
+function showPanel(id){stop();closePanels();returnFocus=document.activeElement;if(id==='cases')renderCase(activeCase);if(id==='notes'){const s=slides[index];document.getElementById('noteBody').innerHTML=`<h2>${String(index+1).padStart(2,'0')} · ${s.title}</h2><p class="meta">画面时码 ${fmt(s.start)}–${fmt(s.end)} · 沿用现有研究快照，多数案例沿用既有取证；三一德语分类与 Google 指南本次补读</p><h3>对应段落口播</h3><p class="script">${voice[s.group]}</p><h3>本屏讲解与证据边界</h3><p>${s.notes}</p>${s.sources.length?'<h3>研究与原始出处</h3><ul>'+s.sources.map(([url,label])=>`<li><a href="${url}" target="_blank" rel="noopener noreferrer">${label}</a></li>`).join('')+'</ul>':''}`;}if(id==='overview')document.getElementById('grid').innerHTML=slides.map((s,i)=>`<button data-go="${i}" class="${i===index?'current':''}"><span>${String(i+1).padStart(2,'0')}　${fmt(s.start)}–${fmt(s.end)}</span><b>${s.title.replace(/<[^>]*>/g,'')}</b></button>`).join('');document.getElementById(id).hidden=false;document.getElementById(id).querySelector('button').focus();}
+document.getElementById('casesBtn').onclick=()=>showPanel('cases');document.getElementById('caseNav').onclick=e=>{const b=e.target.closest('[data-case-select]');if(b){renderCase(b.dataset.caseSelect);document.querySelector(`[data-case-select="${activeCase}"]`).focus();}};stage.addEventListener('click',e=>{const b=e.target.closest('[data-case]');if(b){activeCase=b.dataset.case;showPanel('cases');}});document.getElementById('unitCost').onchange=updateBudget;document.getElementById('siteCount').onchange=updateBudget;document.getElementById('next').onclick=next;document.getElementById('prev').onclick=prev;document.getElementById('play').onclick=togglePlay;document.getElementById('restart').onclick=()=>go(index);document.getElementById('timeline').oninput=e=>{stop();seek(Number(e.target.value));};document.getElementById('film').onclick=filming;document.getElementById('fullscreen').onclick=fullscreen;document.getElementById('overviewBtn').onclick=()=>showPanel('overview');document.getElementById('notesBtn').onclick=()=>showPanel('notes');document.getElementById('helpBtn').onclick=()=>showPanel('help');document.querySelectorAll('.close').forEach(b=>b.onclick=closePanels);document.getElementById('grid').onclick=e=>{const b=e.target.closest('[data-go]');if(b){go(Number(b.dataset.go));closePanels();}};
+document.addEventListener('keydown',e=>{if(e.altKey||e.ctrlKey||e.metaKey)return;const panel=[...document.querySelectorAll('.panel')].find(p=>!p.hidden);if(panel){if(e.key==='Escape'){e.preventDefault();closePanels();}if(e.key==='Tab'){const focus=[...panel.querySelectorAll('button,a[href]')];const first=focus[0],last=focus[focus.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}}return;}if(e.target.matches('input,textarea,select')&&e.key!=='Escape')return;const k=e.key.toLowerCase();if(['arrowright','arrowleft','pagedown','pageup',' ','home','end','r','a','h','f','o','n','c','?','escape'].includes(k))e.preventDefault();switch(k){case'arrowright':next();break;case'arrowleft':prev();break;case'pagedown':go(index+1);break;case'pageup':go(index-1);break;case' ':togglePlay();break;case'home':go(0);break;case'end':go(slides.length-1,slides.at(-1).steps);break;case'r':go(index);break;case'a':go(index,slides[index].steps);break;case'h':filming();break;case'f':fullscreen();break;case'o':showPanel('overview');break;case'n':showPanel('notes');break;case'c':showPanel('cases');break;case'?':showPanel('help');break;case'escape':if(document.body.classList.contains('filming'))filming();break;}});
+let touchX=null,touchY=null;stage.addEventListener('touchstart',e=>{touchX=e.changedTouches[0].clientX;touchY=e.changedTouches[0].clientY;},{passive:true});stage.addEventListener('touchend',e=>{if(touchX===null)return;const dx=e.changedTouches[0].clientX-touchX,dy=e.changedTouches[0].clientY-touchY;if(Math.abs(dx)>55&&Math.abs(dx)>Math.abs(dy))dx<0?next():prev();touchX=null;},{passive:true});stage.ondblclick=()=>{if(document.body.classList.contains('filming'))filming();};window.addEventListener('resize',fit);document.addEventListener('fullscreenchange',fit);document.addEventListener('visibilitychange',()=>{if(document.hidden&&playing)stop();});
+const requested=Math.max(0,Math.min(slides.length-1,(Number(params.get('slide'))||1)-1));go(requested,params.get('all')==='1'?slides[requested].steps:0);fit();
+window.deck={go,next,prev,seek,stop,togglePlay,getState:()=>({index,step,time,playing,total:slides.length}),slides:slides.map(({title,start,end,steps})=>({title,start,end,steps}))};
+
+</script>
+</body></html>

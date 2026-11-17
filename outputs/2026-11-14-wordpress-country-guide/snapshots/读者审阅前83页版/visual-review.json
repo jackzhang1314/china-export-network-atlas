@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-11-14T16:00:54+08:00",
+  "pdf_sha256": "3218834a5cb680dbbe8d154cfeae4dee09ffc3cef66561b3ac2eea23d142bdb8",
+  "page_count": 83,
+  "all_pages_rendered": true,
+  "all_contact_sheets_reviewed": 7,
+  "detail_pages_reviewed": [
+    37,
+    41,
+    53,
+    83
+  ],
+  "last_revision_pages": [
+    37,
+    41,
+    83
+  ],
+  "last_revision_rendered_and_reviewed": true,
+  "observed_defects": [],
+  "render_dpi": 90,
+  "notes": "All pages inspected in contact sheets. New product-edit diagram, route comparison and learning/closing pages inspected at full image size. Minor paragraph and table wrapping refined; all changed pages re-rendered. Machine bounds, font, case and ZIP checks separately passed."
+}

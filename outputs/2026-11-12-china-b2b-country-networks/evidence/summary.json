@@ -1,0 +1,20 @@
+{
+  "groups": 21,
+  "tiers": {
+    "重点": 10,
+    "补充": 6,
+    "对照": 5
+  },
+  "http_rows": 415,
+  "unique_probe_inputs": 414,
+  "hosts": 355,
+  "query_count": 123,
+  "web_batches": 46,
+  "official_links": 133,
+  "official_link_counts": {
+    "福田": 41,
+    "上汽大通": 59,
+    "杭叉": 17,
+    "徐工": 16
+  }
+}

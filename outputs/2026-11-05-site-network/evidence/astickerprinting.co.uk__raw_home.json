@@ -1,0 +1,1037 @@
+{
+  "requested_url": "https://www.astickerprinting.co.uk/",
+  "observed_at": "2026-11-05T20:19:50.140608+08:00",
+  "status": 200,
+  "final_url": "https://www.astickerprinting.co.uk/",
+  "title": "Custom Sticker Printing UK | Stickers & Labels to Order",
+  "links": [
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/favicon.ico",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/favicon.ico",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com.au/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.com/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/css/asp-seo.css?v=20260916",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.googletagmanager.com/gtag/js?id=G-6DWVPF1J86",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/js/tm/lib/swiper/css/swiper.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/fontawesome/css/font-awesome.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/pe-icon-stroke/css/pe-icon-7-stroke.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/font-SVG/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/css/bootstrap/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/css/jquery.bxslider.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/demo3/css/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/base/default/css/widgets.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/base/default/css/codnitive/sidenav.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/blog/css/blog.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/css/magicaccordion.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/magicmenu/css/magicmenu.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/magicsocial/css/magicsocial.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/base/default/tm/easycatalogimg/css/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/base/default/tm/easyslide/css/easyslide.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/base/default/css/tm/testimonials.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/css/animate.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/magiccart/magicslider/css/magicslider.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/css/print.css",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/prototype/prototype.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/lib/ccard.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/prototype/validation.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/scriptaculous/builder.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/scriptaculous/effects.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/scriptaculous/dragdrop.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/scriptaculous/controls.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/scriptaculous/slider.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/varien/js.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/varien/form.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/varien/menu.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/mage/translate.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/mage/cookies.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/jquery.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/jquery.noconflict.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/bootstrap/bootstrap.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/plugin/jquery.bxslider.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/classie.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/plugin/jquery.ddslick.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/varien/product.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/varien/product_options.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/plugin/jquery.easing.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/jquery.alothemes.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/magicproduct.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/plugin/jquery.meanmenu.hack.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/magicaccordion.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/magiccart/magicmenu.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/js/lib/modernizr.custom.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/js/lib/selectivizr.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/js/lib/matchMedia.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/js/lib/matchMedia.addListener.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/js/lib/enquire.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/js/app.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/aloelectro/default/js/lib/imagesloaded.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/base/default/js/minicart.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/tm/lib/classList.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/js/tm/lib/swiper/js/swiper.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/base/default/tm/easyslide/js/easyslide.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.astickerprinting.co.uk/skin/frontend/base/default/js/tm/testimonials.js",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.astickerprinting.co.uk/blog/rss/index/store_id/1/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://wa.me/+442079936533?text=Hello%2C%20I%20am%20interested%20in%20astickers%20from%20astickerprinting.co.uk%20I%20need%20more%20details.",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com/",
+      "text": "United States astickerprinting.com"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": "United Kingdom astickerprinting.co.uk"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/",
+      "text": "Australia astickerprinting.com.au"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "Our Categories"
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Blank-Sticker-Printing",
+      "text": "Blank Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Bumper-Stickers",
+      "text": "Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Car-Stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Clear-Vinyl-Stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Custom-Stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Decal-Stickers",
+      "text": "Decal Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Foil-Stickers",
+      "text": "Foil Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Hologram-Stickers",
+      "text": "Hologram Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Letter-Cut-Stickers",
+      "text": "Letter Cut Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Metal-Stickers",
+      "text": "Metal Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Metallic-Stickers",
+      "text": "Metallic Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Reflective-Stickers",
+      "text": "Reflective Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Roll-Stickers",
+      "text": "Roll Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Static-Clings",
+      "text": "Static Clings"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Stickers-Paper",
+      "text": "Stickers Paper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/White-Vinyl-Stickers",
+      "text": "White Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Window-Stickers",
+      "text": "Window Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Animal-Wall-Stickers",
+      "text": "Animal Wall Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Branding-Stickers",
+      "text": "Branding Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Clothes-Stickers",
+      "text": "Clothes Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Dome-Stickers",
+      "text": "Dome Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "Our Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Blank-Sticker-Printing",
+      "text": "Blank Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Bumper-Stickers",
+      "text": "Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Car-Stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Clear-Vinyl-Stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Custom-Stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Decal-Stickers",
+      "text": "Decal Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Foil-Stickers",
+      "text": "Foil Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Custom Quotation"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com/",
+      "text": "United States astickerprinting.com"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": "United Kingdom astickerprinting.co.uk"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.com.au/",
+      "text": "Australia astickerprinting.com.au"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "Our Categories"
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Blank-Sticker-Printing",
+      "text": "Blank Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Bumper-Stickers",
+      "text": "Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Car-Stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Clear-Vinyl-Stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Custom-Stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Decal-Stickers",
+      "text": "Decal Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Foil-Stickers",
+      "text": "Foil Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Hologram-Stickers",
+      "text": "Hologram Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Letter-Cut-Stickers",
+      "text": "Letter Cut Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Metal-Stickers",
+      "text": "Metal Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Metallic-Stickers",
+      "text": "Metallic Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Reflective-Stickers",
+      "text": "Reflective Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Roll-Stickers",
+      "text": "Roll Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Static-Clings",
+      "text": "Static Clings"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Stickers-Paper",
+      "text": "Stickers Paper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/White-Vinyl-Stickers",
+      "text": "White Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Window-Stickers",
+      "text": "Window Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Animal-Wall-Stickers",
+      "text": "Animal Wall Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Branding-Stickers",
+      "text": "Branding Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Clothes-Stickers",
+      "text": "Clothes Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Dome-Stickers",
+      "text": "Dome Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "Our Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Blank-Sticker-Printing",
+      "text": "Blank Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Bumper-Stickers",
+      "text": "Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Car-Stickers",
+      "text": "Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Clear-Vinyl-Stickers",
+      "text": "Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Custom-Stickers",
+      "text": "Custom Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Decal-Stickers",
+      "text": "Decal Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Foil-Stickers",
+      "text": "Foil Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Custom Quotation"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Start Generating Quote"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "Browse Sticker Types"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.provenexpert.com/en-us/pdt-r-us/",
+      "text": "★★★★★ 4.96 / 5 250 reviews on ProvenExpert"
+    },
+    {
+      "tag": "a",
+      "href": "/Custom-Stickers",
+      "text": "Custom Stickers Logo, promotional and event stickers in the size and shape you specify, from simple circles to cut-to-outline designs. View custom stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/Custom-Labels",
+      "text": "Custom Labels Product, jar, bottle and packaging labels laid out around your branding and the information your product needs to carry. View custom labels"
+    },
+    {
+      "tag": "a",
+      "href": "/Custom-Vinyl-Stickers",
+      "text": "Vinyl Stickers Flexible vinyl for vehicles, windows, equipment and outdoor signage, where paper stock would not hold up. View vinyl stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/Custom-Waterproof-Stickers",
+      "text": "Waterproof Stickers Waterproof vinyl for water bottles, food tubs, bathroom products and anything that gets wet or washed. View waterproof stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Bumper-Stickers",
+      "text": "Bumper Stickers Short, bold messages sized to read from the car behind. View Bumper Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Car-Stickers",
+      "text": "Car Stickers Branding and graphics for car bodies and windows. View Car Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Clear-Vinyl-Stickers",
+      "text": "Clear Vinyl Stickers A transparent film that lets the surface show through your design. View Clear Vinyl Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Decal-Stickers",
+      "text": "Decal Stickers Cut lettering and graphics with no background around them. View Decal Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Foil-Stickers",
+      "text": "Foil Stickers A metallic finish for seals, badges and premium packaging. View Foil Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Hologram-Stickers",
+      "text": "Hologram Stickers A light-catching holographic film for packaging and promotions. View Hologram Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Roll-Labels",
+      "text": "Roll Labels Labels supplied on a roll for faster application by hand. View Roll Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Blank-Sticker-Printing",
+      "text": "Blank Stickers Unprinted stickers in your chosen size, shape and material. View Blank Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/Vinyl-Sticker-Printing",
+      "text": "Vinyl stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/Custom-Waterproof-Stickers",
+      "text": "Waterproof stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/Clear-Vinyl-Stickers",
+      "text": "Clear vinyl stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/Paper-Labels",
+      "text": "Paper labels"
+    },
+    {
+      "tag": "a",
+      "href": "/Foil-Stickers",
+      "text": "Foil stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/Hologram-Stickers",
+      "text": "Hologram stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/Reflective-Stickers",
+      "text": "Reflective stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/Laminated-Stickers",
+      "text": "Laminated stickers"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Ask for a Material Recommendation"
+    },
+    {
+      "tag": "a",
+      "href": "/artwork-guide/",
+      "text": "Read the Artwork Guide"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Start Generating Quote"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Ask us a question"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Custom Quotation →"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.provenexpert.com/en-us/pdt-r-us/",
+      "text": "Read them all on ProvenExpert"
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "tel:+442079936533",
+      "text": "Call 0207 993 6533"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Send us a message"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Request a custom quote"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/view-all-categories/",
+      "text": "Explore All Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Vinyl-Sticker-Printing",
+      "text": "Vinyl Sticker Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Business-Labels",
+      "text": "Business Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Barcode-Labels",
+      "text": "Barcode Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Custom-Labels",
+      "text": "Custom Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.astickerprinting.co.uk/Custom-Waterproof-Stickers",
+      "text": "Custom Waterproof Stickers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.provenexpert.com/en-us/pdt-r-us/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.provenexpert.com/en-us/pdt-r-us/",
+      "text": "4.96 / 5"
+    },
+    {
+      "tag": "a",
+      "href": "/about-us/",
+      "text": "About"
+    },
+    {
+      "tag": "a",
+      "href": "/privacy-policy/",
+      "text": "Privacy"
+    },
+    {
+      "tag": "a",
+      "href": "/shipping-and-returns/",
+      "text": "Shipping"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Contact"
+    }
+  ],
+  "telephone_links": [
+    "tel:+442079936533",
+    "wa.me/+442079936533?text=Hello%2C%20I%20am%20interested%20in%20astickers%20from%20astickerprinting.co.uk%20I%20need%20more%20details."
+  ],
+  "tracking_ids": [
+    "G-6DWVPF1J86",
+    "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+  ],
+  "external_domains": [
+    "cdn.jsdelivr.net",
+    "wa.me",
+    "www.astickerprinting.co.uk",
+    "www.astickerprinting.com",
+    "www.astickerprinting.com.au",
+    "www.googletagmanager.com",
+    "www.provenexpert.com"
+  ],
+  "footer_text": "Custom sticker and label printing for UK businesses: vinyl stickers, product labels and packaging stickers printed to your size and artwork, with a PDF proof before anything is printed. Call 0207 993 6533 Send us a message Request a custom quote Sticker Solutions Explore All Stickers Vinyl Sticker Printing Business Labels Barcode Labels Custom Labels Custom Waterproof Stickers Customer Reviews 4.96 / 5 ★★★★★ 250 reviews on ProvenExpert Payment Methods © 2026 AStickerPrinting.co.uk — Custom Sticker Printing UK About Privacy Shipping Contact"
+}

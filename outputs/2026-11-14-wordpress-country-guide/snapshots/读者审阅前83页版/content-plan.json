@@ -1,0 +1,49 @@
+{
+  "prior_authored_sections": 55,
+  "current_authored_sections": 64,
+  "added_sections": [
+    "operations",
+    "wp_stack",
+    "wp_editor",
+    "wp_seo",
+    "wp_team",
+    "wp_country",
+    "route_choice",
+    "hybrid",
+    "learning_path"
+  ],
+  "revised_sections": [
+    "start",
+    "mainplan",
+    "promise",
+    "static",
+    "domain_ops",
+    "materials",
+    "launch",
+    "budget",
+    "maintain",
+    "prompts_1",
+    "prompts_2",
+    "action",
+    "glossary_build",
+    "methods",
+    "resources"
+  ],
+  "removed_sections": [],
+  "persuasion_path": [
+    "先解释买家与国家域名，保留研究价值",
+    "以日常更新场景让读者识别后台需要",
+    "呈现Codex、Harness与WordPress的不同职责",
+    "具体展示产品编辑、内容SEO、多人协作与国家项目管理",
+    "公平比较静态站并给出组合方案",
+    "六项可展示实操结果引向系统学习，轻量透明地介绍课程"
+  ],
+  "unsupported_claims_excluded": [
+    "使用WordPress自动提升排名",
+    "每站免费且无限",
+    "所有字段全覆盖恢复",
+    "一键无限多国同步",
+    "案例使用本工具",
+    "90%学员两天满分等未核营销指标"
+  ]
+}

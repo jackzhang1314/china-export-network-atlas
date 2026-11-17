@@ -1,0 +1,30 @@
+[
+  {
+    "brand": "bestmediaservice",
+    "observed_at": "2026-11-05T23:37:16.161654+08:00",
+    "status": 502,
+    "bytes": 150,
+    "body": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+  },
+  {
+    "brand": "printinggood",
+    "observed_at": "2026-11-05T23:37:16.161393+08:00",
+    "status": 502,
+    "bytes": 150,
+    "body": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+  },
+  {
+    "brand": "pdtrus",
+    "observed_at": "2026-11-05T23:37:17.826456+08:00",
+    "status": 502,
+    "bytes": 150,
+    "body": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+  },
+  {
+    "brand": "cosmeticpackagingco",
+    "observed_at": "2026-11-05T23:37:17.843582+08:00",
+    "status": 502,
+    "bytes": 150,
+    "body": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+  }
+]

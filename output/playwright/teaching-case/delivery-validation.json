@@ -1,0 +1,24 @@
+{
+  "validated_at": "2026-11-06T17:30:04.104368+08:00",
+  "html": "/Users/Zhuanz1/Documents/ChatGPT/站群挖掘研究/outputs/2026-11-06-teaching-case/站群案例教学.html",
+  "bytes": 422937,
+  "sha256": "e893f160a00a07e8f2969632832bdd91067bfe1b0b09287e9711142f69cf5466",
+  "core": 47,
+  "historical": 1,
+  "reviewed": 60,
+  "facts": 29,
+  "queries": 21,
+  "browser_assertions_passed": 32,
+  "print_full_directory_rows": 60,
+  "desktop_horizontal_overflow": false,
+  "mobile_390_horizontal_overflow": false,
+  "render_external_resources": 0,
+  "csv_exports_validated": [
+    60,
+    29
+  ],
+  "direct_file_navigation_verified": false,
+  "offline_interaction_verified": true,
+  "research_as_of": "2026-11-05",
+  "limitations": "浏览器工具禁止file协议，未将直接file导航记录为通过；改以同一HTML经本地HTTP加载后断网检查。"
+}

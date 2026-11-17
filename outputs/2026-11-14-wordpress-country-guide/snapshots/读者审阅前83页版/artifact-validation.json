@@ -1,0 +1,119 @@
+{
+  "checked_at": "2026-11-14T15:59:53+08:00",
+  "pages": 83,
+  "outline_entries": 83,
+  "figures": 42,
+  "external_link_annotations": 718,
+  "unique_external_uris": 627,
+  "toc_target_pages": [
+    4,
+    12,
+    20,
+    27,
+    34,
+    52,
+    57,
+    60,
+    80
+  ],
+  "case_records": 125,
+  "groups": {
+    "主案例": 2,
+    "中国制造": 21,
+    "工业与 B2B": 71,
+    "跨行业与架构参照": 31
+  },
+  "case_number_name_map_preserved": true,
+  "missing_names": [],
+  "missing_codes": [],
+  "missing_domains": [],
+  "packaging_core_domains": 47,
+  "sany_core_domains": 25,
+  "fonts_checked": [
+    "ArialMT",
+    "OPPOSans-H",
+    "OPPOSans-R"
+  ],
+  "missing_glyphs": [],
+  "outside_page_safe_bounds": [],
+  "private_or_unrendered_text": [],
+  "malformed_uri_annotations": [],
+  "csv_shapes": {
+    "02_三一101对象分类表.csv": {
+      "data_rows": 101,
+      "columns": 8
+    },
+    "12_国家SEO月度观察表.csv": {
+      "data_rows": 10,
+      "columns": 23
+    },
+    "05_产品与语言对应表.csv": {
+      "data_rows": 10,
+      "columns": 19
+    },
+    "10_国家域名与发布配置表.csv": {
+      "data_rows": 10,
+      "columns": 23
+    },
+    "14_首站实操验收表.csv": {
+      "data_rows": 13,
+      "columns": 8
+    },
+    "08_询盘观察表.csv": {
+      "data_rows": 10,
+      "columns": 15
+    },
+    "03_包装60对象分类表.csv": {
+      "data_rows": 60,
+      "columns": 7
+    },
+    "06_竞品观察表.csv": {
+      "data_rows": 10,
+      "columns": 18
+    },
+    "04_首站启动表.csv": {
+      "data_rows": 24,
+      "columns": 4
+    },
+    "13_后台编辑与交接表.csv": {
+      "data_rows": 10,
+      "columns": 18
+    },
+    "07_维护记录表.csv": {
+      "data_rows": 10,
+      "columns": 16
+    },
+    "01_125组案例总表.csv": {
+      "data_rows": 125,
+      "columns": 12
+    },
+    "11_国家SEO内容规划表.csv": {
+      "data_rows": 10,
+      "columns": 18
+    }
+  },
+  "zip_members": [
+    "01_125组案例总表.csv",
+    "02_三一101对象分类表.csv",
+    "03_包装60对象分类表.csv",
+    "04_首站启动表.csv",
+    "05_产品与语言对应表.csv",
+    "06_竞品观察表.csv",
+    "07_维护记录表.csv",
+    "08_询盘观察表.csv",
+    "09_5组AI任务模板.md",
+    "10_国家域名与发布配置表.csv",
+    "11_国家SEO内容规划表.csv",
+    "12_国家SEO月度观察表.csv",
+    "13_后台编辑与交接表.csv",
+    "14_首站实操验收表.csv",
+    "AI外贸独立国家域名站群_WordPress运营版_125组案例与实操手册.pdf",
+    "先读我.txt"
+  ],
+  "zip_bad_member": null,
+  "zip_contains_identical_pdf": true,
+  "previous_version_unchanged": true,
+  "bytes": 814921,
+  "sha256": "3218834a5cb680dbbe8d154cfeae4dee09ffc3cef66561b3ac2eea23d142bdb8",
+  "scope": "Text, glyph coverage, page bounds, links, catalog coverage and archive integrity checked. External sites were not all revisited; no Skill or website deployment was tested. Visual inspection is recorded separately."
+}

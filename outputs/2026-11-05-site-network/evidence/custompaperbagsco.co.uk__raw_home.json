@@ -1,0 +1,567 @@
+{
+  "requested_url": "https://www.custompaperbagsco.co.uk/",
+  "observed_at": "2026-11-05T20:19:50.139659+08:00",
+  "status": 200,
+  "final_url": "https://www.custompaperbagsco.co.uk/",
+  "title": "Printed Paper Bags UK | Custom Paper Carrier Bags",
+  "links": [
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/favicon.ico",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/favicon-32x32.png",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/apple-touch-icon.png",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.com/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.com.au/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.com/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/wp-content/uploads/cpb-bags/fonts/Inter-400-latin.woff2",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/wp-content/uploads/cpb-bags/fonts/Newsreader-500-latin.woff2",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/wp-content/uploads/2020/10/Shoes-1.jpg",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.co.uk/wp-content/plugins/sublime-paperbags/assets/css/site-uk.css?v=1.0.5",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "tel:+442079936533",
+      "text": "0207 993 6533"
+    },
+    {
+      "tag": "a",
+      "href": "mailto:help@custompaperbagsco.co.uk",
+      "text": "help@custompaperbagsco.co.uk"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.custompaperbagsco.co.uk/",
+      "text": "United Kingdom custompaperbagsco.co.uk"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.custompaperbagsco.com/",
+      "text": "United States custompaperbagsco.com"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.custompaperbagsco.com.au/",
+      "text": "Australia custompaperbagsco.com.au"
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Bag types"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-kraft-bags/",
+      "text": "Kraft paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-laminated/",
+      "text": "Laminated bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-un-laminated/",
+      "text": "Un-laminated bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-twisted-handle-bags/",
+      "text": "Twisted handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-folded-handle-bags/",
+      "text": "Folded handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "Rope handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-counter-bags/",
+      "text": "Counter & block bottom"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Buy"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-carrier-bags/",
+      "text": "Paper carrier bags"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-paper-bags/",
+      "text": "Custom paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bags-wholesale-brown-paper-bags/",
+      "text": "Brown paper bags, wholesale"
+    },
+    {
+      "tag": "a",
+      "href": "/wholesale-paper-carrier-bags/",
+      "text": "Wholesale carrier bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-bags-products/",
+      "text": "The full range"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Sizes"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bag-sizes/",
+      "text": "Paper bag size chart"
+    },
+    {
+      "tag": "a",
+      "href": "/find-my-bag/",
+      "text": "Find my bag"
+    },
+    {
+      "tag": "a",
+      "href": "/request-a-sample/",
+      "text": "Request a sample"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Trades"
+    },
+    {
+      "tag": "a",
+      "href": "/choose-your-industry/",
+      "text": "All trades"
+    },
+    {
+      "tag": "a",
+      "href": "/retail-paper-bags/",
+      "text": "Shops & high street"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "Boutiques & clothing"
+    },
+    {
+      "tag": "a",
+      "href": "/takeaway-paper-bags/",
+      "text": "Takeaway & food to go"
+    },
+    {
+      "tag": "a",
+      "href": "/bakery-paper-bags/",
+      "text": "Bakeries"
+    },
+    {
+      "tag": "a",
+      "href": "/coffee-shop-paper-bags/",
+      "text": "Cafes & coffee shops"
+    },
+    {
+      "tag": "a",
+      "href": "/pharmacy-paper-bags/",
+      "text": "Pharmacies"
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-paper-bags/",
+      "text": "Salons & beauty"
+    },
+    {
+      "tag": "a",
+      "href": "/gift-paper-bags/",
+      "text": "Gifting"
+    },
+    {
+      "tag": "a",
+      "href": "/jewellery-paper-bags/",
+      "text": "Jewellery"
+    },
+    {
+      "tag": "a",
+      "href": "/promotional-paper-bags/",
+      "text": "Events & promotion"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Company"
+    },
+    {
+      "tag": "a",
+      "href": "/about-us/",
+      "text": "About us"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Contact us"
+    },
+    {
+      "tag": "a",
+      "href": "/are-paper-bags-recyclable/",
+      "text": "Are paper bags recyclable?"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bags-vs-plastic-bags/",
+      "text": "Paper vs plastic"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Request a quote"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Request a quote"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bag-sizes/",
+      "text": "See the size chart"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-kraft-bags/",
+      "text": "Kraft paper bags Unbleached brown kraft, 180-250gsm. The everyday British carrier: strong, cheap to print, recyclable with the paper. Twisted, rope or die-cut h"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-laminated/",
+      "text": "Laminated bags Matt or gloss film over the print. Holds colour under rain and handling, so it suits salons, hotels and premium retail. Rope or ribbon handles"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-un-laminated/",
+      "text": "Un-laminated bags Coated board with no film. A quieter, paper-first finish that boutiques tend to prefer. Ribbon or cotton handles"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-twisted-handle-bags/",
+      "text": "Twisted handle bags Machine made or overprinted, white or brown kraft. The workhorse of the high street counter. Twisted paper handles"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-folded-handle-bags/",
+      "text": "Folded handle bags Flat paper handles glued inside or out. Packs down small, stacks well, carries a full order without tearing. Internal or external handles"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "Rope handle bags Heavier board with cotton or PP rope. What you reach for when the bag has to look like part of the product. Rope, ribbon or herringbone"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-counter-bags/",
+      "text": "Counter & block bottom Flat counter bags and block bottom bags that stand open while you fill them. Greaseproof stock available. No handles, strung or unstrung"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bag-sizes/",
+      "text": "The full size chart"
+    },
+    {
+      "tag": "a",
+      "href": "/retail-paper-bags/",
+      "text": "Shops & high street"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "Boutiques"
+    },
+    {
+      "tag": "a",
+      "href": "/takeaway-paper-bags/",
+      "text": "Takeaway"
+    },
+    {
+      "tag": "a",
+      "href": "/bakery-paper-bags/",
+      "text": "Bakeries"
+    },
+    {
+      "tag": "a",
+      "href": "/coffee-shop-paper-bags/",
+      "text": "Cafes"
+    },
+    {
+      "tag": "a",
+      "href": "/restaurant-paper-bags/",
+      "text": "Restaurants"
+    },
+    {
+      "tag": "a",
+      "href": "/pharmacy-paper-bags/",
+      "text": "Pharmacies"
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-paper-bags/",
+      "text": "Salons & beauty"
+    },
+    {
+      "tag": "a",
+      "href": "/gift-paper-bags/",
+      "text": "Gifting"
+    },
+    {
+      "tag": "a",
+      "href": "/jewellery-paper-bags/",
+      "text": "Jewellery"
+    },
+    {
+      "tag": "a",
+      "href": "/grocery-paper-bags/",
+      "text": "Grocers"
+    },
+    {
+      "tag": "a",
+      "href": "/promotional-paper-bags/",
+      "text": "Events"
+    },
+    {
+      "tag": "a",
+      "href": "/ecommerce-paper-bags/",
+      "text": "Online orders"
+    },
+    {
+      "tag": "a",
+      "href": "/chain-retail-paper-bags/",
+      "text": "Multi-site retail"
+    },
+    {
+      "tag": "a",
+      "href": "/pharmacy-paper-bags/",
+      "text": "Pharmacies Prescription bags printed to NHS and private dispensary requirements, in sizes that take a box and a leaflet. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "/takeaway-paper-bags/",
+      "text": "Takeaway & food to go Greaseproof-lined and block bottom bags that hold heat and do not give way on the walk home. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-paper-bags/",
+      "text": "Salons & beauty Gloss laminated board with ribbon handles - small bags that still feel like part of the treatment. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "Boutiques & clothing Deeper gussets for folded garments, ribbon or rope handles, and a finish that photographs well. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "/gift-paper-bags/",
+      "text": "Gifting & hotels Heavier board, rope handles and foil or emboss where the bag is part of the gift. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "/retail-paper-bags/",
+      "text": "Shops & high street Twisted handle kraft for everyday sales, laminated bags for the lines you want remembered. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "tel:+442079936533",
+      "text": "Call the office"
+    },
+    {
+      "tag": "a",
+      "href": "mailto:help@custompaperbagsco.co.uk",
+      "text": "Email artwork and quantities"
+    },
+    {
+      "tag": "a",
+      "href": "/find-my-bag/",
+      "text": "Find my bag"
+    },
+    {
+      "tag": "a",
+      "href": "tel:+442079936533",
+      "text": "0207 993 6533"
+    },
+    {
+      "tag": "a",
+      "href": "mailto:help@custompaperbagsco.co.uk",
+      "text": "help@custompaperbagsco.co.uk"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-kraft-bags/",
+      "text": "Kraft paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-laminated/",
+      "text": "Laminated bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-un-laminated/",
+      "text": "Un-laminated bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-twisted-handle-bags/",
+      "text": "Twisted handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-folded-handle-bags/",
+      "text": "Folded handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "Rope handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-counter-bags/",
+      "text": "Counter & block bottom"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-carrier-bags/",
+      "text": "Paper carrier bags"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-paper-bags/",
+      "text": "Custom paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bags-wholesale-brown-paper-bags/",
+      "text": "Brown paper bags, wholesale"
+    },
+    {
+      "tag": "a",
+      "href": "/wholesale-paper-carrier-bags/",
+      "text": "Wholesale carrier bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-bags-products/",
+      "text": "The full range"
+    },
+    {
+      "tag": "a",
+      "href": "/about-us/",
+      "text": "About us"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Contact us"
+    },
+    {
+      "tag": "a",
+      "href": "/are-paper-bags-recyclable/",
+      "text": "Are paper bags recyclable?"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bags-vs-plastic-bags/",
+      "text": "Paper vs plastic"
+    },
+    {
+      "tag": "a",
+      "href": "/privacy-policy/",
+      "text": "Privacy"
+    },
+    {
+      "tag": "a",
+      "href": "/terms-and-conditions/",
+      "text": "Terms"
+    },
+    {
+      "tag": "a",
+      "href": "/shipping-and-returns/",
+      "text": "Delivery & returns"
+    },
+    {
+      "tag": "script",
+      "href": "https://www.custompaperbagsco.co.uk/wp-content/plugins/sublime-paperbags/assets/js/site-uk.js?v=1.0.5",
+      "text": ""
+    }
+  ],
+  "telephone_links": [
+    "tel:+442079936533"
+  ],
+  "tracking_ids": [
+    "data-tf-hidden=\"wcode=CPRBCOUK",
+    "data-tf-widget=\"kjn8PA"
+  ],
+  "external_domains": [
+    "www.custompaperbagsco.co.uk",
+    "www.custompaperbagsco.com",
+    "www.custompaperbagsco.com.au"
+  ],
+  "footer_text": "Printed paper bags and carrier bags for British shops, salons, pharmacies and food businesses. Made to your measurement, proofed before press. 0207 993 6533 help@custompaperbagsco.co.uk Bags Kraft paper bags Laminated bags Un-laminated bags Twisted handle bags Folded handle bags Rope handle bags Counter & block bottom Buy Paper carrier bags Custom paper bags Brown paper bags, wholesale Wholesale carrier bags The full range Company About us Contact us Are paper bags recyclable? Paper vs plastic © 2026 Custom Paper Bags Co Privacy · Terms · Delivery & returns"
+}

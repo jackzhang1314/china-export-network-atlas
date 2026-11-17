@@ -1,0 +1,183 @@
+{
+  "checkedAt": "2026-11-12T08:59:40.155Z",
+  "browser": "157.0.8103.78",
+  "checks": [
+    {
+      "name": "12 screens",
+      "pass": true
+    },
+    {
+      "name": "exact opening",
+      "pass": true
+    },
+    {
+      "name": "manual next screen",
+      "pass": true
+    },
+    {
+      "name": "manual incremental reveal",
+      "pass": true
+    },
+    {
+      "name": "manual previous reveal",
+      "pass": true
+    },
+    {
+      "name": "reveal all current screen",
+      "pass": true
+    },
+    {
+      "name": "replay resets current screen",
+      "pass": true
+    },
+    {
+      "name": "autoplay advances clock",
+      "pass": true
+    },
+    {
+      "name": "pause freezes clock",
+      "pass": true
+    },
+    {
+      "name": "notes contain voiceover and provenance",
+      "pass": true
+    },
+    {
+      "name": "overview contains 12 destinations",
+      "pass": true
+    },
+    {
+      "name": "jump to selected screen",
+      "pass": true
+    },
+    {
+      "name": "clean filming hides controls",
+      "pass": true
+    },
+    {
+      "name": "double click restores controls",
+      "pass": true
+    },
+    {
+      "name": "fullscreen entry",
+      "pass": true
+    },
+    {
+      "name": "stops at 03:55 on last screen",
+      "pass": true
+    },
+    {
+      "name": "continuous script timing",
+      "pass": true
+    },
+    {
+      "name": "no horizontal text overflow or canvas clipping at 1920×1080",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "canvas fits 1280×720",
+      "pass": true
+    },
+    {
+      "name": "canvas and controls fit mobile viewport",
+      "pass": true
+    },
+    {
+      "name": "reduced motion respected",
+      "pass": true
+    },
+    {
+      "name": "offline opening works",
+      "pass": true
+    },
+    {
+      "name": "no remote requests required",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "no JavaScript errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "bounds": [
+    {
+      "slide": 1,
+      "overflow": []
+    },
+    {
+      "slide": 2,
+      "overflow": []
+    },
+    {
+      "slide": 3,
+      "overflow": []
+    },
+    {
+      "slide": 4,
+      "overflow": []
+    },
+    {
+      "slide": 5,
+      "overflow": []
+    },
+    {
+      "slide": 6,
+      "overflow": []
+    },
+    {
+      "slide": 7,
+      "overflow": []
+    },
+    {
+      "slide": 8,
+      "overflow": []
+    },
+    {
+      "slide": 9,
+      "overflow": []
+    },
+    {
+      "slide": 10,
+      "overflow": []
+    },
+    {
+      "slide": 11,
+      "overflow": []
+    },
+    {
+      "slide": 12,
+      "overflow": []
+    }
+  ],
+  "errors": [],
+  "finalPlaybackChecks": [
+    {
+      "name": "rapid playback toggle remains stable",
+      "pass": true
+    },
+    {
+      "name": "pause cancels scheduled frame",
+      "pass": true
+    },
+    {
+      "name": "updated timer stops at 235 seconds",
+      "pass": true
+    },
+    {
+      "name": "all referenced local research files exist",
+      "pass": true,
+      "missing": []
+    },
+    {
+      "name": "no JavaScript errors after timer update",
+      "pass": true,
+      "errors": []
+    }
+  ],
+  "finalCheckedAt": "2026-11-12T09:01:17.435Z",
+  "htmlSha256": "abb0eff62420818c2ff9808196093b1f103fa18f19425dcf3b3a8d60b5391d3e",
+  "imageCount": 12
+}

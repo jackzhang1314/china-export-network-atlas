@@ -1,0 +1,4059 @@
+{
+  "requested_url": "https://www.smallcustomboxes.com/",
+  "observed_at": "2026-11-05T20:19:53.365783+08:00",
+  "status": 200,
+  "final_url": "https://www.smallcustomboxes.com/",
+  "title": "Buy Small Custom Boxes | Custom Packaging Boxes Wholesale",
+  "links": [
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/favicon.ico",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/favicon.ico",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/js/tm/lib/swiper/css/swiper.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/plugin/fontawesome/css/font-awesome.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/plugin/pe-icon-stroke/css/pe-icon-7-stroke.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/plugin/font-SVG/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/plugin/css/bootstrap/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/plugin/css/jquery.bxslider.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/css/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/base/default/css/widgets.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/base/default/css/codnitive/sidenav.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/blog/css/blog.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/plugin/css/magicaccordion.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/magicmenu/css/magicmenu.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/magicsocial/css/magicsocial.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/base/default/css/cookienotice/cookienotice.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/base/default/tm/easycatalogimg/css/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/base/default/tm/easyslide/css/easyslide.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/base/default/css/tm/testimonials.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/plugin/css/animate.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/magiccart/magicslider/css/magicslider.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/css/print.css",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/prototype/prototype.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/lib/ccard.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/prototype/validation.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/scriptaculous/builder.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/scriptaculous/effects.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/scriptaculous/dragdrop.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/scriptaculous/controls.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/scriptaculous/slider.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/varien/js.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/varien/form.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/varien/menu.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/mage/translate.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/mage/cookies.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/jquery.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/jquery.noconflict.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/bootstrap/bootstrap.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/plugin/jquery.bxslider.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/classie.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/plugin/jquery.ddslick.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/varien/product.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/varien/product_options.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/plugin/jquery.easing.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/jquery.alothemes.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/magicproduct.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/plugin/jquery.meanmenu.hack.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/magicaccordion.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/magiccart/magicmenu.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/js/lib/modernizr.custom.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/js/lib/selectivizr.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/js/lib/matchMedia.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/js/lib/matchMedia.addListener.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/js/lib/enquire.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/js/app.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/aloelectro/default/js/lib/imagesloaded.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/base/default/js/minicart.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/tm/lib/classList.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/js/tm/lib/swiper/js/swiper.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/base/default/tm/easyslide/js/easyslide.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.smallcustomboxes.com/skin/frontend/base/default/js/tm/testimonials.js",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "//fonts.googleapis.com/css?family=Open+Sans",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.googletagmanager.com/gtag/js?id=UA-134742821-1",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://wa.me/16463890938?text=Hello%2C%20I%20am%20interested%20in%20small%20boxes%20from%20smallcustomboxes.com.%20I%20need%20more%20details.",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "tel:6463890938",
+      "text": "Call Us: 646 389 0938"
+    },
+    {
+      "tag": "a",
+      "href": "mailto:admin@smallcustomboxes.com",
+      "text": "help@smallcustomboxes.com"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Quote"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/",
+      "text": ""
+    },
+    {
+      "tag": "form",
+      "href": "https://www.smallcustomboxes.com/catalogsearch/result/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.provenexpert.com/pdt-r-us/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/by-industry.html",
+      "text": "By Industry"
+    },
+    {
+      "tag": "a",
+      "href": "/small-product-packaging-boxes/",
+      "text": "Small Product Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-mini-kraft-boxes/",
+      "text": "We Offer Custom Mini Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/small-cardboard-display-shipping-box-packaging/",
+      "text": "Buy small shipping boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-small-cardboard-boxes-for-sales/",
+      "text": "Small Cardboard Boxes For Sale"
+    },
+    {
+      "tag": "a",
+      "href": "/buy-small-packaging-boxes-wholesale/",
+      "text": "Packaging Boxes Wholesale"
+    },
+    {
+      "tag": "a",
+      "href": "/small-food-packaging-boxes/",
+      "text": "Small Food Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/small-corrugated-boxes-containers/",
+      "text": "Buy Corrugated Small Box"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-cosmetic-box-packaging/",
+      "text": "Cosmetic packaging printing"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-cosmetic-display-packaging-boxes/",
+      "text": "Custom Cosmetic Display Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-skincare-packaging-boxes/",
+      "text": "Custom Skincare Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-makeup-packaging-boxes/",
+      "text": "Makeup Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-cardboard-cosmetic-packaging-manufacturer/",
+      "text": "Cardboard Packaging Manufacturer"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-cosmetic-packaging-boxes/",
+      "text": "Custom Cosmetic Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "/small-custom-beauty-packaging-boxes/",
+      "text": "Custom Small Cosmetic"
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-box-packaging-product-suppliers/",
+      "text": "Cosmetic Box Packaging Suppliers"
+    },
+    {
+      "tag": "a",
+      "href": "/makeup-boxes/",
+      "text": "Makeup Boxes packaging"
+    },
+    {
+      "tag": "a",
+      "href": "/perfume-boxes",
+      "text": "Perfume Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-packaging.html",
+      "text": "CBD Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-boxes.html",
+      "text": "CBD Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-oil-packaging.html",
+      "text": "CBD oil packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/vape-packaging.html",
+      "text": "Vape Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/vape-mods-packaging.html",
+      "text": "Vape mods packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/e-cigarette-boxes.html",
+      "text": "E-Cigarette Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/fish-oil-packaging-boxes.html",
+      "text": "Fish Oil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cosmetic-boxes.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cream-boxes.html",
+      "text": "Cream Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eyeliner-boxes.html",
+      "text": "Eyeliner Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eyeshadow-boxes.html",
+      "text": "Eyeshadow Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/foundation-boxes.html",
+      "text": "Foundation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/hair-extension-boxes.html",
+      "text": "Hair Extension Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/hairspray-boxes.html",
+      "text": "Hairspray Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/lip-balm-boxes.html",
+      "text": "Lip Balm Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/lip-gloss-boxes.html",
+      "text": "Lip Gloss Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/lipstick-boxes.html",
+      "text": "Lipstick Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/lotion-boxes.html",
+      "text": "Lotion Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/makeup-boxes.html",
+      "text": "Makeup Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/mascara-boxes.html",
+      "text": "Mascara Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/nail-polish-boxes.html",
+      "text": "Nail Polish Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/perfume-boxes.html",
+      "text": "Perfume Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cosmetic-boxes-18.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tights-packaging-boxes.html",
+      "text": "Tights Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/socks-packaging.html",
+      "text": "Socks Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/latex-glove-boxes.html",
+      "text": "Latex glove boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/foldable-hair-extension-boxes.html",
+      "text": "Foldable Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/face-mask-packaging-boxes.html",
+      "text": "Face Mask Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/custom-printed-hair-extension-boxes.html",
+      "text": "Hair Extension Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/display-packaging.html",
+      "text": "Display Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cosmetic-display-boxes.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/display-boxes.html",
+      "text": "Display Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/display-packagings.html",
+      "text": "Display Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/window-packaging-boxes.html",
+      "text": "Window Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pop-up-display-boxes.html",
+      "text": "Pop up Display Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eco-friendly-boxes.html",
+      "text": "Eco Friendly Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bux-board-boxes.html",
+      "text": "Bux Board Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/kraft-boxes.html",
+      "text": "Kraft Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/food-boxes.html",
+      "text": "Food Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/food-and-beverage.html",
+      "text": "Food And Beverage"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bakery-boxes.html",
+      "text": "Bakery Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cake-boxes.html",
+      "text": "Cake Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/candy-boxes.html",
+      "text": "Candy Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cereal-boxes.html",
+      "text": "Cereal Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/chinese-takeout-boxes.html",
+      "text": "Chinese Takeout Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/chinese-food-boxes.html",
+      "text": "Chinese Food Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/chocolate-boxes.html",
+      "text": "Chocolate Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/coffee-boxes.html",
+      "text": "Coffee Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cookie-boxes.html",
+      "text": "Cookie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cupcake-boxes.html",
+      "text": "CupCake Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/donut-boxes.html",
+      "text": "Donut Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/macaron-boxes.html",
+      "text": "Macaron Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/muffin-boxes.html",
+      "text": "Muffin Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/noodle-boxes.html",
+      "text": "Noodle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pastry-boxes.html",
+      "text": "Pastry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pie-boxes.html",
+      "text": "Pie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pizza-boxes.html",
+      "text": "Pizza Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/popcorn-boxes.html",
+      "text": "Popcorn Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/snack-boxes.html",
+      "text": "Snack Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tea-boxes.html",
+      "text": "Tea Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/truffle-boxes.html",
+      "text": "Truffle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/wine-boxes.html",
+      "text": "Wine Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/masala-packaging-boxes.html",
+      "text": "Masala Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cream-butter-packaging.html",
+      "text": "Cream Butter Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/biscuit-packaging-boxes.html",
+      "text": "Biscuit Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gift-boxes.html",
+      "text": "Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/favor-boxes.html",
+      "text": "Favor Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-box.html",
+      "text": "Gable Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-boxes.html",
+      "text": "Gable Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gift-card-boxes.html",
+      "text": "Gift Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/handle-boxes.html",
+      "text": "Handle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/ornament-boxes.html",
+      "text": "Ornament Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/metalized-boxes.html",
+      "text": "Metalized Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gold-foil-boxes.html",
+      "text": "Gold Foil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/silver-foil-boxes.html",
+      "text": "Silver Foil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/retail-boxes.html",
+      "text": "Retail Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/charity-boxes.html",
+      "text": "Charity Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bottle-packaging-boxes.html",
+      "text": "Bottle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cup-jar-sleeve-packaging.html",
+      "text": "Cup Jar Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/jar-candle-packaging-boxes.html",
+      "text": "Jar Candle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tuck-end-boxes.html",
+      "text": "Tuck End Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/archive-boxes.html",
+      "text": "Archive Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/book-boxes.html",
+      "text": "Book Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/business-card-boxes.html",
+      "text": "Business Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/candle-boxes.html",
+      "text": "Candle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cardboard-boxes.html",
+      "text": "Cardboard Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cd-dvd-storage-boxes.html",
+      "text": "CD/DVD Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/corrugated-boxes.html",
+      "text": "Corrugated Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cigarette-boxes.html",
+      "text": "Cigarette Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cube-boxes.html",
+      "text": "Cube Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/custom-boxes.html",
+      "text": "Custom Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/die-cut-boxes.html",
+      "text": "Die Cut Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/folding-boxes.html",
+      "text": "Folding Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/game-boxes.html",
+      "text": "Game Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/invitation-boxes.html",
+      "text": "Invitation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/medicine-boxes.html",
+      "text": "Medicine Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pillow-boxes.html",
+      "text": "Pillow Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/playing-card-boxes.html",
+      "text": "Playing Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/postage-boxes.html",
+      "text": "Postage Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/presentation-boxes.html",
+      "text": "Presentation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/product-boxes.html",
+      "text": "Product Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pyramid-boxes.html",
+      "text": "Pyramid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/shirt-boxes.html",
+      "text": "Shirt Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sleeve-boxes.html",
+      "text": "Sleeve Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/soap-boxes.html",
+      "text": "Soap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/software-boxes.html",
+      "text": "Software Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sports-boxes.html",
+      "text": "Sports Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/suitcase-boxes.html",
+      "text": "Suitcase Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/toy-boxes.html",
+      "text": "Toy Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/wedding-card-boxes.html",
+      "text": "Wedding Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/white-boxes.html",
+      "text": "White Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/window-boxes.html",
+      "text": "Window Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/thread-packaging-boxes.html",
+      "text": "Thread Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/wrap-boxes.html",
+      "text": "Wrap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/stationary-packaging-boxes.html",
+      "text": "Stationary boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/swimwear-boxes.html",
+      "text": "Swimwear Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/promotional-boxes.html",
+      "text": "Promotional Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/mobile-accessory-packaging-boxes.html",
+      "text": "Mobile Accessory Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/fidget-spinner-packaging-boxes.html",
+      "text": "Fidget Spinner Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eye-drops-packaging-boxes.html",
+      "text": "Eye Drops Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/golf-ball-boxes.html",
+      "text": "Golf Ball boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/energy-saver-packaging-boxes.html",
+      "text": "Energy Saver Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/compact-blushes-boxes.html",
+      "text": "Compact Blushes Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/electric-devices-packaging.html",
+      "text": "Electric Devices Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/belt-packaging-boxes.html",
+      "text": "Belt Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bandage-packaging.html",
+      "text": "Bandage Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bath-bomb-packaging.html",
+      "text": "Bath Bomb Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/ballot-boxes.html",
+      "text": "Ballot Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/auto-lock-bottom-boxes.html",
+      "text": "Autolock Bottom Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tamp-on-packaging-boxes.html",
+      "text": "Tamp On Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/spinning-wheel-chart-packaging-boxes.html",
+      "text": "Spinning Wheel Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/e-liquid.html",
+      "text": "E Liquid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tie-boxes.html",
+      "text": "Tie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/reverse-tuck-end-tea-boxes.html",
+      "text": "Tuck End Tea Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/stress-release-toys-packaging.html",
+      "text": "Stress Toys Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/other-boxes.html",
+      "text": "Other Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/by-box-style.html",
+      "text": "By Box Style"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bottom-closure.html",
+      "text": "Bottom Closure"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/1-2-3-bottom.html",
+      "text": "1-2-3 Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/4-pk-bottle-carrier.html",
+      "text": "4 Pk Bottle Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/auto-bottom-tray.html",
+      "text": "Auto Bottom Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/auto-bottom-with-display-lid.html",
+      "text": "A Bottom Display Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/full-flap-auto-bottom.html",
+      "text": "Full Flap Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/handle-bag-shape-box.html",
+      "text": "Handle Bag Shape Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/seal-end-auto-bottom.html",
+      "text": "Seal End Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/six-pk-bottle-carrier.html",
+      "text": "Six Pk Bottle Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tuck-end-cover.html",
+      "text": "Tuck End Cover"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tuck-with-bellow-dust-flap-lock.html",
+      "text": "Tuck Dust Flap Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cd-covers.html",
+      "text": "CD Covers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bookend-cd-case.html",
+      "text": "Bookend CD Case"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/four-panel-cd-jacket.html",
+      "text": "Four Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/two-panel-cd-jacket.html",
+      "text": "Two Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/six-panel-cd-jacket.html",
+      "text": "Six Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/figure-and-pattern.html",
+      "text": "Figure and Pattern"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bowl-sleeve.html",
+      "text": "Bowl Sleeve"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cube-shaped-carrier.html",
+      "text": "Cube Shaped Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/disc-folder.html",
+      "text": "Disc Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-glue-side-wall.html",
+      "text": "Double Glue Side Wall"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-locked-wall-lid.html",
+      "text": "D Locked Wall Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-tray.html",
+      "text": "Double Wall Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/economy-disc-folder.html",
+      "text": "Economy Disc Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/fence-partitions.html",
+      "text": "Fence Partitions"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/foot-lock-tray.html",
+      "text": "Foot Lock Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/full-flat-double-tray.html",
+      "text": "Full Flat Double Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-bag.html",
+      "text": "Gable Bag"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/glass-carrier.html",
+      "text": "Glass Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/ice-cream-cone-holder.html",
+      "text": "Ice Cream Holder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/piece-tray-with-reinforced-side-wall.html",
+      "text": "Piece Tray Side Wall"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/punch-partition.html",
+      "text": "Punch Partition"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/regular-six-corner.html",
+      "text": "Regular Six Corner"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/side-lock-six-corner.html",
+      "text": "Side Lock Six Corner"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sleeve-with-product-retainers.html",
+      "text": "Sleeve With Retainers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sleeve-with-cap-lock.html",
+      "text": "Sleeve With Cap Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sleeve-with-tapered-side-panel.html",
+      "text": "Sleeve Tapered Panel"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/fold-and-assemble.html",
+      "text": "Fold and Assemble"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bookend.html",
+      "text": "Bookend"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/box-with-hanging-and-locking-tabs.html",
+      "text": "Box With Locking Tabs"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-tuck-front.html",
+      "text": "D Wall Tuck Front"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/four-corner-cake-box.html",
+      "text": "Four Corner Cake Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/french-fry-boxes.html",
+      "text": "French Fry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-box-auto-bottom.html",
+      "text": "G Box Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/half-circular-interlocking.html",
+      "text": "Half Circular Interlock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/header-card.html",
+      "text": "Header Card"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/hexagon.html",
+      "text": "Hexagon"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/hexagon-2-pc.html",
+      "text": "Hexagon 2 PC"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/square-box-with-ladder-top.html",
+      "text": "Box With Ladder Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/self-locked-counter-display-tray.html",
+      "text": "Self-Lock Counter Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/t-box.html",
+      "text": "T Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tray-and-sleeve-box.html",
+      "text": "Tray And Sleeve Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/rectangular.html",
+      "text": "Rectangular"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/dispenser.html",
+      "text": "Dispenser"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-glued-side-wall-tray-and-sleeve.html",
+      "text": "Double Glued Side Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/flip-out-open-dispenser-box.html",
+      "text": "Flip Out Dispenser Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/four-corner-tray.html",
+      "text": "Four Corner Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/full-overlap-seal-end.html",
+      "text": "Full Overlap Seal End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/multi-purpose-header.html",
+      "text": "Multi Purpose Header"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/panel-hanger-snap-lock-bottom.html",
+      "text": "Panel Hanger Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/perforated-dispenser-box.html",
+      "text": "Perfor Dispenser Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pinch-lock-tray.html",
+      "text": "Pinch Lock Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/reverse-tuck-end.html",
+      "text": "Reverse Tuck End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/reverse-tuck-end-with-lock.html",
+      "text": "Reverse Tuck End Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/roll-end-tray.html",
+      "text": "Roll End Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/roll-end-tuck-top.html",
+      "text": "Roll End Tuck Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/roll-ends-with-lid.html",
+      "text": "Roll Ends With Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/seal-end.html",
+      "text": "Seal End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/seal-end-with-tear-open.html",
+      "text": "Seal End Tear Open"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/seal-end-with-tear-open-and-lock.html",
+      "text": "Seal End Open Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/straight-tuck-end.html",
+      "text": "Straight Tuck End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/simplex-tray.html",
+      "text": "Simplex Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/straight-tuck-with-customizable-window.html",
+      "text": "S Tuck Window Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/straight-tuck-with-rise-up-insert.html",
+      "text": "Straight Tuck  Rise Up"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/triangular-tray-lid.html",
+      "text": "Triangular Tray Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tuck-end-auto-bottom.html",
+      "text": "Tuck End Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/showcase-exhibit.html",
+      "text": "Showcase Exhibit"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/1-2-3-bottom-display-lid.html",
+      "text": "1-2-3 Bottom D Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/4-corner-tray-tuck-top.html",
+      "text": "4 Corner Tray Tuck"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/4-corner-tray-with-lid.html",
+      "text": "4 Corner Tray Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/auto-lock-cap.html",
+      "text": "Auto Lock Cap"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bag-shaped-box-auto-bottom.html",
+      "text": "Bag Shaped Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/brochure-display-holder.html",
+      "text": "Brochure D Holder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/display-box-auto-bottom.html",
+      "text": "Display Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/door-hanger.html",
+      "text": "Door Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-display-lid.html",
+      "text": "D Wall Display Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-frame-tray.html",
+      "text": "D Wall Frame Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-frame-tray-lid.html",
+      "text": "D Wall Frame Tray Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-tuck-top.html",
+      "text": "Double Wall Tuck Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/easel-counter-display.html",
+      "text": "Easel Counter Display"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/easel-display-stand.html",
+      "text": "Easel Display Stand"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/five-panel-hanger.html",
+      "text": "Five Panel Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/folder-business-card.html",
+      "text": "Folder Business Card"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/four-corner-with-display-lid.html",
+      "text": "Four Corner Lid Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/hanger-product-holder.html",
+      "text": "Hanger Product"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/header-card-bag-topper.html",
+      "text": "Header Card Bag"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/mailer-with-zipper.html",
+      "text": "Mailer With Zipper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/paper-brief-case.html",
+      "text": "Paper Brief Case"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/prism-shaped-box.html",
+      "text": "Prism Shaped Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/reinforced-sides-with-hinged-top.html",
+      "text": "Reinforced Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/side-lock-tuck-top-display-box.html",
+      "text": "Lock T Top Display"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/slope-top-reverse-tuck-end.html",
+      "text": "Slope T Reverse Tuck"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tuck-end-snap-lock-bottom.html",
+      "text": "Snap Lock Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/wine-bottle-carriers.html",
+      "text": "Wine Bottle Carriers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/top-closure.html",
+      "text": "Top Closure"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/document-folder.html",
+      "text": "Document Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/flower-shaped-top-closure.html",
+      "text": "Flower Shaped Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/front-cut-out-display-tray.html",
+      "text": "Cut Out Display Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-bag-auto-bottom.html",
+      "text": "G Bag Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-bag-bottom-hanger.html",
+      "text": "Gable Bag Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pillow-box.html",
+      "text": "Pillow Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pop-counter-display-tray.html",
+      "text": "Counter Display Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/seal-end-with-perforated-top.html",
+      "text": "Seal End Perfor Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/self-lock-cake-box.html",
+      "text": "Self Lock Cake Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/two-piece.html",
+      "text": "Two Piece"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/custom-bags.html",
+      "text": "Custom Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/paper-bags-printing.html",
+      "text": "Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-laminated-bags.html",
+      "text": "Luxury Laminated"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-un-laminated-bags.html",
+      "text": "Luxury Un-Laminated"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-kraft-bags-printing.html",
+      "text": "Luxury Kraft"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/twisted-handle-bags.html",
+      "text": "Twisted Handle"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/folded-handle-bags.html",
+      "text": "Folded Handle"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/counter-bags-printing.html",
+      "text": "Counter Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eco-bags-printing.html",
+      "text": "Eco Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cotton-bags.html",
+      "text": "Cotton"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/canvas-bags.html",
+      "text": "Canvas"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/jute-bags.html",
+      "text": "Jute"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/non-woven-bags.html",
+      "text": "Non-woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/lam-non-woven-bags.html",
+      "text": "Lam. Non-woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/woven-bags.html",
+      "text": "Woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/mailing-bags.html",
+      "text": "Mailing Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/paper-mailing-bags.html",
+      "text": "Paper Mailing Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bubble-bags.html",
+      "text": "Bubble Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gift-wrapping.html",
+      "text": "Gift Wrapping"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tissue-paper-printing.html",
+      "text": "Tissue Paper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/ribbon-designing.html",
+      "text": "Ribbon"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/labels-printing.html",
+      "text": "Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/printed-boxes.html",
+      "text": "Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/rigid-boxes.html",
+      "text": "Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-boxes.html",
+      "text": "Luxury Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-book-boxes.html",
+      "text": "Luxury Book Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/credit-card-boxes.html",
+      "text": "Credit Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-rigid-boxes.html",
+      "text": "Luxury Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/photography-packaging.html",
+      "text": "Photography Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/round-boxes.html",
+      "text": "Round Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-sleeve-boxes.html",
+      "text": "Luxury Sleeve Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sports-packaging-boxes.html",
+      "text": "Sports Packaging Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/boxes-for-hotels-and-spas.html",
+      "text": "Box For Hotels & Spas"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gourmet-boxes.html",
+      "text": "Gourmet Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-wallet-boxes.html",
+      "text": "Luxury Wallet Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-presentation-boxes.html",
+      "text": "Presentation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/shoe-boxes.html",
+      "text": "Shoe Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/slip-case-boxes.html",
+      "text": "Slip Case Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cell-phone-packaging.html",
+      "text": "Cell Phone Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/watch-boxes.html",
+      "text": "Watch Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-catalogs-boxes.html",
+      "text": "Luxury Catalogs Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pharmacy-rigid-boxes.html",
+      "text": "Pharmacy Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/promotional-box-printing.html",
+      "text": "Promotional Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/shoulder-boxes.html",
+      "text": "Shoulder Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-soap-boxes.html",
+      "text": "Luxury Soap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/custom-rigid-boxes.html",
+      "text": "Custom Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/collapsible-rigid-boxes.html",
+      "text": "Collapsible Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/magnetic-closure-rigid-boxes.html",
+      "text": "Magnetic Closure Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/two-piece-rigid-setup-boxes.html",
+      "text": "Two Piece Setup Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/single-color-rigid-boxes.html",
+      "text": "Single Color Rigid Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/jewelry-boxes.html",
+      "text": "Jewelry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bangle-boxes.html",
+      "text": "Bangle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cufflink-boxes.html",
+      "text": "Cufflink Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/earring-boxes.html",
+      "text": "Earring Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/necklace-boxes.html",
+      "text": "Necklace Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/ring-boxes.html",
+      "text": "Ring Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/apparel-boxes.html",
+      "text": "Apparel Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/boxes-for-belts.html",
+      "text": "Boxes For Belts"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-boutique.html",
+      "text": "Luxury Boutique"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-textile-boxes.html",
+      "text": "Luxury Textile Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-lingerie-boxes.html",
+      "text": "Luxury Lingerie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/rigid-tie-boxes.html",
+      "text": "Rigid Tie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/rigid-gift-boxes.html",
+      "text": "Rigid Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-gift-boxes.html",
+      "text": "Luxury Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/food-gift-boxes.html",
+      "text": "Food Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/custom-gift-card-boxes.html",
+      "text": "Custom Gift Card Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-business-card-boxes.html",
+      "text": "Business Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/useful-boxes.html",
+      "text": "Useful Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/clothing-packaging-boxes.html",
+      "text": "Clothing Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/taco-packaging-boxes.html",
+      "text": "Taco Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/cardboard-jewelry-boxes.html",
+      "text": "Cardboard Jewelry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/sushi-packaging-boxes-423.html",
+      "text": "Sushi Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/shrimp-packaging-boxes.html",
+      "text": "Shrimp Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/elegant-packaging-boxes.html",
+      "text": "Elegant Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/bagel-packaging-boxes.html",
+      "text": "Bagel Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/blank-cigarette-boxes.html",
+      "text": "Blank Cigarette Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/frozen-food-boxes.html",
+      "text": "Frozen Food Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/holiday-packaging-boxes.html",
+      "text": "Holiday Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/white-pizza-boxes.html",
+      "text": "White Pizza Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/blunt-packaging-boxes.html",
+      "text": "Blunt Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/belly-band-boxes.html",
+      "text": "Belly Band Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/birthday-gift-boxes.html",
+      "text": "Birthday Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/mini-cereal-boxes.html",
+      "text": "Mini Cereal Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes/",
+      "text": "Load More"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/blog/",
+      "text": "Blog"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/by-industry.html",
+      "text": "By Industry"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-packaging.html",
+      "text": "CBD Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-boxes.html",
+      "text": "CBD Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-oil-packaging.html",
+      "text": "CBD oil packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/vape-packaging.html",
+      "text": "Vape Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/vape-mods-packaging.html",
+      "text": "Vape mods packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/e-cigarette-boxes.html",
+      "text": "E-Cigarette Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/fish-oil-packaging-boxes.html",
+      "text": "Fish Oil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cosmetic-boxes.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cream-boxes.html",
+      "text": "Cream Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eyeliner-boxes.html",
+      "text": "Eyeliner Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eyeshadow-boxes.html",
+      "text": "Eyeshadow Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/foundation-boxes.html",
+      "text": "Foundation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/hair-extension-boxes.html",
+      "text": "Hair Extension Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/hairspray-boxes.html",
+      "text": "Hairspray Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/lip-balm-boxes.html",
+      "text": "Lip Balm Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/lip-gloss-boxes.html",
+      "text": "Lip Gloss Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/lipstick-boxes.html",
+      "text": "Lipstick Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/lotion-boxes.html",
+      "text": "Lotion Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/makeup-boxes.html",
+      "text": "Makeup Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/mascara-boxes.html",
+      "text": "Mascara Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/nail-polish-boxes.html",
+      "text": "Nail Polish Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/perfume-boxes.html",
+      "text": "Perfume Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cosmetic-boxes-18.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tights-packaging-boxes.html",
+      "text": "Tights Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/socks-packaging.html",
+      "text": "Socks Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/latex-glove-boxes.html",
+      "text": "Latex glove boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/foldable-hair-extension-boxes.html",
+      "text": "Foldable Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/face-mask-packaging-boxes.html",
+      "text": "Face Mask Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/custom-printed-hair-extension-boxes.html",
+      "text": "Hair Extension Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/display-packaging.html",
+      "text": "Display Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cosmetic-display-boxes.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/display-boxes.html",
+      "text": "Display Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/display-packagings.html",
+      "text": "Display Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/window-packaging-boxes.html",
+      "text": "Window Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pop-up-display-boxes.html",
+      "text": "Pop up Display Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eco-friendly-boxes.html",
+      "text": "Eco Friendly Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bux-board-boxes.html",
+      "text": "Bux Board Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/kraft-boxes.html",
+      "text": "Kraft Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/food-boxes.html",
+      "text": "Food Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/food-and-beverage.html",
+      "text": "Food And Beverage"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bakery-boxes.html",
+      "text": "Bakery Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cake-boxes.html",
+      "text": "Cake Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/candy-boxes.html",
+      "text": "Candy Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cereal-boxes.html",
+      "text": "Cereal Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/chinese-takeout-boxes.html",
+      "text": "Chinese Takeout Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/chinese-food-boxes.html",
+      "text": "Chinese Food Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/chocolate-boxes.html",
+      "text": "Chocolate Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/coffee-boxes.html",
+      "text": "Coffee Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cookie-boxes.html",
+      "text": "Cookie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cupcake-boxes.html",
+      "text": "CupCake Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/donut-boxes.html",
+      "text": "Donut Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/macaron-boxes.html",
+      "text": "Macaron Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/muffin-boxes.html",
+      "text": "Muffin Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/noodle-boxes.html",
+      "text": "Noodle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pastry-boxes.html",
+      "text": "Pastry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pie-boxes.html",
+      "text": "Pie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pizza-boxes.html",
+      "text": "Pizza Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/popcorn-boxes.html",
+      "text": "Popcorn Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/snack-boxes.html",
+      "text": "Snack Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tea-boxes.html",
+      "text": "Tea Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/truffle-boxes.html",
+      "text": "Truffle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/wine-boxes.html",
+      "text": "Wine Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/masala-packaging-boxes.html",
+      "text": "Masala Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cream-butter-packaging.html",
+      "text": "Cream Butter Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/biscuit-packaging-boxes.html",
+      "text": "Biscuit Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gift-boxes.html",
+      "text": "Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/favor-boxes.html",
+      "text": "Favor Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-box.html",
+      "text": "Gable Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-boxes.html",
+      "text": "Gable Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gift-card-boxes.html",
+      "text": "Gift Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/handle-boxes.html",
+      "text": "Handle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/ornament-boxes.html",
+      "text": "Ornament Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/metalized-boxes.html",
+      "text": "Metalized Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gold-foil-boxes.html",
+      "text": "Gold Foil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/silver-foil-boxes.html",
+      "text": "Silver Foil Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/retail-boxes.html",
+      "text": "Retail Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/charity-boxes.html",
+      "text": "Charity Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bottle-packaging-boxes.html",
+      "text": "Bottle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cup-jar-sleeve-packaging.html",
+      "text": "Cup Jar Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/jar-candle-packaging-boxes.html",
+      "text": "Jar Candle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tuck-end-boxes.html",
+      "text": "Tuck End Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/archive-boxes.html",
+      "text": "Archive Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/book-boxes.html",
+      "text": "Book Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/business-card-boxes.html",
+      "text": "Business Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/candle-boxes.html",
+      "text": "Candle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cardboard-boxes.html",
+      "text": "Cardboard Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cd-dvd-storage-boxes.html",
+      "text": "CD/DVD Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/corrugated-boxes.html",
+      "text": "Corrugated Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cigarette-boxes.html",
+      "text": "Cigarette Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cube-boxes.html",
+      "text": "Cube Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/custom-boxes.html",
+      "text": "Custom Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/die-cut-boxes.html",
+      "text": "Die Cut Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/folding-boxes.html",
+      "text": "Folding Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/game-boxes.html",
+      "text": "Game Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/invitation-boxes.html",
+      "text": "Invitation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/medicine-boxes.html",
+      "text": "Medicine Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pillow-boxes.html",
+      "text": "Pillow Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/playing-card-boxes.html",
+      "text": "Playing Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/postage-boxes.html",
+      "text": "Postage Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/presentation-boxes.html",
+      "text": "Presentation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/product-boxes.html",
+      "text": "Product Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pyramid-boxes.html",
+      "text": "Pyramid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/shirt-boxes.html",
+      "text": "Shirt Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sleeve-boxes.html",
+      "text": "Sleeve Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/soap-boxes.html",
+      "text": "Soap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/software-boxes.html",
+      "text": "Software Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sports-boxes.html",
+      "text": "Sports Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/suitcase-boxes.html",
+      "text": "Suitcase Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/toy-boxes.html",
+      "text": "Toy Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/wedding-card-boxes.html",
+      "text": "Wedding Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/white-boxes.html",
+      "text": "White Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/window-boxes.html",
+      "text": "Window Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/thread-packaging-boxes.html",
+      "text": "Thread Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/wrap-boxes.html",
+      "text": "Wrap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/stationary-packaging-boxes.html",
+      "text": "Stationary boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/swimwear-boxes.html",
+      "text": "Swimwear Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/promotional-boxes.html",
+      "text": "Promotional Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/mobile-accessory-packaging-boxes.html",
+      "text": "Mobile Accessory Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/fidget-spinner-packaging-boxes.html",
+      "text": "Fidget Spinner Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eye-drops-packaging-boxes.html",
+      "text": "Eye Drops Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/golf-ball-boxes.html",
+      "text": "Golf Ball boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/energy-saver-packaging-boxes.html",
+      "text": "Energy Saver Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/compact-blushes-boxes.html",
+      "text": "Compact Blushes Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/electric-devices-packaging.html",
+      "text": "Electric Devices Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/belt-packaging-boxes.html",
+      "text": "Belt Packaging Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bandage-packaging.html",
+      "text": "Bandage Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bath-bomb-packaging.html",
+      "text": "Bath Bomb Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/ballot-boxes.html",
+      "text": "Ballot Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/auto-lock-bottom-boxes.html",
+      "text": "Autolock Bottom Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tamp-on-packaging-boxes.html",
+      "text": "Tamp On Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/spinning-wheel-chart-packaging-boxes.html",
+      "text": "Spinning Wheel Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/e-liquid.html",
+      "text": "E Liquid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tie-boxes.html",
+      "text": "Tie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/reverse-tuck-end-tea-boxes.html",
+      "text": "Tuck End Tea Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/stress-release-toys-packaging.html",
+      "text": "Stress Toys Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/other-boxes.html",
+      "text": "Other Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/by-box-style.html",
+      "text": "By Box Style"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bottom-closure.html",
+      "text": "Bottom Closure"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/1-2-3-bottom.html",
+      "text": "1-2-3 Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/4-pk-bottle-carrier.html",
+      "text": "4 Pk Bottle Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/auto-bottom-tray.html",
+      "text": "Auto Bottom Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/auto-bottom-with-display-lid.html",
+      "text": "A Bottom Display Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/full-flap-auto-bottom.html",
+      "text": "Full Flap Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/handle-bag-shape-box.html",
+      "text": "Handle Bag Shape Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/seal-end-auto-bottom.html",
+      "text": "Seal End Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/six-pk-bottle-carrier.html",
+      "text": "Six Pk Bottle Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tuck-end-cover.html",
+      "text": "Tuck End Cover"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tuck-with-bellow-dust-flap-lock.html",
+      "text": "Tuck Dust Flap Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cd-covers.html",
+      "text": "CD Covers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bookend-cd-case.html",
+      "text": "Bookend CD Case"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/four-panel-cd-jacket.html",
+      "text": "Four Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/two-panel-cd-jacket.html",
+      "text": "Two Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/six-panel-cd-jacket.html",
+      "text": "Six Panel Cd Jacket"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/figure-and-pattern.html",
+      "text": "Figure and Pattern"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bowl-sleeve.html",
+      "text": "Bowl Sleeve"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cube-shaped-carrier.html",
+      "text": "Cube Shaped Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/disc-folder.html",
+      "text": "Disc Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-glue-side-wall.html",
+      "text": "Double Glue Side Wall"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-locked-wall-lid.html",
+      "text": "D Locked Wall Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-tray.html",
+      "text": "Double Wall Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/economy-disc-folder.html",
+      "text": "Economy Disc Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/fence-partitions.html",
+      "text": "Fence Partitions"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/foot-lock-tray.html",
+      "text": "Foot Lock Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/full-flat-double-tray.html",
+      "text": "Full Flat Double Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-bag.html",
+      "text": "Gable Bag"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/glass-carrier.html",
+      "text": "Glass Carrier"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/ice-cream-cone-holder.html",
+      "text": "Ice Cream Holder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/piece-tray-with-reinforced-side-wall.html",
+      "text": "Piece Tray Side Wall"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/punch-partition.html",
+      "text": "Punch Partition"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/regular-six-corner.html",
+      "text": "Regular Six Corner"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/side-lock-six-corner.html",
+      "text": "Side Lock Six Corner"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sleeve-with-product-retainers.html",
+      "text": "Sleeve With Retainers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sleeve-with-cap-lock.html",
+      "text": "Sleeve With Cap Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sleeve-with-tapered-side-panel.html",
+      "text": "Sleeve Tapered Panel"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/fold-and-assemble.html",
+      "text": "Fold and Assemble"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bookend.html",
+      "text": "Bookend"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/box-with-hanging-and-locking-tabs.html",
+      "text": "Box With Locking Tabs"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-tuck-front.html",
+      "text": "D Wall Tuck Front"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/four-corner-cake-box.html",
+      "text": "Four Corner Cake Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/french-fry-boxes.html",
+      "text": "French Fry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-box-auto-bottom.html",
+      "text": "G Box Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/half-circular-interlocking.html",
+      "text": "Half Circular Interlock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/header-card.html",
+      "text": "Header Card"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/hexagon.html",
+      "text": "Hexagon"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/hexagon-2-pc.html",
+      "text": "Hexagon 2 PC"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/square-box-with-ladder-top.html",
+      "text": "Box With Ladder Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/self-locked-counter-display-tray.html",
+      "text": "Self-Lock Counter Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/t-box.html",
+      "text": "T Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tray-and-sleeve-box.html",
+      "text": "Tray And Sleeve Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/rectangular.html",
+      "text": "Rectangular"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/dispenser.html",
+      "text": "Dispenser"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-glued-side-wall-tray-and-sleeve.html",
+      "text": "Double Glued Side Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/flip-out-open-dispenser-box.html",
+      "text": "Flip Out Dispenser Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/four-corner-tray.html",
+      "text": "Four Corner Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/full-overlap-seal-end.html",
+      "text": "Full Overlap Seal End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/multi-purpose-header.html",
+      "text": "Multi Purpose Header"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/panel-hanger-snap-lock-bottom.html",
+      "text": "Panel Hanger Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/perforated-dispenser-box.html",
+      "text": "Perfor Dispenser Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pinch-lock-tray.html",
+      "text": "Pinch Lock Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/reverse-tuck-end.html",
+      "text": "Reverse Tuck End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/reverse-tuck-end-with-lock.html",
+      "text": "Reverse Tuck End Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/roll-end-tray.html",
+      "text": "Roll End Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/roll-end-tuck-top.html",
+      "text": "Roll End Tuck Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/roll-ends-with-lid.html",
+      "text": "Roll Ends With Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/seal-end.html",
+      "text": "Seal End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/seal-end-with-tear-open.html",
+      "text": "Seal End Tear Open"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/seal-end-with-tear-open-and-lock.html",
+      "text": "Seal End Open Lock"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/straight-tuck-end.html",
+      "text": "Straight Tuck End"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/simplex-tray.html",
+      "text": "Simplex Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/straight-tuck-with-customizable-window.html",
+      "text": "S Tuck Window Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/straight-tuck-with-rise-up-insert.html",
+      "text": "Straight Tuck  Rise Up"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/triangular-tray-lid.html",
+      "text": "Triangular Tray Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tuck-end-auto-bottom.html",
+      "text": "Tuck End Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/showcase-exhibit.html",
+      "text": "Showcase Exhibit"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/1-2-3-bottom-display-lid.html",
+      "text": "1-2-3 Bottom D Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/4-corner-tray-tuck-top.html",
+      "text": "4 Corner Tray Tuck"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/4-corner-tray-with-lid.html",
+      "text": "4 Corner Tray Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/auto-lock-cap.html",
+      "text": "Auto Lock Cap"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bag-shaped-box-auto-bottom.html",
+      "text": "Bag Shaped Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/brochure-display-holder.html",
+      "text": "Brochure D Holder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/display-box-auto-bottom.html",
+      "text": "Display Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/door-hanger.html",
+      "text": "Door Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-display-lid.html",
+      "text": "D Wall Display Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-frame-tray.html",
+      "text": "D Wall Frame Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-frame-tray-lid.html",
+      "text": "D Wall Frame Tray Lid"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/double-wall-tuck-top.html",
+      "text": "Double Wall Tuck Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/easel-counter-display.html",
+      "text": "Easel Counter Display"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/easel-display-stand.html",
+      "text": "Easel Display Stand"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/five-panel-hanger.html",
+      "text": "Five Panel Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/folder-business-card.html",
+      "text": "Folder Business Card"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/four-corner-with-display-lid.html",
+      "text": "Four Corner Lid Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/hanger-product-holder.html",
+      "text": "Hanger Product"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/header-card-bag-topper.html",
+      "text": "Header Card Bag"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/mailer-with-zipper.html",
+      "text": "Mailer With Zipper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/paper-brief-case.html",
+      "text": "Paper Brief Case"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/prism-shaped-box.html",
+      "text": "Prism Shaped Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/reinforced-sides-with-hinged-top.html",
+      "text": "Reinforced Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/side-lock-tuck-top-display-box.html",
+      "text": "Lock T Top Display"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/slope-top-reverse-tuck-end.html",
+      "text": "Slope T Reverse Tuck"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tuck-end-snap-lock-bottom.html",
+      "text": "Snap Lock Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/wine-bottle-carriers.html",
+      "text": "Wine Bottle Carriers"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/top-closure.html",
+      "text": "Top Closure"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/document-folder.html",
+      "text": "Document Folder"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/flower-shaped-top-closure.html",
+      "text": "Flower Shaped Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/front-cut-out-display-tray.html",
+      "text": "Cut Out Display Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-bag-auto-bottom.html",
+      "text": "G Bag Auto Bottom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gable-bag-bottom-hanger.html",
+      "text": "Gable Bag Hanger"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pillow-box.html",
+      "text": "Pillow Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pop-counter-display-tray.html",
+      "text": "Counter Display Tray"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/seal-end-with-perforated-top.html",
+      "text": "Seal End Perfor Top"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/self-lock-cake-box.html",
+      "text": "Self Lock Cake Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/two-piece.html",
+      "text": "Two Piece"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/custom-bags.html",
+      "text": "Custom Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/paper-bags-printing.html",
+      "text": "Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-laminated-bags.html",
+      "text": "Luxury Laminated"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-un-laminated-bags.html",
+      "text": "Luxury Un-Laminated"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-kraft-bags-printing.html",
+      "text": "Luxury Kraft"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/twisted-handle-bags.html",
+      "text": "Twisted Handle"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/folded-handle-bags.html",
+      "text": "Folded Handle"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/counter-bags-printing.html",
+      "text": "Counter Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eco-bags-printing.html",
+      "text": "Eco Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cotton-bags.html",
+      "text": "Cotton"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/canvas-bags.html",
+      "text": "Canvas"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/jute-bags.html",
+      "text": "Jute"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/non-woven-bags.html",
+      "text": "Non-woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/lam-non-woven-bags.html",
+      "text": "Lam. Non-woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/woven-bags.html",
+      "text": "Woven"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/mailing-bags.html",
+      "text": "Mailing Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/paper-mailing-bags.html",
+      "text": "Paper Mailing Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bubble-bags.html",
+      "text": "Bubble Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gift-wrapping.html",
+      "text": "Gift Wrapping"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tissue-paper-printing.html",
+      "text": "Tissue Paper"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/ribbon-designing.html",
+      "text": "Ribbon"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/labels-printing.html",
+      "text": "Labels"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/printed-boxes.html",
+      "text": "Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/rigid-boxes.html",
+      "text": "Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-boxes.html",
+      "text": "Luxury Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-book-boxes.html",
+      "text": "Luxury Book Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/credit-card-boxes.html",
+      "text": "Credit Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-rigid-boxes.html",
+      "text": "Luxury Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/photography-packaging.html",
+      "text": "Photography Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/round-boxes.html",
+      "text": "Round Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-sleeve-boxes.html",
+      "text": "Luxury Sleeve Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/sports-packaging-boxes.html",
+      "text": "Sports Packaging Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/boxes-for-hotels-and-spas.html",
+      "text": "Box For Hotels & Spas"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/gourmet-boxes.html",
+      "text": "Gourmet Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-wallet-boxes.html",
+      "text": "Luxury Wallet Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-presentation-boxes.html",
+      "text": "Presentation Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/shoe-boxes.html",
+      "text": "Shoe Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/slip-case-boxes.html",
+      "text": "Slip Case Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cell-phone-packaging.html",
+      "text": "Cell Phone Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/watch-boxes.html",
+      "text": "Watch Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-catalogs-boxes.html",
+      "text": "Luxury Catalogs Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pharmacy-rigid-boxes.html",
+      "text": "Pharmacy Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/promotional-box-printing.html",
+      "text": "Promotional Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/shoulder-boxes.html",
+      "text": "Shoulder Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-soap-boxes.html",
+      "text": "Luxury Soap Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/custom-rigid-boxes.html",
+      "text": "Custom Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/collapsible-rigid-boxes.html",
+      "text": "Collapsible Rigid Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/magnetic-closure-rigid-boxes.html",
+      "text": "Magnetic Closure Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/two-piece-rigid-setup-boxes.html",
+      "text": "Two Piece Setup Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/single-color-rigid-boxes.html",
+      "text": "Single Color Rigid Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/jewelry-boxes.html",
+      "text": "Jewelry Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bangle-boxes.html",
+      "text": "Bangle Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cufflink-boxes.html",
+      "text": "Cufflink Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/earring-boxes.html",
+      "text": "Earring Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/necklace-boxes.html",
+      "text": "Necklace Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/ring-boxes.html",
+      "text": "Ring Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/apparel-boxes.html",
+      "text": "Apparel Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/boxes-for-belts.html",
+      "text": "Boxes For Belts"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-boutique.html",
+      "text": "Luxury Boutique"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-textile-boxes.html",
+      "text": "Luxury Textile Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-lingerie-boxes.html",
+      "text": "Luxury Lingerie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/rigid-tie-boxes.html",
+      "text": "Rigid Tie Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/rigid-gift-boxes.html",
+      "text": "Rigid Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-gift-boxes.html",
+      "text": "Luxury Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/food-gift-boxes.html",
+      "text": "Food Gift Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/custom-gift-card-boxes.html",
+      "text": "Custom Gift Card Box"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-business-card-boxes.html",
+      "text": "Business Card Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/other-cardstock-products.html",
+      "text": "Other Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bags.html",
+      "text": "Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/booklets.html",
+      "text": "Booklets"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bookmarks.html",
+      "text": "Bookmarks"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/brochures.html",
+      "text": "Brochures"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/business-cards.html",
+      "text": "Business Cards"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cd-jackets.html",
+      "text": "CD Jackets"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/decals.html",
+      "text": "Decals"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/folders-printing.html",
+      "text": "Folders Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/pvc-bags.html",
+      "text": "PVC Bags"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/backing-card-printing.html",
+      "text": "Backing card printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/table-tents.html",
+      "text": "Table Tents"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/tags-printing.html",
+      "text": "Tags Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/vinyl-banners.html",
+      "text": "Vinyl Banners"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/useful-boxes.html",
+      "text": "Useful Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/blog-link.html",
+      "text": "Blogs"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/blog/",
+      "text": "Blog"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Custom Quotation Get Custom Quotation"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-packaging.html",
+      "text": "CBD Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-packaging.html",
+      "text": "Start Customization"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cosmetic-boxes.html",
+      "text": "Cosmetic Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cosmetic-boxes.html",
+      "text": "Start Customization"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/display-packaging.html",
+      "text": "Display Packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/display-packaging.html",
+      "text": "Start Customization"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eco-friendly-boxes.html",
+      "text": "Eco Friendly Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/eco-friendly-boxes.html",
+      "text": "Start Customization"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/by-industry.html",
+      "text": "By Industry"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/by-industry.html",
+      "text": "Start Customization"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-boxes.html",
+      "text": "CBD Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-boxes.html",
+      "text": "Start Customization"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-oil-packaging.html",
+      "text": "CBD oil packaging"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/cbd-oil-packaging.html",
+      "text": "Start Customization"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/e-cigarette-boxes.html",
+      "text": "E-Cigarette Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/e-cigarette-boxes.html",
+      "text": "Start Customization"
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Custom Quotation Get Custom Quotation"
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Custom Quotation Custom Quotation"
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://code.jquery.com/jquery-3.6.0.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css",
+      "text": "Get premium-quality custom boxes at unbeatable prices. Enjoy fast turnaround, vibrant designs, and reliable service perfect for both business and personal use. "
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/bottom-closure.html",
+      "text": "Bottom Closure"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/figure-and-pattern.html",
+      "text": "Fold and Assemble"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/rectangular.html",
+      "text": "Rectangular Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/earring-boxes.html",
+      "text": "Earring Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.smallcustomboxes.com/luxury-boutique.html",
+      "text": "Luxury Boutique Boxes"
+    },
+    {
+      "tag": "a",
+      "href": "/about-us/",
+      "text": "About"
+    },
+    {
+      "tag": "a",
+      "href": "/privacy-policy/",
+      "text": "Privacy"
+    },
+    {
+      "tag": "a",
+      "href": "/shipping-and-returns/",
+      "text": "Shipping"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Contact"
+    },
+    {
+      "tag": "a",
+      "href": "http://www.emthemes.com/free-magento-extensions/em-catalog-menu-widget.html",
+      "text": "Magento Catalog Menu Widget"
+    },
+    {
+      "tag": "a",
+      "href": "http://www.emthemes.com/",
+      "text": "Magento Themes"
+    },
+    {
+      "tag": "a",
+      "href": "http://www.emthemes.com/",
+      "text": "Magento Templates"
+    },
+    {
+      "tag": "script",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js",
+      "text": ""
+    }
+  ],
+  "telephone_links": [
+    "tel:6463890938",
+    "wa.me/16463890938?text=Hello%2C%20I%20am%20interested%20in%20small%20boxes%20from%20smallcustomboxes.com.%20I%20need%20more%20details."
+  ],
+  "tracking_ids": [
+    "UA-134742821-1",
+    "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua",
+    "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+  ],
+  "external_domains": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "code.jquery.com",
+    "wa.me",
+    "www.emthemes.com",
+    "www.googletagmanager.com",
+    "www.provenexpert.com",
+    "www.smallcustomboxes.com"
+  ],
+  "footer_text": "Get premium-quality custom boxes at unbeatable prices. Enjoy fast turnaround, vibrant designs, and reliable service perfect for both business and personal use. Custom sizes, finishes, and materials available made to match your exact needs. Featured Categories Bottom Closure Fold and Assemble Rectangular Boxes Earring Boxes Luxury Boutique Boxes Trusted Quality 4.9 /5.0 ★★★★★ Verified Rating Payment Methods © 2026 Small Custom Boxes . All Rights Reserved. About Privacy Shipping Contact"
+}

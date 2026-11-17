@@ -1,0 +1,156 @@
+﻿来源URL或元数据对象,采集时间,响应状态,网页原件,可读文本,索引文件,错误或限制
+https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fblog.bestmediaservices.com%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&fl=timestamp%2Coriginal%2Cdigest&collapse=digest&limit=8,2026-11-05T23:39:40.492870+08:00,200,,,additional-domain-history-index.json,
+https://web.archive.org/cdx/search/cdx?url=bestmediaservices.com%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&fl=timestamp%2Coriginal%2Cdigest&collapse=digest&limit=8,2026-11-05T23:39:40.493183+08:00,200,,,additional-domain-history-index.json,
+https://web.archive.org/cdx/search/cdx?url=bestmediaservice.co.uk%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&fl=timestamp%2Coriginal%2Cdigest&collapse=digest&limit=8,2026-11-05T23:39:42.945527+08:00,200,,,additional-domain-history-index.json,
+https://crt.sh/?q=%25bestmediaservice%25&output=json,2026-11-05T23:37:16.161654+08:00,502,,,certificate-transparency-candidates.json,
+https://crt.sh/?q=%25printinggood%25&output=json,2026-11-05T23:37:16.161393+08:00,502,,,certificate-transparency-candidates.json,
+https://crt.sh/?q=%25pdtrus%25&output=json,2026-11-05T23:37:17.826456+08:00,502,,,certificate-transparency-candidates.json,
+https://crt.sh/?q=%25cosmeticpackagingco%25&output=json,2026-11-05T23:37:17.843582+08:00,502,,,certificate-transparency-candidates.json,
+DNS/TLS/CDX: bestmediaservices.com.au,2026-11-05T23:40:21.415812+08:00,见索引,,,expanded-domain-hypotheses.json,"[Errno 8] nodename nor servname provided, or not known"
+DNS/TLS/CDX: bestmediaservices.co.uk,2026-11-05T23:40:21.415570+08:00,见索引,,,expanded-domain-hypotheses.json,"[Errno 8] nodename nor servname provided, or not known"
+DNS/TLS/CDX: luxuryboxesco.co.uk,2026-11-05T23:40:21.415638+08:00,见索引,,,expanded-domain-hypotheses.json,"[Errno 8] nodename nor servname provided, or not known"
+DNS/TLS/CDX: bestmediaservice.com.au,2026-11-05T23:40:21.415204+08:00,见索引,,,expanded-domain-hypotheses.json,"[Errno 8] nodename nor servname provided, or not known"
+DNS/TLS/CDX: printinggood.com,2026-11-05T23:40:21.649649+08:00,见索引,,,expanded-domain-hypotheses.json,"[Errno 8] nodename nor servname provided, or not known"
+DNS/TLS/CDX: stickersprinting.com.au,2026-11-05T23:40:21.709442+08:00,见索引,,,expanded-domain-hypotheses.json,"[Errno 8] nodename nor servname provided, or not known"
+DNS/TLS/CDX: printinggood.com.au,2026-11-05T23:40:21.658054+08:00,见索引,,,expanded-domain-hypotheses.json,"[Errno 8] nodename nor servname provided, or not known"
+DNS/TLS/CDX: cosmeticpackagingco.com,2026-11-05T23:40:22.016594+08:00,见索引,,,expanded-domain-hypotheses.json,"[Errno 8] nodename nor servname provided, or not known"
+DNS/TLS/CDX: cosmeticpackagingco.co.uk,2026-11-05T23:40:22.162945+08:00,见索引,,,expanded-domain-hypotheses.json,"[Errno 8] nodename nor servname provided, or not known"
+DNS/TLS/CDX: luxuryboxesco.com.au,2026-11-05T23:40:21.415707+08:00,见索引,,,expanded-domain-hypotheses.json,"[Errno 8] nodename nor servname provided, or not known"
+DNS/TLS/CDX: stickerprinting.com.au,2026-11-05T23:40:21.680285+08:00,200,,stickerprinting.com.au__hypothesis.txt,expanded-domain-hypotheses.json,
+DNS/TLS/CDX: customstickers.com.au,2026-11-05T23:40:21.921903+08:00,200,,customstickers.com.au__hypothesis.txt,expanded-domain-hypotheses.json,
+https://bestmediaservice.co.uk/,2026-11-05T23:38:17.922913+08:00,见索引,,,extended-brand-pages.json,"HTTPSConnectionPool(host='bestmediaservice.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x106c9c390>: Failed to resolve 'bestmediaservice.co.uk' ([Errno 8] nodename nor servname provided, or not known)""))"
+http://blog.bestmediaservices.com/,2026-11-05T23:38:17.922502+08:00,200,blog.bestmediaservices.com__extended_0728383b87.html,blog.bestmediaservices.com__extended_0728383b87.txt,extended-brand-pages.json,
+https://www.linkedin.com/company/packaging-daddy,2026-11-05T23:38:17.923072+08:00,403,linkedin.com__extended_2828847b6a.html,linkedin.com__extended_2828847b6a.txt,extended-brand-pages.json,
+https://bestmediaservices.com/,2026-11-05T23:38:17.922999+08:00,200,bestmediaservices.com__extended_c8a7a29887.html,bestmediaservices.com__extended_c8a7a29887.txt,extended-brand-pages.json,
+https://www.truelocal.com.au/sydney-nsw/tlp/best-media-service-580919352,2026-11-05T23:38:18.879777+08:00,403,truelocal.com.au__extended_3e97ced933.html,truelocal.com.au__extended_3e97ced933.txt,extended-brand-pages.json,
+https://www.thefosseway.co.uk/listing/205836/,2026-11-05T23:38:18.671839+08:00,403,thefosseway.co.uk__extended_4bfa830cce.html,thefosseway.co.uk__extended_4bfa830cce.txt,extended-brand-pages.json,
+https://www.rozee.pk/EN/best-media-service-international-sales-executive-international-campaign-best-media-service-jobs-1874020,2026-11-05T23:38:18.192731+08:00,200,rozee.pk__extended_ab7b25768b.html,rozee.pk__extended_ab7b25768b.txt,extended-brand-pages.json,
+https://customboxes.pk/contact-us,2026-11-05T23:43:46.863113+08:00,200,customboxes.pk__check_cd4d7eb17d.html,customboxes.pk__check_cd4d7eb17d.txt,false-positive-and-mirror-checks.json,
+https://customboxes.pk/about-us,2026-11-05T23:43:46.863600+08:00,200,customboxes.pk__check_67af327c86.html,customboxes.pk__check_67af327c86.txt,false-positive-and-mirror-checks.json,
+https://www.dayancopack.com/js/hook.js,2026-11-05T23:43:46.863518+08:00,200,dayancopack.com__check_cb45191b4e.html,dayancopack.com__check_cb45191b4e.txt,false-positive-and-mirror-checks.json,
+https://propopcornboxes.co.uk/,2026-11-05T23:43:48.286620+08:00,200,propopcornboxes.co.uk__check_f651a77859.html,propopcornboxes.co.uk__check_f651a77859.txt,false-positive-and-mirror-checks.json,
+DNS: ai.designmediaservice.com,见索引记录,见索引,,,infrastructure-dns.json,
+DNS: crm.designmediaservice.com,见索引记录,见索引,,,infrastructure-dns.json,
+DNS: ws.designmediaservice.com,见索引记录,见索引,,,infrastructure-dns.json,
+https://customboxes.pk/,2026-11-05T23:42:29.030593+08:00,200,,customboxes.pk__home.txt,new-discovery-customboxes-pk.json,
+https://web.archive.org/web/20120812172444id_/http://bestmediaservices.com/,2026-11-05T23:40:53.527447+08:00,200,archive__e761c4ceeb1b.html,archive__e761c4ceeb1b.txt,plural-brand-archive-pages.json,
+https://web.archive.org/web/20230121050028id_/https://bestmediaservices.com/,2026-11-05T23:40:59.664372+08:00,200,archive__e88492c1a995.html,archive__e88492c1a995.txt,plural-brand-archive-pages.json,
+https://web.archive.org/web/20150203134055id_/http://www.bestmediaservice.com/Contact-Us.html,2026-11-05T23:36:55.393147+08:00,200,archive__d9d4c32be790.html,archive__d9d4c32be790.txt,priority-archive-followup.json,
+https://web.archive.org/web/20240810210755id_/https://www.packagingdaddy.com/,2026-11-05T23:37:01.226938+08:00,200,archive__69ac31053875.html,archive__69ac31053875.txt,priority-archive-followup.json,
+https://web.archive.org/web/20240720225920id_/https://www.cosmeticpackagingco.com.au/,2026-11-05T23:37:08.067089+08:00,429,archive__ff501e776b89.html,archive__ff501e776b89.txt,priority-archive-followup.json,
+https://web.archive.org/cdx/search/cdx?url=cosmeticpackagingco.com.au%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&fl=timestamp%2Coriginal%2Cdigest&from=2024&limit=10,2026-11-05T23:34:52.369784+08:00,200,archive__dd1f404f9b27.html,archive__dd1f404f9b27.txt,priority-archives-index.json,
+https://web.archive.org/web/20240418125848id_/https://www.customboxes.co.uk/,2026-11-05T23:34:52.369584+08:00,429,archive__e349a62a2b73.html,archive__e349a62a2b73.txt,priority-archives-index.json,
+https://web.archive.org/web/20221210064530id_/https://www.packagingdaddy.com/,2026-11-05T23:34:52.369674+08:00,429,archive__487f7653165c.html,archive__487f7653165c.txt,priority-archives-index.json,
+https://web.archive.org/web/20241217215401id_/https://dayancopack.com/,2026-11-05T23:34:52.368947+08:00,429,archive__18a80b0aca2f.html,archive__18a80b0aca2f.txt,priority-archives-index.json,
+https://web.archive.org/web/20250710002953id_/http://bestmediaservice.com/,2026-11-05T23:34:52.369273+08:00,200,archive__15e1932d454b.html,archive__15e1932d454b.txt,priority-archives-index.json,
+https://web.archive.org/web/20231026114637id_/https://www.cosmeticpackagingco.com.au/,2026-11-05T23:34:52.369446+08:00,200,archive__7a0a6a0ef1b3.html,archive__7a0a6a0ef1b3.txt,priority-archives-index.json,
+https://web.archive.org/cdx/search/cdx?url=packagingdaddy.com%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&fl=timestamp%2Coriginal%2Cdigest&from=2024&limit=10,2026-11-05T23:34:54.696518+08:00,200,archive__d5777a5c22b2.html,archive__d5777a5c22b2.txt,priority-archives-index.json,
+https://web.archive.org/cdx/search/cdx?url=bestmediaservice.com%2Fcontact%2A&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&fl=timestamp%2Coriginal%2Cdigest&limit=15,2026-11-05T23:34:55.352875+08:00,200,archive__83763f348f32.html,archive__83763f348f32.txt,priority-archives-index.json,
+https://www.designmediaservice.com/genform.php?w=CPCOMAU&r=3,2026-11-05T23:36:22.992659+08:00,200,designmediaservice.com__follow_2c09cce8a5.html,designmediaservice.com__follow_2c09cce8a5.txt,priority-follow-up-pages.json,
+https://www.designmediaservice.com/,2026-11-05T23:36:22.992854+08:00,200,designmediaservice.com__follow_56864f760e.html,designmediaservice.com__follow_56864f760e.txt,priority-follow-up-pages.json,
+https://www.cosmeticpackagingco.com.au/nail-polish-packaging-boxes.html,2026-11-05T23:36:22.992744+08:00,200,cosmeticpackagingco.com.au__follow_d8310c044c.html,cosmeticpackagingco.com.au__follow_d8310c044c.txt,priority-follow-up-pages.json,
+https://www.cosmeticpackagingco.com.au/contact-us/,2026-11-05T23:36:22.992224+08:00,200,cosmeticpackagingco.com.au__follow_6efae24946.html,cosmeticpackagingco.com.au__follow_6efae24946.txt,priority-follow-up-pages.json,
+https://www.smallcustomboxes.com/blog/eco-friendly-and-stylish-garment-packaging-boxes-perfect-solutions-for-your-fashion-brand/,2026-11-05T23:36:22.992923+08:00,200,smallcustomboxes.com__follow_8d48009d69.html,smallcustomboxes.com__follow_8d48009d69.txt,priority-follow-up-pages.json,
+https://www.packagingdaddy.com/terms-of-service,2026-11-05T23:36:24.293897+08:00,200,packagingdaddy.com__follow_05e3e9bed2.html,packagingdaddy.com__follow_05e3e9bed2.txt,priority-follow-up-pages.json,
+https://bmsgl.typeform.com/to/kNoBOe?wcode=DMSCOM,2026-11-05T23:36:24.317941+08:00,200,bmsgl.typeform.com__follow_9caba19932.html,bmsgl.typeform.com__follow_9caba19932.txt,priority-follow-up-pages.json,
+https://www.printinggood.co.uk/pay-invoice/,2026-11-05T23:36:24.189074+08:00,404,printinggood.co.uk__follow_1798788936.html,printinggood.co.uk__follow_1798788936.txt,priority-follow-up-pages.json,
+https://www.custompackagingboxesco.com/pay-invoice/,2026-11-05T23:36:24.188120+08:00,404,custompackagingboxesco.com__follow_ec0f620207.html,custompackagingboxesco.com__follow_ec0f620207.txt,priority-follow-up-pages.json,
+https://www.pdtrus.co.uk/js/main.js,2026-11-05T23:33:25.531765+08:00,200,pdtrus.co.uk__712bf55242.html,,priority-live-pages.json,
+https://bestmediaservice.com/js/main.js,2026-11-05T23:33:25.531547+08:00,200,bestmediaservice.com__0739b5050d.html,,priority-live-pages.json,
+https://packagingdaddy.com/js/script.js,2026-11-05T23:33:25.531840+08:00,200,packagingdaddy.com__71d67d13ac.html,,priority-live-pages.json,
+https://packagingdaddy.com/,2026-11-05T23:33:25.531438+08:00,200,packagingdaddy.com__bf2815ed3f.html,packagingdaddy.com__bf2815ed3f.txt,priority-live-pages.json,
+https://packagingdaddy.com/privacy-policy,2026-11-05T23:33:25.531938+08:00,200,packagingdaddy.com__0b191d95ac.html,packagingdaddy.com__0b191d95ac.txt,priority-live-pages.json,
+https://bestmediaservice.com/,2026-11-05T23:33:25.530820+08:00,200,bestmediaservice.com__a56b11daf2.html,bestmediaservice.com__a56b11daf2.txt,priority-live-pages.json,
+https://packagingdaddy.com/terms,2026-11-05T23:33:26.632832+08:00,404,packagingdaddy.com__c87bf1fe3a.html,packagingdaddy.com__c87bf1fe3a.txt,priority-live-pages.json,
+https://www.luxuryboxesco.com/,2026-11-05T23:33:26.818477+08:00,200,luxuryboxesco.com__49002cbd50.html,luxuryboxesco.com__49002cbd50.txt,priority-live-pages.json,
+https://www.dayancopack.com/contact-us/,2026-11-05T23:33:26.773667+08:00,200,dayancopack.com__28ba7ee248.html,dayancopack.com__28ba7ee248.txt,priority-live-pages.json,
+https://www.cosmeticpackagingco.com.au/,2026-11-05T23:33:26.819113+08:00,200,cosmeticpackagingco.com.au__328d7d6e53.html,cosmeticpackagingco.com.au__328d7d6e53.txt,priority-live-pages.json,
+https://www.dayancopack.com/,2026-11-05T23:33:26.773097+08:00,200,dayancopack.com__0a10fdfc2b.html,dayancopack.com__0a10fdfc2b.txt,priority-live-pages.json,
+http://customboxes.co.uk/,2026-11-05T23:33:27.471427+08:00,200,customboxes.co.uk__e7bb2efa58.html,customboxes.co.uk__e7bb2efa58.txt,priority-live-pages.json,
+https://dayancopack.com/?pcmypage%3Fcallback=product%2Freview%2F91934597,2026-11-05T23:33:26.782649+08:00,200,dayancopack.com__02b7aa6c15.html,dayancopack.com__02b7aa6c15.txt,priority-live-pages.json,
+DNS/TLS/CDX: dayancopack.com,2026-11-05T23:33:57.368843+08:00,200,,,priority-passive-metadata.json,
+DNS/TLS/CDX: luxuryboxesco.com,2026-11-05T23:33:57.369264+08:00,200,,,priority-passive-metadata.json,
+DNS/TLS/CDX: bestmediaservice.com,2026-11-05T23:33:57.369100+08:00,200,,,priority-passive-metadata.json,
+DNS/TLS/CDX: customboxes.co.uk,2026-11-05T23:33:57.369340+08:00,200,,,priority-passive-metadata.json,
+DNS/TLS/CDX: cosmeticpackagingco.com.au,2026-11-05T23:33:57.369386+08:00,200,,,priority-passive-metadata.json,
+DNS/TLS/CDX: packagingdaddy.com,2026-11-05T23:33:57.369064+08:00,200,,,priority-passive-metadata.json,
+https://api.hackertarget.com/reverseiplookup/?q=185.75.20.61,2026-11-05T23:41:19.609528+08:00,200,,,reverse-ip-refresh.json,
+https://api.hackertarget.com/reverseiplookup/?q=162.210.103.247,2026-11-05T23:41:19.609217+08:00,200,,,reverse-ip-refresh.json,
+https://api.hackertarget.com/reverseiplookup/?q=103.82.65.77,2026-11-05T23:41:21.006830+08:00,200,,,reverse-ip-refresh.json,
+https://api.hackertarget.com/reverseiplookup/?q=198.23.60.21,2026-11-05T23:41:21.042346+08:00,200,,,reverse-ip-refresh.json,
+https://dayancopack.com/?pcmypage%3Fcallback=product%2Freview%2F91934597,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2web01,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://pk.linkedin.com/in/hammad-shabbir-590756308,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchsingle:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://in.linkedin.com/in/shaheen-abdu,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchsingle:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://dayancopack.com/?pcmypage%3Fcallback=product%2Freview%2F91934597,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchB:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/apparel-boxes.html,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchB:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/display-packaging.html,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchB:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/eco-friendly-kraft-packaging-boxes-bulk/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchB:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/custom-craft-small-boxes/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchB:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/blog/top-outdoor-ice-vending-machine-suppliers-china/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchB:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/custom-packaging-boxes/pen-gift-packaging-boxes.html,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchB:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/cube-shaped-carrier.html,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchB:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/easel-display-stand.html,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchB:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/custom-packaging-and-printing-wholesale/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchC:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/eco-friendly-kraft-packaging-boxes-bulk/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchC:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.smallcustomboxes.com/blog/eco-friendly-and-stylish-garment-packaging-boxes-perfect-solutions-for-your-fashion-brand/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchC:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://listedin.co.uk/search/business-profile.asp?company=PackagingDaddy.com&lid=479698,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchD:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.provenexpert.com/en-us/bespoke-boxes-au/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchD:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://listedin.co.uk/search/results.asp?SearchLocation=&SearchTerm=Custom-Packaging&p=2&ro=14&slocid=0&sloctype=1,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchD:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://listedin.co.uk/search/results.asp?SearchLocation=&SearchTerm=packaging-and-printing-services&p=1&ro=12&slocid=0&sloctype=1,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchD:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.listedin.co.uk/search/results.asp?SearchLocation=&SearchTerm=Custom-Packaging&p=3&ro=9&slocid=0&sloctype=1,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchD:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://packagingdaddycom.newyorkcitydirect.us/profile/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchE:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://packagingdaddycom.newyorkcitydirect.us/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchE:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://packagingdaddycom.newyorkcitydirect.us/contact/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchE:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://packagingdaddycom.newyorkcitydirect.us/map/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchE:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.whereis.com/nsw/sydney-2000/yellowId-15760607,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchE:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.whereis.com/homebush-west-nsw-2140/packaging-filling-assembling-services,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchE:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.thefosseway.co.uk/listing/205836/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.linkedin.com/posts/forum-pay_contact-us-forumpay-activity-7167941883833303040-a90t,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/paper-bags-printing.html,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.astickerprinting.com/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.astickerprinting.com/Custom-Stickers-Labels,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.astickerprinting.com/Custom-Car-Stickers,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.astickerprinting.com/Custom-Stickers-Labels/Rfid-Stickers,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.astickerprinting.com/Custom-Stickers-Labels/Asset-Tag-Stickers,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.astickerprinting.com/Custom-Stickers,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.astickerprinting.com/Custom-Stickers-Labels/Window-Cling-Stickers,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchF:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.listedin.co.uk/search/results.asp?SearchLocation=&SearchTerm=Custom-Packaging&p=3&ro=9&slocid=0&sloctype=1,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchH:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.listedin.co.uk/search/results.asp?SearchLocation=&SearchTerm=PRint-and-Packaging.&p=4&ro=8&slocid=0&sloctype=1,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchH:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.designmediaservice.com/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchH:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/custom-packaging-boxes/magnetic-keepsake-packaging-boxes.html,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchH:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.dayancopack.com/custom-packaging-boxes/pen-gift-packaging-boxes.html,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchH:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://pdtrus.com/privacy-policy,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchH:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://pdtrus.com/terms-of-service,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchH:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.thefosseway.co.uk/listing/205836/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchH:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://pdtrus.com/terms-of-service,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchK:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://pdtrus.com/privacy-policy,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchK:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.astickerprinting.com/Waterproof-Labels-3,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchK:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.astickerprinting.com/Custom-Laptop-Stickers,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchK:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://branches.pk/branch-detail/92575-C-PACKAGING-DADDY-SMCPVT-LTD,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchK:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://branches.pk/branch-detail/92575-C-PACKAGING-DADDY-SMCPVT-LTD,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchL:3,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://id.linkedin.com/in/riofernandogibi,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchM:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://pdtrus.com/privacy-policy,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchM:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.provenexpert.com/en-us/pdt-r-us/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchM:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.listedin.co.uk/search/results.asp?SearchLocation=&SearchTerm=Packaging-services&p=3&ro=13&slocid=0&sloctype=1,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchM:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://in.linkedin.com/directory/people/q-2,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchN:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://sa.linkedin.com/directory/people/a-26,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchN:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://pk.linkedin.com/in/ranakamranmajid,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchN:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://branches.pk/branch-detail/92575-C-PACKAGING-DADDY-SMCPVT-LTD,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchN:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.linkedin.com/directory/posts/r-6,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchN:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.pdtrus.co.uk/about,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchO:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.customboxesco.com.au/custom-boxes.html,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchO:2,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk/contact-us,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://pk.linkedin.com/company/customboxespk,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.linkedin.com/company/custom-boxes-pvt-ltd,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk/custom-quote,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk//,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:0,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk//,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk/sitemap.html,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk/white-food-boxes-wholesale,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk/custom-barrette-boxes,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk/white-food-boxes-wholesale/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://customboxes.pk/index.php/blog/top-eid-gift-packaging-solution-ideas-in-pakistan-for-a-festive-touch,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2searchP:1,仅摘要/工具所给正文；如有实时抓取或存档则另列证据
+https://www.smallcustomboxes.com/blog/eco-friendly-and-stylish-garment-packaging-boxes-perfect-solutions-for-your-fashion-brand/,2026-11-05 第二轮；工具检索时点,公开搜索/打开工具结果；结果中的缓存日期另见原记录,,,公开搜索工作日志.json#r2primarySources,仅摘要/工具所给正文；如有实时抓取或存档则另列证据

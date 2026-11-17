@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-11-14T16:38:58+08:00",
+  "pdf_sha256": "b110c45bc7bc688d59338030f41719a2de6f6524b2b15de82533e4b3e6f9aafb",
+  "page_count": 70,
+  "all_pages_rendered": true,
+  "all_contact_sheets_reviewed": 6,
+  "detail_pages_reviewed": [
+    31,
+    32,
+    35,
+    45,
+    66,
+    68,
+    70
+  ],
+  "last_revision_pages": [
+    32,
+    45,
+    66,
+    70
+  ],
+  "last_revision_rendered_and_reviewed": true,
+  "observed_defects": [],
+  "render_dpi": 90,
+  "preview_directory": "排版预览/读者精简修订",
+  "notes": "70 pages reviewed through six contact sheets; key editorial pages inspected at full image size. The final wording pass affected pages 32, 45, 66 and 70; these pages were re-rendered and inspected. The course invitation is a single unbolded paragraph. Case coverage, exact retained case URL/source columns, prompt completeness, font coverage, page bounds, bookmarks and ZIP integrity passed separate checks. This is an editorial review, not reader-conversion testing."
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "page": 1,
+    "key": "cover",
+    "title": "",
+    "bottom": 42.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 2,
+    "key": "contents",
+    "title": "8 页看懂逻辑，附录查企业与网址",
+    "bottom": 68.0,
+    "body_scale": 1.0
+  },
+  {
+    "page": 3,
+    "key": "history",
+    "title": "多语言国家站，已经有十多年的企业实践",
+    "bottom": 230.21,
+    "body_scale": 1.0
+  },
+  {
+    "page": 4,
+    "key": "case_proof",
+    "title": "从三一到包装企业，都能看到实际的网站布局",
+    "bottom": 218.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 5,
+    "key": "mascus_results",
+    "title": "已披露的结果，从搜索访问延伸到业务联系",
+    "bottom": 241.19,
+    "body_scale": 1.0
+  },
+  {
+    "page": 6,
+    "key": "buyer_journey",
+    "title": "当地语言、产品内容和国家域名，承接同一条需求",
+    "bottom": 182.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 7,
+    "key": "old_cost",
+    "title": "过去的难点，是把多国网站长期经营下去",
+    "bottom": 314.3,
+    "body_scale": 1.0
+  },
+  {
+    "page": 8,
+    "key": "ai_economics",
+    "title": "AI 减少三类重复工作，让小团队更有条件参与",
+    "bottom": 219.74,
+    "body_scale": 1.0
+  },
+  {
+    "page": 9,
+    "key": "solution_capabilities",
+    "title": "WordPress + Codex，建设长期获客网站",
+    "bottom": 176.79,
+    "body_scale": 1.0
+  },
+  {
+    "page": 10,
+    "key": "why_now",
+    "title": "从自己的产品出发，建立可持续的海外入口",
+    "bottom": 319.33,
+    "body_scale": 1.0
+  },
+  {
+    "page": 11,
+    "key": "appendix",
+    "title": "125 组案例，按企业查阅全部已记录链接",
+    "bottom": 262.19,
+    "body_scale": 1.0
+  },
+  {
+    "page": 12,
+    "key": "sany_domains_1",
+    "title": "三一：25 个集团与业务根域 · 1/2",
+    "bottom": 105.03,
+    "body_scale": 1.0
+  },
+  {
+    "page": 13,
+    "key": "sany_domains_2",
+    "title": "三一：25 个集团与业务根域 · 2/2",
+    "bottom": 136.99,
+    "body_scale": 1.0
+  },
+  {
+    "page": 14,
+    "key": "pack_matrix_1",
+    "title": "包装：47 个核心根域 · 1/2",
+    "bottom": 122.78,
+    "body_scale": 1.0
+  },
+  {
+    "page": 15,
+    "key": "pack_matrix_2",
+    "title": "包装：47 个核心根域 · 2/2",
+    "bottom": 149.75,
+    "body_scale": 1.0
+  },
+  {
+    "page": 16,
+    "key": "catalog_1_0",
+    "title": "主案例 · 1/4",
+    "bottom": 275.39,
+    "body_scale": 1.0
+  },
+  {
+    "page": 17,
+    "key": "catalog_1_1",
+    "title": "主案例 · 2/4",
+    "bottom": 319.39,
+    "body_scale": 1.0
+  },
+  {
+    "page": 18,
+    "key": "catalog_1_2",
+    "title": "主案例 · 3/4",
+    "bottom": 259.39,
+    "body_scale": 1.0
+  },
+  {
+    "page": 19,
+    "key": "catalog_1_3",
+    "title": "主案例 · 4/4",
+    "bottom": 240.39,
+    "body_scale": 1.0
+  },
+  {
+    "page": 20,
+    "key": "catalog_2_0",
+    "title": "中国制造 · 1/8",
+    "bottom": 85.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 21,
+    "key": "catalog_2_1",
+    "title": "中国制造 · 2/8",
+    "bottom": 64.39,
+    "body_scale": 1.0
+  },
+  {
+    "page": 22,
+    "key": "catalog_2_2",
+    "title": "中国制造 · 3/8",
+    "bottom": 115.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 23,
+    "key": "catalog_2_3",
+    "title": "中国制造 · 4/8",
+    "bottom": 133.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 24,
+    "key": "catalog_2_4",
+    "title": "中国制造 · 5/8",
+    "bottom": 159.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 25,
+    "key": "catalog_2_5",
+    "title": "中国制造 · 6/8",
+    "bottom": 198.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 26,
+    "key": "catalog_2_6",
+    "title": "中国制造 · 7/8",
+    "bottom": 180.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 27,
+    "key": "catalog_2_7",
+    "title": "中国制造 · 8/8",
+    "bottom": 393.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 28,
+    "key": "catalog_3_0",
+    "title": "工业与 B2B · 1/19",
+    "bottom": 62.39,
+    "body_scale": 1.0
+  },
+  {
+    "page": 29,
+    "key": "catalog_3_1",
+    "title": "工业与 B2B · 2/19",
+    "bottom": 103.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 30,
+    "key": "catalog_3_2",
+    "title": "工业与 B2B · 3/19",
+    "bottom": 72.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 31,
+    "key": "catalog_3_3",
+    "title": "工业与 B2B · 4/19",
+    "bottom": 199.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 32,
+    "key": "catalog_3_4",
+    "title": "工业与 B2B · 5/19",
+    "bottom": 98.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 33,
+    "key": "catalog_3_5",
+    "title": "工业与 B2B · 6/19",
+    "bottom": 185.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 34,
+    "key": "catalog_3_6",
+    "title": "工业与 B2B · 7/19",
+    "bottom": 75.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 35,
+    "key": "catalog_3_7",
+    "title": "工业与 B2B · 8/19",
+    "bottom": 111.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 36,
+    "key": "catalog_3_8",
+    "title": "工业与 B2B · 9/19",
+    "bottom": 93.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 37,
+    "key": "catalog_3_9",
+    "title": "工业与 B2B · 10/19",
+    "bottom": 111.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 38,
+    "key": "catalog_3_10",
+    "title": "工业与 B2B · 11/19",
+    "bottom": 111.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 39,
+    "key": "catalog_3_11",
+    "title": "工业与 B2B · 12/19",
+    "bottom": 111.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 40,
+    "key": "catalog_3_12",
+    "title": "工业与 B2B · 13/19",
+    "bottom": 111.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 41,
+    "key": "catalog_3_13",
+    "title": "工业与 B2B · 14/19",
+    "bottom": 111.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 42,
+    "key": "catalog_3_14",
+    "title": "工业与 B2B · 15/19",
+    "bottom": 165.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 43,
+    "key": "catalog_3_15",
+    "title": "工业与 B2B · 16/19",
+    "bottom": 129.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 44,
+    "key": "catalog_3_16",
+    "title": "工业与 B2B · 17/19",
+    "bottom": 165.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 45,
+    "key": "catalog_3_17",
+    "title": "工业与 B2B · 18/19",
+    "bottom": 216.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 46,
+    "key": "catalog_3_18",
+    "title": "工业与 B2B · 19/19",
+    "bottom": 411.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 47,
+    "key": "catalog_4_0",
+    "title": "跨行业与架构参照 · 1/8",
+    "bottom": 116.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 48,
+    "key": "catalog_4_1",
+    "title": "跨行业与架构参照 · 2/8",
+    "bottom": 98.39,
+    "body_scale": 1.0
+  },
+  {
+    "page": 49,
+    "key": "catalog_4_2",
+    "title": "跨行业与架构参照 · 3/8",
+    "bottom": 80.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 50,
+    "key": "catalog_4_3",
+    "title": "跨行业与架构参照 · 4/8",
+    "bottom": 129.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 51,
+    "key": "catalog_4_4",
+    "title": "跨行业与架构参照 · 5/8",
+    "bottom": 116.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 52,
+    "key": "catalog_4_5",
+    "title": "跨行业与架构参照 · 6/8",
+    "bottom": 98.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 53,
+    "key": "catalog_4_6",
+    "title": "跨行业与架构参照 · 7/8",
+    "bottom": 147.89,
+    "body_scale": 1.0
+  },
+  {
+    "page": 54,
+    "key": "catalog_4_7",
+    "title": "跨行业与架构参照 · 8/8",
+    "bottom": 252.89,
+    "body_scale": 1.0
+  }
+]

@@ -1,0 +1,843 @@
+{
+  "requested_url": "https://swingtagsco.co.uk/",
+  "observed_at": "2026-11-05T20:19:50.140296+08:00",
+  "status": 200,
+  "final_url": "https://swingtagsco.co.uk/",
+  "title": "Custom Swing Tags UK | Printed Hang Tags, Any Shape",
+  "links": [
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/media/favicon/default/favicon.png",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/media/favicon/default/favicon.png",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.hangtagsco.com/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.swingtagsco.com.au/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "//fonts.googleapis.com/css?family=Montserrat:400,700",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "//fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/js/tm/lib/swiper/css/swiper.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/fontawesome/css/font-awesome.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/pe-icon-stroke/css/pe-icon-7-stroke.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/font-SVG/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/css/bootstrap/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/css/jquery.bxslider.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/demo3/css/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/base/default/css/widgets.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/blog/css/blog.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/css/magicaccordion.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/magicmenu/css/magicmenu.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/magicsocial/css/magicsocial.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/base/default/tm/easycatalogimg/css/styles.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/base/default/tm/easyslide/css/easyslide.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/base/default/css/tm/testimonials.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/plugin/css/animate.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/magiccart/magicslider/css/magicslider.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/default/css/print.css",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://swingtagsco.co.uk/media/js/03ffed4aa46c3facfe1712cb5ca39b77.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://swingtagsco.co.uk/media/js/dde23bea691eb8a3db1784d27e731d5a.js",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/blog/rss/index/store_id/1/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://swingtagsco.co.uk/skin/frontend/aloelectro/demo3/css/responsive.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "//fonts.googleapis.com/css?family=Open+Sans",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://wa.me/+442079936533?text=Hello%2C%20I%20am%20interested%20in%20custom%20tags%20from%20swingtagsco.co.uk%20I%20need%20more%20details.",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "Our Categories"
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/luggage-tags.html",
+      "text": "Luggage Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/boutique-tags.html",
+      "text": "Boutique Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/retail-tags.html",
+      "text": "Retail Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/wave-tags.html",
+      "text": "Wave Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bottle-neck-tag.html",
+      "text": "Bottle Neck Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bubble-circular-tag.html",
+      "text": "Bubble Circular Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/classic-fold-over-tag.html",
+      "text": "Classic Fold Over Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/elegant-rounded-tag.html",
+      "text": "Elegant Rounded Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/retro-tag.html",
+      "text": "Retro Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bubble-square-tag.html",
+      "text": "Bubble Square Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/rounded-tag.html",
+      "text": "Rounded Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/elegant-series-tag.html",
+      "text": "Elegant Series Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/lips-tag.html",
+      "text": "Lips Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/mini-heart-tag.html",
+      "text": "Mini Heart Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/squeeze-tag.html",
+      "text": "Squeeze Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/mini-bent-oval-tag.html",
+      "text": "Mini Bent Oval Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bent-oval-tag.html",
+      "text": "Bent Oval Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/mini-squeeze-tag.html",
+      "text": "Mini Squeeze Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/circular-tag.html",
+      "text": "Circular Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/shear-tag.html",
+      "text": "Shear Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/fold-over-tag.html",
+      "text": "Fold Over Tags"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/blog/",
+      "text": "Blog"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "Our Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/luggage-tags.html",
+      "text": "Luggage Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/boutique-tags.html",
+      "text": "Boutique Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/retail-tags.html",
+      "text": "Retail Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/wave-tags.html",
+      "text": "Wave Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bottle-neck-tag.html",
+      "text": "Bottle Neck Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bubble-circular-tag.html",
+      "text": "Bubble Circular Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/classic-fold-over-tag.html",
+      "text": "Classic Fold Over Tags"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/blog/",
+      "text": "Blog"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/",
+      "text": "United Kingdom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.hangtagsco.com/",
+      "text": "United States"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.swingtagsco.com.au/",
+      "text": "Australia"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Custom Quotation"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/",
+      "text": "United Kingdom"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.hangtagsco.com/",
+      "text": "United States"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.swingtagsco.com.au/",
+      "text": "Australia"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "Our Categories"
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/luggage-tags.html",
+      "text": "Luggage Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/boutique-tags.html",
+      "text": "Boutique Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/retail-tags.html",
+      "text": "Retail Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/wave-tags.html",
+      "text": "Wave Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bottle-neck-tag.html",
+      "text": "Bottle Neck Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bubble-circular-tag.html",
+      "text": "Bubble Circular Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/classic-fold-over-tag.html",
+      "text": "Classic Fold Over Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/elegant-rounded-tag.html",
+      "text": "Elegant Rounded Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/retro-tag.html",
+      "text": "Retro Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bubble-square-tag.html",
+      "text": "Bubble Square Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/rounded-tag.html",
+      "text": "Rounded Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/elegant-series-tag.html",
+      "text": "Elegant Series Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/lips-tag.html",
+      "text": "Lips Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/mini-heart-tag.html",
+      "text": "Mini Heart Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/squeeze-tag.html",
+      "text": "Squeeze Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/mini-bent-oval-tag.html",
+      "text": "Mini Bent Oval Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bent-oval-tag.html",
+      "text": "Bent Oval Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/mini-squeeze-tag.html",
+      "text": "Mini Squeeze Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/circular-tag.html",
+      "text": "Circular Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/shear-tag.html",
+      "text": "Shear Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/fold-over-tag.html",
+      "text": "Fold Over Tags"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/blog/",
+      "text": "Blog"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/",
+      "text": "Home"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "Our Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/luggage-tags.html",
+      "text": "Luggage Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/boutique-tags.html",
+      "text": "Boutique Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/retail-tags.html",
+      "text": "Retail Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/wave-tags.html",
+      "text": "Wave Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bottle-neck-tag.html",
+      "text": "Bottle Neck Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bubble-circular-tag.html",
+      "text": "Bubble Circular Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/classic-fold-over-tag.html",
+      "text": "Classic Fold Over Tags"
+    },
+    {
+      "tag": "a",
+      "href": "/view-all-categories/",
+      "text": "View All Categories"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/custom-quotation/",
+      "text": "Custom Products"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/blog/",
+      "text": "Blog"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Custom Quotation"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Create Your Custom Swing Tags"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Design Your Swing Tags"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Get Expert Help"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Your Custom Quote"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/boutique-tags.html",
+      "text": "View Category →"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/retail-tags.html",
+      "text": "View Category →"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/belt-hang-tags.html",
+      "text": "View Category →"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/luggage-tags.html",
+      "text": "View Category →"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bubble-circular-tag.html",
+      "text": "View Category →"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/classic-fold-over-tag.html",
+      "text": "View Category →"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bottle-neck-tag.html",
+      "text": "View Category →"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/wave-tags.html",
+      "text": "View Category →"
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get Your Free Quote Today"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/blog/eco-friendly-innovations-the-rise-of-biodegradable-tags-in-sustainable-packaging/",
+      "text": "Read Article"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/blog/creative-uses-for-recycled-material-tags-sustainable-and-stylish-solutions/",
+      "text": "Read Article"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/blog/creative-uses-and-benefits-of-heavy-cardboard-tags/",
+      "text": "Read Article"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/blog/creative-uses-for-cardstock-tags-tips-and-ideas-for-every-occasion/",
+      "text": "Read Article"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/blog/creative-and-sustainable-uses-for-paperboard-tags/",
+      "text": "Read Article"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/blog/",
+      "text": "View All Articles"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.provenexpert.com/en-us/pdt-r-us/",
+      "text": "read them all on ProvenExpert"
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/logo-hang-tags.html",
+      "text": "Personalised Logo Hang Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/boutique-tags.html",
+      "text": "Boutique Product Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/retail-tags.html",
+      "text": "Custom Retail Tags Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/wave-tags.html",
+      "text": "Wave Tags Printing"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/bubble-circular-tag.html",
+      "text": "Bubble Circular Tags"
+    },
+    {
+      "tag": "a",
+      "href": "https://swingtagsco.co.uk/classic-fold-over-tag.html",
+      "text": "Classic Fold Over Tags"
+    },
+    {
+      "tag": "a",
+      "href": "tel:+442079936533",
+      "text": "0207 993 6533"
+    },
+    {
+      "tag": "a",
+      "href": "mailto:info@swingtagsco.co.uk",
+      "text": "info@swingtagsco.co.uk"
+    },
+    {
+      "tag": "a",
+      "href": "https://wa.me/442079936533",
+      "text": "WhatsApp"
+    },
+    {
+      "tag": "a",
+      "href": "/about-us/",
+      "text": "About Us"
+    },
+    {
+      "tag": "a",
+      "href": "/privacy-policy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "tag": "a",
+      "href": "/shipping-and-returns/",
+      "text": "Shipping and Returns"
+    },
+    {
+      "tag": "a",
+      "href": "/terms-and-conditions",
+      "text": "Terms and Returns"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Contact Us"
+    }
+  ],
+  "telephone_links": [
+    "tel:+442079936533",
+    "wa.me/+442079936533?text=Hello%2C%20I%20am%20interested%20in%20custom%20tags%20from%20swingtagsco.co.uk%20I%20need%20more%20details.",
+    "wa.me/442079936533"
+  ],
+  "tracking_ids": [
+    "UA-72761961-1",
+    "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua",
+    "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+  ],
+  "external_domains": [
+    "cdn.jsdelivr.net",
+    "swingtagsco.co.uk",
+    "wa.me",
+    "www.hangtagsco.com",
+    "www.provenexpert.com",
+    "www.swingtagsco.com.au"
+  ],
+  "footer_text": "We create custom swing tags for clothing, jewellery, candles, and retail products with a focus on quality and clean design. Perfect for small and large brands looking for professional, premium packaging that stands out. FEATURED CATEGORIES Personalised Logo Hang Tags Boutique Product Tags Custom Retail Tags Printing Wave Tags Printing Bubble Circular Tags Classic Fold Over Tags TRUSTED QUALITY 4.9 /5 ★★★★★ Verified Rating PAYMENT METHODS Swing Tags Co, United Kingdom · 0207 993 6533 · info@swingtagsco.co.uk · WhatsApp © 2026 Swing Tags Co . All Rights Reserved. About Us | Privacy Policy | Shipping and Returns | Terms and Returns | Contact Us"
+}

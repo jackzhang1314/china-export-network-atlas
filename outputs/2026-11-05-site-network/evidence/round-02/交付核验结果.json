@@ -1,0 +1,21 @@
+{
+  "validated_at": "2026-11-05T23:57:30.785312+08:00",
+  "checks_passed": 142,
+  "checks_failed": 0,
+  "original_evidence_hashes_verified": 382,
+  "core_domains": 47,
+  "historical_domains": 1,
+  "candidates_B": 2,
+  "candidates_C": 5,
+  "not_included": 5,
+  "reviewed_objects": 60,
+  "key_evidence_facts": 29,
+  "snapshot": "snapshots/round-01-2034/",
+  "failure_responses_retained": [
+    "ct__printinggood.json",
+    "ct__cosmeticpackagingco.json",
+    "ct__pdtrus.json",
+    "ct__bestmediaservice.json"
+  ],
+  "scope": "文档/数据交付核验；不代表47站功能、询盘收件、法律持有人或完整站群普查"
+}

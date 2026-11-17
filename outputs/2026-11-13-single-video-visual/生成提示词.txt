@@ -1,0 +1,46 @@
+Use case: infographic-diagram and advertising key visual.
+Create ONE finished AI-generated image, landscape 16:9, highest available resolution, ideally 3840x2160. This will fill a conference-room flat-panel TV behind a Chinese presenter in a short video. The viewer must immediately understand the opportunity: AI helps a small export factory build and maintain several localized country websites to pursue relevant buyer inquiries.
+
+ART DIRECTION: exceptionally clean, premium, restrained. Pure white background, near-black typography, vivid cobalt blue #2458D3 for emphasis. Chinese bold sans-serif, beautifully typeset, exact Simplified Chinese. Wide 6% safe margins, balanced empty space. No decorative motifs, no gradients, no glow, no shadows, no texture, no confetti, no flags, no maps, no globe, no robots, no smiling people, no emojis, no watermark, no tiny body text. Functional diagrams and arrows only. No fake metrics, no ranking claims, no guarantee wording, no historical before/after chart. This must look like a striking high-end editorial visual, not a cluttered PowerPoint.
+
+TYPOGRAPHY / TOP THIRD:
+One dominant headline, exactly:
+“AI，让小工厂也能做多语言站群”
+Make “AI” and “多语言站群” cobalt blue, other words near-black. Use at most two balanced lines if necessary; avoid cramped text. This is the primary attention hook.
+
+MIDDLE / LOWER TWO THIRDS:
+An extremely clear left-to-right flow with FOUR spacious groups, connected by simple blue arrows. One logical diagram, no decorative containers.
+
+GROUP 1, LEFT:
+A small elegant accurate technical line illustration of a generic compact mini excavator with a blue body, white cabin and black crawler tracks, beside a very simple factory roof outline. The illustration is crisp, realistic in proportions, no logo, no model number, no scene or background. Under it, two large text lines, exactly:
+“你的工厂”
+“产品与公司资料”
+
+GROUP 2:
+A clean square-corner light blue outline containing the large title “Codex + Skill”.
+Under the title exactly three evenly spaced stacked labels:
+“建站”
+“翻译”
+“更新”
+All clearly readable. This box signifies a functional workflow, no sparkle or chip illustration.
+
+GROUP 3:
+The arrow from group 2 branches into THREE vertically stacked minimal website silhouettes. Each silhouette has a noticeably different basic page arrangement (image/text split, three columns, full-width product header) using blank black/blue line blocks, no microscopic fake text. Each has one large and readable title:
+“德语站 .de”
+“法语站 .fr”
+“西班牙语站 .es”
+Connect these three back to the output with a simple merger line. Keep language-domain mapping absolutely correct.
+
+GROUP 4, RIGHT:
+Large blue heading exactly “精准询盘”.
+Below it, one plain black outlined message rectangle with ONLY this text on two clear lines:
+“3 台小挖，发到德国”
+“请报价格和交期”
+This is a procurement example, not a notification with fabricated counts, dates or badges.
+
+BOTTOM:
+One compact but readable action line exactly:
+“评论区：AI站群  ｜  领取建站 Skill + 完整案例”
+Keep this visually subordinate, with plenty breathing room, never a bulky banner.
+
+Show ONLY the specified text. No extra slogans such as '先验证一个国家' or explanatory paragraphs. All elements must be large enough to read when the image occupies a television within a phone video. Cohesive composition, clean line weights, diagram structure legible at a glance.

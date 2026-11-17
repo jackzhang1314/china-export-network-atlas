@@ -1,0 +1,23 @@
+[
+  {
+    "hostname": "ai.designmediaservice.com",
+    "dns": [
+      "198.23.60.21"
+    ],
+    "scope": "仅公开DNS元数据；不计独立根域名；未登录或读取业务后台"
+  },
+  {
+    "hostname": "crm.designmediaservice.com",
+    "dns": [
+      "198.23.60.21"
+    ],
+    "scope": "仅公开DNS元数据；不计独立根域名；未登录或读取业务后台"
+  },
+  {
+    "hostname": "ws.designmediaservice.com",
+    "dns": [
+      "198.23.60.21"
+    ],
+    "scope": "仅公开DNS元数据；不计独立根域名；未登录或读取业务后台"
+  }
+]

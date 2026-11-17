@@ -1,0 +1,1035 @@
+[
+  {
+    "requested_url": "https://web.archive.org/web/20150203134055id_/http://www.bestmediaservice.com/Contact-Us.html",
+    "observed_at": "2026-11-05T23:36:55.393147+08:00",
+    "status": 200,
+    "final_url": "https://web.archive.org/web/20150203134055id_/http://www.bestmediaservice.com/Contact-Us.html",
+    "file": "archive__d9d4c32be790.html",
+    "retry_after": null,
+    "tawk": [],
+    "emails": [],
+    "links": [
+      {
+        "url": "http://www.bestmediaservice.com/",
+        "text": ""
+      },
+      {
+        "url": "http://www.bestmediaservice.com/",
+        "text": ""
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Services.html",
+        "text": "Services"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Products.html",
+        "text": "Products"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Custom-Quote.html",
+        "text": "Custom Quote"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Contact-Us.html",
+        "text": "Contact Us"
+      },
+      {
+        "url": "",
+        "text": "Live Chat"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Call-Me-Back.html",
+        "text": "Call Me Back"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/booklet-printing",
+        "text": "Booklet"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/booklet-printing/a4-booklet-printing",
+        "text": "A4 Booklet Printing"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/booklet-printing/a5-booklet-printing",
+        "text": "A5 Booklet"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/booklet-printing/a6-booklet-printing",
+        "text": "A6 Booklet"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/booklet-printing/custom-booklets-printing",
+        "text": "Custom Booklets"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/bookmarks-printing",
+        "text": "Bookmarks"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/bookmarks-printing/2-X-6-Bookmarks",
+        "text": "2 X 6 Bookmark"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/bookmarks-printing/3-x-7-bookmark",
+        "text": "3 X 7 Bookmark"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/bookmarks-printing/custom-bookmarks",
+        "text": "Custom Bookmarks"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/bottle-neckers",
+        "text": "Bottle Neckers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/bottle-neckers/wine-bottle-neckers",
+        "text": "Wine Bottle Neckers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/brochure-printing",
+        "text": "Brochure"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/brochure-printing/a3-brochure",
+        "text": "A3 Brochure"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/brochure-printing/a4-brochure",
+        "text": "A4 Brochure"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/brochure-printing/a5-brochure",
+        "text": "A5 Brochure"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/brochure-printing/Custom-Brochure-Printing",
+        "text": "Custom Brochure"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/business-cards-printing",
+        "text": "Business Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/business-cards-printing/custom-business-cards",
+        "text": "Custom Business Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/business-cards-printing/die-cut-business-cards",
+        "text": "Die-Cut Business Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/business-cards-printing/embossed-business-cards",
+        "text": "Embossed Business Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/business-cards-printing/folded-business-cards",
+        "text": "Folded Business Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/business-cards-printing/standard-business-cards",
+        "text": "Standard Business Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/business-cards-printing",
+        "text": "View More"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/calendar-printing",
+        "text": "Calendar"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/calendar-printing/2-part-carbonless-forms",
+        "text": "2 Part Carbonless Forms"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/calendar-printing/3-part-carbonless-forms",
+        "text": "3 Part Carbonless Forms"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/calendar-printing/card-calendars",
+        "text": "Card Calendars"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/calendar-printing/custom-calendars",
+        "text": "Custom Calendars"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/calendar-printing/poster-calendars",
+        "text": "Poster Calendars"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/calendar-printing",
+        "text": "View More"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/carbonless-forms-printing",
+        "text": "Carbonless Forms"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/carbonless-forms-printing/custom-carbonless-forms",
+        "text": "Custom Carbonless Forms"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/catalogue-printing",
+        "text": "Catalogue"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/catalogue-printing/a4-catalogue",
+        "text": "A4 Catalogue"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/catalogue-printing/a5-catalogue",
+        "text": "A5 Catalogue"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/catalogue-printing/custom-catalogue-printing",
+        "text": "Custom Catalogue Printing"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/cd-jackets-printing",
+        "text": "CD Jackets"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/cd-jackets-printing/2-panel-cd-jacket",
+        "text": "2 Panel CD Jacket"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/cd-jackets-printing/4-panel-cd-jacket",
+        "text": "4 Panel CD Jacket"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/cd-jackets-printing/custom-cd-jackets",
+        "text": "Custom CD Jackets"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/decals-printing",
+        "text": "Decals"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/decals-printing/clear-decals",
+        "text": "Clear Decals"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/decals-printing/custom-decals",
+        "text": "Custom Decals"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/decals-printing/die-cut-decals",
+        "text": "Die-Cut Decals"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/decals-printing/oval-decals",
+        "text": "Oval Decals"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/decals-printing/paper-decals",
+        "text": "Paper Decals"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/decals-printing",
+        "text": "View More"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/door-hanger-printing",
+        "text": "Door Hanger"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/door-hanger-printing/door-hanger-printing",
+        "text": "Die-Cut Door Hanger"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Envelope Printing | Bestmediaservice.co.uk",
+        "text": "Envelope"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Envelope Printing | Bestmediaservice.co.uk/a4-envelopes",
+        "text": "A4 Envelopes"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Envelope Printing | Bestmediaservice.co.uk/a5-envelopes",
+        "text": "A5 Envelopes"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Envelope Printing | Bestmediaservice.co.uk/c3-envelopes",
+        "text": "C3 Envelopes"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Envelope Printing | Bestmediaservice.co.uk/c4-envelopes",
+        "text": "C4 Envelopes"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Envelope Printing | Bestmediaservice.co.uk/c5-envelopes",
+        "text": "C5 Envelopes"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Envelope Printing | Bestmediaservice.co.uk",
+        "text": "View More"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/flyers-printing",
+        "text": "Flyers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/flyers-printing/business-flyers",
+        "text": "Business Flyers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/flyers-printing/custom-flyers",
+        "text": "Custom Flyers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/flyers-printing/die-cut-flyers",
+        "text": "Die-Cut Flyers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/flyers-printing/nightclub-flyers",
+        "text": "Nightclub Flyers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/folder-printing",
+        "text": "Folder"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/folder-printing/custom-folders",
+        "text": "Custom Folders"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/folder-printing/pocket-folder",
+        "text": "Pocket Folders"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/folder-printing/presentation-folders",
+        "text": "Presentation Folders"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/greeting-cards-printing",
+        "text": "Greeting Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/greeting-cards-printing/custom-greeting-cards",
+        "text": "Custom Greeting Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/greeting-cards-printing/die-cut-greeting-cards",
+        "text": "Die-Cut Greeting Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/greeting-cards-printing/flat-greeting-cards",
+        "text": "Flat Greeting Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/greeting-cards-printing/folded-greeting-cards",
+        "text": "Folded Greeting Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/invitation-cards-printing",
+        "text": "Invitation Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/invitation-cards-printing/custom-invitation-cards",
+        "text": "Custom Invitation Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/invitation-cards-printing/flat-invitation-cards",
+        "text": "Flat Invitation Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/invitation-cards-printing/folded-invitation-cards",
+        "text": "Folded Invitation Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/label-printing",
+        "text": "Label"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/label-printing/clear-labels",
+        "text": "Clear Labels"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/label-printing/custom-labels",
+        "text": "Custom Labels"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/label-printing/die-cut-labels",
+        "text": "Die-Cut Labels"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/label-printing/oval-labels",
+        "text": "Oval Labels"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/label-printing/paper-labels",
+        "text": "Paper Labels"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/label-printing",
+        "text": "View More"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/letterhead-printing",
+        "text": "Letterhead"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/letterhead-printing/a4-letterhead",
+        "text": "A4 Letterhead"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/letterhead-printing/a5-letterhead",
+        "text": "A5 Letterhead"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/letterhead-printing/custom-letterheads",
+        "text": "Custom Letterheads"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/magazine-printing",
+        "text": "Magazine"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/magazine-printing/16-page-magazine",
+        "text": "16 Page Magazine"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/magazine-printing/8-page-magazine",
+        "text": "8 Page Magazine"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/magazine-printing/custom-magazine-printing",
+        "text": "Custom Magazine Printing"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/magnet-printing",
+        "text": "Magnet"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/magnet-printing/business-card-magnet",
+        "text": "Business Card Magnet"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/magnet-printing/car-magnet",
+        "text": "Car Magnet"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/magnet-printing/custom-magnets",
+        "text": "Custom Magnets"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/packaging-boxes-printing",
+        "text": "Packaging Boxes"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/packaging-boxes-printing/cardboard-boxes",
+        "text": "Cardboard Boxes"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/packaging-boxes-printing/corrugated-boxes",
+        "text": "Corrugated Boxes"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/packaging-boxes-printing/custom-packaging-boxes",
+        "text": "Custom Packaging Boxes"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/packaging-boxes-printing/die-cut-boxes",
+        "text": "Die-Cut Boxes"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/packaging-boxes-printing/products-packaging",
+        "text": "Products Packaging"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/packaging-boxes-printing",
+        "text": "View More"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/postcards-printing",
+        "text": "Postcards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/postcards-printing/custom-postcards",
+        "text": "Custom Postcards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/postcards-printing/folded-postcards",
+        "text": "Folded Postcards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/postcards-printing/standard-postcards",
+        "text": "Standard Postcards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/poster-printing",
+        "text": "Poster"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/poster-printing/bulk-poster",
+        "text": "Bulk Poster"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/poster-printing/custom-posters",
+        "text": "Custom Posters"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/poster-printing/large-format-poster",
+        "text": "Large Format Poster"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/poster-printing/mounted-poster",
+        "text": "Mounted Poster"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/rack-cards-printing",
+        "text": "Rack Cards"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/static-cling",
+        "text": "Static Cling"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/static-cling/vinyl-static-cling",
+        "text": "Vinyl Static Cling"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/sticker-printing",
+        "text": "Sticker"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/sticker-printing/car-stickers",
+        "text": "Car Stickers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/sticker-printing/clear-stickers",
+        "text": "Clear Stickers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/sticker-printing/custom-stickers",
+        "text": "Custom Stickers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/sticker-printing/die-cut-stickers",
+        "text": "Die-Cut Stickers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/sticker-printing/oval-stickers",
+        "text": "Oval Stickers"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/sticker-printing",
+        "text": "View More"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/table-tents-printing",
+        "text": "Table Tents"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/table-tents-printing/custom-table-tents",
+        "text": "Custom Table Tents"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/tags-printing",
+        "text": "Tags"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/tags-printing/asset-tags",
+        "text": "Asset Tags"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/tags-printing/custom-tags",
+        "text": "Custom Tags"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/tags-printing/hang-tags",
+        "text": "Hang Tags"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/tags-printing/swing-tags",
+        "text": "Swing Tags"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/tickets-printing",
+        "text": "Tickets"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/tickets-printing/custom-tickets",
+        "text": "Custom Tickets"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/tickets-printing/jumbo-tickets",
+        "text": "Jumbo Tickets"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/tickets-printing/standard-tickets",
+        "text": "Standard Tickets"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/vinyl-banner-printing",
+        "text": "Vinyl Banners"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/vinyl-banner-printing/advertising-banners",
+        "text": "Advertising Banners"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/vinyl-banner-printing/custom-vinyl-banners",
+        "text": "Custom Vinyl Banners"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/vinyl-banner-printing/outdoor-vinyl-banners",
+        "text": "Outdoor Vinyl Banners"
+      },
+      {
+        "url": "/Products/",
+        "text": "All Products"
+      },
+      {
+        "url": "http://pinterest.com/pin/create/button/",
+        "text": ""
+      },
+      {
+        "url": "http://twitter.com/share",
+        "text": "Tweet"
+      },
+      {
+        "url": "/booklet-printing",
+        "text": ""
+      },
+      {
+        "url": "/booklet-printing",
+        "text": "Booklet"
+      },
+      {
+        "url": "/bookmarks-printing",
+        "text": ""
+      },
+      {
+        "url": "/bookmarks-printing",
+        "text": "Bookmarks"
+      },
+      {
+        "url": "/bottle-neckers",
+        "text": ""
+      },
+      {
+        "url": "/bottle-neckers",
+        "text": "Bottle Neckers"
+      },
+      {
+        "url": "/brochure-printing",
+        "text": ""
+      },
+      {
+        "url": "/brochure-printing",
+        "text": "Brochure"
+      },
+      {
+        "url": "/business-cards-printing",
+        "text": ""
+      },
+      {
+        "url": "/business-cards-printing",
+        "text": "Business Cards"
+      },
+      {
+        "url": "/calendar-printing",
+        "text": ""
+      },
+      {
+        "url": "/calendar-printing",
+        "text": "Calendar"
+      },
+      {
+        "url": "/carbonless-forms-printing",
+        "text": ""
+      },
+      {
+        "url": "/carbonless-forms-printing",
+        "text": "Carbonless Forms"
+      },
+      {
+        "url": "/catalogue-printing",
+        "text": ""
+      },
+      {
+        "url": "/catalogue-printing",
+        "text": "Catalogue"
+      },
+      {
+        "url": "/cd-jackets-printing",
+        "text": ""
+      },
+      {
+        "url": "/cd-jackets-printing",
+        "text": "CD Jackets"
+      },
+      {
+        "url": "/decals-printing",
+        "text": ""
+      },
+      {
+        "url": "/decals-printing",
+        "text": "Decals"
+      },
+      {
+        "url": "/door-hanger-printing",
+        "text": ""
+      },
+      {
+        "url": "/door-hanger-printing",
+        "text": "Door Hanger"
+      },
+      {
+        "url": "/Envelope%20Printing%20%7C%20Bestmediaservice.co.uk",
+        "text": ""
+      },
+      {
+        "url": "/Envelope%20Printing%20%7C%20Bestmediaservice.co.uk",
+        "text": "Envelope"
+      },
+      {
+        "url": "/flyers-printing",
+        "text": ""
+      },
+      {
+        "url": "/flyers-printing",
+        "text": "Flyers"
+      },
+      {
+        "url": "/folder-printing",
+        "text": ""
+      },
+      {
+        "url": "/folder-printing",
+        "text": "Folder"
+      },
+      {
+        "url": "/greeting-cards-printing",
+        "text": ""
+      },
+      {
+        "url": "/greeting-cards-printing",
+        "text": "Greeting Cards"
+      },
+      {
+        "url": "/invitation-cards-printing",
+        "text": ""
+      },
+      {
+        "url": "/invitation-cards-printing",
+        "text": "Invitation Cards"
+      },
+      {
+        "url": "/label-printing",
+        "text": ""
+      },
+      {
+        "url": "/label-printing",
+        "text": "Label"
+      },
+      {
+        "url": "/letterhead-printing",
+        "text": ""
+      },
+      {
+        "url": "/letterhead-printing",
+        "text": "Letterhead"
+      },
+      {
+        "url": "/magazine-printing",
+        "text": ""
+      },
+      {
+        "url": "/magazine-printing",
+        "text": "Magazine"
+      },
+      {
+        "url": "/magnet-printing",
+        "text": ""
+      },
+      {
+        "url": "/magnet-printing",
+        "text": "Magnet"
+      },
+      {
+        "url": "/packaging-boxes-printing",
+        "text": ""
+      },
+      {
+        "url": "/packaging-boxes-printing",
+        "text": "Packaging Boxes"
+      },
+      {
+        "url": "/postcards-printing",
+        "text": ""
+      },
+      {
+        "url": "/postcards-printing",
+        "text": "Postcards"
+      },
+      {
+        "url": "/poster-printing",
+        "text": ""
+      },
+      {
+        "url": "/poster-printing",
+        "text": "Poster"
+      },
+      {
+        "url": "/static-cling",
+        "text": ""
+      },
+      {
+        "url": "/static-cling",
+        "text": "Static Cling"
+      },
+      {
+        "url": "/sticker-printing",
+        "text": ""
+      },
+      {
+        "url": "/sticker-printing",
+        "text": "Sticker"
+      },
+      {
+        "url": "/table-tents-printing",
+        "text": ""
+      },
+      {
+        "url": "/table-tents-printing",
+        "text": "Table Tents"
+      },
+      {
+        "url": "/tags-printing",
+        "text": ""
+      },
+      {
+        "url": "/tags-printing",
+        "text": "Tags"
+      },
+      {
+        "url": "/tickets-printing",
+        "text": ""
+      },
+      {
+        "url": "/tickets-printing",
+        "text": "Tickets"
+      },
+      {
+        "url": "/vinyl-banner-printing",
+        "text": ""
+      },
+      {
+        "url": "/vinyl-banner-printing",
+        "text": "Vinyl Banners"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/.html",
+        "text": ""
+      },
+      {
+        "url": "http://www.bestmediaservice.com/.html",
+        "text": ""
+      },
+      {
+        "url": "javascript:$zopim.livechat.window.show()",
+        "text": "Live Chat"
+      },
+      {
+        "url": "http://blog.bestmediaservices.com/",
+        "text": "Blog"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Products",
+        "text": "All Products"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Sitemap.html",
+        "text": "Sitemap"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Sitemap.xml",
+        "text": "Sitemap [XML]"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/Sitemap.txt",
+        "text": "Sitemap [TXT]"
+      },
+      {
+        "url": "http://www.bestmediaservice.com/.html",
+        "text": ""
+      }
+    ],
+    "forms": [
+      "http://www.bestmediaservice.com/search",
+      "mail.php"
+    ],
+    "text_file": "archive__d9d4c32be790.txt",
+    "text_length": 3047,
+    "text_excerpt": "Services\nProducts\nCustom Quote\nContact Us\nLive Chat\nCall Me Back\nCategories\nBooklet\nA4 Booklet Printing\nA5 Booklet\nA6 Booklet\nCustom Booklets\nBookmarks\n2 X 6 Bookmark\n3 X 7 Bookmark\nCustom Bookmarks\nBottle Neckers\nWine Bottle Neckers\nBrochure\nA3 Brochure\nA4 Brochure\nA5 Brochure\nCustom Brochure\nBusiness Cards\nCustom Business Cards\nDie-Cut Business Cards\nEmbossed Business Cards\nFolded Business Cards\nStandard Business Cards\nView More\nCalendar\n2 Part Carbonless Forms\n3 Part Carbonless Forms\nCard Calendars\nCustom Calendars\nPoster Calendars\nView More\nCarbonless Forms\nCustom Carbonless Forms\nCatalogue\nA4 Catalogue\nA5 Catalogue\nCustom Catalogue Printing\nCD Jackets\n2 Panel CD Jacket\n4 Panel CD Jacket\nCustom CD Jackets\nDecals\nClear Decals\nCustom Decals\nDie-Cut Decals\nOval Decals\nPaper Decals\nView Mo\nServices\nProducts\nCustom Quote\nContact Us\nLive Chat\nCall Me Back\nCategories\nBooklet\nA4 Booklet Printing\nA5 Booklet\nA6 Booklet\nCustom Booklets\nBookmarks\n2 X 6 Bookmark\n3 X 7 Bookmark\nCustom Bookmarks\nBottle Neckers\nWine Bottle Neckers\nBrochure\nA3 Brochure\nA4 Brochure\nA5 Brochure\nCustom Brochure\nBusiness Cards\nCustom Business Cards\nDie-Cut Business Cards\nEmbossed Business Cards\nFolded Business Cards\nStandard Business Cards\nView More\nCalendar\n2 Part Carbonless Forms\n3 Part Carbonless Forms\nCard Calendars\nCustom Calendars\nPoster Calendars\nView More\nCarbonless Forms\nCustom Carbonless Forms\nCatalogue\nA4 Catalogue\nA5 Catalogue\nCustom Catalogue Printing\nCD Jackets\n2 Panel CD Jacket\n4 Panel CD Jacket\nCustom CD Jackets\nDecals\nClear Decals\nCustom Decals\nDie-Cut Decals\nOval Decals\nPaper Decals\nView More\nDoor Hanger\nDie-Cut Door Hanger\nEnvelope\nA4 Envelopes\nA5 Envelopes\nC3 Envelopes\nC4 Envelopes\nC5 Envelopes\nView More\nFlyers\nBusiness Flyers\nCustom Flyers\nDie-Cut Flyers\nNightclub Flyers\nFolder\nCustom Folders\nPocket Folders\nPresentation Folders\nGreeting Cards\nCustom Greeting Cards\nDie-Cut Greeting Cards\nFlat Greeting Cards\nFolded Greeting Cards\nInvitation Cards\nCustom Invitation Cards\nFlat Invitation Cards\nFolded Invitation Cards\nLabel\nClear Labels\nCustom Labels\nDie-Cut Labels\nOval Labels\nPaper Labels\nView More\nLetterhead\nA4 Letterhead\nA5 Letterhead\nCustom Letterheads\nMagazine\n16 Page Magazine\n8 Page Magazine\nCustom Magazine Printing\nMagnet\nBusiness Card Magnet\nCar Magnet\nCustom Magnets\nPackaging Boxes\nCardboard Boxes\nCorrugated Boxes\nCustom Packaging Boxes\nDie-Cut Boxes\nProducts Packaging\nView More\nPostcards\nCustom Postcards\nFolded Postcards\nStandard Postcards\nPoster\nBulk Poster\nCustom Posters\nLarge Format Poster\nMounted Poster\nRack Cards\nStatic Cling\nVinyl Static Cling\nSticker\nCar Stickers\nClear Stickers\nCustom Stickers\nDie-Cut Stickers\nOval Stickers\nView More\nTable Tents\nCustom Table Tents\nTags\nAsset Tags\nCustom Tags\nHang Tags\nSwing Tags\nTickets\nCustom Tickets\nJumbo Tickets\nStandard Tickets\nVinyl Banners\nAdvertising Banners\nCustom Vinyl Banners\nOutdoor Vinyl Banners\nAll Products\nTweet\nInformation\nContact Us\nYour Full Name:\nYour Company Name:\nYour Telephone:\nYour Email Address:\nMessage:\nUpload Artwork:\nUpload Your Artwork (less than 200MB)\nBooklet\nBookmarks\nBottle Neckers\nBrochure\nBusiness Cards\nCalendar\nCarbonless Forms\nCatalogue\nCD Jackets\nDecals\nDoor Hanger\nEnvelope\nFlyers\nFolder\nGreeting Cards\nInvitation Cards\nLabel\nLetterhead\nMagazine\nMagnet\nPackaging Boxes\nPostcards\nPoster\nStatic Cling\nSticker\nTable Tents\nTags\nTickets\nVinyl Banners\nQuick Links\nLive Chat\nBlog\nAll Products\nSitemap\nSitemap [XML]\nSitemap [TXT]\nCustomer Services\nTestimonials\n\"You have been very helpful throughout the whole printing process. BestMediaServices is now on our top of the list for our marketing and office use material. Thanks \"\nBrian Gilbert\nMarketing Director (Gruv)\nContact Us\nPrinting Firm\nHeadway House\nAstley Street\nDukinsfield\nCheshire\nSK16 4RG\nTel: 0161 8505504\nCopyright © 2011-2015 BestMediaServices. all rights reserved."
+  },
+  {
+    "requested_url": "https://web.archive.org/web/20240810210755id_/https://www.packagingdaddy.com/",
+    "observed_at": "2026-11-05T23:37:01.226938+08:00",
+    "status": 200,
+    "final_url": "https://web.archive.org/web/20240810210755id_/https://www.packagingdaddy.com/",
+    "file": "archive__69ac31053875.html",
+    "retry_after": null,
+    "tawk": [],
+    "emails": [
+      "759623866@qq.com",
+      "admin@example.com",
+      "admin@packagingdaddy.com",
+      "havana2008@hotmail.com",
+      "lxl@packmage.cn",
+      "lxs@packmage.cn",
+      "payment@packmage.com",
+      "service@packmage.com"
+    ],
+    "links": [
+      {
+        "url": "/",
+        "text": ""
+      },
+      {
+        "url": "/",
+        "text": "HOME"
+      },
+      {
+        "url": "/uc/boxes",
+        "text": "BOXES BY STYLE"
+      },
+      {
+        "url": "/online",
+        "text": "DOWNLOAD TEMPLATES"
+      },
+      {
+        "url": "uc/article/615665114962",
+        "text": "CONTACT"
+      },
+      {
+        "url": "/Account/register",
+        "text": "Register"
+      },
+      {
+        "url": "javascript:void(0)",
+        "text": "Login"
+      },
+      {
+        "url": "",
+        "text": "Free Box Styles"
+      },
+      {
+        "url": "",
+        "text": "Samples"
+      },
+      {
+        "url": "javascript:;",
+        "text": ""
+      },
+      {
+        "url": "www.packagingdaddy.com",
+        "text": "Learn More"
+      },
+      {
+        "url": "/Uc/Diy/0210",
+        "text": "Start"
+      },
+      {
+        "url": "/Uc/Diy/B032",
+        "text": "Start"
+      },
+      {
+        "url": "/Uc/Diy/E005",
+        "text": "Start"
+      },
+      {
+        "url": "/Uc/Diy/A036",
+        "text": "Start"
+      },
+      {
+        "url": "/Uc/Diy/D055",
+        "text": "Start"
+      },
+      {
+        "url": "/Uc/Diy/Z041",
+        "text": "Start"
+      },
+      {
+        "url": "/",
+        "text": "Beautiful designs, powerful features, and the freedom to build anything you want. Packaging Daddy is"
+      },
+      {
+        "url": "/",
+        "text": "59% of the Product Inventors struggle choosing Packaging suppliers. We sent everything to your Table"
+      },
+      {
+        "url": "/",
+        "text": "Manage Orders Online, Reorder with 1 Click for the same specs of your previous order, stay informed "
+      },
+      {
+        "url": "/",
+        "text": "Over 60 Thousand people have chosen Packaging Daddy to power the Product Sale — join the family"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCixj4sITXpWZRyrdgGTw-Ng",
+        "text": ""
+      },
+      {
+        "url": "/uc/article/522566843531?topcid=8&ainm=1",
+        "text": "Tutorial"
+      },
+      {
+        "url": "/uc/article/788122542938?topcid=8&ainm=1",
+        "text": "Printing Process"
+      },
+      {
+        "url": "/uc/article/919304635959?topcid=8&ainm=1",
+        "text": "Printing Material"
+      },
+      {
+        "url": "/uc/article/227974007066?topcid=8&ainm=1",
+        "text": "Printing notes"
+      },
+      {
+        "url": "/uc/article/615665114962?topcid=8&ainm=1",
+        "text": "Contact Us"
+      },
+      {
+        "url": "/uc/article/898701473416?topcid=8&ainm=1",
+        "text": "About Color Difference"
+      },
+      {
+        "url": "/uc/article/500003839582?topcid=8&ainm=1",
+        "text": "About transportation"
+      },
+      {
+        "url": "/uc/article/595327530945?topcid=8&ainm=1",
+        "text": "Return Policy"
+      },
+      {
+        "url": "/",
+        "text": "Custom Boxes"
+      }
+    ],
+    "forms": [],
+    "text_file": "archive__69ac31053875.txt",
+    "text_length": 1681,
+    "text_excerpt": "Custom Boxes Printed Cheap & Delivered Fast @PackagingDaddy.com\nHOME\nBOXES BY STYLE\nDOWNLOAD TEMPLATES\nCONTACT\nMore\nRegister\nLogin\nSearch\nFree Box Styles\nSamples\nSo Whats New\nWe Introduced First Free Packaging Boxes Template Download Facility for you. Enjoy!\nChoose Shape, Set Size, Download Template, Input Your Design in Template, Upload Back In Our Website > View Instant 3D View > Calculate Live Prices > Place Order > We Send You Pre Press Digital Proof as PDF > You Approve > We Start Production > You Will Get updates until Delivery.\nLearn More\nBox Recommendation\nWe recommend some typical and common boxes for you\nTuck Box\nStart\nGift Box\nStart\nDisplay Box\nStart\nLock Bottom Box\nStart\nDrawer Style Box\nStart\nPillow Box\nStart\nMore Than Just Packaging\nLove is love is love! In 2012, we followed \nCustom Boxes Printed Cheap & Delivered Fast @PackagingDaddy.com\nHOME\nBOXES BY STYLE\nDOWNLOAD TEMPLATES\nCONTACT\nMore\nRegister\nLogin\nSearch\nFree Box Styles\nSamples\nSo Whats New\nWe Introduced First Free Packaging Boxes Template Download Facility for you. Enjoy!\nChoose Shape, Set Size, Download Template, Input Your Design in Template, Upload Back In Our Website > View Instant 3D View > Calculate Live Prices > Place Order > We Send You Pre Press Digital Proof as PDF > You Approve > We Start Production > You Will Get updates until Delivery.\nLearn More\nBox Recommendation\nWe recommend some typical and common boxes for you\nTuck Box\nStart\nGift Box\nStart\nDisplay Box\nStart\nLock Bottom Box\nStart\nDrawer Style Box\nStart\nPillow Box\nStart\nMore Than Just Packaging\nLove is love is love! In 2012, we followed our passion for retail to do something that had never been done before. Five years later, we’ve reinvented ourselves over (and over) again. Over 1000 Templates, Free 3D View of your Packaging Boxes, Free Templates and Live Prices.\nBeautiful designs, powerful features, and the freedom to build anything you want. Packaging Daddy is both Free and Priceless at the same time.\n59% of the Product Inventors struggle choosing Packaging suppliers. We sent everything to your Table.\nManage Orders Online, Reorder with 1 Click for the same specs of your previous order, stay informed every step of the way\nOver 60 Thousand people have chosen Packaging Daddy to power the Product Sale — join the family\nUser's Guide\nTutorial\nPrinting Process\nPrinting Material\nPrinting notes\nContact Us\nOrder Notice\nAbout Color Difference\nAbout transportation\nAfter-sale service\nReturn Policy\nCustom Boxes\n|"
+  },
+  {
+    "requested_url": "https://web.archive.org/web/20240720225920id_/https://www.cosmeticpackagingco.com.au/",
+    "observed_at": "2026-11-05T23:37:08.067089+08:00",
+    "status": 429,
+    "final_url": "https://web.archive.org/web/20240720225920id_/https://www.cosmeticpackagingco.com.au/",
+    "file": "archive__ff501e776b89.html",
+    "retry_after": null,
+    "tawk": [],
+    "emails": [
+      "info@archive.org"
+    ],
+    "links": [],
+    "forms": [],
+    "text_file": "archive__ff501e776b89.txt",
+    "text_length": 605,
+    "text_excerpt": "Your request is being blocked because our system has flagged it as suspected abusive bot traffic that is degrading the performance of the Wayback Machine.\nWe recognize this might be a false positive designation, that you might be a normal human and browser just trying to use our service.  We apologize if that is the case.\nPlease know we are actively working to provide better service to humans and block high-volume robotic traffic that is overloading our systems.  We wish that was an easier task.\nPlease email info@archive.org with your OS/Browser and IP number if you would like us to look into this.\nYour request is being blocked because our system has flagged it as suspected abusive bot traffic that is degrading the performance of the Wayback Machine.\nWe recognize this might be a false positive designation, that you might be a normal human and browser just trying to use our service.  We apologize if that is the case.\nPlease know we are actively working to provide better service to humans and block high-volume robotic traffic that is overloading our systems.  We wish that was an easier task.\nPlease email info@archive.org with your OS/Browser and IP number if you would like us to look into this."
+  }
+]

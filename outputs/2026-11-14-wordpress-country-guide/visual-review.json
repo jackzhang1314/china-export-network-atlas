@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-11-14T17:37:36+08:00",
+  "pdf_sha256": "0a3ca00ea11561042c1cdcff81a8f225f2ae671bc86cbecaf6206d3f440b5b75",
+  "page_count": 54,
+  "all_pages_rendered": true,
+  "all_contact_sheets_reviewed": 5,
+  "detail_pages_reviewed": [
+    3,
+    5,
+    6,
+    9,
+    10,
+    19,
+    21,
+    29,
+    54
+  ],
+  "last_revision_pages": [
+    9
+  ],
+  "last_revision_rendered_and_reviewed": true,
+  "observed_defects": [],
+  "render_dpi": 100,
+  "notes": "Whole book reviewed using five contact sheets; selected narrative pages and dense link lists reviewed at full image size. Fixed the orphan character in the WordPress page title, re-rendered page 9 and reviewed it. All 54 page previews retained. Link coverage checks verify exact URI annotations, not live availability of external websites."
+}

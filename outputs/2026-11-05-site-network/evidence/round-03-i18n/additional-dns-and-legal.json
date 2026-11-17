@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://cloudflare-dns.com/dns-query?name=stickerprinting.ru&type=A",
+    "type": "dns",
+    "error": "HTTPSConnectionPool(host='cloudflare-dns.com', port=443): Max retries exceeded with url: /dns-query?name=stickerprinting.ru&type=A (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x102894090>: Failed to resolve 'cloudflare-dns.com"
+  },
+  {
+    "url": "https://dns.google/resolve?name=stickerprinting.ru&type=A",
+    "type": "dns",
+    "error": "HTTPSConnectionPool(host='dns.google', port=443): Max retries exceeded with url: /resolve?name=stickerprinting.ru&type=A (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x102894d10>: Failed to resolve 'dns.google' ([Errno 8] noden"
+  },
+  {
+    "url": "https://stickerprinting.it/",
+    "type": "site",
+    "http_status": 200,
+    "legal_links": [
+      [
+        "Informazioni legali",
+        "impronta.htm"
+      ]
+    ]
+  },
+  {
+    "url": "https://stickerprinting.ro/",
+    "type": "site",
+    "http_status": 200,
+    "legal_links": []
+  }
+]

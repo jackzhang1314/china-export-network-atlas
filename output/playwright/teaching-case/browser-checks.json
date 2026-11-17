@@ -1,0 +1,200 @@
+{
+  "uiChecks": [
+    {
+      "label": "默认核心",
+      "actual": 47,
+      "expected": 47,
+      "pass": true
+    },
+    {
+      "label": "美国来源码",
+      "actual": "CPBCOM",
+      "expected": "CPBCOM",
+      "pass": true
+    },
+    {
+      "label": "澳洲来源码",
+      "actual": "STCOMAU",
+      "expected": "STCOMAU",
+      "pass": true
+    },
+    {
+      "label": "历史 H 1",
+      "actual": 1,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "label": "疑似 B 2",
+      "actual": 2,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "label": "候选 C 5",
+      "actual": 5,
+      "expected": 5,
+      "pass": true
+    },
+    {
+      "label": "未纳入 5",
+      "actual": 5,
+      "expected": 5,
+      "pass": true
+    },
+    {
+      "label": "全部对象 60",
+      "actual": 60,
+      "expected": 60,
+      "pass": true
+    },
+    {
+      "label": "核心 A 47",
+      "actual": 47,
+      "expected": 47,
+      "pass": true
+    },
+    {
+      "label": "英国核心",
+      "actual": 16,
+      "expected": 16,
+      "pass": true
+    },
+    {
+      "label": "英国新增",
+      "actual": 9,
+      "expected": 9,
+      "pass": true
+    },
+    {
+      "label": "清空筛选",
+      "actual": 47,
+      "expected": 47,
+      "pass": true
+    },
+    {
+      "label": "来源码搜索",
+      "actual": 1,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "label": "补充电话搜索",
+      "actual": 2,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "label": "空结果",
+      "actual": 0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "label": "空态可见",
+      "actual": true,
+      "expected": true,
+      "pass": true
+    },
+    {
+      "label": "第二轮检索式",
+      "actual": 6,
+      "expected": 6,
+      "pass": true
+    },
+    {
+      "label": "证据编号搜索",
+      "actual": 1,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "label": "展开29条",
+      "actual": 29,
+      "expected": 29,
+      "pass": true
+    },
+    {
+      "label": "收起29条",
+      "actual": 0,
+      "expected": 0,
+      "pass": true
+    }
+  ],
+  "extendedChecks": [
+    {
+      "name": "导出60个对象",
+      "pass": true,
+      "detail": "站群案例_当前筛选清单.csv"
+    },
+    {
+      "name": "导出29条证据",
+      "pass": true,
+      "detail": "站群案例_29条补充证据.csv"
+    },
+    {
+      "name": "复制核心网址",
+      "pass": true,
+      "detail": "已复制 47 个网址"
+    },
+    {
+      "name": "课堂大字开启",
+      "pass": true,
+      "detail": true
+    },
+    {
+      "name": "证据锚点展开",
+      "pass": true,
+      "detail": true
+    },
+    {
+      "name": "打印完整60行",
+      "pass": true,
+      "detail": 60
+    },
+    {
+      "name": "打印隐藏交互目录",
+      "pass": true,
+      "detail": true
+    },
+    {
+      "name": "打印完整目录可见",
+      "pass": true,
+      "detail": true
+    },
+    {
+      "name": "手机无整页横向溢出",
+      "pass": true,
+      "detail": {
+        "viewport": 390,
+        "document": 390
+      }
+    },
+    {
+      "name": "手机目录展开",
+      "pass": true,
+      "detail": true
+    },
+    {
+      "name": "手机跳转后目录收起",
+      "pass": true,
+      "detail": true
+    },
+    {
+      "name": "手机历史筛选",
+      "pass": true,
+      "detail": true
+    }
+  ],
+  "offlineCheck": {
+    "mode": "本地HTML通过本地HTTP完整加载后，断网交互校验",
+    "offlineHistoricalCount": 1,
+    "offlineCoreCount": 47,
+    "externalResources": [],
+    "viewport": 390,
+    "documentWidth": 390
+  },
+  "verifiedUIAssertionCount": 32,
+  "directFileNavigation": "浏览器工具禁止file协议，未将直接file导航记录为通过；改以同一HTML经本地HTTP加载后断网检查。",
+  "sourceRefresh": "本次只将两轮研究制作成教学HTML，未重新核验所有外部网站。"
+}

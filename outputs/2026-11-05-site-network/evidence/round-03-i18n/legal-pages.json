@@ -1,0 +1,114 @@
+[
+  {
+    "host": "stickerprinting.de",
+    "home": "https://stickerprinting.de/",
+    "legal": [
+      {
+        "label": "Impressum",
+        "url": "https://stickerprinting.de/impressum.htm",
+        "status": 200,
+        "final": "https://stickerprinting.de/impressum.htm",
+        "matches": [
+          "StickerPrinting Deutschland GmbH",
+          "14480           Potsdam",
+          "Sitz der Gesellschaft: Amtsgericht Potsdam"
+        ]
+      }
+    ]
+  },
+  {
+    "host": "stickerprinting.fr",
+    "home": "https://stickerprinting.fr/",
+    "legal": [
+      {
+        "label": "Mentions légales",
+        "url": "https://stickerprinting.fr/mentions-legales.htm",
+        "status": 200,
+        "final": "https://stickerprinting.fr/mentions-legales.htm",
+        "matches": [
+          "StickerPrinting Deutschland GmbH",
+          "14480          Potsdam",
+          "Tribunal de commerce: Amtsgericht Potsdam",
+          "N° d'identification fiscale: 046/112/04995",
+          "Informations relatives à l'hébergeur : Be.Beyond GmbH & Co KG, Hanns-Martin-Schleyer-Straße 35, 47877 Willich, Deutschland, +49 (0) 2154 / 48 09-0",
+          "Stockage des données collectées et traitées via le site : kyberio GmbH (Am Mittelfelde 29, 30519 Hannover, Deutschland)"
+        ]
+      },
+      {
+        "label": "Mentions légales",
+        "url": "https://stickerprinting.fr/impressum.htm",
+        "status": 200,
+        "final": "https://stickerprinting.fr/impressum.htm",
+        "matches": [
+          "StickerPrinting Deutschland GmbH",
+          "14480          Potsdam",
+          "Tribunal de commerce: Amtsgericht Potsdam",
+          "N° d'identification fiscale: 046/112/04995",
+          "Informations relatives à l'hébergeur : Be.Beyond GmbH & Co KG, Hanns-Martin-Schleyer-Straße 35, 47877 Willich, Deutschland, +49 (0) 2154 / 48 09-0",
+          "Stockage des données collectées et traitées via le site : kyberio GmbH (Am Mittelfelde 29, 30519 Hannover, Deutschland)"
+        ]
+      }
+    ]
+  },
+  {
+    "host": "stickerprinting.es",
+    "home": "https://stickerprinting.es/",
+    "legal": [
+      {
+        "label": "Aviso legal",
+        "url": "https://stickerprinting.es/aviso-legal.htm",
+        "status": 200,
+        "final": "https://stickerprinting.es/aviso-legal.htm",
+        "matches": [
+          "StickerPrinting Deutschland GmbH",
+          "14480           Potsdam",
+          "Tribunal de registro: Amtsgericht Potsdam",
+          "Número de Identificación Fiscal: 046/112/04995"
+        ]
+      },
+      {
+        "label": "Política de privacidad",
+        "url": "https://stickerprinting.es/politica-de-privacidad.htm",
+        "status": 200,
+        "final": "https://stickerprinting.es/politica-de-privacidad.htm",
+        "matches": [
+          "StickerPrinting Deutschland GmbH",
+          "14480 Potsdam",
+          "Para efectos de la ejecución del contrato (incluidas las consultas y la tramitación de posibles reclamaciones existentes derivadas del derecho de garantía, del derecho por incumplimiento de la prestación y del derecho de desistimiento, así como de cualquier obligación legal de actualización) de acuerdo con el art. 6 párr. 1 letra b) RGPD, recopilamos sus datos personales si usted nos los proporcio",
+          "En los siguientes apartados de esta Declaración de Protección de Datos encontrará más información sobre el tratamiento de sus datos, en particular sobre la transferencia a nuestros proveedores de servicios para la tramitación de pedidos, pagos y envíos. Una vez finalizada la tramitación del contrato, sus datos serán restringidos para su tratamiento posterior y se eliminarán una vez transcurridos l",
+          "Lynck Solution GmbH",
+          "Esto sirve para salvaguardas nuestros intereses legítimos, que predominan al momento de realizar una ponderación de intereses, de conformidad con el Art. 6 párr. 1, letra f) RGPD, al evaluar la solvencia económica y voluntad de pago de nuestros clientes potenciales en el período previo a la celebración del contrato y evitar así las pérdidas del precio de compra, igualmente es esto necesario para l",
+          "Transmitiremos sus datos a un proveedor de servicios de cobranza encargados (Lynck Solution GmbH, Schloßstraße 20, 12163 Berlin, Alemania), sí nuestra reclamación de pago no se ha resuelto a pesar de los recordatorios previos. En este caso, la deuda será cobrada directamente por la compañía de cobranza. La transmisión de datos sirve para el cumplimiento del contrato de conformidad con el Art. 6, p",
+          "El servicio de gestión de consentimiento Usercentrics es proporcionado por Usercentrics GmbH, Sendlinger Straße 7, 80331 Munich, Alemania, que procesa sus datos en nuestro nombre. Cuando usted visita nuestro sitio web, el servidor web de Usercentrics almacena el llamado archivo de registro del servidor, que también contiene su dirección IP anónima, la fecha y hora de su visita, información sobre e",
+          "En nuestra página web utilizamos las siguientes cookies y otras tecnologías de terceros. A menos que se especifique lo contrario para las tecnologías individuales, se hará sobre la base de su consentimiento de conformidad con el Art. 6 párr. 1, letra a) RGPD. Los datos recopilados en este contexto serán eliminados después de que el propósito y el fin de nuestro uso de la tecnología respectiva sea ",
+          "Utilizamos las siguientes tecnologías de Google Ireland Ltd, Gordon House, Barrow Street, Dublín 4, Irlanda (\"Google\"). La información recopilada automáticamente por las tecnologías de Google sobre el uso de nuestro sitio web se transfiere generalmente a un servidor de Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, EE.UU. y se almacena allí. A menos que se especifique lo contrario "
+        ]
+      }
+    ]
+  },
+  {
+    "host": "stickerprinting.it",
+    "home": "https://stickerprinting.it/",
+    "legal": []
+  },
+  {
+    "host": "stickerprinting.ro",
+    "home": "https://stickerprinting.ro/",
+    "legal": []
+  },
+  {
+    "host": "cajasforradas.es",
+    "home": "https://cajasforradas.es/",
+    "legal": []
+  },
+  {
+    "host": "boitesrigides.fr",
+    "home": "https://boitesrigides.fr/",
+    "legal": []
+  },
+  {
+    "host": "stickerprinting.co.uk",
+    "home": "https://stickerprinting.co.uk/",
+    "legal": []
+  }
+]

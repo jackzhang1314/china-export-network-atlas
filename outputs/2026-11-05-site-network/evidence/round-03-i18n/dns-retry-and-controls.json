@@ -1,0 +1,65 @@
+[
+  {
+    "host": "pdtrus.com",
+    "kind": "dns-control",
+    "status": "NOERROR",
+    "answers": [
+      "pdtrus.com.\t\t3478\tIN\tA\t198.23.60.21"
+    ]
+  },
+  {
+    "host": "www.pdtrus.com",
+    "kind": "dns-control",
+    "status": "NOERROR",
+    "answers": [
+      "www.pdtrus.com.\t\t3513\tIN\tA\t198.23.60.21"
+    ]
+  },
+  {
+    "host": "control-locale-72b1.pdtrus.com",
+    "kind": "dns-control",
+    "status": "NOERROR",
+    "answers": [
+      "control-locale-72b1.pdtrus.com.\t212 IN\tA\t82.29.184.129"
+    ]
+  },
+  {
+    "host": "random-locale-b09a.pdtrus.com",
+    "kind": "dns-control",
+    "status": "NOERROR",
+    "answers": [
+      "random-locale-b09a.pdtrus.com. 294 IN\tA\t82.29.184.129"
+    ]
+  },
+  {
+    "host": "customcardboardboxesco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "sacchetticartapersonalizzati.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickerprinting.ru",
+    "kind": "root",
+    "status": "ERROR",
+    "answers": [],
+    "detail": ";; connection timed out; no servers could be reached\n"
+  },
+  {
+    "host": "es.customboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  }
+]

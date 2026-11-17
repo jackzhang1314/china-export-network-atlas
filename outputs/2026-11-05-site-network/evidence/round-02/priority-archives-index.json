@@ -1,0 +1,932 @@
+[
+  {
+    "requested_url": "https://web.archive.org/cdx/search/cdx?url=cosmeticpackagingco.com.au%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&fl=timestamp%2Coriginal%2Cdigest&from=2024&limit=10",
+    "observed_at": "2026-11-05T23:34:52.369784+08:00",
+    "status": 200,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=cosmeticpackagingco.com.au%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&fl=timestamp%2Coriginal%2Cdigest&from=2024&limit=10",
+    "file": "archive__dd1f404f9b27.html",
+    "scripts": [],
+    "tawk": [],
+    "forms": [],
+    "emails": [],
+    "links": [],
+    "text_file": "archive__dd1f404f9b27.txt",
+    "text_length": 1005,
+    "text_excerpt": "[[\"timestamp\",\"original\",\"digest\"],\n[\"20240223143551\",\"https://www.cosmeticpackagingco.com.au/\",\"JLMIDJHY3CVLBGQORQISQY4DPBNZGCUC\"],\n[\"20240307215056\",\"https://www.cosmeticpackagingco.com.au/\",\"FX64QNA2Y5HQE2EDLBEB3DF3HZODIGMP\"],\n[\"20240307215105\",\"https://www.cosmeticpackagingco.com.au/\",\"SGMDI5NN55FPFKTSNSKNCKIBEM4WIDCA\"],\n[\"20240314215806\",\"https://www.cosmeticpackagingco.com.au/\",\"76S77MG3AZFQZRPDPAM4C4D2LI6PR4P7\"],\n[\"20240314215825\",\"https://www.cosmeticpackagingco.com.au/\",\"LGARI2MCGIYPLAWJGNSHBAKWGB46N2LX\"],\n[\"20240414023819\",\"https://www.cosmeticpackagingco.com.au/\",\"EY6ATHOPH7QNXFAFI3HQFTJPKEWR24HS\"],\n[\"20240506053631\",\"https://www.cosmeticpackagingco.com.au/\",\"ZF7Z4TLWHUEYBZJ6USAC5TDLHOEIE7TO\"],\n[\"20240523005323\",\"https://www.cosmeticpackagingco.com.au/\",\"HWQ5IA5DKCMQQTHJV5DP7YGY3SVPPLXG\"],\n[\"20240616195301\",\"https://www.cosmeticpackagingco.com.au/\",\"I4G732FSIV575X2PBRLKA74GL4ICLQXL\"],\n[\"20240720225920\",\"https://www.cosmeticpackagingco.com.au/\",\"ONHRMKBWZEBSPAHCXRIAEWDZ6VTRC6\n[[\"timestamp\",\"original\",\"digest\"],\n[\"20240223143551\",\"https://www.cosmeticpackagingco.com.au/\",\"JLMIDJHY3CVLBGQORQISQY4DPBNZGCUC\"],\n[\"20240307215056\",\"https://www.cosmeticpackagingco.com.au/\",\"FX64QNA2Y5HQE2EDLBEB3DF3HZODIGMP\"],\n[\"20240307215105\",\"https://www.cosmeticpackagingco.com.au/\",\"SGMDI5NN55FPFKTSNSKNCKIBEM4WIDCA\"],\n[\"20240314215806\",\"https://www.cosmeticpackagingco.com.au/\",\"76S77MG3AZFQZRPDPAM4C4D2LI6PR4P7\"],\n[\"20240314215825\",\"https://www.cosmeticpackagingco.com.au/\",\"LGARI2MCGIYPLAWJGNSHBAKWGB46N2LX\"],\n[\"20240414023819\",\"https://www.cosmeticpackagingco.com.au/\",\"EY6ATHOPH7QNXFAFI3HQFTJPKEWR24HS\"],\n[\"20240506053631\",\"https://www.cosmeticpackagingco.com.au/\",\"ZF7Z4TLWHUEYBZJ6USAC5TDLHOEIE7TO\"],\n[\"20240523005323\",\"https://www.cosmeticpackagingco.com.au/\",\"HWQ5IA5DKCMQQTHJV5DP7YGY3SVPPLXG\"],\n[\"20240616195301\",\"https://www.cosmeticpackagingco.com.au/\",\"I4G732FSIV575X2PBRLKA74GL4ICLQXL\"],\n[\"20240720225920\",\"https://www.cosmeticpackagingco.com.au/\",\"ONHRMKBWZEBSPAHCXRIAEWDZ6VTRC6V2\"]]"
+  },
+  {
+    "requested_url": "https://web.archive.org/web/20240418125848id_/https://www.customboxes.co.uk/",
+    "observed_at": "2026-11-05T23:34:52.369584+08:00",
+    "status": 429,
+    "final_url": "https://web.archive.org/web/20240418125848id_/https://www.customboxes.co.uk/",
+    "file": "archive__e349a62a2b73.html",
+    "scripts": [],
+    "tawk": [],
+    "forms": [],
+    "emails": [
+      "info@archive.org"
+    ],
+    "links": [],
+    "text_file": "archive__e349a62a2b73.txt",
+    "text_length": 605,
+    "text_excerpt": "Your request is being blocked because our system has flagged it as suspected abusive bot traffic that is degrading the performance of the Wayback Machine.\nWe recognize this might be a false positive designation, that you might be a normal human and browser just trying to use our service.  We apologize if that is the case.\nPlease know we are actively working to provide better service to humans and block high-volume robotic traffic that is overloading our systems.  We wish that was an easier task.\nPlease email info@archive.org with your OS/Browser and IP number if you would like us to look into this.\nYour request is being blocked because our system has flagged it as suspected abusive bot traffic that is degrading the performance of the Wayback Machine.\nWe recognize this might be a false positive designation, that you might be a normal human and browser just trying to use our service.  We apologize if that is the case.\nPlease know we are actively working to provide better service to humans and block high-volume robotic traffic that is overloading our systems.  We wish that was an easier task.\nPlease email info@archive.org with your OS/Browser and IP number if you would like us to look into this."
+  },
+  {
+    "requested_url": "https://web.archive.org/web/20221210064530id_/https://www.packagingdaddy.com/",
+    "observed_at": "2026-11-05T23:34:52.369674+08:00",
+    "status": 429,
+    "final_url": "https://web.archive.org/web/20221210064530id_/https://www.packagingdaddy.com/",
+    "file": "archive__487f7653165c.html",
+    "scripts": [],
+    "tawk": [],
+    "forms": [],
+    "emails": [
+      "info@archive.org"
+    ],
+    "links": [],
+    "text_file": "archive__487f7653165c.txt",
+    "text_length": 605,
+    "text_excerpt": "Your request is being blocked because our system has flagged it as suspected abusive bot traffic that is degrading the performance of the Wayback Machine.\nWe recognize this might be a false positive designation, that you might be a normal human and browser just trying to use our service.  We apologize if that is the case.\nPlease know we are actively working to provide better service to humans and block high-volume robotic traffic that is overloading our systems.  We wish that was an easier task.\nPlease email info@archive.org with your OS/Browser and IP number if you would like us to look into this.\nYour request is being blocked because our system has flagged it as suspected abusive bot traffic that is degrading the performance of the Wayback Machine.\nWe recognize this might be a false positive designation, that you might be a normal human and browser just trying to use our service.  We apologize if that is the case.\nPlease know we are actively working to provide better service to humans and block high-volume robotic traffic that is overloading our systems.  We wish that was an easier task.\nPlease email info@archive.org with your OS/Browser and IP number if you would like us to look into this."
+  },
+  {
+    "requested_url": "https://web.archive.org/web/20241217215401id_/https://dayancopack.com/",
+    "observed_at": "2026-11-05T23:34:52.368947+08:00",
+    "status": 429,
+    "final_url": "https://web.archive.org/web/20241217215401id_/https://dayancopack.com/",
+    "file": "archive__18a80b0aca2f.html",
+    "scripts": [],
+    "tawk": [],
+    "forms": [],
+    "emails": [
+      "info@archive.org"
+    ],
+    "links": [],
+    "text_file": "archive__18a80b0aca2f.txt",
+    "text_length": 605,
+    "text_excerpt": "Your request is being blocked because our system has flagged it as suspected abusive bot traffic that is degrading the performance of the Wayback Machine.\nWe recognize this might be a false positive designation, that you might be a normal human and browser just trying to use our service.  We apologize if that is the case.\nPlease know we are actively working to provide better service to humans and block high-volume robotic traffic that is overloading our systems.  We wish that was an easier task.\nPlease email info@archive.org with your OS/Browser and IP number if you would like us to look into this.\nYour request is being blocked because our system has flagged it as suspected abusive bot traffic that is degrading the performance of the Wayback Machine.\nWe recognize this might be a false positive designation, that you might be a normal human and browser just trying to use our service.  We apologize if that is the case.\nPlease know we are actively working to provide better service to humans and block high-volume robotic traffic that is overloading our systems.  We wish that was an easier task.\nPlease email info@archive.org with your OS/Browser and IP number if you would like us to look into this."
+  },
+  {
+    "requested_url": "https://web.archive.org/web/20250710002953id_/http://bestmediaservice.com/",
+    "observed_at": "2026-11-05T23:34:52.369273+08:00",
+    "status": 200,
+    "final_url": "https://web.archive.org/web/20250710002953id_/http://bestmediaservice.com/",
+    "file": "archive__15e1932d454b.html",
+    "scripts": [],
+    "tawk": [],
+    "forms": [],
+    "emails": [],
+    "links": [],
+    "text_file": "archive__15e1932d454b.txt",
+    "text_length": 21,
+    "text_excerpt": "Index of /\nIndex of /\nIndex of /\nIndex of /"
+  },
+  {
+    "requested_url": "https://web.archive.org/web/20231026114637id_/https://www.cosmeticpackagingco.com.au/",
+    "observed_at": "2026-11-05T23:34:52.369446+08:00",
+    "status": 200,
+    "final_url": "https://web.archive.org/web/20231026114637id_/https://www.cosmeticpackagingco.com.au/",
+    "file": "archive__7a0a6a0ef1b3.html",
+    "scripts": [
+      "https://www.cosmeticpackagingco.com.au/js/prototype/prototype.js",
+      "https://www.cosmeticpackagingco.com.au/js/lib/ccard.js",
+      "https://www.cosmeticpackagingco.com.au/js/prototype/validation.js",
+      "https://www.cosmeticpackagingco.com.au/js/scriptaculous/builder.js",
+      "https://www.cosmeticpackagingco.com.au/js/scriptaculous/effects.js",
+      "https://www.cosmeticpackagingco.com.au/js/scriptaculous/dragdrop.js",
+      "https://www.cosmeticpackagingco.com.au/js/scriptaculous/controls.js",
+      "https://www.cosmeticpackagingco.com.au/js/scriptaculous/slider.js",
+      "https://www.cosmeticpackagingco.com.au/js/varien/js.js",
+      "https://www.cosmeticpackagingco.com.au/js/varien/form.js",
+      "https://www.cosmeticpackagingco.com.au/js/varien/menu.js",
+      "https://www.cosmeticpackagingco.com.au/js/mage/translate.js",
+      "https://www.cosmeticpackagingco.com.au/js/mage/cookies.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/jquery.min.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/jquery.noconflict.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/bootstrap/bootstrap.min.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/plugin/jquery.bxslider.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/classie.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/plugin/jquery.ddslick.js",
+      "https://www.cosmeticpackagingco.com.au/js/varien/product.js",
+      "https://www.cosmeticpackagingco.com.au/js/varien/product_options.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/plugin/jquery.easing.min.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/jquery.alothemes.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/magicproduct.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/plugin/jquery.meanmenu.hack.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/magicaccordion.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/magicmenu.js",
+      "https://www.cosmeticpackagingco.com.au/js/magiccart/plugin/jquery.parallax-1.1.3.js",
+      "https://www.cosmeticpackagingco.com.au/skin/frontend/aloelectro/default/js/lib/modernizr.custom.min.js",
+      "https://www.cosmeticpackagingco.com.au/skin/frontend/aloelectro/default/js/lib/selectivizr.js",
+      "https://www.cosmeticpackagingco.com.au/skin/frontend/aloelectro/default/js/lib/matchMedia.js",
+      "https://www.cosmeticpackagingco.com.au/skin/frontend/aloelectro/default/js/lib/matchMedia.addListener.js",
+      "https://www.cosmeticpackagingco.com.au/skin/frontend/aloelectro/default/js/lib/enquire.js",
+      "https://www.cosmeticpackagingco.com.au/skin/frontend/aloelectro/default/js/app.js",
+      "https://www.cosmeticpackagingco.com.au/skin/frontend/aloelectro/default/js/lib/imagesloaded.js",
+      "https://www.cosmeticpackagingco.com.au/skin/frontend/base/default/js/minicart.js",
+      "https://www.cosmeticpackagingco.com.au/js/tm/lib/classList.min.js",
+      "https://www.cosmeticpackagingco.com.au/js/tm/lib/swiper/js/swiper.min.js",
+      "https://www.cosmeticpackagingco.com.au/skin/frontend/base/default/tm/easyslide/js/easyslide.js",
+      "https://www.cosmeticpackagingco.com.au/skin/frontend/base/default/js/tm/testimonials.js",
+      "//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js",
+      "//www.provenexpert.com/widget/richsnippet.js?u=18TZlxGAkpmpjAKplWmZkIwA48TA1LQB&v=2",
+      "//embed.typeform.com/next/embed.js"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua"
+    ],
+    "forms": [
+      "https://www.cosmeticpackagingco.com.au/catalogsearch/result/",
+      "https://www.cosmeticpackagingco.com.au/newsletter/subscriber/new/"
+    ],
+    "emails": [
+      "admin@cosmeticpackagingco.com.au"
+    ],
+    "links": [
+      {
+        "url": "https://wa.me/61285203915?text=Hi,%0aCan you help me please?%0aI am Visiting your website now.%0aCPCOMAU",
+        "text": ""
+      },
+      {
+        "url": "tel:(+61) 2 8520 3915",
+        "text": "Call Us: (+61) 2 8520 3915"
+      },
+      {
+        "url": "mailto: admin@cosmeticpackagingco.com.au",
+        "text": "Email Us: admin@cosmeticpackagingco.com.au"
+      },
+      {
+        "url": "/live?amp=0",
+        "text": "Live Support"
+      },
+      {
+        "url": "https://wa.me/61285203915?text=Hi,%0aCan you help me please?%0aI am Visiting your website now.%0aCPCOMAU\r\n",
+        "text": "Whatsapp Chat Now"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/",
+        "text": ""
+      },
+      {
+        "url": "tel:(+61) 2 8520 3915",
+        "text": "Call Us: (+61) 2 8520 3915"
+      },
+      {
+        "url": "mailto: admin@cosmeticpackagingco.com.au",
+        "text": "Email Us: admin@cosmeticpackagingco.com.au"
+      },
+      {
+        "url": "/live?amp=0",
+        "text": "Live Support"
+      },
+      {
+        "url": "https://wa.me/61285203915?text=Hi,%0aCan you help me please?%0aI am Visiting your website now.%0aCPCOMAU\r\n",
+        "text": "Whatsapp Chat Now"
+      },
+      {
+        "url": "https://www.provenexpert.com/pdt-r-us/",
+        "text": ""
+      },
+      {
+        "url": "https://tawk.to/chat/588f544d46ba8058582eccc2/default/?$_tawk_popout=true",
+        "text": "Live Support"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/",
+        "text": "Home"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/view-all-prodcuts/",
+        "text": "Our Prodcuts"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/nail-polish-packaging-boxes.html",
+        "text": "Nail polish boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/lipstick-packaging-boxes.html",
+        "text": "Lipstick boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/mascara-packaging-boxes.html",
+        "text": "Mascara boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-extension-packaging-boxes.html",
+        "text": "Hair extension boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/soap-boxes.html",
+        "text": "Soap boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/pharma-gel-packaging-boxes.html",
+        "text": "Pharma Gel Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/metallic-foil-packaging-boxes.html",
+        "text": "Metallic Foil Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/foil-paper-packaging-boxes-with-protective-insert.html",
+        "text": "Foil Paper Boxes with Protective Insert"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cardboard-packaging-boxes-with-window-lid.html",
+        "text": "Cardboard Box with Window Lid"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/packaging-boxes-with-ribbon-flower.html",
+        "text": "Boxes with Ribbon Flower"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/kraft-pillow-packaging-boxes-with-window.html",
+        "text": "Kraft Pillow Boxes with Window"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-cube-packaging-boxes-with-window.html",
+        "text": "Custom Cube Boxes with Window"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/skin-care-beauty-packaging-boxes.html",
+        "text": "Skin Care Beauty Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/metallic-foil-embossed-cosmetic-packaging-boxes.html",
+        "text": "Metallic Foil & Embossed Cosmetic Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/tapered-top-packaging-boxes.html",
+        "text": "Tapered Top Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/perfume-packaging-boxes.html",
+        "text": "Perfume Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/black-white-printed-corrugated-packaging-boxes.html",
+        "text": "Black & White Printed Corrugated Box"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/makeup-product-packaging-boxes.html",
+        "text": "Makeup Product Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cream-packaging-boxes.html",
+        "text": "Cream Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/double-sided-print-packaging-boxes.html",
+        "text": "Double Sided Print Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/skin-beauty-mask-packaging-boxes.html",
+        "text": "Skin Beauty Mask Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/drawer-paper-packaging-boxes.html",
+        "text": "Drawer Paper Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-printed-pillow-packaging-boxes.html",
+        "text": "Custom Printed Pillow Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/flip-top-cuff-packaging-boxes-with-foam-insert.html",
+        "text": "Flip Top Cuff Box with Foam Insert"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/wax-strips-hanger-packaging-boxes.html",
+        "text": "Wax Strips Packaging Hanger Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/anti-aging-mask-packaging-boxes.html",
+        "text": "Anti-aging Mask Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/serum-product-packaging-boxes.html",
+        "text": "Serum Product Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/lip-balm-packaging-boxes.html",
+        "text": "Lip Balm Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cosmetic-packaging-boxes-with-reverse-uv-printing.html",
+        "text": "Cosmetic Boxes with Reverse UV Printing"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cardboard-gift-bag-packaging-boxes-with-ribbon-handle.html",
+        "text": "Cardboard Gift Bag with Ribbon Handle"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/face-firming-mask-packaging-boxes.html",
+        "text": "Face Firming Mask Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/bath-soap-sleeve-slide-drawer-packaging-boxes.html",
+        "text": "Bath Soap Sleeve & Slide Drawer Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/glitter-lid-tray-gift-packaging-boxes.html",
+        "text": "Glitter Lid & Tray Gift Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cosmetic-sleeve-and-tray-with-moulded-insert-packaging-boxes.html",
+        "text": "Cosmetic Sleeve and Tray with Moulded Insert"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/partial-cover-and-tray-with-spot-uv-packaging-boxes.html",
+        "text": "Partial Cover and Tray with Spot UV"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/sun-protection-cream-packaging-boxes.html",
+        "text": "Sun Protection Cream Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/skin-corrector-cream-packaging-boxes.html",
+        "text": "Skin Corrector Cream Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/bath-set-packaging-boxes.html",
+        "text": "Bath Set Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-perfume-packaging-boxes.html",
+        "text": "Custom Perfume Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/body-care-packaging-boxes.html",
+        "text": "Body Care Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-packaging-boxes-bag-with-handle.html",
+        "text": "Custom Box Bag with Handle"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/nail-product-packaging-boxes.html",
+        "text": "Nail Product Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cleansing-cotton-packaging-boxes.html",
+        "text": "Cleansing Cotton Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/bb-cream-packaging-boxes.html",
+        "text": "BB Cream Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/slide-drawer-cosmetic-packaging-boxes.html",
+        "text": "Slide / Drawer Cosmetic Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/body-wax-strips-hanger-packaging-boxes.html",
+        "text": "Body Wax Strips Hanger Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/moisturising-lip-mask-packaging-boxes.html",
+        "text": "Moisturising Lip Mask Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/wax-strips-packaging-boxes.html",
+        "text": "Wax Strips Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-straightening-perm-packaging-boxes.html",
+        "text": "Hair Straightening Perm Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-styler-packaging-boxes-with-display-panel.html",
+        "text": "Hair Styler Packaging Box with Display Panel"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-extension-packaging-boxes-53.html",
+        "text": "Hair Extension Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-dryer-packaging-boxes.html",
+        "text": "Hair Dryer Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/soap-packaging-pillow-packaging-boxes.html",
+        "text": "Soap Packaging Pillow Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/creative-shampoo-packaging-boxes.html",
+        "text": "Creative Shampoo Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/wedding-gift-packaging-boxes-with-handle.html",
+        "text": "Wedding Gift Boxes with Handle"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/wax-strips-cardboard-display-trays-packaging-boxes.html",
+        "text": "Wax Strips Cardboard Display Trays"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/lid-off-gift-box-with-plastic-gemstone-packaging-boxes.html",
+        "text": "Lid-off Gift Box with Plastic Gemstone"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-quotation/",
+        "text": "Custom Quotation"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/call-me-back/",
+        "text": "Call Me Back"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/contact-us/",
+        "text": "Contact Us"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/nail-polish-packaging-boxes.html",
+        "text": "Nail polish boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/lipstick-packaging-boxes.html",
+        "text": "Lipstick boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/mascara-packaging-boxes.html",
+        "text": "Mascara boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-extension-packaging-boxes.html",
+        "text": "Hair extension boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/soap-boxes.html",
+        "text": "Soap boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/pharma-gel-packaging-boxes.html",
+        "text": "Pharma Gel Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/metallic-foil-packaging-boxes.html",
+        "text": "Metallic Foil Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/foil-paper-packaging-boxes-with-protective-insert.html",
+        "text": "Foil Paper Boxes with Protective Insert"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cardboard-packaging-boxes-with-window-lid.html",
+        "text": "Cardboard Box with Window Lid"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/packaging-boxes-with-ribbon-flower.html",
+        "text": "Boxes with Ribbon Flower"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/kraft-pillow-packaging-boxes-with-window.html",
+        "text": "Kraft Pillow Boxes with Window"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-cube-packaging-boxes-with-window.html",
+        "text": "Custom Cube Boxes with Window"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/skin-care-beauty-packaging-boxes.html",
+        "text": "Skin Care Beauty Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/metallic-foil-embossed-cosmetic-packaging-boxes.html",
+        "text": "Metallic Foil & Embossed Cosmetic Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/tapered-top-packaging-boxes.html",
+        "text": "Tapered Top Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/perfume-packaging-boxes.html",
+        "text": "Perfume Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/black-white-printed-corrugated-packaging-boxes.html",
+        "text": "Black & White Printed Corrugated Box"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/makeup-product-packaging-boxes.html",
+        "text": "Makeup Product Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cream-packaging-boxes.html",
+        "text": "Cream Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/double-sided-print-packaging-boxes.html",
+        "text": "Double Sided Print Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/skin-beauty-mask-packaging-boxes.html",
+        "text": "Skin Beauty Mask Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/drawer-paper-packaging-boxes.html",
+        "text": "Drawer Paper Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-printed-pillow-packaging-boxes.html",
+        "text": "Custom Printed Pillow Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/flip-top-cuff-packaging-boxes-with-foam-insert.html",
+        "text": "Flip Top Cuff Box with Foam Insert"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/wax-strips-hanger-packaging-boxes.html",
+        "text": "Wax Strips Packaging Hanger Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/anti-aging-mask-packaging-boxes.html",
+        "text": "Anti-aging Mask Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/serum-product-packaging-boxes.html",
+        "text": "Serum Product Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/lip-balm-packaging-boxes.html",
+        "text": "Lip Balm Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cosmetic-packaging-boxes-with-reverse-uv-printing.html",
+        "text": "Cosmetic Boxes with Reverse UV Printing"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cardboard-gift-bag-packaging-boxes-with-ribbon-handle.html",
+        "text": "Cardboard Gift Bag with Ribbon Handle"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/face-firming-mask-packaging-boxes.html",
+        "text": "Face Firming Mask Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/bath-soap-sleeve-slide-drawer-packaging-boxes.html",
+        "text": "Bath Soap Sleeve & Slide Drawer Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/glitter-lid-tray-gift-packaging-boxes.html",
+        "text": "Glitter Lid & Tray Gift Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cosmetic-sleeve-and-tray-with-moulded-insert-packaging-boxes.html",
+        "text": "Cosmetic Sleeve and Tray with Moulded Insert"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/partial-cover-and-tray-with-spot-uv-packaging-boxes.html",
+        "text": "Partial Cover and Tray with Spot UV"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/sun-protection-cream-packaging-boxes.html",
+        "text": "Sun Protection Cream Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/skin-corrector-cream-packaging-boxes.html",
+        "text": "Skin Corrector Cream Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/bath-set-packaging-boxes.html",
+        "text": "Bath Set Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-perfume-packaging-boxes.html",
+        "text": "Custom Perfume Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/body-care-packaging-boxes.html",
+        "text": "Body Care Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-packaging-boxes-bag-with-handle.html",
+        "text": "Custom Box Bag with Handle"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/nail-product-packaging-boxes.html",
+        "text": "Nail Product Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cleansing-cotton-packaging-boxes.html",
+        "text": "Cleansing Cotton Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/bb-cream-packaging-boxes.html",
+        "text": "BB Cream Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/slide-drawer-cosmetic-packaging-boxes.html",
+        "text": "Slide / Drawer Cosmetic Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/body-wax-strips-hanger-packaging-boxes.html",
+        "text": "Body Wax Strips Hanger Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/moisturising-lip-mask-packaging-boxes.html",
+        "text": "Moisturising Lip Mask Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/wax-strips-packaging-boxes.html",
+        "text": "Wax Strips Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-straightening-perm-packaging-boxes.html",
+        "text": "Hair Straightening Perm Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-styler-packaging-boxes-with-display-panel.html",
+        "text": "Hair Styler Packaging Box with Display Panel"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-extension-packaging-boxes-53.html",
+        "text": "Hair Extension Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-dryer-packaging-boxes.html",
+        "text": "Hair Dryer Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/soap-packaging-pillow-packaging-boxes.html",
+        "text": "Soap Packaging Pillow Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/creative-shampoo-packaging-boxes.html",
+        "text": "Creative Shampoo Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/wedding-gift-packaging-boxes-with-handle.html",
+        "text": "Wedding Gift Boxes with Handle"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/wax-strips-cardboard-display-trays-packaging-boxes.html",
+        "text": "Wax Strips Cardboard Display Trays"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/lid-off-gift-box-with-plastic-gemstone-packaging-boxes.html",
+        "text": "Lid-off Gift Box with Plastic Gemstone"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/lid-off-gift-box-with-plastic-gemstone-packaging-boxes.html",
+        "text": "Lid-off Gift Box with Plastic Gemstone"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-quotation/",
+        "text": "Custom Quotation"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/call-me-back/",
+        "text": "Call Me Back"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/contact-us/",
+        "text": "Contact Us"
+      },
+      {
+        "url": "/custom-quotation/",
+        "text": "CREATE CUSTOM PRODUCT"
+      },
+      {
+        "url": "https://wa.me/61285203915?text=Hi,%0aCan you help me please?%0aI am Visiting your website now.%0aCPCOMAU",
+        "text": "Whatsapp Chat Now"
+      },
+      {
+        "url": "/custom-quotation/",
+        "text": "Start Generating Quote"
+      },
+      {
+        "url": "https://bmsgl.typeform.com/to/ZEMsNs",
+        "text": "Order Your Free Sample Pack"
+      },
+      {
+        "url": "/custom-quotation/",
+        "text": "Start Generating Quote"
+      },
+      {
+        "url": "https://bmsgl.typeform.com/to/ZEMsNs",
+        "text": "Order Your Free Sample Pack"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/magicshop/quickview/view/id/39",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/bath-set-packaging-boxes.html",
+        "text": "Bath Set Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/bath-set-packaging-boxes.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/magicshop/quickview/view/id/40",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-perfume-packaging-boxes.html",
+        "text": "Custom Perfume Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-perfume-packaging-boxes.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/magicshop/quickview/view/id/41",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/body-care-packaging-boxes.html",
+        "text": "Body Care Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/body-care-packaging-boxes.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/magicshop/quickview/view/id/42",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-packaging-boxes-bag-with-handle.html",
+        "text": "Custom Box Bag with Handle"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-packaging-boxes-bag-with-handle.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/magicshop/quickview/view/id/43",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/nail-product-packaging-boxes.html",
+        "text": "Nail Product Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/nail-product-packaging-boxes.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/magicshop/quickview/view/id/44",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cleansing-cotton-packaging-boxes.html",
+        "text": "Cleansing Cotton Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cleansing-cotton-packaging-boxes.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/magicshop/quickview/view/id/47",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/body-wax-strips-hanger-packaging-boxes.html",
+        "text": "Body Wax Strips Hanger Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/body-wax-strips-hanger-packaging-boxes.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/magicshop/quickview/view/id/52",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-extension-packaging-boxes-53.html",
+        "text": "Hair Extension Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/hair-extension-packaging-boxes-53.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/magicshop/quickview/view/id/54",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/soap-packaging-pillow-packaging-boxes.html",
+        "text": "Soap Packaging Pillow Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/soap-packaging-pillow-packaging-boxes.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/magicshop/quickview/view/id/55",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/creative-shampoo-packaging-boxes.html",
+        "text": "Creative Shampoo Packaging Boxes"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/creative-shampoo-packaging-boxes.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-quotation/",
+        "text": "Get Your Quotation Now !"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cosmetic-box.html",
+        "text": ""
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/cosmetic-box.html",
+        "text": "cosmetic box"
+      },
+      {
+        "url": "/custom-quotation/",
+        "text": "Start Generating Quote"
+      },
+      {
+        "url": "/call-me-back/",
+        "text": "Call Me Back"
+      },
+      {
+        "url": "https://tawk.to/chat/588f544d46ba8058582eccc2/default/?$_tawk_popout=true",
+        "text": "Live Support"
+      },
+      {
+        "url": "/custom-quotation/",
+        "text": "Generate Quotation"
+      },
+      {
+        "url": "https://bmsgl.typeform.com/to/EyWkE3?wcode=CPCOMAU",
+        "text": "Order Free Sample Pack"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/about-us",
+        "text": "About Us"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/pay-invoice",
+        "text": "Pay Invoice"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/privacy-policy",
+        "text": "Privacy Policy"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/shipping-and-returns",
+        "text": "Shipping and Returns"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/terms-and-conditions",
+        "text": "Terms and Conditions"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/custom-quotation",
+        "text": "Custom Quotation"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/sample-pack",
+        "text": "Sample Pack"
+      },
+      {
+        "url": "https://www.cosmeticpackagingco.com.au/contact-us",
+        "text": "Contact Us"
+      },
+      {
+        "url": "#",
+        "text": "Back to Top"
+      }
+    ],
+    "text_file": "archive__7a0a6a0ef1b3.txt",
+    "text_length": 7567,
+    "text_excerpt": "Cosmetic Packaging Boxes | Quality Custom Cosmetic Packaging Boxes\nhidden\nCall Us: (+61) 2 8520 3915\nhidden\nEmail Us: admin@cosmeticpackagingco.com.au\nLive Support\nWhatsapp Chat Now\nAll Categories\ncosmetic box\nhidden\nCall Us: (+61) 2 8520 3915\nhidden\nEmail Us: admin@cosmeticpackagingco.com.au\nLive Support\nWhatsapp Chat Now\nLive Support\nHome\nOur Prodcuts\nNail polish boxes\nLipstick boxes\nMascara boxes\nHair extension boxes\nSoap boxes\nPharma Gel Packaging Boxes\nMetallic Foil Boxes\nFoil Paper Boxes with Protective Insert\nCardboard Box with Window Lid\nBoxes with Ribbon Flower\nKraft Pillow Boxes with Window\nCustom Cube Boxes with Window\nSkin Care Beauty Boxes\nMetallic Foil & Embossed Cosmetic Boxes\nTapered Top Boxes\nPerfume Packaging Boxes\nBlack & White Printed Corrugated Box\nMakeup Product Packaging Boxes\nCream Packaging Boxes\nDouble Sided Print Boxes\nSkin Beauty Mask Boxes\nDrawer Paper Boxes\nCustom Printed Pillow Boxes\nFlip Top Cuff Box with Foam Insert\nWax Strips Packaging Hanger Boxes\nAnt\ning Boxes\nDouble Sided Print Boxes\nSkin Beauty Mask Boxes\nDrawer Paper Boxes\nCustom Printed Pillow Boxes\nFlip Top Cuff Box with Foam Insert\nWax Strips Packaging Hanger Boxes\nAnti-aging Mask Packaging Boxes\nSerum Product Packaging Boxes\nLip Balm Packaging Boxes\nCosmetic Boxes with Reverse UV Printing\nCardboard Gift Bag with Ribbon Handle\nFace Firming Mask Packaging Boxes\nBath Soap Sleeve & Slide Drawer Boxes\nGlitter Lid & Tray Gift Boxes\nCosmetic Sleeve and Tray with Moulded Insert\nPartial Cover and Tray with Spot UV\nSun Protection Cream Packaging Boxes\nSkin Corrector Cream Packaging Boxes\nBath Set Packaging Boxes\nCustom Perfume Boxes\nBody Care Packaging Boxes\nCustom Box Bag with Handle\nNail Product Packaging Boxes\nCleansing Cotton Packaging Boxes\nBB Cream Packaging Boxes\nSlide / Drawer Cosmetic Packaging Boxes\nBody Wax Strips Hanger Boxes\nMoisturising Lip Mask Packaging Boxes\nWax Strips Packaging Boxes\nHair Straightening Perm Packaging Boxes\nHair Styler Packaging Box with Display Panel\nHair Extension Packaging Boxes\nHair Dryer Packaging Boxes\nSoap Packaging Pillow Boxes\nCreative Shampoo Packaging Boxes\nWedding Gift Boxes with Handle\nWax Strips Cardboard Display Trays\nLid-off Gift Box with Plastic Gemstone\nLid-off Gift Box with Plastic Gemstone\nCustom Quotation\nCall Me Back\nContact Us\nCREATE CUSTOM PRODUCT\nWhatsapp Chat Now\nPrint\nCUSTOM PRODUCT\nCheap & Delivered\nFast\nStart Generating Quote\nPrices as low as $ 0.09\nOrder Your Free Sample Pack\nhidden\nFree delivery\nNationwide\nhidden\nTurn Aroundtime\n5-10 Business Days\nhidden\n99% customer\nFeedbacks\nOur Simple Smart Process\n1\n2\n3\nhidden\nAt Your Service\nPrint\nCUSTOM PRODUCT\nCheap & Delivered\nFast\nStart Generating Quote\nPrices as low as $ 0.09\nOrder Your Free Sample Pack\nhidden\nWelcome to Cosmetic Packaging Co\nCosmetic products are consumed by the women of all ages which means the packaging of these cosmetic products must be appealing. A good-looking\ncosmetic packaging box\nwill not only pack your cosmetic products but, also help sell more of them. Women are often lured towards eye-popping colors and unique designs which means a product packed inside custom cosmetic box will tempt the women to buy your product.\nWe offer a range of\ncosmetic boxes\nwhich are available in different designs and dazzling colors. You can choose the\ncosmetic packaging boxes\nin die-cut shapes which are made according to your requirements. A packaging box with the ability to show the packed cosmetic product will give a good impression of your product and that’s where the window\ncosmetic packaging boxes\ncome handy.\nCustom packaging boxes\nfor cosmetic are available for every cosmetic products including the body care products, creams, perfumes and even lipsticks. We can manufacture the\ncustom boxes\nfor cosmetic products in your desired shape and design. Order the\ncustom cosmetic boxes\nnow from us and get them delivered to your desired location in the Australia without making any compromises on the quality. We try to keep the per-unit price of cosmetic packaging box to minimum.\nhidden\nCustomer Service Information\nIf you are looking for the printing of\ncustom packaging boxes\nfor your business or personal use and want some unique shapes and custom made packaging then, the packaging printed by us are made right for you.\nFeatured Products\nLatest Products\nBath Set Packaging Boxes\nCustom Perfume Boxes\nBody Care Packaging Boxes\nCustom Box Bag with Handle\nNail Product Packaging Boxes\nCleansing Cotton Packaging Boxes\nBody Wax Strips Hanger Boxes\nHair Extension Packaging Boxes\nSoap Packaging Pillow Boxes\nCreative Shampoo Packaging Boxes\n92% Of Our Customers Generate Their Instant Custom Printing\nQuotation By Free Quotation Engine!\nGet Your Quotation Now !\nCategories\ncosmetic box\n57 products\nPrinting Process\nStart Generating Quote\n&nbsp\nTestimonials\nReliable service and easy to order - all that comes at a reasonable price. I`ll order again.\nJoshua\nWOW. Outstanding service and pricing. These guys make you feel like your their top priority. WOW I am so impressed with them. I would highly recommend these guys if you want fast service, they are amazingly fast and a pleasure to deal with. One of the best customer service experiences I’ve had. Thank you so much.\nLeo\nVery impressed with the service. So fast! They came out looking amazing. Definitely will continue to use this company\nJason\nI am hugely impressed - not only with their customer service, but with their order email updates and the products themselves are very high quality. Would not hesitate to recommend and use again.\nHunter\nFast service , excellent communication, Always kept up to date with progress of the order, Would highly recommend.\nHudson\nDrop Your Information,\nWe will Call You Back!!\nCall Me Back\nLive Support\nGenerate Quotation\nOrder Free Sample Pack\nSign up to Newsletter\nsubscribe\nAbout Us\nPay Invoice\nPrivacy Policy\nShipping and Returns\nTerms and Conditions\nCustom Quotation\nSample Pack\nContact Us\n© 2023 Copyright. All rights reserved.\nBack to Top"
+  },
+  {
+    "requested_url": "https://web.archive.org/cdx/search/cdx?url=packagingdaddy.com%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&fl=timestamp%2Coriginal%2Cdigest&from=2024&limit=10",
+    "observed_at": "2026-11-05T23:34:54.696518+08:00",
+    "status": 200,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=packagingdaddy.com%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&fl=timestamp%2Coriginal%2Cdigest&from=2024&limit=10",
+    "file": "archive__d5777a5c22b2.html",
+    "scripts": [],
+    "tawk": [],
+    "forms": [],
+    "emails": [],
+    "links": [],
+    "text_file": "archive__d5777a5c22b2.txt",
+    "text_length": 925,
+    "text_excerpt": "[[\"timestamp\",\"original\",\"digest\"],\n[\"20240220232214\",\"https://www.packagingdaddy.com/\",\"CNASBDYJ3HADHHTQVWDD3WY7NLJJAHUX\"],\n[\"20240304081449\",\"https://www.packagingdaddy.com/\",\"X6TZKSIGIRSNYULQU7AEA2AU3IVNNS7L\"],\n[\"20240414022905\",\"https://www.packagingdaddy.com/\",\"HBYOGB7ITWJ56NCXKYIPACQ5OSIPNDH6\"],\n[\"20240520070623\",\"https://www.packagingdaddy.com/\",\"GKP2NRVWDR5BBYI3QCISBPZW7J5HBPSA\"],\n[\"20240522095835\",\"https://www.packagingdaddy.com/\",\"PQTPRYAT2SE5R73D3LMQUAFCGGPVZDMH\"],\n[\"20240602034158\",\"https://www.packagingdaddy.com/\",\"5IRSFBLZDH34AQJX7FO23GDCMIMW4JHE\"],\n[\"20240602084723\",\"https://www.packagingdaddy.com/\",\"UJGM7EKA2H7RPEDFB2743FXDQLUP5RR7\"],\n[\"20240616163819\",\"https://www.packagingdaddy.com/\",\"WFSDCMYRJTFU5GGORHUTLNFHXLE6R7C3\"],\n[\"20240719095521\",\"https://www.packagingdaddy.com/\",\"IVW2KTDCTIE2YUJNHSZK5OTTL62Q5B24\"],\n[\"20240810210755\",\"https://www.packagingdaddy.com/\",\"OGWGHIIUZTJX5R5Q76ZGKNZJJ7QRMHZC\"]]\n[[\"timestamp\",\"original\",\"digest\"],\n[\"20240220232214\",\"https://www.packagingdaddy.com/\",\"CNASBDYJ3HADHHTQVWDD3WY7NLJJAHUX\"],\n[\"20240304081449\",\"https://www.packagingdaddy.com/\",\"X6TZKSIGIRSNYULQU7AEA2AU3IVNNS7L\"],\n[\"20240414022905\",\"https://www.packagingdaddy.com/\",\"HBYOGB7ITWJ56NCXKYIPACQ5OSIPNDH6\"],\n[\"20240520070623\",\"https://www.packagingdaddy.com/\",\"GKP2NRVWDR5BBYI3QCISBPZW7J5HBPSA\"],\n[\"20240522095835\",\"https://www.packagingdaddy.com/\",\"PQTPRYAT2SE5R73D3LMQUAFCGGPVZDMH\"],\n[\"20240602034158\",\"https://www.packagingdaddy.com/\",\"5IRSFBLZDH34AQJX7FO23GDCMIMW4JHE\"],\n[\"20240602084723\",\"https://www.packagingdaddy.com/\",\"UJGM7EKA2H7RPEDFB2743FXDQLUP5RR7\"],\n[\"20240616163819\",\"https://www.packagingdaddy.com/\",\"WFSDCMYRJTFU5GGORHUTLNFHXLE6R7C3\"],\n[\"20240719095521\",\"https://www.packagingdaddy.com/\",\"IVW2KTDCTIE2YUJNHSZK5OTTL62Q5B24\"],\n[\"20240810210755\",\"https://www.packagingdaddy.com/\",\"OGWGHIIUZTJX5R5Q76ZGKNZJJ7QRMHZC\"]]"
+  },
+  {
+    "requested_url": "https://web.archive.org/cdx/search/cdx?url=bestmediaservice.com%2Fcontact%2A&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&fl=timestamp%2Coriginal%2Cdigest&limit=15",
+    "observed_at": "2026-11-05T23:34:55.352875+08:00",
+    "status": 200,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=bestmediaservice.com%2Fcontact%2A&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&fl=timestamp%2Coriginal%2Cdigest&limit=15",
+    "file": "archive__83763f348f32.html",
+    "scripts": [],
+    "tawk": [],
+    "forms": [],
+    "emails": [],
+    "links": [],
+    "text_file": "archive__83763f348f32.txt",
+    "text_length": 140,
+    "text_excerpt": "[[\"timestamp\",\"original\",\"digest\"],\n[\"20150203134055\",\"http://www.bestmediaservice.com/Contact-Us.html\",\"DYQDXUC22OUW3N2VV4NO7NDEUU63QYOZ\"]]\n[[\"timestamp\",\"original\",\"digest\"],\n[\"20150203134055\",\"http://www.bestmediaservice.com/Contact-Us.html\",\"DYQDXUC22OUW3N2VV4NO7NDEUU63QYOZ\"]]"
+  }
+]

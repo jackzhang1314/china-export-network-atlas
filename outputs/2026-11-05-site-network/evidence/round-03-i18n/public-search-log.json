@@ -1,0 +1,253 @@
+{
+  "engine": "公开网页搜索工具",
+  "query_count": 52,
+  "logs": [
+    {
+      "batch": 1,
+      "queries": [
+        "\"Print Design & Tech R US\" Verpackung OR emballage OR embalaje OR imballaggio OR упаковка",
+        "\"designmediaservice.com\" Verpackung OR emballage OR embalaje OR imballaggio OR упаковка",
+        "\"0207 993 6533\" \"Verpackung\" OR \"emballage\" OR \"embalaje\" OR \"imballaggio\"",
+        "\"646 389 0938\" \"Verpackung\" OR \"emballage\" OR \"cajas\" OR \"imballaggio\" OR \"упаковка\""
+      ],
+      "selected_source_urls": [
+        "https://pdtrus.com/terms-of-service",
+        "https://www.designmediaservice.com/",
+        "https://www.pdtrus.co.uk/about",
+        "https://www.provenexpert.com/en-us/pdt-r-us/",
+        "https://pdtrus.com/privacy-policy"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 2,
+      "queries": [
+        "site:.de \"Print Design & Tech R US\" OR \"Design Media Service\"",
+        "site:.fr \"Print Design & Tech R US\" OR \"Design Media Service\"",
+        "site:.es \"Print Design & Tech R US\" OR \"Design Media Service\"",
+        "site:.it \"Print Design & Tech R US\" OR \"Design Media Service\""
+      ],
+      "selected_source_urls": [],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 3,
+      "queries": [
+        "site:.ru \"Print Design & Tech R US\" OR \"Design Media Service\"",
+        "\"PDT R US\" Polska OR Poland packaging stickers",
+        "\"designmediaservice.com\" Polska OR Poland opakowania naklejki",
+        "\"588f544d46ba8058582eccc2\" Verpackung OR emballage OR embalaje OR imballaggio OR opakowania"
+      ],
+      "selected_source_urls": [
+        "https://www.designmediaservice.com/",
+        "https://www.provenexpert.com/en-us/pdt-r-us/",
+        "https://www.pdtrus.com/",
+        "https://pdtrus.co.uk/stickers-and-labels/",
+        "https://pdtrus.com/case-studies/",
+        "https://pdtrus.com/stickers-and-labels/business-stickers/",
+        "https://pdtrus.co.uk/display-box",
+        "https://pdtrus.com/neto/",
+        "https://pdtrus.co.uk/neto/"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 4,
+      "queries": [
+        "\"7993 6533\" \"emballage\" OR \"Verpackung\" OR \"cajas personalizadas\"",
+        "\"8520 3915\" \"emballage\" OR \"Verpackung\" OR \"cajas personalizadas\"",
+        "\"888.202.7564\" \"emballage\" OR \"Verpackung\" OR \"cajas personalizadas\"",
+        "\"2023-001203673\" \"emballage\" OR \"Verpackung\" OR \"cajas personalizadas\""
+      ],
+      "selected_source_urls": [],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 5,
+      "queries": [
+        "site:.de \"Custom Boxes Co\" OR \"AStickerPrinting\" OR \"Label Printing Co\" packaging",
+        "site:.fr \"Custom Boxes Co\" OR \"AStickerPrinting\" OR \"Label Printing Co\" emballage",
+        "site:.es \"Custom Boxes Co\" OR \"AStickerPrinting\" OR \"Label Printing Co\" embalaje",
+        "site:.it \"Custom Boxes Co\" OR \"AStickerPrinting\" OR \"Label Printing Co\" imballaggio"
+      ],
+      "selected_source_urls": [],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 6,
+      "queries": [
+        "\"designmediaservice.com/genform.php\" \"Verpackung\" OR \"emballage\" OR \"cajas\" OR \"imballaggio\"",
+        "\"bmsgl.typeform.com\" \"Verpackung\" OR \"emballage\" OR \"cajas\"",
+        "\"128 City Road\" \"0207 993 6533\" \"Verpackung\" OR \"emballage\"",
+        "\"pdtrus\" \"Verpackungen\" OR \"emballages\" OR \"opakowania\""
+      ],
+      "selected_source_urls": [],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 7,
+      "queries": [
+        "\"help@designmediaservice.com\" emballages OR Verpackung OR cajas OR scatole OR упаковка OR opakowania",
+        "\"help@designmediaservice.com\" France OR Germany OR Italy OR Spain OR Russia OR Poland",
+        "\"PDT R US\" Allemagne OR Deutschland OR Francia OR Italia OR Россия OR Polska packaging",
+        "\"Print Design & Tech R US\" Poland OR Polska OR Warszawa OR Krakow"
+      ],
+      "selected_source_urls": [
+        "https://www.designmediaservice.com/",
+        "https://pdtrus.com/terms-of-service",
+        "https://www.pdtrus.co.uk/about",
+        "https://pdtrus.com/privacy-policy",
+        "https://www.pdtrus.com/",
+        "https://pdtrus.com/case-studies/",
+        "https://gbcomp.p-o.co.uk/ru/company_details/15545140/",
+        "https://pdtrus.co.uk/stickers-and-labels/"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 8,
+      "queries": [
+        "site:pdtrus.com inurl:fr OR inurl:de OR inurl:it OR inurl:es OR inurl:ru",
+        "site:designmediaservice.com \"Français\" OR \"Deutsch\" OR \"Español\" OR \"Italiano\" OR \"Русский\"",
+        "site:customboxesco.com \"Verpackung\" OR \"emballage\" OR \"cajas personalizadas\"",
+        "site:smallcustomboxes.com \"Verpackung\" OR \"emballage\" OR \"cajas personalizadas\""
+      ],
+      "selected_source_urls": [
+        "https://pdtrus.com/terms-of-service",
+        "https://pdtrus.com/about",
+        "https://pdtrus.com/",
+        "https://pdtrus.com/contact",
+        "https://www.pdtrus.com/",
+        "https://pdtrus.com/privacy-policy",
+        "https://pdtrus.com/stickers-and-labels/",
+        "https://pdtrus.com/bookmarks/",
+        "https://pdtrus.com/calendars/custom-calendars/",
+        "https://pdtrus.com/bookmarks/custom-bookmarks/",
+        "https://pdtrus.com/stickers-and-labels/car-stickers/",
+        "https://pdtrus.com/stickers-and-labels/business-stickers/"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 9,
+      "queries": [
+        "\"custompackagingboxesco.de\" OR \"customboxesco.de\" OR \"custompaperbagsco.de\" OR \"rigidboxesco.de\"",
+        "\"custompackagingboxesco.fr\" OR \"customboxesco.fr\" OR \"custompaperbagsco.fr\" OR \"rigidboxesco.fr\"",
+        "\"custompackagingboxesco.es\" OR \"customboxesco.es\" OR \"customboxesco.it\" OR \"customboxesco.ru\"",
+        "\"labelprintingco.de\" OR \"astickerprinting.de\" OR \"stickerprinting.de\" OR \"labelprintingco.fr\""
+      ],
+      "selected_source_urls": [],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 10,
+      "queries": [
+        "\"custom boxes\" \"02079936533\" -site:.uk -site:.au -site:.com",
+        "\"6463890938\" site:.de OR site:.fr OR site:.es OR site:.it OR site:.ru OR site:.pl",
+        "\"print design & tech r us\" \"livraison\" OR \"Versand\" OR \"entrega\" OR \"spedizione\" OR \"доставка\"",
+        "\"design media service\" druk etykiet opakowań"
+      ],
+      "selected_source_urls": [
+        "https://www.provenexpert.com/en-gb/custom-boxes18/",
+        "https://www.provenexpert.com/en-gb/customboxesco/",
+        "https://www.designmediaservice.com/"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 11,
+      "queries": [],
+      "selected_source_urls": [
+        "https://stickerprinting.de/",
+        "https://stickerprinting.fr/",
+        "https://stickerprinting.es/",
+        "https://stickerprinting.it/"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 12,
+      "queries": [
+        "\"stickerprinting.de\" Impressum Betreiber Potsdam \"stickerprinting.fr\"",
+        "\"boitesrigides.fr\" \"cajasforradas.es\" fabricante empresa"
+      ],
+      "selected_source_urls": [
+        "https://www.openpr.de/news/1083674/StickerPrinting-Deutschland-ruestet-sich-fuer-neue-Zielmaerkte.html",
+        "https://stickerprinting.de/",
+        "https://stickerprinting.it/",
+        "https://boitesrigides.fr/",
+        "https://cajasforradas.es/",
+        "https://stabileschachtel.de/",
+        "https://scatolerivestite.it/"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 13,
+      "queries": [
+        "site:pdtrus.com \"poland\" OR \"polska\" OR \"germany\" OR \"france\"",
+        "\"PDT R US\" \"Poland\" -site:provenexpert.com",
+        "site:de.pdtrus.com OR site:fr.pdtrus.com OR site:es.pdtrus.com OR site:ru.pdtrus.com pdtrus",
+        "\"stickerprinting.co.uk\" \"stickerprinting.de\" OR \"stickerprinting.fr\" OR \"stickerprinting.it\""
+      ],
+      "selected_source_urls": [],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 14,
+      "queries": [
+        "\"stickerprinting.ru\" \"stickerprinting.co.uk\" OR \"StickerPrinting Deutschland\"",
+        "\"customboxes.it\" scatole OR packaging OR \"customboxesco\"",
+        "\"Print Design & Tech R US\" коробки OR этикетки OR наклейки OR типография",
+        "\"Design Media Service\" \"opakowania\" \"PDT R US\""
+      ],
+      "selected_source_urls": [
+        "https://pdtrus.com/terms-of-service",
+        "https://www.pdtrus.co.uk/about"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 15,
+      "queries": [
+        "site:stickerprinting.it \"StickerPrinting Deutschland GmbH\"",
+        "site:stickerprinting.ro \"StickerPrinting Deutschland GmbH\""
+      ],
+      "selected_source_urls": [
+        "https://stickerprinting.it/impressum.htm",
+        "https://stickerprinting.it/cms.htm?c=widerruf",
+        "https://stickerprinting.it/informativa-sulla-privacy.htm",
+        "https://stickerprinting.it/condizioni-generali-di-contratto.htm",
+        "https://stickerprinting.ro/cms.htm?c=widerruf",
+        "https://stickerprinting.es/aviso-legal.htm",
+        "https://stickerprinting.it/",
+        "https://boitesrigides.fr/qui-sommes-nous/"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 16,
+      "queries": [],
+      "selected_source_urls": [
+        "https://stickerprinting.co.uk/",
+        "https://stickerprinting.de/impressum.htm",
+        "https://stickerprinting.fr/mentions-legales.htm",
+        "https://cajasforradas.es/",
+        "https://boitesrigides.fr/"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    },
+    {
+      "batch": 17,
+      "queries": [],
+      "selected_source_urls": [
+        "https://stickerprinting.ro/",
+        "https://boitesrigides.fr/qui-sommes-nous/",
+        "https://boitesrigides.fr/",
+        "https://stickerprinting.de/impressum.htm",
+        "https://stickerprinting.fr/mentions-legales.htm"
+      ],
+      "note": "只保留相关来源网址；空记录表示本批没有纳入相关结果"
+    }
+  ]
+}

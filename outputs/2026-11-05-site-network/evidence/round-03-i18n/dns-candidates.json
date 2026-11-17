@@ -1,0 +1,4882 @@
+[
+  {
+    "host": "astickerprinting.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "astickerprinting.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "aufkleberdruck.de",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "aufkleberdruck.de.\t1800\tIN\tA\t5.83.210.1"
+    ]
+  },
+  {
+    "host": "bespokeboxesco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bespokeboxesco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservice.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "bestmediaservices.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "boitespersonnalisees.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "boitesrigides.fr",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "boitesrigides.fr.\t300\tIN\tA\t104.21.35.188",
+      "boitesrigides.fr.\t300\tIN\tA\t172.67.178.153"
+    ]
+  },
+  {
+    "host": "bolsaspapelpersonalizadas.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cajasamedida.es",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "cajasamedida.es.\t3600\tIN\tA\t212.227.149.57"
+    ]
+  },
+  {
+    "host": "cajaspersonalizadas.es",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "cajaspersonalizadas.es.\t900\tIN\tA\t134.0.10.10"
+    ]
+  },
+  {
+    "host": "cajasrigidas.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "cosmeticpackagingco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.ca",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "customboxes.ca.\t\t1200\tIN\tA\t52.40.42.113",
+      "customboxes.ca.\t\t1200\tIN\tA\t44.232.173.249"
+    ]
+  },
+  {
+    "host": "customboxes.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.de",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "customboxes.de.\t\t14400\tIN\tA\t91.195.241.232"
+    ]
+  },
+  {
+    "host": "customboxes.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.it",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "customboxes.it.\t\t300\tIN\tA\t162.4.84.215"
+    ]
+  },
+  {
+    "host": "customboxes.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxes.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customboxesshop.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.be",
+    "kind": "root",
+    "status": "ERROR",
+    "answers": [],
+    "detail": ";; connection timed out; no servers could be reached\n"
+  },
+  {
+    "host": "customcardboardboxesco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customcardboardboxesco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompackagingboxesco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "custompaperbagsco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.ca",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "customstickers.ca.\t600\tIN\tA\t35.190.151.136"
+    ]
+  },
+  {
+    "host": "customstickers.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.de",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "customstickers.de.\t3600\tIN\tA\t195.201.69.223"
+    ]
+  },
+  {
+    "host": "customstickers.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.eu",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "customstickers.eu.\t1800\tIN\tA\t5.83.210.1"
+    ]
+  },
+  {
+    "host": "customstickers.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "customstickers.ru",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "customstickers.ru.\t600\tIN\tA\t5.23.50.207"
+    ]
+  },
+  {
+    "host": "designmediaservice.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "designmediaservice.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "druketykiet.pl",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "druketykiet.pl.\t\t3600\tIN\tA\t94.152.161.186"
+    ]
+  },
+  {
+    "host": "emballagespersonnalises.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "etichettepersonalizzate.it",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "etichettepersonalizzate.it. 3600 IN\tA\t89.46.108.68"
+    ]
+  },
+  {
+    "host": "etikettendruck.de",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "etikettendruck.de.\t150\tIN\tA\t195.4.213.192"
+    ]
+  },
+  {
+    "host": "etiquetaspersonalizadas.es",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "etiquetaspersonalizadas.es. 300\tIN\tA\t213.186.33.5"
+    ]
+  },
+  {
+    "host": "haengeetiketten.de",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "haengeetiketten.de.\t21600\tIN\tA\t116.203.213.72",
+      "haengeetiketten.de.\t21600\tIN\tA\t116.202.9.166"
+    ]
+  },
+  {
+    "host": "hangtagsco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "hangtagsco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "impressionautocollants.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "impressionetiquettes.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "kartonagennachmass.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "korobkinazakaz.ru",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "korobkinazakaz.ru.\t21600\tIN\tA\t185.215.4.20"
+    ]
+  },
+  {
+    "host": "labelprintingco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "labelprintingco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "luxuryboxesco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "opakowaniapersonalizowane.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingboxesco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "packagingdaddy.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "papiertueten.de",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "papiertueten.de.\t3600\tIN\tA\t217.160.0.117"
+    ]
+  },
+  {
+    "host": "pdtrus.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pdtrus.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pegatinaspersonalizadas.es",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "pegatinaspersonalizadas.es. 900\tIN\tA\t46.16.59.99"
+    ]
+  },
+  {
+    "host": "printinggood.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "printinggood.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pudelkanawymiar.pl",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "pudelkanawymiar.pl.\t357\tIN\tA\t188.210.222.87"
+    ]
+  },
+  {
+    "host": "rigidboxesco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rigidboxesco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.de",
+    "kind": "root",
+    "status": "ERROR",
+    "answers": [],
+    "detail": ";; connection timed out; no servers could be reached\n"
+  },
+  {
+    "host": "rollstickersco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "rollstickersco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "sacchetticartapersonalizzati.it",
+    "kind": "root",
+    "status": "ERROR",
+    "answers": [],
+    "detail": ";; connection timed out; no servers could be reached\n"
+  },
+  {
+    "host": "sacspapierpersonnalises.fr",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "sacspapierpersonnalises.fr. 3600 IN\tA\t213.186.33.5"
+    ]
+  },
+  {
+    "host": "scatolepersonalizzate.it",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "scatolepersonalizzate.it. 3600\tIN\tA\t76.223.54.146",
+      "scatolepersonalizzate.it. 3600\tIN\tA\t13.248.169.48"
+    ]
+  },
+  {
+    "host": "scatolerigide.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "scatolesumisura.it",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "scatolesumisura.it.\t9558\tIN\tA\t49.12.220.60"
+    ]
+  },
+  {
+    "host": "schachtelnnachmass.de",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "schachtelnnachmass.de.\t21600\tIN\tA\t185.104.28.238"
+    ]
+  },
+  {
+    "host": "smallcustomboxes.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "smallcustomboxes.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickerprinting.at",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickerprinting.at.\t3600\tIN\tA\t217.13.199.19"
+    ]
+  },
+  {
+    "host": "stickerprinting.be",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickerprinting.be.\t3600\tIN\tA\t217.13.199.19"
+    ]
+  },
+  {
+    "host": "stickerprinting.ca",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickerprinting.ca.\t3600\tIN\tA\t74.208.236.161"
+    ]
+  },
+  {
+    "host": "stickerprinting.ch",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickerprinting.ch.\t3600\tIN\tA\t83.246.48.124"
+    ]
+  },
+  {
+    "host": "stickerprinting.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickerprinting.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickerprinting.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickerprinting.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickerprinting.de",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickerprinting.de.\t300\tIN\tA\t83.246.48.124"
+    ]
+  },
+  {
+    "host": "stickerprinting.es",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickerprinting.es.\t3600\tIN\tA\t83.246.48.124"
+    ]
+  },
+  {
+    "host": "stickerprinting.eu",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickerprinting.eu.\t3600\tIN\tA\t37.9.175.164"
+    ]
+  },
+  {
+    "host": "stickerprinting.fr",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickerprinting.fr.\t3600\tIN\tA\t83.246.48.124"
+    ]
+  },
+  {
+    "host": "stickerprinting.it",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickerprinting.it.\t3600\tIN\tA\t83.246.48.124"
+    ]
+  },
+  {
+    "host": "stickerprinting.pl",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickerprinting.pl.\t3600\tIN\tA\t217.13.199.19"
+    ]
+  },
+  {
+    "host": "stickerprinting.ru",
+    "kind": "root",
+    "status": "SERVFAIL",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.eu",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "stickersprinting.eu.\t3600\tIN\tA\t37.9.175.165"
+    ]
+  },
+  {
+    "host": "stickersprinting.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "stickersprinting.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.at",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.be",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.ca",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.ch",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.com.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.com.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.com.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.com.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.es",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.eu",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.fr",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.it",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.pl",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "swingtagsco.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "upakovkanazakaz.ru",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "verpackungnachmass.de",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "verpackungnachmass.de.\t14400\tIN\tA\t87.118.86.96"
+    ]
+  },
+  {
+    "host": "verpackungsboxen.de",
+    "kind": "root",
+    "status": "NOERROR",
+    "answers": [
+      "verpackungsboxen.de.\t3600\tIN\tA\t23.88.34.196"
+    ]
+  },
+  {
+    "host": "verpackungsboxen24.de",
+    "kind": "root",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.astickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.astickerprinting.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.astickerprinting.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.bespokeboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.bespokeboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.bespokeboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.bestmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.customboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.customboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.customboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.customboxesshop.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.customboxesshop.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.customboxesshop.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.customcardboardboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.customcardboardboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.customcardboardboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.custompackagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.custompackagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.custompackagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.custompaperbagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.custompaperbagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.custompaperbagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.customstickers.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.designmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.hangtagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.labelprintingco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.labelprintingco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.labelprintingco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.packagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.packagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.packagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.pdtrus.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.pdtrus.com",
+    "kind": "subdomain",
+    "status": "NOERROR",
+    "answers": [
+      "de.pdtrus.com.\t\t300\tIN\tA\t82.29.184.129"
+    ]
+  },
+  {
+    "host": "de.printinggood.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.rigidboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.rigidboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.rigidboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.rollstickersco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.rollstickersco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.smallcustomboxes.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.smallcustomboxes.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.smallcustomboxes.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.stickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.stickersprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.stickersprinting.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.swingtagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "de.swingtagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.astickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.astickerprinting.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.astickerprinting.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.bespokeboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.bespokeboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.bespokeboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.bestmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.customboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.customboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.customboxesco.com.au",
+    "kind": "subdomain",
+    "status": "ERROR",
+    "answers": [],
+    "detail": ";; connection timed out; no servers could be reached\n"
+  },
+  {
+    "host": "es.customboxesshop.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.customboxesshop.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.customboxesshop.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.customcardboardboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.customcardboardboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.customcardboardboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.custompackagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.custompackagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.custompackagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.custompaperbagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.custompaperbagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.custompaperbagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.customstickers.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.designmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.hangtagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.labelprintingco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.labelprintingco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.labelprintingco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.packagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.packagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.packagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.pdtrus.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.pdtrus.com",
+    "kind": "subdomain",
+    "status": "NOERROR",
+    "answers": [
+      "es.pdtrus.com.\t\t300\tIN\tA\t82.29.184.129"
+    ]
+  },
+  {
+    "host": "es.printinggood.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.rigidboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.rigidboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.rigidboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.rollstickersco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.rollstickersco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.smallcustomboxes.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.smallcustomboxes.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.smallcustomboxes.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.stickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.stickersprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.stickersprinting.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.swingtagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "es.swingtagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.astickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.astickerprinting.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.astickerprinting.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.bespokeboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.bespokeboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.bespokeboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.bestmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.customboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.customboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.customboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.customboxesshop.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.customboxesshop.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.customboxesshop.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.customcardboardboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.customcardboardboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.customcardboardboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.custompackagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.custompackagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.custompackagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.custompaperbagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.custompaperbagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.custompaperbagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.customstickers.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.designmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.hangtagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.labelprintingco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.labelprintingco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.labelprintingco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.packagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.packagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.packagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.pdtrus.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.pdtrus.com",
+    "kind": "subdomain",
+    "status": "NOERROR",
+    "answers": [
+      "fr.pdtrus.com.\t\t300\tIN\tA\t82.29.184.129"
+    ]
+  },
+  {
+    "host": "fr.printinggood.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.rigidboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.rigidboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.rigidboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.rollstickersco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.rollstickersco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.smallcustomboxes.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.smallcustomboxes.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.smallcustomboxes.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.stickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.stickersprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.stickersprinting.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.swingtagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "fr.swingtagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.astickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.astickerprinting.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.astickerprinting.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.bespokeboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.bespokeboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.bespokeboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.bestmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.customboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.customboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.customboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.customboxesshop.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.customboxesshop.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.customboxesshop.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.customcardboardboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.customcardboardboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.customcardboardboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.custompackagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.custompackagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.custompackagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.custompaperbagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.custompaperbagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.custompaperbagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.customstickers.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.designmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.hangtagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.labelprintingco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.labelprintingco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.labelprintingco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.packagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.packagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.packagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.pdtrus.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.pdtrus.com",
+    "kind": "subdomain",
+    "status": "NOERROR",
+    "answers": [
+      "it.pdtrus.com.\t\t300\tIN\tA\t82.29.184.129"
+    ]
+  },
+  {
+    "host": "it.printinggood.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.rigidboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.rigidboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.rigidboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.rollstickersco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.rollstickersco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.smallcustomboxes.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.smallcustomboxes.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.smallcustomboxes.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.stickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.stickersprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.stickersprinting.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.swingtagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "it.swingtagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.astickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.astickerprinting.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.astickerprinting.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.bespokeboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.bespokeboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.bespokeboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.bestmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.customboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.customboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.customboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.customboxesshop.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.customboxesshop.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.customboxesshop.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.customcardboardboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.customcardboardboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.customcardboardboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.custompackagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.custompackagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.custompackagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.custompaperbagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.custompaperbagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.custompaperbagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.customstickers.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.designmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.hangtagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.labelprintingco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.labelprintingco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.labelprintingco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.packagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.packagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.packagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.pdtrus.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.pdtrus.com",
+    "kind": "subdomain",
+    "status": "NOERROR",
+    "answers": [
+      "nl.pdtrus.com.\t\t300\tIN\tA\t82.29.184.129"
+    ]
+  },
+  {
+    "host": "nl.printinggood.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.rigidboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.rigidboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.rigidboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.rollstickersco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.rollstickersco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.smallcustomboxes.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.smallcustomboxes.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.smallcustomboxes.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.stickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.stickersprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.stickersprinting.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.swingtagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "nl.swingtagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.astickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.astickerprinting.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.astickerprinting.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.bespokeboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.bespokeboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.bespokeboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.bestmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.customboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.customboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.customboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.customboxesshop.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.customboxesshop.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.customboxesshop.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.customcardboardboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.customcardboardboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.customcardboardboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.custompackagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.custompackagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.custompackagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.custompaperbagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.custompaperbagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.custompaperbagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.customstickers.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.designmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.hangtagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.labelprintingco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.labelprintingco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.labelprintingco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.packagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.packagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.packagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.pdtrus.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.pdtrus.com",
+    "kind": "subdomain",
+    "status": "NOERROR",
+    "answers": [
+      "pl.pdtrus.com.\t\t300\tIN\tA\t82.29.184.129"
+    ]
+  },
+  {
+    "host": "pl.printinggood.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.rigidboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.rigidboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.rigidboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.rollstickersco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.rollstickersco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.smallcustomboxes.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.smallcustomboxes.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.smallcustomboxes.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.stickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.stickersprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.stickersprinting.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.swingtagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pl.swingtagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.astickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.astickerprinting.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.astickerprinting.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.bespokeboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.bespokeboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.bespokeboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.bestmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.customboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.customboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.customboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.customboxesshop.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.customboxesshop.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.customboxesshop.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.customcardboardboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.customcardboardboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.customcardboardboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.custompackagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.custompackagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.custompackagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.custompaperbagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.custompaperbagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.custompaperbagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.customstickers.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.designmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.hangtagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.labelprintingco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.labelprintingco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.labelprintingco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.packagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.packagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.packagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.pdtrus.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.pdtrus.com",
+    "kind": "subdomain",
+    "status": "NOERROR",
+    "answers": [
+      "pt.pdtrus.com.\t\t300\tIN\tA\t82.29.184.129"
+    ]
+  },
+  {
+    "host": "pt.printinggood.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.rigidboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.rigidboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.rigidboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.rollstickersco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.rollstickersco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.smallcustomboxes.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.smallcustomboxes.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.smallcustomboxes.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.stickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.stickersprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.stickersprinting.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.swingtagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "pt.swingtagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.astickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.astickerprinting.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.astickerprinting.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.bespokeboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.bespokeboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.bespokeboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.bestmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.customboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.customboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.customboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.customboxesshop.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.customboxesshop.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.customboxesshop.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.customcardboardboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.customcardboardboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.customcardboardboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.custompackagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.custompackagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.custompackagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.custompaperbagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.custompaperbagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.custompaperbagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.customstickers.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.designmediaservice.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.hangtagsco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.labelprintingco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.labelprintingco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.labelprintingco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.packagingboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.packagingboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.packagingboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.pdtrus.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.pdtrus.com",
+    "kind": "subdomain",
+    "status": "NOERROR",
+    "answers": [
+      "ru.pdtrus.com.\t\t300\tIN\tA\t82.29.184.129"
+    ]
+  },
+  {
+    "host": "ru.printinggood.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.rigidboxesco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.rigidboxesco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.rigidboxesco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.rollstickersco.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.rollstickersco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.smallcustomboxes.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.smallcustomboxes.com",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.smallcustomboxes.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.stickerprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.stickersprinting.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.stickersprinting.us",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.swingtagsco.co.uk",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  },
+  {
+    "host": "ru.swingtagsco.com.au",
+    "kind": "subdomain",
+    "status": "NXDOMAIN",
+    "answers": []
+  }
+]

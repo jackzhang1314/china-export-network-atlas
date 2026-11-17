@@ -1,0 +1,142 @@
+[
+  {
+    "page": 4,
+    "key": "history",
+    "label": "历史证据 / AI 建站普及之前的国家站实践",
+    "description": "2004 年 Onlineprinters 德国 .de 站；2011 年法国 .fr 和西班牙 .es 站；2018 年 Mascus 项目已有 32 个国家域名与 25 种语言。",
+    "caption": "历史节点来自企业公告、创始人访谈与项目原文。"
+  },
+  {
+    "page": 5,
+    "key": "mascus_results",
+    "label": "Mascus / 欧洲项目 2018 年下半年对比 2017 年同期",
+    "description": "自然搜索会话 +21%；联系请求 +13.1%。原文图表记录联系请求从约 90,000 增至 101,900。",
+    "caption": "增长数字与同比范围均来自原始项目披露。"
+  },
+  {
+    "page": 6,
+    "key": "buyer_journey",
+    "label": "教学示意 / 从采购需求到咨询",
+    "description": "采购需求 → 当地语言搜索 → 阅读合适页面 → 提出具体咨询。",
+    "caption": "每一步都需要相应的页面与信息支持。"
+  },
+  {
+    "page": 7,
+    "key": "three_layers",
+    "label": "教学示意 / 三项工作的分工",
+    "description": "多语言解决谁能读懂；当地化解决怎样表达采购信息；国家域名说明面向哪个市场。",
+    "caption": "三项配合：覆盖语言、回答采购问题、明确服务市场。"
+  },
+  {
+    "page": 8,
+    "key": "domain_value",
+    "label": "教学示意 / 地域信号与经营工作",
+    "description": ".de 提供德国市场线索；产品内容、可信资料、网站可用性和持续运营共同支持业务。",
+    "caption": "国家后缀帮助表达面向的市场；具体排名由更多因素共同影响。"
+  },
+  {
+    "page": 10,
+    "key": "case_map",
+    "label": "案例导航 / 去重后的四组阅读入口",
+    "description": "2 组主案例、21 组中国制造、71 组工业与 B2B、31 组跨行业与架构参照，共 125 组。",
+    "caption": "分组按本册阅读用途归档；重复案例合并后总计 125 组。"
+  },
+  {
+    "page": 11,
+    "key": "sticker_network",
+    "label": "案例结构 / StickerPrinting 欧洲语言入口",
+    "description": "StickerPrinting Deutschland 的德国、法国、西班牙、意大利和罗马尼亚入口，分别使用当地语言。",
+    "caption": "根据公开入口与经营声明重绘；不表示各市场的流量或经营规模。"
+  },
+  {
+    "page": 12,
+    "key": "packaging_terms",
+    "label": "案例结构 / 五种语言的硬盒入口",
+    "description": "西语 cajasforradas.es、法语 boitesrigides.fr、德语 stabileschachtel.de、意语 scatolerivestite.it、英语 rigidboxespackaging.co.uk。",
+    "caption": "域名词语是研究当地叫法的线索，页面内容仍须结合实际产品核对。"
+  },
+  {
+    "page": 13,
+    "key": "china_sales",
+    "label": "案例观察 / 国家入口里的采购路径",
+    "description": "徐工智利：设备与报价；福田波兰：主力车型与当地联系；MAXUS：车型、经销和服务。",
+    "caption": "厂家目录与当地经营身份一起核对；这些路径不代表已验证实际成交。"
+  },
+  {
+    "page": 14,
+    "key": "china_industry",
+    "label": "案例观察 / 工业国家站的内容组织",
+    "description": "杭叉将产品与配件、服务连接；海天在同一市场区分产品线；NOARK 以稳定编号对应多国目录。",
+    "caption": "同一份产品事实，按各市场的选型与服务需求组织。"
+  },
+  {
+    "page": 15,
+    "key": "igus_product",
+    "label": "案例结构 / 同一 E2/000 系列",
+    "description": "igus E2/000 系列对应 igus.de、igus.pl、igus.cz、igus.ro 的当地语言产品页。",
+    "caption": "四国样本都有对应产品页；图中连线表示产品对应关系。"
+  },
+  {
+    "page": 16,
+    "key": "industry_compare",
+    "label": "案例观察 / 多国网站深入到具体产品与采购分类",
+    "description": "PERI DUO 系列对应捷克和斯洛伐克；Hilti 多国电动工具类目共用 CLS_POWER_TOOLS_7125 编号。",
+    "caption": "同一产品体系，以各国页面承接当地阅读与采购需求。"
+  },
+  {
+    "page": 17,
+    "key": "sany_purchase",
+    "label": "案例结构 / sany.in 的国家业务入口",
+    "description": "三一印度国家域名 sany.in 连接产品、公司、经销与零部件信息。",
+    "caption": "印度站使用英语；语言选择根据目标采购人群确定。"
+  },
+  {
+    "page": 18,
+    "key": "sany",
+    "label": "案例结构 / 三一的多层业务分工",
+    "description": "三一全球品牌与产品主站，连接国家或区域业务、产品线和当地渠道等职责。",
+    "caption": "25 个高置信集团及业务根域，包含全球、区域和产品线等入口。"
+  },
+  {
+    "page": 19,
+    "key": "packaging_counts",
+    "label": "案例数据 / 47 个核心关联根域",
+    "description": "英国 16 个、美国与全球门户 18 个、澳大利亚 13 个，共 47 个核心关联根域。",
+    "caption": "按研究中的目标市场归类；43 个获客站 + 4 个公司或综合门户。"
+  },
+  {
+    "page": 20,
+    "key": "packaging",
+    "label": "案例与启发 / 多个入口，集中承接",
+    "description": "公开观察：43 个获客站映射到共用联系表单；业务启发：多个市场与产品入口可以集中承接，并区分咨询来源。",
+    "caption": "左侧来自公开联系页；右侧是可借鉴的业务组织方式。"
+  },
+  {
+    "page": 21,
+    "key": "project_results",
+    "label": "项目结果 / 专业内容与 SEO 的业务价值",
+    "description": "PROFISHOP 项目点击 +109%；Quick-Step 六市场优化内容页平均点击 +100.53%；Dextra 12 个月自然搜索询盘 +38%。",
+    "caption": "三个项目的时期、范围与指标不同；数字均为发布方披露。"
+  },
+  {
+    "page": 22,
+    "key": "team_split",
+    "label": "成本结构 / 国家站长期需要的协作",
+    "description": "共同产品资料、技术与监测；当地用词、采购问题与服务内容；持续的销售沟通和内容反馈。",
+    "caption": "参考 Manutan 的 23 市场项目，概括共同与当地工作的关系。"
+  },
+  {
+    "page": 23,
+    "key": "ai_economics",
+    "label": "工作量变化 / AI 协助降低三类重复投入",
+    "description": "建站：AI 与可复用规范协助设计开发；内容：共同产品资料支撑多语言初稿；维护：AI 协助整理与更新，业务人员确认事实。",
+    "caption": "展示可协助的工作环节，不代表统一的成本降幅或工期。"
+  },
+  {
+    "page": 24,
+    "key": "solution_value",
+    "label": "方案能力 / 从网站展示到多国内容经营",
+    "description": "AI 协助定制外贸网站、制作当地语言内容与持续经营；WordPress 提供产品和内容后台。",
+    "caption": "按真实业务定制；各国语言和商业承诺以企业确认的资料为依据。"
+  }
+]

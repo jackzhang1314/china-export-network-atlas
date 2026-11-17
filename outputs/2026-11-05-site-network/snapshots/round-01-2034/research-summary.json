@@ -1,0 +1,25 @@
+{
+  "research_time": "2026-11-05T20:29:25.028867+08:00",
+  "original_count": 19,
+  "core_count": 46,
+  "new_count": 27,
+  "storefront_count": 43,
+  "corporate_portal_count": 3,
+  "shared_tawk_count": 43,
+  "regions": {
+    "英国": 16,
+    "美国/全球": 17,
+    "澳大利亚": 13
+  },
+  "new_regions": {
+    "美国/全球": 12,
+    "澳大利亚": 6,
+    "英国": 9
+  },
+  "dns_groups": {
+    "185.75.20.61": 15,
+    "162.210.103.247": 15,
+    "103.82.65.77": 13,
+    "198.23.60.21": 3
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "domain": "bestmediaservices.com.au",
+    "observed_at": "2026-11-05T23:40:21.415812+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known"
+  },
+  {
+    "domain": "bestmediaservices.co.uk",
+    "observed_at": "2026-11-05T23:40:21.415570+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known"
+  },
+  {
+    "domain": "luxuryboxesco.co.uk",
+    "observed_at": "2026-11-05T23:40:21.415638+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known"
+  },
+  {
+    "domain": "bestmediaservice.com.au",
+    "observed_at": "2026-11-05T23:40:21.415204+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known"
+  },
+  {
+    "domain": "printinggood.com",
+    "observed_at": "2026-11-05T23:40:21.649649+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known"
+  },
+  {
+    "domain": "stickersprinting.com.au",
+    "observed_at": "2026-11-05T23:40:21.709442+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known"
+  },
+  {
+    "domain": "printinggood.com.au",
+    "observed_at": "2026-11-05T23:40:21.658054+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known"
+  },
+  {
+    "domain": "cosmeticpackagingco.com",
+    "observed_at": "2026-11-05T23:40:22.016594+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known"
+  },
+  {
+    "domain": "cosmeticpackagingco.co.uk",
+    "observed_at": "2026-11-05T23:40:22.162945+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known"
+  },
+  {
+    "domain": "luxuryboxesco.com.au",
+    "observed_at": "2026-11-05T23:40:21.415707+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known"
+  },
+  {
+    "domain": "stickerprinting.com.au",
+    "observed_at": "2026-11-05T23:40:21.680285+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns": [
+      "103.224.182.253"
+    ],
+    "status": 200,
+    "final_url": "https://stickerprinting.com.au/",
+    "title": "stickerprinting.com.au",
+    "tawk": [],
+    "forms": [],
+    "phones": [],
+    "text_length": 183,
+    "text_file": "stickerprinting.com.au__hypothesis.txt",
+    "text_excerpt": "stickerprinting.com.au\nstickerprinting.com.au\nFind information, resources and relevant links for stickerprinting.com.au.\nThis domain may be for sale.\nTerms of Service\n|\nPrivacy Policy"
+  },
+  {
+    "domain": "customstickers.com.au",
+    "observed_at": "2026-11-05T23:40:21.921903+08:00",
+    "discovery": "品牌地区组合假设，仅用于提出候选",
+    "dns": [
+      "35.190.151.136"
+    ],
+    "status": 200,
+    "final_url": "https://www.customstickers.com.au/",
+    "title": "Custom Sticker: High-Quality Printing & Cheap Price Guaranteed",
+    "tawk": [],
+    "forms": [],
+    "phones": [
+      "tel:1-866-573-4920"
+    ],
+    "text_length": 6891,
+    "text_file": "customstickers.com.au__hypothesis.txt",
+    "text_excerpt": " been produced, there will be no fee for modification.\nQ: When I am not satisfied with the product, can you accept the return?\nA: We only accept refunds for quality problems, wrong products, and transportation damage.\nQ: Can I put your custom stickers on my skin surface?\nA: Usually, if you are not sensitive skin, you can paste cheap stickers on the skin, but pay attention to staying in the skin vision for no more than 6 hours.\nFAQ & Help\nPrivacy Policy\nTerms and Conditions\nContact Us\nAbout Us\nInfluencer Program\nSubscribe to Our Newsletter\nSubmit\nVinyl Sticker Office Hours\nMonday - Friday\n9:00 AM to 5:00 PM (AEST)\n1-866-573-4920\nInfo@gs-jj.com\nCopyright © 2026\nVinylStickers.Com info@GS-JJ.com"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "root": "sanyglobal.com",
+    "error": "ReadTimeout"
+  },
+  {
+    "root": "sany.com.cn",
+    "error": "ReadTimeout"
+  },
+  {
+    "root": "sanygroup.com",
+    "status": 200,
+    "certificate_names": [
+      "*.ngc-de.sanygroup.com",
+      "*.ngc-sg.sanygroup.com",
+      "*.ngc-za.sanygroup.com",
+      "*.ngc.sanygroup.com",
+      "*.sanygroup.com",
+      "cos-jhb.sanygroup.com",
+      "cos-jhbtest.sanygroup.com",
+      "cos-sanycrm.sanygroup.com",
+      "crmprd.sanygroup.com",
+      "crmqas.sanygroup.com",
+      "datazone.sanygroup.com",
+      "ipcwdp01v-ap.sanygroup.com",
+      "ipcwdp02v-ap.sanygroup.com",
+      "mail.sanygroup.com",
+      "ngc-de.sanygroup.com",
+      "ngc-sg.sanygroup.com",
+      "ngc-za.sanygroup.com",
+      "ngc.sanygroup.com",
+      "sanybi.sanygroup.com",
+      "sportal.sanygroup.com"
+    ]
+  },
+  {
+    "root": "sany.in",
+    "error": "ReadTimeout"
+  },
+  {
+    "root": "sanyamerica.com",
+    "error": "ReadTimeout"
+  },
+  {
+    "root": "sanyeurope.com",
+    "error": "ReadTimeout"
+  }
+]

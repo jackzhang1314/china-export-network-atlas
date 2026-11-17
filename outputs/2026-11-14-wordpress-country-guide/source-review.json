@@ -1,0 +1,310 @@
+{
+  "reviewed_at": "2026-11-14T15:58:15+08:00",
+  "wordpress_installation": "/Users/Zhuanz1/.local/share/wordpress-builder/current",
+  "version": {
+    "productVersion": "2.39.24",
+    "distributionRevision": 19,
+    "sourceMainCommit": "84a1c99828e46628b00250d8d0e28ef687e09317"
+  },
+  "local_claims": [
+    {
+      "claim": "以自有 Classic 主题、产品与分类模型、ACF 编辑项承接日常维护",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/.agents/skills/wordpress-builder/SKILL.md",
+      "range": "默认建站架构与内容编辑边界",
+      "used_in": [
+        "wp_stack",
+        "wp_editor"
+      ],
+      "sha256": "c1f902c4e871f8ffac7af4d824a2cc83d861f4050c6bfabc2e1163f1b5ee58e7",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "产品图库、参数、FAQ、关联产品等具有字段和前台读取路径",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/examples/classic-b2b-starter/plugin/starter-model.php",
+      "range": "register_model；产品字段定义",
+      "used_in": [
+        "wp_editor"
+      ],
+      "sha256": "60239e1547db0b124302b323147f6b25573c6abe3bba9b88d55f06880f6cb9c7",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "产品字段由前台产品组件读取",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/examples/classic-b2b-starter/theme/inc/page-data.php",
+      "range": "product data，约395至425行",
+      "used_in": [
+        "wp_editor"
+      ],
+      "sha256": "d00dd6ab2a7ef4431893aa493da255ced2ececbb83292a8e6b335f6641fcd5af",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "日常内容先读现有对象，再按范围修改、读回与核对；批量按实际模型分批",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/.agents/skills/wordpress-content/references/content-maintenance.md",
+      "range": "Inspect → map → write → read back → verify；Batch work and acceptance",
+      "used_in": [
+        "wp_country",
+        "maintain",
+        "prompts_2"
+      ],
+      "sha256": "d5a7b4e0e304fc81c08e9b28368d2319b1e6a62dc6fc00a198be8f022c657ecd",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "一站一个独立项目，共享工具安装；维护与建站分开",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/README.md",
+      "range": "自然语言入口与多网站项目说明",
+      "used_in": [
+        "wp_country",
+        "wp_stack"
+      ],
+      "sha256": "fc1ab2f822c0044917cff867fb2d77b04a8817928d19cea3cf4bfbbbbc7b3c26",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "GTranslate即显翻译、付费云端与WPML的路由、后台和验收各有不同；不能推为自动国家站网络",
+      "source": "/Users/Zhuanz1/.local/share/wordpress-builder/current/.agents/skills/wordpress-setup/references/multilingual.md",
+      "range": "多语言选择与未覆盖边界",
+      "used_in": [
+        "wp_country"
+      ],
+      "sha256": "8ba131166ed0da4a961f584ae7084134dd1efe7f9bdf126d5ab8be89a0fde347",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "静态站按路由完整HTML；无CMS，Agent改文件后发布；新项目默认Workers Static Assets，Pages仍兼容",
+      "source": "/Users/Zhuanz1/.codex/skills/b2b-fast-builder/SKILL.md",
+      "range": "先判定是否适用；架构边界；技术选择原则",
+      "used_in": [
+        "static",
+        "route_choice",
+        "budget"
+      ],
+      "sha256": "2b367211cd6f17ecb97a26b35b3325d26206606ebcd10be09cf227e44d5952c1",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    },
+    {
+      "claim": "静态页面与/api分路；不同云服务有独立额度",
+      "source": "/Users/Zhuanz1/.codex/skills/b2b-fast-builder/references/cloudflare-runtime-and-deployment.md",
+      "range": "运行时与部署路径",
+      "used_in": [
+        "static",
+        "budget"
+      ],
+      "sha256": "4f830f6103bd298f4c240c54ec8a66b8c6f4bd705bafef5ad90568674b9289bd",
+      "evidence_level": "installed documentation/source review; no runtime or live-site test"
+    }
+  ],
+  "official_sources": [
+    {
+      "url": "https://wordpress.org/about/features/",
+      "supports": "原生内容、媒体、发布与扩展能力"
+    },
+    {
+      "url": "https://wordpress.org/documentation/article/roles-and-capabilities/",
+      "supports": "作者、编辑和管理员权限；自定义类型按实际配置核对"
+    },
+    {
+      "url": "https://wordpress.org/documentation/article/revisions/",
+      "supports": "文章页面修订与可配置的保留范围；不等于完整站点备份"
+    },
+    {
+      "url": "https://developer.wordpress.org/advanced-administration/security/backup/",
+      "supports": "数据库和文件分别备份"
+    },
+    {
+      "url": "https://developers.cloudflare.com/pages/platform/limits/",
+      "supports": "Free构建、文件和文件大小限额"
+    },
+    {
+      "url": "https://developers.cloudflare.com/workers/static-assets/billing-and-limitations/",
+      "supports": "静态资源请求与执行Worker的费用分别计算"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+      "supports": "SEO依赖内容、技术与持续改进；无自动排名保证"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "supports": "按真实采购问题与有用资料组织内容"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/specialty/international/localized-versions",
+      "supports": "各国对应页的语言/地区版本关系，可跨域"
+    }
+  ],
+  "editorial_scope": "以历史、SEO原理与真实项目结果，说明多语言本地域名获客已有长期实践；说明AI与WordPress Builder Harness + Codex降低小团队重复制作负担及本方案能力。全部操作教学移出；按用户最新要求删除资料说明页与制作/研究日期说明。",
+  "not_verified": [
+    "当前安装能否实际运行或发布",
+    "全部自定义后台字段和语言站的运行表现",
+    "多站集中自动同步",
+    "第三方案例使用过该Harness",
+    "培训转化率、固定学习时长、排名或询盘收益"
+  ],
+  "no_external_changes": true,
+  "previous_editorial_scope": "用户要求：WordPress Builder Harness + Codex为付费课程主线；免费静态Skill完整保留，可做试点或补充；用日常工作解释学习价值。",
+  "narrative_reviewed_at": "2026-11-14T17:08:59+08:00",
+  "narrative_evidence": [
+    {
+      "url": "https://www.pressetext.com/news/na-20110302010.html",
+      "publisher": "Onlineprinters GmbH 公司公告，pressetext 分发",
+      "published": "2011-03-02",
+      "supports": [
+        "法国 .fr 法语站于2011年上线",
+        "专业印刷术语翻译投入较大",
+        "法国站配合法语电话支持"
+      ],
+      "used_in": [
+        "start",
+        "history",
+        "old_cost"
+      ],
+      "boundary": "直接支持历史与工作投入；不将公司自述的客户满意度扩展为SEO成效。"
+    },
+    {
+      "url": "https://www.europapress.es/economia/noticia-comunicado-onlineprinters-gmbh-abre-tienda-virtual-espana-20110727102414.html",
+      "publisher": "Onlineprinters GmbH 公司公告，Europa Press 分发",
+      "published": "2011-07-27",
+      "supports": [
+        "西班牙 .es 西语站在2011年发布",
+        "配套西语支持与当地产品购买信息"
+      ],
+      "used_in": [
+        "history"
+      ],
+      "boundary": "2011年网站发布事实；未把生产投资或收入归因于SEO。"
+    },
+    {
+      "url": "https://www.onlineprinters.ie/magazine/15-years-onlineprinters-company-founder-walter-meyer/",
+      "publisher": "Onlineprinters 官方创始人访谈",
+      "published": "2019-05-15",
+      "supports": [
+        "2004年德国diedruckerei.de上线",
+        "2011年法、西国家商店扩张",
+        "2019年访谈称海外商店占集团收入75%"
+      ],
+      "used_in": [
+        "history"
+      ],
+      "boundary": "收入是当时集团海外商店口径，不是搜索渠道或国家后缀独立贡献。"
+    },
+    {
+      "url": "https://www.bluerank.com/wp-content/uploads/2021/05/Mascus-International_Bluerank_ESA2019_case-study_ENG_1.pdf",
+      "publisher": "Bluerank 与 Mascus ESA 2019 项目材料",
+      "published": "2019 award material; results 2018",
+      "supports": [
+        "回顾此前12年合作",
+        "32个国家域名与25种语言",
+        "欧洲2018下半年同比自然搜索会话+21%、联系请求+13.1%"
+      ],
+      "used_in": [
+        "start",
+        "history",
+        "mascus_results"
+      ],
+      "boundary": "保持原文披露百分比；联系请求图的基数按约数阅读，不等于逐条合格询盘、成交或WordPress工具成绩。已查看原PDF第10页联系请求图。"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites",
+      "publisher": "Google Search Central",
+      "supports": [
+        "语言与地区匹配",
+        "独立语言URL和可见正文语言",
+        "ccTLD清楚的地区定位与维护要求"
+      ],
+      "used_in": [
+        "buyer_journey",
+        "three_layers",
+        "domain_value",
+        "architectures"
+      ],
+      "boundary": "地域信号与实际排名区分；不承诺新域名的权重、询盘或相对其他结构的必然优势。"
+    },
+    {
+      "url": "https://www.inspiradigitalagency.com/case-studies/dextra-group/",
+      "publisher": "Inspira Digital Agency 项目原文",
+      "supports": [
+        "12个月月度自然访问4000至14000",
+        "自然搜索询盘+38%",
+        "商业页面、技术、链接与行业传播共同投入"
+      ],
+      "used_in": [
+        "seo_results"
+      ],
+      "boundary": "工业SEO案例，原文未拆分国家域名贡献、起止年月或每条销售资格。"
+    },
+    {
+      "url": "https://www.claneo.com/en/case-studies/content-jungheinrich-profishop/",
+      "publisher": "Claneo 项目原文",
+      "supports": [
+        "十多个国家的本地化内容",
+        "2020-05上线至2022-12披露项目点击+109%"
+      ],
+      "used_in": [
+        "seo_results"
+      ],
+      "boundary": "项目结果未按各国家域名独立拆分。"
+    },
+    {
+      "url": "https://www.primelis.com/case-studies/manutan-casestudy/",
+      "publisher": "Primelis 项目原文",
+      "supports": [
+        "23市场的技术、当地内容与统一监测协作"
+      ],
+      "used_in": [
+        "old_cost"
+      ],
+      "boundary": "用来说明工作结构，不将其推为统一人工报价。"
+    },
+    {
+      "url": "https://www.verbolia.com/case-studies/wurth-france/",
+      "publisher": "Verbolia 项目原文",
+      "supports": [
+        "长度、直径、材质、标准等工业品属性与长尾页面"
+      ],
+      "used_in": [
+        "precision"
+      ],
+      "boundary": "具体搜索意图的方法参照；最终资格仍由销售判断。"
+    },
+    {
+      "url": "https://wordpress.org/about/features/",
+      "publisher": "WordPress 官方",
+      "supports": [
+        "内容管理、自定义内容、主题扩展与开源数据控制"
+      ],
+      "used_in": [
+        "wordpress_value"
+      ],
+      "boundary": "通用产品能力；不将所有自定义配置视为原生现成能力。"
+    }
+  ],
+  "narrative_inferences": {
+    "historical_practice": "由2011年公司公告、2019项目回顾和已观察国家站共同支持；未把现有所有案例反推为十多年前已采用相同结构。",
+    "cost_change": "由历史本地化投入、国际项目工作结构及本地Harness能力推导可协助的重复工作变化；没有计算统一成本比例、工期或ROI。",
+    "quality_and_speed": "介绍工具支持的建设能力与质量目标；未验证该版本所有运行路径或进行真实建站计时。",
+    "audience_relevance": "面向工厂、外贸公司、SOHO的业务解释；未进行读者转化测试。"
+  },
+  "latest_user_removal": "整页资料说明、目录第07项、封面/页眉制作日期、三一清单的资料观察日期及可编辑正文/先读我的版本日期已删除。历史公告日期与项目比较周期属于案例事实，保留。研究CSV原始日期列保持数据完整。",
+  "latest_revision": {
+    "at": "2026-11-14T17:37:36+08:00",
+    "purpose": "精简论证并完整保留已收录企业网址",
+    "narrative_source_policy": "沿用本会话已核验的历史、项目、Google及本机方案依据；本轮未重新在线验证全部地址。",
+    "link_sources": [
+      "跨行业案例总表与域名核验表",
+      "工业与B2B案例总表与逐页核验表",
+      "中国制造案例总表、厂家目录与逐页核验表",
+      "三一101对象表与已声明/本地/渠道语言样本",
+      "包装60对象表、47核心逐站证据及公开联系页",
+      "修改前48页正文中的产品与业务页面样本"
+    ],
+    "scope": "仅对125组已收录案例整合；保留地址原状态。初步探测的语言路径与未进入125组案例的其他品牌不计入完整链接表；没有把候选、停用、排除或跳转记录提升为现役官网。",
+    "preservation_check": "原始3组案例总表的全部网址和出处均在PDF；修改前48页PDF全部外链目标保留；1552条地址及各案例来源在相应企业条目中均有精确URI注释。",
+    "data_correction": "合并中国制造资料时改为保留此前样本与来源的并集，补回柳工波兰入口。",
+    "counts": {
+      "cases": 125,
+      "site_addresses": 1552,
+      "unique_pdf_uris": 1703
+    }
+  }
+}

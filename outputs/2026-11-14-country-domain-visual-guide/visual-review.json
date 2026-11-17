@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-11-14T15:43:02+08:00",
+  "sha256": "669b88e29d4cfacc36718f15b6543d10221125c974905a189b9cd29951f10558",
+  "pages_rendered": 74,
+  "contact_sheets": 7,
+  "expanded_pages_reviewed": [
+    1,
+    12,
+    20,
+    23,
+    25,
+    28,
+    29,
+    31,
+    32,
+    33,
+    59,
+    72
+  ],
+  "result": "No clipping, overlap or missing text observed. All-page contact sheets reviewed, followed by enlarged selected pages. Changed pages were rendered again after final edits. Circled figure labels were replaced with plain numbers for clearer rendering.",
+  "figure_format": "ReportLab vector shapes and embedded selectable text; 34 in-body figures, plus the cover network."
+}

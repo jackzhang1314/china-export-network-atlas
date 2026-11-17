@@ -1,0 +1,83 @@
+function hookLocationAccess(onAccess) {
+    const originalDescriptors = new Map();
+    const targets = [
+        {
+            obj: window.location,
+            props: ['href', 'pathname', 'search', 'hash', 'origin']
+        },
+        {
+            obj: document,
+            props: ['URL', 'documentURI']
+        } // document.URL is often synonymous with location.href
+    ];
+
+    targets.forEach(({
+        obj,
+        props
+    }) => {
+        props.forEach(prop => {
+            try {
+                // Get the original property descriptor
+                const originalDescriptor = Object.getOwnPropertyDescriptor(obj, prop);
+
+                // If the property doesn't exist, is not configurable, or has no getter/value, skip it.
+                if (!originalDescriptor || !originalDescriptor.configurable || (!originalDescriptor.get &&
+                        !originalDescriptor.value)) {
+                    console.warn(`[HookLocation] Could not hook property "${prop}" on`, obj,
+                        `- not found, not configurable, or no getter/value.`);
+                    return;
+                }
+
+                // Store the original descriptor for restoration
+                originalDescriptors.set([obj, prop], originalDescriptor);
+
+                // Define the new property
+                Object.defineProperty(obj, prop, {
+                    configurable: true, // Keep configurable so we can unhook
+                    enumerable: originalDescriptor.enumerable, // Keep original enumerability
+                    get: function () {
+                        // Call the original getter or return the original value
+                        const originalValue = originalDescriptor.get ?
+                            originalDescriptor.get.call(this) : // Use .call(this) to maintain context
+                            originalDescriptor.value;
+
+                        // Call the user's hook function
+                        const modifiedValue = onAccess(prop, originalValue);
+
+                        // Return the modified value if the hook returns something, otherwise return the original
+                        return modifiedValue !== undefined ? modifiedValue : originalValue;
+                    }
+                    // Note: We are only hooking the getter (read). Setting these properties is not hooked by this code.
+                });
+
+                console.log(`[HookLocation] Successfully hooked property "${prop}" on`, obj);
+
+            } catch (e) {
+                console.error(`[HookLocation] Error hooking property "${prop}" on`, obj, e);
+            }
+        });
+    });
+
+    /**
+     * Restores the original property definitions.
+     */
+    const unhook = () => {
+        originalDescriptors.forEach((originalDescriptor, [obj, prop]) => {
+            try {
+                Object.defineProperty(obj, prop, originalDescriptor);
+                console.log(`[HookLocation] Successfully unhooked property "${prop}" on`, obj);
+            } catch (e) {
+                console.error(`[HookLocation] Error unhooking property "${prop}" on`, obj, e);
+            }
+        });
+        originalDescriptors.clear(); // Clear the map after unhooking
+    };
+
+    return unhook; // Return the unhook function
+}
+
+// const restoreOriginal = hookLocationAccess((propertyName, originalValue) => {
+//     console.log(`[HOOKED ACCESS] Property "${propertyName}" accessed. Original value: "${originalValue}"`);
+//     debugger;
+//     return undefined;
+// });

@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "01-为什么网站没有询盘",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “为什么你的网站没有询盘？” Below: four large text groups across the page with thin arrows: “AI 降低成本” → “多语言国家站” → “匹配采购需求” → “精准询盘”. No other words, especially no bottom summary. Pure simple causal diagram."
+  },
+  {
+    "id": 2,
+    "name": "02-真实企业国家站",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “这些企业，都在做国家站”. Three equal columns, names and verified domains only: “三一” with “sanyglobal.com” and “sany.in”; “徐工” with “xcmg-europe.de” and “xcmg.cl”; “杭叉” with “hcrs.fr” and “hangchaaustralia.com.au”. Beneath those URLs in each column one country label respectively “全球 · 印度”, “德国 · 智利”, “法国 · 澳大利亚”. No logos, maps or other copy. Typography based comparison."
+  },
+  {
+    "id": 3,
+    "name": "03-专业Skill",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “把建站流程，装进 Skill”. Simple left to right functional diagram with labels only: “公司资料” and “产品资料” on left merging into center “Codex + Skill”, then arrow to right “外贸网站”. A small simple black line drawing of a mini excavator next to product data label is allowed, no decoration. No extra text."
+  },
+  {
+    "id": 4,
+    "name": "04-赠送建站Skill",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “这个建站 Skill，送给你”. Central two enormous text blocks separated by arrow: “一句话启动” → “约 20 分钟初稿”. Beneath a single small line “提供公司与产品资料”. Bottom row three spaced functional text pairs: “Cloudflare” / “静态托管”; “Tidio” / “在线聊天”; “Resend” / “询盘到邮箱”. Use the phrase “免费额度起步” once near this service row, readable large. No other text."
+  },
+  {
+    "id": 5,
+    "name": "05-下期WordPress",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “下一期”. Center enormous “WordPress AI”, under it two equally large words separated by centered dot “建站 · 站群”. Only these words, plenty white space. No icon or footer."
+  },
+  {
+    "id": 6,
+    "name": "06-德国买家找小挖",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “德国买家，怎么找小挖？” Left a clean flat black and blue technical-style illustration of one generic compact mini excavator without any logo or model number. Under excavator two large labels “2 吨” “3 台”. Right a very simple functional search line with the exact German phrase “Minibagger 2 Tonnen”. Under search line arrow to two large Chinese phrases “找到设备” → “联系厂家”. A tiny simple magnifier is allowed as search function, no other decoration."
+  },
+  {
+    "id": 7,
+    "name": "07-本地域名与当地语言",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “本地域名 + 当地语言”. Three large aligned columns: “.de” over “德国 · 德语”; “.fr” over “法国 · 法语”; “.pl” over “波兰 · 波兰语”. Beneath all three one functional shared bracket pointing to the exact phrase “明确目标市场”. Do not mention rankings or guaranteed leads. No extra text."
+  },
+  {
+    "id": 8,
+    "name": "08-定制建站成本",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “以前，多做一个站，多一笔成本”. Center giant simple equation “2–3 万元 × 5 个站 = 10–15 万元”. Under equation the label “纯定制建站报价示例”. Bottom one thin arrow pointing from the exact phrase “AI 复用建站流程” to “减少重复开发”. No invented savings percentages. No other words."
+  },
+  {
+    "id": 9,
+    "name": "09-Codex与Skill分工",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “重复工作，交给 Codex + Skill”. Left three stacked words “做页面” “录产品” “改布局” merging with thin lines into middle “Codex + Skill”; right arrow to three small simple document silhouettes labelled “德语站” “法语站” “波兰语站”. Below left, not a footer slogan, only a functional input arrow labelled “真实产品资料” feeding into center. No robot, person, or sparkle."
+  },
+  {
+    "id": 10,
+    "name": "10-大模型本地化",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “同一台小挖，写成当地采购内容”. Three-step diagram with large labels “产品资料” → “AI 起草” → “人工复核”. Under these steps one thin horizontal separation; below three evenly spaced practical content words “设备配置” “交货时间” “售后服务”. On far left a small simple unbranded compact excavator silhouette as subject. No extra copy."
+  },
+  {
+    "id": 11,
+    "name": "11-买家关心什么",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “买家进站，就看这三件事”. Three equally spaced content columns, each with one plain functional diagram and large text: compact excavator drawing with “设备合不合适”; shipping crate drawing with “能不能交货”; a simple quotation document with “怎么拿报价”. Clean line drawings black/blue only, no ornamental containers. No extra words."
+  },
+  {
+    "id": 12,
+    "name": "12-挖掘竞品网站",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “一个电话，挖出更多网站”. Three functional stages left to right: exact quoted text “\\\"0207 993 6533\\\"” with label “精确搜索”, arrow to three plain small document rectangles under label “收集域名”, arrow to labels “核对公司名” and “核对联系页”. No real search engine screenshots, no invented additional phone numbers or URLs. No footer."
+  },
+  {
+    "id": 13,
+    "name": "13-包装站群研究结果",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “包装行业站群案例”. Very large central figures “19 个网址” → “47 个高置信关联根域”. Bottom third a simple three-input evidence diagram with labels “联系电话” “公司信息” “表单与聊天标识”, all three thin lines feeding into the central finding. No claim common legal ownership, SEO revenue or performance. No other copy."
+  },
+  {
+    "id": 14,
+    "name": "14-精准询盘",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Title “什么叫精准询盘？” Left an unbranded generic compact excavator clean black/blue line drawing. Right three very large aligned data rows “设备：2 吨小挖” “数量：3 台” “交货地：德国”. Beneath rows one large blue line “请报配置、价格和交期”. Only these words. No fake inbox interface, no claim actual lead."
+  },
+  {
+    "id": 15,
+    "name": "15-领取Skill",
+    "prompt": "Generate ONE standalone presentation image for a Chinese export B2B factory-owner video. Landscape 16:9, high resolution target 3840x2160, extremely crisp large Simplified Chinese sans-serif text. Pure white background, black typography, blue #2458D3 only for key information. Very clean and sparse, generous margins. Functional diagrams only. NO decorations, gradients, shadows, textures, mock browser UI, watermarks, page numbers, slogans, footer, subtitle, explanatory fine print, invented numbers or extra copy. Use ONLY the specified exact text. Prefer open layout without enclosing cards. All text must be accurate and large. No photographic background. Only two large text lines centered slightly above page center: “领取外贸建站 Skill” in black; “静态网站方案” in blue. Below a simple functional sequence of three labels linked by thin arrows “公司资料” → “产品资料” → “生成网站”. No QR code, no URL, no footer or summary slogans."
+  }
+]

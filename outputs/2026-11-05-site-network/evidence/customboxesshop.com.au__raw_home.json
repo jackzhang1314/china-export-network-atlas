@@ -1,0 +1,61 @@
+{
+  "requested_url": "https://www.customboxesshop.com.au/",
+  "observed_at": "2026-11-05T20:19:51.364370+08:00",
+  "status": 200,
+  "final_url": "https://www.customboxesshop.com.au/",
+  "title": "Custom Boxes Australia | Design & order Custom Printed Boxes",
+  "links": [
+    {
+      "tag": "link",
+      "href": "https://www.customboxesshop.com.au/skin/frontend/aloelectro/default/favicon.ico",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.customboxesshop.com.au/skin/frontend/aloelectro/default/favicon.ico",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.customboxesshop.com.au/media/css_secure/688593a72091d2eced33e6efa12fd597.css",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.customboxesshop.com.au/media/css_secure/00c69b70aa693f88d79538b7d6439a9a.css",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.customboxesshop.com.au/media/js/617f6c872fa0292d9e787fbd52fa5c8c.js",
+      "text": ""
+    },
+    {
+      "tag": "script",
+      "href": "https://www.customboxesshop.com.au/media/js/2ae6d6f336f97b143248347aca17bc47.js",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.customboxesshop.com.au/blog/rss/index/store_id/1/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "//fonts.googleapis.com/css?family=Open+Sans",
+      "text": ""
+    }
+  ],
+  "telephone_links": [],
+  "tracking_ids": [],
+  "external_domains": [
+    "cdn.jsdelivr.net",
+    "www.customboxesshop.com.au"
+  ],
+  "footer_text": "Custom Boxes Australia | Design & order Custom Printed Boxes"
+}

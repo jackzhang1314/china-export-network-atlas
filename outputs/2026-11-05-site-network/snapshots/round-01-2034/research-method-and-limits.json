@@ -1,0 +1,19 @@
+{
+  "research_time": "2026-11-05T20:30:11.532736+08:00",
+  "google_direct_status": "人机验证页，未取得真实Google结果页；没有绕过验证码。一次直连尝试，实际查询为 \"0207 993 6533\" \"custom\"，附 num=10、filter=0。",
+  "discovery_sources": [
+    "Firecrawl Search首轮结果",
+    "公开网页搜索工具后续结果",
+    "网站实时HTML与内嵌联系表单",
+    "英国Companies House与澳大利亚ABN Lookup公开登记",
+    "HackerTarget反查IP的候选清单",
+    "公开商家与评价档案"
+  ],
+  "limitations": [
+    "Firecrawl后续请求遇到额度不足，失败记录保留，已改用实时HTTP与公开搜索交叉核验。",
+    "反查IP是第三方候选信息，已对核心域名重新解析DNS并回站验证，未把同IP本身当成归属证明。",
+    "没有访问CRM登录、读取客户资料、提交询盘、拨打电话或申请后台访问。",
+    "未使用流量/排名/收入/订单数据；不推断站群收益、工厂位置或统一法律所有权。"
+  ],
+  "artifact_basis": "站群域名数据.json为逐站结构化结论；研究报告为可读结论；CSV便于筛选；evidence保存来源与失败记录。"
+}

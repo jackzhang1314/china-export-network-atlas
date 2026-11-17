@@ -1,0 +1,1005 @@
+[
+  {
+    "group": "hengtong",
+    "url": "https://www.hengtonggroup.com/en/home/company/business.html",
+    "final": "https://www.hengtonggroup.com/en/home/company/business.html",
+    "status": 200,
+    "title": "HENGTONG GROUP CO.,LTD.",
+    "bytes": 92073,
+    "error": ""
+  },
+  {
+    "group": "hengtong",
+    "url": "https://www.alcobre.pt/",
+    "final": "https://www.alcobre.pt/",
+    "status": 200,
+    "lang": "en",
+    "title": "One moment, please...",
+    "bytes": 11914,
+    "error": ""
+  },
+  {
+    "group": "hengtong",
+    "url": "https://www.htcabos.com.br/",
+    "final": "https://htcabos.com.br/",
+    "status": 200,
+    "lang": "pt-BR",
+    "title": "Página principal - HT Cabos",
+    "canonical": "https://htcabos.com.br/",
+    "bytes": 99731,
+    "error": ""
+  },
+  {
+    "group": "hengtong",
+    "url": "https://www.voksel.co.id/id",
+    "final": "https://www.voksel.co.id/id",
+    "status": 200,
+    "lang": "id",
+    "title": "Halaman Utama - Voksel Electric",
+    "bytes": 140174,
+    "error": ""
+  },
+  {
+    "group": "hengtong",
+    "url": "https://www.cablescom.com/",
+    "final": "https://www.cablescom.com/",
+    "status": 200,
+    "lang": "es",
+    "title": "Página de Inicio Cablescom | Cablescom",
+    "canonical": "https://www.cablescom.com/",
+    "bytes": 66460,
+    "error": ""
+  },
+  {
+    "group": "hengtong",
+    "url": "https://www.j-fiber.com/",
+    "final": "https://www.j-fiber.com/",
+    "status": 200,
+    "lang": "de-DE",
+    "title": "Startseite - j-fiber",
+    "canonical": "https://www.j-fiber.com/",
+    "bytes": 118447,
+    "error": ""
+  },
+  {
+    "group": "hengtong",
+    "url": "https://www.aberdare.co.za/",
+    "final": "https://www.aberdare.co.za/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (28) Operation timed out after 13006 milliseconds with 0 bytes received"
+  },
+  {
+    "group": "hengtong",
+    "url": "https://amhengtong.co.za/",
+    "final": "https://amhengtong.co.za/",
+    "status": 200,
+    "lang": "en",
+    "title": "One moment, please...",
+    "bytes": 12041,
+    "error": ""
+  },
+  {
+    "group": "hengtong",
+    "url": "https://htegypt.com.eg/",
+    "final": "https://htegypt.com.eg/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "Hengtong Optic-Electric Egypt Co., S.A.E - HENGTONG Egypt",
+    "canonical": "https://htegypt.com.eg/",
+    "bytes": 188284,
+    "error": ""
+  },
+  {
+    "group": "hengtong",
+    "url": "https://www.hengtongaustralia.com/",
+    "final": "https://www.hengtongaustralia.com/",
+    "status": 200,
+    "title": "Hengtong Cable Australia Pty Ltd",
+    "bytes": 26242,
+    "error": ""
+  },
+  {
+    "group": "ztt",
+    "url": "https://www.zttgroup.com/company-profile/",
+    "final": "https://www.zttgroup.com/company-profile/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "Company Profile - ZTT",
+    "canonical": "https://www.zttgroup.com/company-profile/",
+    "bytes": 408874,
+    "error": ""
+  },
+  {
+    "group": "ztt",
+    "url": "https://www.zttcable.com.br/",
+    "final": "https://www.zttcable.com.br/",
+    "status": 200,
+    "lang": "pt-BR",
+    "title": "ZTT Cable &#8211; Brasil",
+    "canonical": "https://www.zttcable.com.br/",
+    "bytes": 111743,
+    "error": ""
+  },
+  {
+    "group": "ztt",
+    "url": "https://www.demirerkablo.com.tr/",
+    "final": "https://www.demirerkablo.com.tr/",
+    "status": 200,
+    "title": "Demirer Kablo",
+    "bytes": 17109,
+    "error": ""
+  },
+  {
+    "group": "ztt",
+    "url": "https://www.ztt.cn/",
+    "final": "https://www.ztt.cn/",
+    "status": 200,
+    "title": "中天科技集团-“双碳”赛道主力军",
+    "bytes": 47295,
+    "error": ""
+  },
+  {
+    "group": "ztt",
+    "url": "https://www.zttindia.com/",
+    "final": "https://www.zttindia.com/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (60) SSL: no alternative certificate subject name matches target host name 'www.zttindia.com'"
+  },
+  {
+    "group": "ztt",
+    "url": "https://www.zttcable.co.id/",
+    "final": "https://www.zttcable.co.id/",
+    "status": 200,
+    "lang": "en",
+    "title": "One moment, please...",
+    "bytes": 11900,
+    "error": ""
+  },
+  {
+    "group": "ztt",
+    "url": "https://www.ztt.co.id/",
+    "final": "https://www.ztt.co.id/",
+    "status": 200,
+    "lang": "en",
+    "title": "One moment, please...",
+    "bytes": 11895,
+    "error": ""
+  },
+  {
+    "group": "hsg",
+    "url": "https://www.hsglaser.com/",
+    "final": "https://www.hsglaser.com/",
+    "status": 200,
+    "lang": "en",
+    "title": "Fiber laser cutting machine | EU and ISO certification | HSG",
+    "canonical": "https://www.hsglaser.com/",
+    "bytes": 81901,
+    "error": ""
+  },
+  {
+    "group": "hsg",
+    "url": "https://www.hsglaser.co.jp/",
+    "final": "https://www.hsglaser.co.jp/",
+    "status": 200,
+    "lang": "ja",
+    "title": "HSGエンジニアリング株式会社",
+    "canonical": "https://www.hsglaser.co.jp/",
+    "bytes": 145579,
+    "error": ""
+  },
+  {
+    "group": "hsg",
+    "url": "https://www.hsglaser.co.kr/",
+    "final": "https://www.hsglaser.co.kr/",
+    "status": 200,
+    "lang": "ko",
+    "title": "hsglaser | 에이치에스지레이저코리아",
+    "canonical": "https://www.hsglaser.co.kr/index.php",
+    "bytes": 78029,
+    "error": ""
+  },
+  {
+    "group": "hsg",
+    "url": "https://hsglaser.jp/jp/",
+    "final": "https://hsglaser.jp/jp/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (60) SSL certificate problem: certificate has expired"
+  },
+  {
+    "group": "hsg",
+    "url": "https://hsglaser.kr/kr/pages/about/",
+    "final": "https://hsglaser.kr/kr/pages/about/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (60) SSL: no alternative certificate subject name matches target host name 'hsglaser.kr'"
+  },
+  {
+    "group": "hsg",
+    "url": "https://www.hsg-usa.com/",
+    "final": "https://www.hsg-usa.com/",
+    "status": 200,
+    "lang": "en",
+    "title": "HSG Fiber Laser Cutting Machines | HSG-USA",
+    "bytes": 36922,
+    "error": ""
+  },
+  {
+    "group": "hsg",
+    "url": "https://www.hsglaserusa.com/",
+    "final": "https://www.hsglaser.com/",
+    "status": 200,
+    "lang": "en",
+    "title": "Fiber laser cutting machine | EU and ISO certification | HSG",
+    "canonical": "https://www.hsglaser.com/",
+    "bytes": 81901,
+    "error": ""
+  },
+  {
+    "group": "hsg",
+    "url": "https://www.xlase.com/de/",
+    "final": "https://www.xlase.com/de/",
+    "status": 200,
+    "bytes": 114,
+    "error": ""
+  },
+  {
+    "group": "hsg",
+    "url": "https://www.xlase.de/",
+    "final": "https://www.hsglaser.com/de/",
+    "status": 200,
+    "lang": "de",
+    "title": "Fiber laser cutting machine | EU and ISO certification | HSG",
+    "canonical": "https://www.hsglaser.com/",
+    "bytes": 77064,
+    "error": ""
+  },
+  {
+    "group": "hsg",
+    "url": "https://www.hsglaser.cn/",
+    "final": "https://www.hsglaser.cn/",
+    "status": 200,
+    "title": "激光切割机_光纤激光切割机_激光切管机-宏山激光",
+    "bytes": 118988,
+    "error": ""
+  },
+  {
+    "group": "haitian",
+    "url": "https://haitianinter.com/worldwide-presence/",
+    "final": "https://haitianinter.com/worldwide-presence/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "Worldwide Presence - Haitian International",
+    "canonical": "https://haitianinter.com/worldwide-presence/",
+    "bytes": 337835,
+    "error": ""
+  },
+  {
+    "group": "haitian",
+    "url": "https://www.haitian.com.tr/kurumsal",
+    "final": "https://www.haitian.com.tr/kurumsal",
+    "status": 200,
+    "lang": "tr",
+    "title": "Kurumsal | Haitian International | Haitian T�rkiye",
+    "canonical": "https://www.haitian.com.tr/kurumsal",
+    "bytes": 53624,
+    "error": ""
+  },
+  {
+    "group": "haitian",
+    "url": "https://haitianbrazil.com/",
+    "final": "https://haitianbrazil.com/",
+    "status": 200,
+    "lang": "pt-br",
+    "title": "海天塑机集团有限公司 &#8211; Haitian International Brazil",
+    "canonical": "https://haitianbrazil.com/",
+    "bytes": 105251,
+    "error": ""
+  },
+  {
+    "group": "haitian",
+    "url": "https://haitianmexico.com.mx/",
+    "final": "https://haitianmexico.com.mx/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (28) Connection timed out after 13005 milliseconds"
+  },
+  {
+    "group": "haitian",
+    "url": "https://haitianmexico.com/",
+    "final": "https://haitianmexico.com/",
+    "status": 200,
+    "lang": "en",
+    "title": "One moment, please...",
+    "bytes": 7132,
+    "error": ""
+  },
+  {
+    "group": "haitian",
+    "url": "https://www.haitiangermany.com/",
+    "final": "https://www.haitiangermany.com/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (60) SSL: no alternative certificate subject name matches target host name 'www.haitiangermany.com'"
+  },
+  {
+    "group": "haitian",
+    "url": "https://www.haitianpm.com/",
+    "final": "https://haitianpm.com/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "海天塑机 - Haitian Plastics Machinery",
+    "canonical": "https://haitianpm.com/",
+    "bytes": 393587,
+    "error": ""
+  },
+  {
+    "group": "haitian",
+    "url": "https://zhafir.com/",
+    "final": "https://zhafir.com/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "长飞亚塑机 - Zhafir Plastics Machinery",
+    "canonical": "https://zhafir.com/",
+    "bytes": 412346,
+    "error": ""
+  },
+  {
+    "group": "haitian",
+    "url": "https://www.haitian.com/",
+    "final": "https://www.haitian.com/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "海天集团 - Haitian Group",
+    "canonical": "https://www.haitian.com/",
+    "bytes": 238589,
+    "error": ""
+  },
+  {
+    "group": "haitian",
+    "url": "https://haitianjapan.co.jp/",
+    "final": "https://haitianjapan.co.jp/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (6) Could not resolve host: haitianjapan.co.jp"
+  },
+  {
+    "group": "snowman",
+    "url": "https://www.snowman.group/en/product/screw_compressor.html",
+    "final": "https://www.snowman.group/en/product/screw_compressor.html",
+    "status": 200,
+    "lang": "en",
+    "title": "Fujian Snowman Group Co.,ltd.-Screw Compressors",
+    "bytes": 99822,
+    "error": ""
+  },
+  {
+    "group": "snowman",
+    "url": "https://www.snowkey.com/en/service/download.html",
+    "final": "https://www.snowkey.com/en/service/download.html",
+    "status": 200,
+    "lang": "en",
+    "title": "Fujian Snowman Group Co.,ltd.-Download",
+    "bytes": 47181,
+    "error": ""
+  },
+  {
+    "group": "snowman",
+    "url": "https://www.srmtec.it/",
+    "final": "https://www.srmtec.it/",
+    "status": 200,
+    "lang": "it-IT",
+    "title": "SRMTec Compressors | Tecnologie di compressione avanzate",
+    "canonical": "https://www.srmtec.it/",
+    "bytes": 196127,
+    "error": ""
+  },
+  {
+    "group": "snowman",
+    "url": "https://rotor.se/",
+    "final": "https://rotor.se/",
+    "status": 200,
+    "lang": "en-GB",
+    "title": "SRM – A global high tech leader in energy efficiency development",
+    "canonical": "https://rotor.se/",
+    "bytes": 72938,
+    "error": ""
+  },
+  {
+    "group": "snowman",
+    "url": "https://srmtecgroup.com/",
+    "final": "https://srmtecgroup.com/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "SRMTEC Group",
+    "canonical": "https://srmtecgroup.com/",
+    "bytes": 53837,
+    "error": ""
+  },
+  {
+    "group": "snowman",
+    "url": "https://www.refcomp.com/company/",
+    "final": "https://www.refcomp.com/company/",
+    "status": 200,
+    "lang": "it-IT",
+    "title": "Chi Siamo &#8211; Refcomp",
+    "canonical": "https://www.refcomp.com/company/",
+    "bytes": 98926,
+    "error": ""
+  },
+  {
+    "group": "kaishan",
+    "url": "https://www.kaishan-group.com/about.html",
+    "final": "https://www.kaishan-group.com/about.html",
+    "status": 200,
+    "lang": "en",
+    "title": "About us",
+    "bytes": 24147,
+    "error": ""
+  },
+  {
+    "group": "kaishan",
+    "url": "https://www.lmf.at/",
+    "final": "https://www.lmf.at/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "Startseite - LMF.at",
+    "canonical": "https://www.lmf.at/",
+    "bytes": 329815,
+    "error": ""
+  },
+  {
+    "group": "kaishan",
+    "url": "https://www.kaishan.com.au/",
+    "final": "https://www.kaishan.com.au/",
+    "status": 200,
+    "lang": "en-AU",
+    "title": "Air Compressor Supplier Australia | Kaishan Air Compressors",
+    "canonical": "https://www.kaishan.com.au/",
+    "bytes": 634283,
+    "error": ""
+  },
+  {
+    "group": "kaishan",
+    "url": "https://kaishanusa.com/",
+    "final": "https://kaishanusa.com/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "Kaishan USA: Industrial Air Compressors",
+    "canonical": "https://kaishanusa.com/",
+    "bytes": 171278,
+    "error": ""
+  },
+  {
+    "group": "kaishan",
+    "url": "https://kaishaneurope.com/",
+    "final": "https://kaishaneurope.com/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "Kaishan Compressors Europe",
+    "canonical": "https://kaishaneurope.com/",
+    "bytes": 162924,
+    "error": ""
+  },
+  {
+    "group": "kaishan",
+    "url": "https://kaishan.com.pl/",
+    "final": "https://kaishan.com.pl/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (6) Could not resolve host: kaishan.com.pl"
+  },
+  {
+    "group": "kaishan",
+    "url": "https://kaishan.com.br/",
+    "final": "https://kaishan.com.br/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (6) Could not resolve host: kaishan.com.br"
+  },
+  {
+    "group": "kaishan",
+    "url": "https://kaishan.co.id/",
+    "final": "https://kaishan.co.id/",
+    "status": 200,
+    "lang": "en",
+    "title": "One moment, please...",
+    "bytes": 11894,
+    "error": ""
+  },
+  {
+    "group": "noblelift",
+    "url": "https://www.nobleliftgroup.com/en/",
+    "final": "https://www.nobleliftgroup.com/en/",
+    "status": 200,
+    "title": "Home-Noblelift Group",
+    "bytes": 59370,
+    "error": ""
+  },
+  {
+    "group": "noblelift",
+    "url": "https://www.noblelift.fr/",
+    "final": "https://www.noblelift.fr/",
+    "status": 200,
+    "title": "Noblelift France | Chariots élévateurs, nacelles et nettoyage industriel",
+    "bytes": 76191,
+    "error": ""
+  },
+  {
+    "group": "noblelift",
+    "url": "https://www.noblelifteurope.com/",
+    "final": "https://www.noblelifteurope.com/",
+    "status": 200,
+    "lang": "de",
+    "title": "Noblelift Europe GmbH | Hubwagen, Arbeitsb�hnen, Reinigungsger�te, Hebeb�hne & Gabelstapler vom Experten",
+    "canonical": "https://www.noblelifteurope.com/",
+    "bytes": 43118,
+    "error": ""
+  },
+  {
+    "group": "noblelift",
+    "url": "https://sas.ind.br/",
+    "final": "https://sas.ind.br/",
+    "status": 200,
+    "lang": "pt-BR",
+    "title": "Home - SAS - NOBLELIFT",
+    "canonical": "https://sas.ind.br/",
+    "bytes": 423778,
+    "error": ""
+  },
+  {
+    "group": "noblelift",
+    "url": "https://www.noblelift.com.ru/",
+    "final": "https://www.noblelift.com.ru/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (60) SSL: no alternative certificate subject name matches target host name 'www.noblelift.com.ru'"
+  },
+  {
+    "group": "noblelift",
+    "url": "https://www.noblelift.com/",
+    "final": "https://www.noblelift.com/",
+    "status": 200,
+    "title": "NOBLELIFT",
+    "bytes": 33547,
+    "error": ""
+  },
+  {
+    "group": "leo",
+    "url": "https://www.leopump.com/en/",
+    "final": "https://www.leopump.com/en/",
+    "status": 200,
+    "title": "Global-Leading Partner for Smart Fluid Solutions | LEO PUMP",
+    "bytes": 118563,
+    "error": ""
+  },
+  {
+    "group": "leo",
+    "url": "https://leopump.eu/",
+    "final": "https://leopump.eu/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)"
+  },
+  {
+    "group": "leo",
+    "url": "https://www.leo.co.th/",
+    "final": "https://www.leo.co.th/",
+    "status": 200,
+    "lang": "th",
+    "title": "Leo Pump Thailand",
+    "canonical": "https://www.leo.co.th",
+    "bytes": 1134915,
+    "error": ""
+  },
+  {
+    "group": "leo",
+    "url": "https://en.leo.co.th/about",
+    "final": "https://en.leo.co.th/about",
+    "status": 200,
+    "lang": "en",
+    "title": "เกี่ยวกับ | Leo Pump Thailand",
+    "canonical": "https://en.leo.co.th/about",
+    "bytes": 767829,
+    "error": ""
+  },
+  {
+    "group": "leo",
+    "url": "https://leopump.ru/",
+    "final": "https://leopump.ru/",
+    "status": 200,
+    "lang": "ru",
+    "title": "LEO-PUMP",
+    "bytes": 36363,
+    "error": ""
+  },
+  {
+    "group": "leo",
+    "url": "https://leoglobal.com/about",
+    "final": "https://leoglobal.com/about",
+    "status": 200,
+    "lang": "en",
+    "title": "利欧集团 - 关于我们",
+    "bytes": 24446,
+    "error": ""
+  },
+  {
+    "group": "leo",
+    "url": "https://leopumps.co.id/",
+    "final": "https://leopumps.co.id/",
+    "status": 200,
+    "lang": "en",
+    "title": "PT LEO PUMP INDONESIA | perusahaan teknologi tinggi nasional yang bergerak di bidang riset dan pengembangan, desain, manufaktur, p",
+    "bytes": 54357,
+    "error": ""
+  },
+  {
+    "group": "fuyao",
+    "url": "https://www.fuyaogroup.com/en/about.html",
+    "final": "https://www.fuyaogroup.com/en/about.html",
+    "status": 200,
+    "title": "Company Profile_Fuyao Group",
+    "bytes": 37057,
+    "error": ""
+  },
+  {
+    "group": "fuyao",
+    "url": "https://www.fuyaogroup.hu/",
+    "final": "https://www.fuyaogroup.hu/",
+    "status": 200,
+    "lang": "en",
+    "title": "Főoldal - Fuyao",
+    "bytes": 45522,
+    "error": ""
+  },
+  {
+    "group": "fuyao",
+    "url": "https://www.fuyaogroup.eu/unternehmen/",
+    "final": "https://www.fuyaogroup.eu/unternehmen/",
+    "status": 200,
+    "lang": "de",
+    "title": "Unternehmen &#8211; FUYAO EUROPE",
+    "canonical": "https://www.fuyaogroup.eu/unternehmen/",
+    "bytes": 214137,
+    "error": ""
+  },
+  {
+    "group": "fuyao",
+    "url": "https://www.fygi.com/en/category/about.html",
+    "final": "https://www.fygi.com/en/category/about.html",
+    "status": 200,
+    "lang": "en",
+    "title": "About Fuyao - Fuyao Automotive Replacement Glass",
+    "bytes": 72232,
+    "error": ""
+  },
+  {
+    "group": "fuyao",
+    "url": "https://fuyaousa.com/",
+    "final": "https://fuyaousa.com/",
+    "status": 200,
+    "lang": "en-US",
+    "title": "Fuyao Glass America | We are the top manufacturing and distribution centers in America.",
+    "canonical": "https://fuyaousa.com/",
+    "bytes": 88396,
+    "error": ""
+  },
+  {
+    "group": "fuyao",
+    "url": "https://fysam.de/",
+    "final": "https://fysam.de/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (35) LibreSSL/3.3.6: error:1404B458:SSL routines:ST_CONNECT:tlsv1 unrecognized name"
+  },
+  {
+    "group": "hengli",
+    "url": "https://www.henglihydraulics.com/en/",
+    "final": "https://www.henglihydraulics.com/en/",
+    "status": 200,
+    "lang": "zh-cn",
+    "title": "Hengli Hydraulic",
+    "bytes": 93823,
+    "error": ""
+  },
+  {
+    "group": "hengli",
+    "url": "https://www.hengliemc.com/col14/",
+    "final": "https://www.hengliemc.com/col14/",
+    "status": 403,
+    "title": "Non-compliance ICP Filing",
+    "bytes": 640,
+    "error": ""
+  },
+  {
+    "group": "hengli",
+    "url": "https://www.inlinehydraulik.com/",
+    "final": "https://www.inlinehydraulik.com/de/home-d/",
+    "status": 200,
+    "lang": "de",
+    "title": "Axialkolbenpumpen - Inline Hydraulik GmbH",
+    "canonical": "https://www.inlinehydraulik.com/de/home-d/",
+    "bytes": 203978,
+    "error": ""
+  },
+  {
+    "group": "hengli",
+    "url": "https://www.inlinehydraulik.de/",
+    "final": "https://www.inlinehydraulik.de/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (35) LibreSSL/3.3.6: error:1404B438:SSL routines:ST_CONNECT:tlsv1 alert internal error"
+  },
+  {
+    "group": "hengli",
+    "url": "https://hengli.co.jp/",
+    "final": "https://hengli.co.jp/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (6) Could not resolve host: hengli.co.jp"
+  },
+  {
+    "group": "hengli",
+    "url": "https://henglihydraulics.co.jp/",
+    "final": "https://henglihydraulics.co.jp/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (6) Could not resolve host: henglihydraulics.co.jp"
+  },
+  {
+    "group": "hengli",
+    "url": "https://henglihydraulics.com.br/",
+    "final": "https://henglihydraulics.com.br/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (6) Could not resolve host: henglihydraulics.com.br"
+  },
+  {
+    "group": "hengli",
+    "url": "https://www.henglihydraulic.com.br/",
+    "final": "https://www.henglihydraulic.com.br/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (6) Could not resolve host: www.henglihydraulic.com.br"
+  },
+  {
+    "group": "chint",
+    "url": "https://noark-electric.pl/pl",
+    "final": "https://noark-electric.pl/pl",
+    "status": 200,
+    "lang": "pl",
+    "title": "Noark",
+    "bytes": 118851,
+    "error": ""
+  },
+  {
+    "group": "chint",
+    "url": "https://noark-electric.cz/cz",
+    "final": "https://noark-electric.cz/cz",
+    "status": 200,
+    "lang": "cz",
+    "title": "Noark",
+    "bytes": 122592,
+    "error": ""
+  },
+  {
+    "group": "chint",
+    "url": "https://noark-electric.ro/ro",
+    "final": "https://noark-electric.ro/ro",
+    "status": 200,
+    "lang": "ro",
+    "title": "Noark",
+    "bytes": 121046,
+    "error": ""
+  },
+  {
+    "group": "chint",
+    "url": "https://noark-electric.sk/sk",
+    "final": "https://noark-electric.sk/sk",
+    "status": 200,
+    "lang": "sk",
+    "title": "Noark",
+    "bytes": 125794,
+    "error": ""
+  },
+  {
+    "group": "chint",
+    "url": "https://noark-electric.hu/hu",
+    "final": "https://noark-electric.hu/hu",
+    "status": 200,
+    "lang": "hu",
+    "title": "Noark",
+    "bytes": 119288,
+    "error": ""
+  },
+  {
+    "group": "chint",
+    "url": "https://noark-electric.hr/hr",
+    "final": "https://noark-electric.hr/hr",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (60) SSL certificate problem: self signed certificate"
+  },
+  {
+    "group": "chint",
+    "url": "https://noark-electric.de/de",
+    "final": "https://noark-electric.de/de",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (60) SSL: no alternative certificate subject name matches target host name 'noark-electric.de'"
+  },
+  {
+    "group": "opple",
+    "url": "https://www.opple.com/en/",
+    "final": "https://www.opple.com/en",
+    "status": 200,
+    "lang": "en",
+    "title": "OPPLE Lighting Global",
+    "canonical": "https://www.opple.com/en/node",
+    "bytes": 35973,
+    "error": ""
+  },
+  {
+    "group": "opple",
+    "url": "https://www.opple.eu/",
+    "final": "https://www.opple.eu/en",
+    "status": 200,
+    "lang": "en",
+    "title": "Homepage | OPPLE Lighting",
+    "canonical": "https://www.opple.eu/en",
+    "bytes": 90352,
+    "error": ""
+  },
+  {
+    "group": "opple",
+    "url": "https://opple.co.in/en",
+    "final": "https://opple.co.in/en",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (60) SSL certificate problem: unable to get local issuer certificate"
+  },
+  {
+    "group": "opple",
+    "url": "https://www.opple.com.cn/",
+    "final": "https://www.opple.com.cn/",
+    "status": 200,
+    "lang": "en",
+    "title": "欧普家居照明-商用照明-吸顶灯-浴霸推荐-风扇灯-欧普照明官网",
+    "bytes": 132991,
+    "error": ""
+  },
+  {
+    "group": "opple",
+    "url": "https://www.opple.de/de",
+    "final": "https://www.opple.de/de",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (35) LibreSSL/3.3.6: error:1404B438:SSL routines:ST_CONNECT:tlsv1 alert internal error"
+  },
+  {
+    "group": "opple",
+    "url": "https://www.opple.pt/pt",
+    "final": "https://www.opple.pt/pt",
+    "status": 404,
+    "lang": "pt-pt",
+    "title": "404 | OPPLE Lighting",
+    "canonical": "https://www.opple.pt/pt-pt/404",
+    "bytes": 77433,
+    "error": ""
+  },
+  {
+    "group": "opple",
+    "url": "https://www.opple.es/es",
+    "final": "https://www.opple.es/es",
+    "status": 200,
+    "lang": "es",
+    "title": "Homepage | OPPLE Lighting",
+    "canonical": "https://www.opple.es/es",
+    "bytes": 93628,
+    "error": ""
+  },
+  {
+    "group": "opple",
+    "url": "https://www.opple.fr/fr",
+    "final": "https://www.opple.fr/fr",
+    "status": 200,
+    "lang": "fr",
+    "title": "Homepage | OPPLE Lighting",
+    "canonical": "https://www.opple.fr/fr",
+    "bytes": 93684,
+    "error": ""
+  },
+  {
+    "group": "opple",
+    "url": "https://opple.cl/es",
+    "final": "https://opple.cl/es",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (6) Could not resolve host: opple.cl"
+  },
+  {
+    "group": "goldwind",
+    "url": "https://www.goldwind.com/en/about/",
+    "final": "https://www.goldwind.com/en/about/",
+    "status": 200,
+    "lang": "en",
+    "title": "Leading global provider of wind power solutions | GOLDWIND",
+    "bytes": 56256,
+    "error": ""
+  },
+  {
+    "group": "goldwind",
+    "url": "https://www.goldwindamericas.com/",
+    "final": "https://www.goldwindamericas.com/",
+    "status": 200,
+    "title": "Goldwind |",
+    "bytes": 28534,
+    "error": ""
+  },
+  {
+    "group": "goldwind",
+    "url": "https://www.vensys.de/",
+    "final": "https://www.vensys.de/",
+    "status": 200,
+    "lang": "de",
+    "title": "Home",
+    "canonical": "https://www.vensys.de/",
+    "bytes": 76482,
+    "error": ""
+  },
+  {
+    "group": "goldwind",
+    "url": "https://goldwind.com.br/",
+    "final": "https://goldwind.com.br/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (6) Could not resolve host: goldwind.com.br"
+  },
+  {
+    "group": "goldwind",
+    "url": "https://www.goldwindaustralia.com.au/",
+    "final": "https://www.goldwindaustralia.com.au/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (35) LibreSSL/3.3.6: error:1404B438:SSL routines:ST_CONNECT:tlsv1 alert internal error"
+  },
+  {
+    "group": "zte",
+    "url": "https://www.zte.com.cn/global/",
+    "final": "https://www.zte.com.cn/global/",
+    "status": 200,
+    "lang": "en",
+    "title": "ZTE - ZTE Offical Website | Leading 5G Innovations The world&#39;s leading communications service provider",
+    "bytes": 146988,
+    "error": ""
+  },
+  {
+    "group": "zte",
+    "url": "https://netas.com.tr/",
+    "final": "https://netas.com.tr/",
+    "status": 200,
+    "lang": "tr-TR",
+    "title": "NETAŞ - Bilgi ve İletişim Teknolojileri",
+    "canonical": "https://netas.com.tr/",
+    "bytes": 294474,
+    "error": ""
+  },
+  {
+    "group": "zte",
+    "url": "https://www.zte.co.jp/",
+    "final": "https://www.zte.co.jp/",
+    "status": 0,
+    "bytes": 0,
+    "error": "curl: (60) SSL: no alternative certificate subject name matches target host name 'www.zte.co.jp'"
+  },
+  {
+    "group": "zte",
+    "url": "https://www.zte.de/",
+    "final": "https://zte.de/",
+    "status": 200,
+    "bytes": 171,
+    "error": ""
+  }
+]

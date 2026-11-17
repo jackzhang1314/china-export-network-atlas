@@ -1,0 +1,113 @@
+{
+  "checked_at": "2026-11-14T17:35:44+08:00",
+  "pages": 54,
+  "outline_entries": 54,
+  "figures": 7,
+  "external_link_annotations": 1835,
+  "unique_external_uris": 1703,
+  "toc_target_pages": [
+    3,
+    6,
+    7,
+    8,
+    9,
+    11
+  ],
+  "case_records": 125,
+  "groups": {
+    "主案例": 2,
+    "中国制造": 21,
+    "工业与 B2B": 71,
+    "跨行业与架构参照": 31
+  },
+  "case_number_name_map_preserved": true,
+  "all_case_urls_and_sources_preserved": true,
+  "reader_review_snapshot_unchanged": true,
+  "sany_and_packaging_tables_byte_identical": true,
+  "previous_48_page_snapshot_unchanged": true,
+  "main_argument_pages": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "recorded_site_urls": 1552,
+  "all_expected_clickable_urls": 1696,
+  "missing_clickable_urls": [],
+  "missing_original_source_urls": [],
+  "missing_urls_on_own_case_page": [],
+  "previous_pdf_links_missing": [],
+  "adverse_status_hidden": [],
+  "prior_public_70_page_pdf_unchanged": true,
+  "intermediate_45_page_snapshot_unchanged": true,
+  "narrative_evidence_links_present": [
+    "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites",
+    "https://www.bluerank.com/wp-content/uploads/2021/05/Mascus-International_Bluerank_ESA2019_case-study_ENG_1.pdf",
+    "https://www.europapress.es/economia/noticia-comunicado-onlineprinters-gmbh-abre-tienda-virtual-espana-20110727102414.html",
+    "https://www.inspiradigitalagency.com/case-studies/dextra-group/",
+    "https://www.pressetext.com/news/na-20110302010.html"
+  ],
+  "solution_explanation_pages": [
+    9,
+    10
+  ],
+  "wordpress_mention_pages": [
+    1,
+    2,
+    8,
+    9,
+    10
+  ],
+  "tutorial_material_excluded": true,
+  "information_section_and_production_dates_removed": true,
+  "missing_names": [],
+  "missing_codes": [],
+  "missing_domains": [],
+  "packaging_core_domains": 47,
+  "sany_core_domains": 25,
+  "fonts_checked": [
+    "ArialMT",
+    "OPPOSans-H",
+    "OPPOSans-R"
+  ],
+  "missing_glyphs": [],
+  "outside_page_safe_bounds": [],
+  "private_or_unrendered_text": [],
+  "malformed_uri_annotations": [],
+  "csv_shapes": {
+    "02_三一101对象分类表.csv": {
+      "data_rows": 101,
+      "columns": 8
+    },
+    "03_包装60对象分类表.csv": {
+      "data_rows": 60,
+      "columns": 7
+    },
+    "01_125组案例总表.csv": {
+      "data_rows": 125,
+      "columns": 12
+    },
+    "04_企业站群完整链接表.csv": {
+      "data_rows": 1552,
+      "columns": 6
+    }
+  },
+  "zip_members": [
+    "01_125组案例总表.csv",
+    "02_三一101对象分类表.csv",
+    "03_包装60对象分类表.csv",
+    "04_企业站群完整链接表.csv",
+    "AI外贸独立国家域名站群_125组案例与方案解读.pdf",
+    "先读我.txt"
+  ],
+  "zip_bad_member": null,
+  "zip_contains_identical_pdf": true,
+  "previous_version_unchanged": true,
+  "bytes": 830471,
+  "sha256": "0a3ca00ea11561042c1cdcff81a8f225f2ae671bc86cbecaf6206d3f440b5b75",
+  "scope": "Text, glyph coverage, page bounds, links, catalog coverage and archive integrity checked. External sites were not all revisited; no Skill or website deployment was tested. Visual inspection is recorded separately."
+}

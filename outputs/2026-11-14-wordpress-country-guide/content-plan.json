@@ -1,0 +1,109 @@
+{
+  "revision": "八页核心论证与完整企业链接附录",
+  "updated_at": "2026-11-14T17:37:36+08:00",
+  "user_objective": "让外贸工厂、小型外贸公司与SOHO理解：多语言本地域名获客已有长期企业实践及项目结果；过去投入高，AI与WordPress Builder Harness + Codex减少重复制作负担，使小团队更有条件采用。",
+  "narrative": [
+    "已有长期企业实践",
+    "可打开的企业布局与已披露结果",
+    "当地语言、产品内容、国家域名的作用",
+    "过去的持续投入",
+    "AI减少重复制作",
+    "WordPress方案与适用读者",
+    "按企业查阅完整网址"
+  ],
+  "previous_delivered_pages": 48,
+  "intermediate_pages": [
+    52
+  ],
+  "current_pages": 54,
+  "current_figures": 7,
+  "authored_sections": 9,
+  "case_count": 125,
+  "key_pages": {
+    "history": 3,
+    "representative_cases": 4,
+    "results": 5,
+    "seo_mechanism": 6,
+    "old_cost": 7,
+    "ai_economics": 8,
+    "wordpress_solution": [
+      9,
+      10
+    ],
+    "appendix_start": 11,
+    "sany_core_domains": [
+      12,
+      13
+    ],
+    "packaging_core_domains": [
+      14,
+      15
+    ],
+    "all_enterprise_links": [
+      16,
+      54
+    ]
+  },
+  "removed_sections": [
+    "action",
+    "ai_quality",
+    "budget",
+    "choose",
+    "content_links",
+    "domain_ops",
+    "glossary_search",
+    "language_seo",
+    "launch",
+    "mainplan",
+    "maintain",
+    "materials",
+    "measure",
+    "operations",
+    "page_structure",
+    "pages",
+    "prompts_1",
+    "query_intent",
+    "resources",
+    "route_choice",
+    "search_snippet",
+    "search_steps",
+    "static",
+    "trust_links",
+    "wp_country",
+    "wp_editor",
+    "wp_team",
+    "methods"
+  ],
+  "removed_public_material": [
+    "WordPress建站操作",
+    "后台修改与更新步骤",
+    "提示词",
+    "上线验收与填写工作表",
+    "资料说明页",
+    "资料整理与制作日期说明"
+  ],
+  "preserved": "125组案例编号与名称；原案例总表全部代表网址与来源；旧48页PDF全部607个外链目标；三一25根域、包装47根域；三一101与包装60对象表逐字节不变。",
+  "public_package": "PDF + 4 CSV research tables + readme; 6 files",
+  "course_invitations": 1,
+  "scope_limit": "研究与方案介绍；项目指标按发布方原文，未独立审计第三方后台；未测试全部建站运行能力或读者转化。",
+  "status": "已完成并验证",
+  "completed_at": "2026-11-14T17:37:36+08:00",
+  "pdf_sha256": "0a3ca00ea11561042c1cdcff81a8f225f2ae671bc86cbecaf6206d3f440b5b75",
+  "main_argument_pages": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "link_inventory": {
+    "site_address_records": 1552,
+    "expected_site_and_source_uris": 1696,
+    "actual_unique_pdf_uris": 1703,
+    "all_present_on_own_case_page": true,
+    "status_labels_preserved": true
+  }
+}

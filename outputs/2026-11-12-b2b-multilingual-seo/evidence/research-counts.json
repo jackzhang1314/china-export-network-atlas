@@ -1,0 +1,18 @@
+{
+  "groups": 73,
+  "categories": {
+    "A": 10,
+    "B": 41,
+    "C": 12,
+    "D": 10
+  },
+  "current_country_domain_groups": 51,
+  "current_country_domain_examples": 253,
+  "current_examples_with_page_evidence": 253,
+  "direct_probe_candidates": 450,
+  "direct_probe_groups": 61,
+  "direct_probe_followup_pages": 30,
+  "domain_csv_rows": 529,
+  "search_queries": 85,
+  "research_batches": 53
+}

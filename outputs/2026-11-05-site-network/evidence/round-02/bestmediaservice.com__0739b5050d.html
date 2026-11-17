@@ -1,0 +1,191 @@
+// ===== MOBILE NAVIGATION =====
+const hamburger = document.querySelector('.hamburger');
+const navLinks = document.querySelector('.nav-links');
+const mobileOverlay = document.querySelector('.mobile-overlay');
+
+function closeMobileNav() {
+  hamburger.classList.remove('active');
+  navLinks.classList.remove('active');
+  if (mobileOverlay) mobileOverlay.classList.remove('active');
+  document.body.style.overflow = '';
+}
+
+if (hamburger) {
+  hamburger.addEventListener('click', () => {
+    const isActive = hamburger.classList.contains('active');
+    if (isActive) {
+      closeMobileNav();
+    } else {
+      hamburger.classList.add('active');
+      navLinks.classList.add('active');
+      if (mobileOverlay) mobileOverlay.classList.add('active');
+      document.body.style.overflow = 'hidden';
+    }
+  });
+
+  if (mobileOverlay) {
+    mobileOverlay.addEventListener('click', closeMobileNav);
+  }
+
+  document.querySelectorAll('.nav-links a').forEach(link => {
+    link.addEventListener('click', closeMobileNav);
+  });
+}
+
+// ===== QUOTE MODAL =====
+const quoteBtns = document.querySelectorAll('[data-quote]');
+const quoteModal = document.getElementById('quoteModal');
+const modalClose = document.querySelector('.modal-close');
+const modalOverlay = document.querySelector('.modal-overlay');
+
+quoteBtns.forEach(btn => {
+  btn.addEventListener('click', (e) => {
+    e.preventDefault();
+    quoteModal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  });
+});
+
+function closeQuoteModal() {
+  quoteModal.classList.remove('active');
+  document.body.style.overflow = '';
+  const successEl = document.querySelector('.modal-success');
+  const formEl = document.querySelector('#quoteForm');
+  if (successEl) successEl.style.display = 'none';
+  if (formEl) {
+    formEl.style.display = 'block';
+    formEl.reset();
+  }
+}
+
+if (modalClose) modalClose.addEventListener('click', closeQuoteModal);
+if (modalOverlay) {
+  modalOverlay.addEventListener('click', (e) => {
+    if (e.target === modalOverlay) closeQuoteModal();
+  });
+}
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && quoteModal && quoteModal.classList.contains('active')) {
+    closeQuoteModal();
+  }
+});
+
+// ===== SCROLL TO TOP =====
+const scrollTopBtn = document.querySelector('.scroll-top');
+
+if (scrollTopBtn) {
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 400) {
+      scrollTopBtn.classList.add('visible');
+    } else {
+      scrollTopBtn.classList.remove('visible');
+    }
+  });
+
+  scrollTopBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+}
+
+// ===== HEADER SCROLL EFFECT =====
+const header = document.querySelector('.header');
+if (header) {
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 50) {
+      header.style.boxShadow = '0 4px 20px rgba(0,0,0,0.12)';
+    } else {
+      header.style.boxShadow = '0 2px 15px rgba(0,0,0,0.08)';
+    }
+  });
+}
+
+// ===== FORM SUBMISSION VIA AJAX =====
+function handleFormSubmit(formId, successMsg) {
+  const form = document.getElementById(formId);
+  if (!form) return;
+
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    const formData = new FormData(this);
+    const submitBtn = this.querySelector('button[type="submit"]');
+    const originalText = submitBtn.textContent;
+
+    submitBtn.textContent = 'Sending...';
+    submitBtn.disabled = true;
+
+    fetch('/send_mail', {
+      method: 'POST',
+      body: formData
+    })
+    .then(response => response.json())
+    .then(data => {
+      if (data.success) {
+        if (formId === 'quoteForm') {
+          document.querySelector('#quoteForm').style.display = 'none';
+          document.querySelector('.modal-success').style.display = 'block';
+        } else {
+          form.reset();
+          showToast(successMsg || 'Message sent successfully!', 'success');
+        }
+      } else {
+        showToast(data.message || 'Something went wrong. Please try again.', 'error');
+      }
+    })
+    .catch(() => {
+      showToast('Network error. Please try again.', 'error');
+    })
+    .finally(() => {
+      submitBtn.textContent = originalText;
+      submitBtn.disabled = false;
+    });
+  });
+}
+
+handleFormSubmit('quoteForm');
+handleFormSubmit('contactForm', 'Your message has been sent! We will get back to you soon.');
+
+// ===== TOAST NOTIFICATION =====
+function showToast(message, type) {
+  const existing = document.querySelector('.toast');
+  if (existing) existing.remove();
+
+  const toast = document.createElement('div');
+  toast.className = 'toast toast-' + type;
+  toast.innerHTML = '<span>' + message + '</span>';
+  toast.style.cssText = 'position:fixed;bottom:30px;left:50%;transform:translateX(-50%);padding:14px 28px;border-radius:8px;color:#fff;font-weight:500;z-index:99999;animation:toastIn 0.3s ease;font-size:0.95rem;max-width:90%;text-align:center;' +
+    (type === 'success' ? 'background:#28a745;' : 'background:#dc3545;');
+
+  document.body.appendChild(toast);
+
+  setTimeout(() => {
+    toast.style.opacity = '0';
+    toast.style.transition = 'opacity 0.3s ease';
+    setTimeout(() => toast.remove(), 300);
+  }, 4000);
+}
+
+// ===== COUNTER ANIMATION =====
+function animateCounters() {
+  const counters = document.querySelectorAll('.hero-stat h3');
+  counters.forEach(counter => {
+    const text = counter.textContent;
+    const match = text.match(/\d+/);
+    if (!match) return;
+    const target = parseInt(match[0]);
+    const suffix = text.replace(/\d+/, '');
+    let current = 0;
+    const increment = target / 60;
+    const timer = setInterval(() => {
+      current += increment;
+      if (current >= target) {
+        clearInterval(timer);
+        counter.textContent = text;
+      } else {
+        counter.textContent = Math.floor(current) + suffix;
+      }
+    }, 30);
+  });
+}
+
+window.addEventListener('load', animateCounters);

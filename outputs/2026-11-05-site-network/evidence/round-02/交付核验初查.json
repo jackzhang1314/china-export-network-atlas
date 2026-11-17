@@ -1,0 +1,580 @@
+{
+  "checks": [
+    [
+      "核心47个，根域名唯一",
+      true
+    ],
+    [
+      "保留全部原始19个",
+      true
+    ],
+    [
+      "累计新增28个",
+      true
+    ],
+    [
+      "地区数量16/18/13",
+      true
+    ],
+    [
+      "当前核心43个联系映射",
+      true
+    ],
+    [
+      "当前核心43个同客服账号",
+      true
+    ],
+    [
+      "历史1个与核心分开",
+      true
+    ],
+    [
+      "核心、历史、候选名单互斥",
+      true
+    ],
+    [
+      "B2/C5/未纳入5",
+      true
+    ],
+    [
+      "表单邮箱匹配 astickerprinting.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 astickerprinting.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 astickerprinting.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 bespokeboxesco.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 bespokeboxesco.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 bespokeboxesco.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 customboxesco.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 customboxesco.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 customboxesco.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 customboxesshop.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 customboxesshop.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 customboxesshop.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 customcardboardboxesco.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 customcardboardboxesco.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 customcardboardboxesco.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 custompackagingboxesco.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 custompackagingboxesco.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 custompackagingboxesco.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 custompaperbagsco.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 custompaperbagsco.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 custompaperbagsco.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 customstickers.us",
+      true
+    ],
+    [
+      "表单邮箱匹配 hangtagsco.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 labelprintingco.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 labelprintingco.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 labelprintingco.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 packagingboxesco.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 packagingboxesco.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 packagingboxesco.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 printinggood.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 rigidboxesco.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 rigidboxesco.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 rigidboxesco.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 rollstickersco.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 rollstickersco.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 smallcustomboxes.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 smallcustomboxes.com",
+      true
+    ],
+    [
+      "表单邮箱匹配 smallcustomboxes.com.au",
+      true
+    ],
+    [
+      "表单邮箱匹配 stickerprinting.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 stickersprinting.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 stickersprinting.us",
+      true
+    ],
+    [
+      "表单邮箱匹配 swingtagsco.co.uk",
+      true
+    ],
+    [
+      "表单邮箱匹配 swingtagsco.com.au",
+      true
+    ],
+    [
+      "历史站中央映射邮箱匹配",
+      true
+    ],
+    [
+      "当前官网同号 bestmediaservice.com__a56b11daf2.txt",
+      true
+    ],
+    [
+      "当前官网同号 smallcustomboxes.com__follow_8d48009d69.txt",
+      true
+    ],
+    [
+      "历史官网配置 588f544d46ba8058582eccc2",
+      true
+    ],
+    [
+      "历史官网配置 provenexpert.com/pdt-r-us/",
+      true
+    ],
+    [
+      "历史官网配置 wcode=CPCOMAU",
+      true
+    ],
+    [
+      "历史官网配置 bmsgl.typeform.com",
+      true
+    ],
+    [
+      "历史官网配置 61285203915",
+      true
+    ],
+    [
+      "保留luxury实时不同IP证据",
+      true
+    ],
+    [
+      "站群域名与逐站证据.csv数量",
+      true
+    ],
+    [
+      "站群域名与逐站证据.csv域名唯一",
+      true
+    ],
+    [
+      "历史关联域名与证据.csv数量",
+      true
+    ],
+    [
+      "历史关联域名与证据.csv域名唯一",
+      true
+    ],
+    [
+      "疑似关联与未纳入域名.csv数量",
+      true
+    ],
+    [
+      "疑似关联与未纳入域名.csv域名唯一",
+      true
+    ],
+    [
+      "全部核验对象总表.csv数量",
+      true
+    ],
+    [
+      "全部核验对象总表.csv域名唯一",
+      true
+    ],
+    [
+      "本轮变更清单.csv数量",
+      true
+    ],
+    [
+      "本轮变更清单.csv域名唯一",
+      true
+    ],
+    [
+      "第二轮重点域名逐条证据.csv数量",
+      true
+    ],
+    [
+      "已核验核心域名.txt数量",
+      true
+    ],
+    [
+      "原始清单之外新增域名.txt数量",
+      true
+    ],
+    [
+      "已确认历史关联域名.txt数量",
+      true
+    ],
+    [
+      "已核验46个域名.txt数量",
+      true
+    ],
+    [
+      "新增27个域名.txt数量",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/bestmediaservice.com__a56b11daf2.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/smallcustomboxes.com__follow_8d48009d69.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/priority-passive-metadata.json",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/bestmediaservice.com__0739b5050d.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/archive__d9d4c32be790.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/archive__7a0a6a0ef1b3.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/archive__7a0a6a0ef1b3.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/archive__7a0a6a0ef1b3.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/designmediaservice.com__follow_2c09cce8a5.txt",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/cosmeticpackagingco.com.au__328d7d6e53.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/cosmeticpackagingco.com.au__follow_6efae24946.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/cosmeticpackagingco.com.au__follow_d8310c044c.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/packagingdaddy.com__bf2815ed3f.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/packagingdaddy.com__0b191d95ac.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/packagingdaddy.com__follow_05e3e9bed2.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/公开搜索工作日志.json",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/extended-brand-pages.json",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/archive__69ac31053875.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/priority-passive-metadata.json",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/packagingdaddy.com__71d67d13ac.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/dayancopack.com__28ba7ee248.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/dayancopack.com__0a10fdfc2b.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/dayancopack.com__check_cb45191b4e.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/公开搜索工作日志.json",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/dayancopack.com__02b7aa6c15.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/customboxes.co.uk__e7bb2efa58.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/priority-passive-metadata.json",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/priority-passive-metadata.json",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/luxuryboxesco.com__49002cbd50.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/reverse-ip-refresh.json",
+      true
+    ],
+    [
+      "逐条证据文件存在 custompackagingboxesco.co.uk__reverse_home.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 customcardboardboxesco.co.uk__candidate_home.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 packagingboxesco.com.au__candidate_home.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/customboxes.pk__check_cd4d7eb17d.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/archive__d9d4c32be790.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/archive__e761c4ceeb1b.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/archive__e88492c1a995.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/bestmediaservices.com__extended_c8a7a29887.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/blog.bestmediaservices.com__extended_0728383b87.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/archive__d9d4c32be790.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/extended-brand-pages.json",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/propopcornboxes.co.uk__check_f651a77859.html",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/customstickers.com.au__hypothesis.txt",
+      true
+    ],
+    [
+      "逐条证据文件存在 round-02/stickerprinting.com.au__hypothesis.txt",
+      true
+    ],
+    [
+      "报告本地链接 ./原始清单之外新增域名.txt",
+      true
+    ],
+    [
+      "报告本地链接 ./站群域名与逐站证据.csv",
+      true
+    ],
+    [
+      "报告本地链接 ./本轮变更清单.csv",
+      true
+    ],
+    [
+      "报告本地链接 ./第二轮重点域名逐条证据.csv",
+      true
+    ],
+    [
+      "报告本地链接 ./站群域名与逐站证据.csv",
+      true
+    ],
+    [
+      "报告本地链接 ./已核验核心域名.txt",
+      true
+    ],
+    [
+      "报告本地链接 ./原始清单之外新增域名.txt",
+      true
+    ],
+    [
+      "报告本地链接 ./历史关联域名与证据.csv",
+      true
+    ],
+    [
+      "报告本地链接 ./疑似关联与未纳入域名.csv",
+      true
+    ],
+    [
+      "报告本地链接 ./本轮变更清单.csv",
+      true
+    ],
+    [
+      "报告本地链接 ./第二轮重点域名逐条证据.csv",
+      true
+    ],
+    [
+      "报告本地链接 ./全部核验对象总表.csv",
+      true
+    ],
+    [
+      "报告本地链接 ./research-summary.json",
+      true
+    ],
+    [
+      "报告本地链接 ./research-method-and-limits.json",
+      true
+    ],
+    [
+      "报告本地链接 ./evidence/round-02/",
+      true
+    ],
+    [
+      "报告本地链接 ./snapshots/round-01-2034/",
+      true
+    ],
+    [
+      "报告逐站表含第47项",
+      true
+    ],
+    [
+      "复数品牌存档日期为实际成功时点",
+      true
+    ],
+    [
+      "第一轮证据SHA256原样保留",
+      true
+    ],
+    [
+      "所有根目录结构化JSON可解析",
+      true
+    ],
+    [
+      "四份CT接口502原始HTML为已记录例外",
+      true
+    ]
+  ],
+  "errors": [],
+  "raw_json_extension_errors": [
+    "ct__printinggood.json",
+    "ct__cosmeticpackagingco.json",
+    "ct__pdtrus.json",
+    "ct__bestmediaservice.json"
+  ],
+  "old_evidence_hashes_verified": 382
+}

@@ -1,0 +1,108 @@
+[
+  {
+    "requested_url": "https://customboxes.pk/contact-us",
+    "observed_at": "2026-11-05T23:43:46.863113+08:00",
+    "status": 200,
+    "final_url": "https://customboxes.pk/contact-us",
+    "file": "customboxes.pk__check_cd4d7eb17d.html",
+    "title": "Contact Us | Custom Boxes and Packaging Manufacturer in Pakistan",
+    "tawk": [],
+    "phones": [
+      "tel:03111126937",
+      "wa.me/923111126937"
+    ],
+    "forms": [
+      "https://customboxes.pk/search",
+      "https://customboxes.pk/search",
+      "",
+      "https://maps.google.com/maps?width=100%25&height=600&hl=en&q=31.480100° N,74.325101° E&t=&z=17&ie=UTF8&iwloc=B&output=embed",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.424203267376!2d-121.9961869846896!3d37.52149647980641!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbf55744e5251%3A0xae6258185c57ee1b!2s39899%20Balentine%20Dr%20%23200%2C%20Newark%2C%20CA%2094560%2C%20USA!5e0!3m2!1sen!2s!4v1628022853779!5m2!1sen!2s",
+      "https://maps.google.com/maps?width=100%25&height=600&hl=en&q=31.480100° N,74.325101° E&t=&z=17&ie=UTF8&iwloc=B&output=embed"
+    ],
+    "text_file": "customboxes.pk__check_cd4d7eb17d.txt",
+    "text_length": 2071,
+    "fingerprint_lines": [
+      "03111126937",
+      "Office Hours:",
+      "Phone",
+      "03111126937",
+      "Email",
+      "Your Email (Required)",
+      "Our Offices",
+      "Pakistan Office",
+      "Model Town, Lahore.",
+      "USA Office",
+      "200 Newark 94560,",
+      "Model Town, Lahore.",
+      "03111126937"
+    ]
+  },
+  {
+    "requested_url": "https://customboxes.pk/about-us",
+    "observed_at": "2026-11-05T23:43:46.863600+08:00",
+    "status": 200,
+    "final_url": "https://customboxes.pk/about-us",
+    "file": "customboxes.pk__check_67af327c86.html",
+    "title": "Custom Boxes and Packaging Manufacturer in Pakistan",
+    "tawk": [],
+    "phones": [
+      "tel:03111126937",
+      "wa.me/923111126937"
+    ],
+    "forms": [
+      "https://customboxes.pk/search",
+      "https://customboxes.pk/search",
+      "https://customboxes.pk/blog",
+      "https://abioproperties.com",
+      "https://maps.google.com/maps?width=100%25&height=600&hl=en&q=31.480100° N,74.325101° E&t=&z=17&ie=UTF8&iwloc=B&output=embed"
+    ],
+    "text_file": "customboxes.pk__check_67af327c86.txt",
+    "text_length": 4793,
+    "fingerprint_lines": [
+      "03111126937",
+      "Model Town, Lahore.",
+      "03111126937"
+    ]
+  },
+  {
+    "requested_url": "https://www.dayancopack.com/js/hook.js",
+    "observed_at": "2026-11-05T23:43:46.863518+08:00",
+    "status": 200,
+    "final_url": "https://www.dayancopack.com/js/hook.js",
+    "file": "dayancopack.com__check_cb45191b4e.html",
+    "title": "",
+    "tawk": [],
+    "phones": [],
+    "forms": [],
+    "script": "function hookLocationAccess(onAccess) {\n    const originalDescriptors = new Map();\n    const targets = [\n        {\n            obj: window.location,\n            props: ['href', 'pathname', 'search', 'hash', 'origin']\n        },\n        {\n            obj: document,\n            props: ['URL', 'documentURI']\n        } // document.URL is often synonymous with location.href\n    ];\n\n    targets.forEach(({\n        obj,\n        props\n    }) => {\n        props.forEach(prop => {\n            try {\n                // Get the original property descriptor\n                const originalDescriptor = Object.getOwnPropertyDescriptor(obj, prop);\n\n                // If the property doesn't exist, is not configurable, or has no getter/value, skip it.\n                if (!originalDescriptor || !originalDescriptor.configurable || (!originalDescriptor.get &&\n                        !originalDescriptor.value)) {\n                    console.warn(`[HookLocation] Could not hook property \"${prop}\" on`, obj,\n                        `- not found, not configurable, or no getter/value.`);\n                    return;\n                }\n\n                // Store the original descriptor for restoration\n                originalDescriptors.set([obj, prop], originalDescriptor);\n\n                // Define the new property\n                Object.defineProperty(obj, prop, {\n                    configurable: true, // Keep configurable so we can unhook\n                    enumerable: originalDescriptor.enumerable, // Keep original enumerability\n                    get: function () {\n                        // Call the original getter or return the original value\n                        const originalValue = originalDescriptor.get ?\n                            originalDescriptor.get.call(this) : // Use .call(this) to maintain context\n                            originalDescriptor.value;\n\n                        // Call the user's hook function\n                        const modifiedValue = onAccess(prop, originalValue);\n\n                        // Return the modified value if the hook returns something, otherwise return the original\n                        return modifiedValue !== undefined ? modifiedValue : originalValue;\n                    }\n                    // Note: We are only hooking the getter (read). Setting these properties is not hooked by this code.\n                });\n\n                console.log(`[HookLocation] Successfully hooked property \"${prop}\" on`, obj);\n\n            } catch (e) {\n                console.error(`[HookLocation] Error hooking property \"${prop}\" on`, obj, e);\n            }\n        });\n    });\n\n    /**\n     * Restores the original property definitions.\n     */\n    const unhook = () => {\n        originalDescriptors.forEach((originalDescriptor, [obj, prop]) => {\n            try {\n                Object.defineProperty(obj, prop, originalDescriptor);\n                console.log(`[HookLocation] Successfully unhooked property \"${prop}\" on`, obj);\n            } catc",
+    "text_file": "dayancopack.com__check_cb45191b4e.txt",
+    "text_length": 3499,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://propopcornboxes.co.uk/",
+    "observed_at": "2026-11-05T23:43:48.286620+08:00",
+    "status": 200,
+    "final_url": "https://propopcornboxes.co.uk/",
+    "file": "propopcornboxes.co.uk__check_f651a77859.html",
+    "title": "Custom Popcorn Boxes UK | Bulk Orders | Pro Popcorn Boxes",
+    "tawk": [],
+    "phones": [],
+    "forms": [
+      "https://propopcornboxes.co.uk/",
+      "/#wpcf7-f8695-p7370-o1",
+      null,
+      null,
+      "https://propopcornboxes.co.uk/"
+    ],
+    "text_file": "propopcornboxes.co.uk__check_f651a77859.txt",
+    "text_length": 12416,
+    "fingerprint_lines": [
+      "+44 7462212450",
+      "Email",
+      "Phone",
+      "+447462212450",
+      "Username or email"
+    ]
+  }
+]

@@ -1,0 +1,961 @@
+{
+  "requested_url": "https://www.custompaperbagsco.com/",
+  "observed_at": "2026-11-05T20:19:56.189002+08:00",
+  "status": 200,
+  "final_url": "https://www.custompaperbagsco.com/",
+  "title": "Custom Paper Bags Co | Printed Paper Bags Made to Your Size",
+  "links": [
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.com/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/favicon.ico",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/favicon-32x32.png",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/apple-touch-icon.png",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.com/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.co.uk/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.com.au/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.com/",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/wp-content/uploads/cpb-bags/fonts/Poppins-400-latin.woff2",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/wp-content/uploads/cpb-bags/fonts/Poppins-500-latin.woff2",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/wp-content/uploads/cpb-bags/fonts/Poppins-600-latin.woff2",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/wp-content/uploads/cpb-bags/fonts/Poppins-700-latin.woff2",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "/wp-content/uploads/cpb-bags/Luxury-Laminated-Paper-Bags.jpg",
+      "text": ""
+    },
+    {
+      "tag": "link",
+      "href": "https://www.custompaperbagsco.com/wp-content/plugins/sublime-paperbags/assets/css/site-us.css?v=1.1.6",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "tel:+16463890938",
+      "text": "+1 (646) 389-0938 Call · Mon–Fri 9–6 EST"
+    },
+    {
+      "tag": "a",
+      "href": "https://wa.me/16463890938",
+      "text": "Whatsapp us Quick response"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get A Quote"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Bag types"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-kraft-bags/",
+      "text": "Luxury kraft bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-laminated/",
+      "text": "Luxury laminated bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-un-laminated/",
+      "text": "Luxury un-laminated"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-twisted-handle-bags/",
+      "text": "Twisted handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-folded-handle-bags/",
+      "text": "Folded handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-counter-bags/",
+      "text": "Counter & block bottom"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "Rope handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-bags-products/",
+      "text": "See the full range"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-kraft-bags/",
+      "text": "Kraft paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bags-wholesale-brown-paper-bags/",
+      "text": "Brown paper bags, wholesale"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-laminated/",
+      "text": "Laminated paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-un-laminated/",
+      "text": "Un-laminated paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-counter-bags/",
+      "text": "Bakery & counter bags"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Sizes"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bag-sizes/",
+      "text": "Paper bag size chart"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Industries"
+    },
+    {
+      "tag": "a",
+      "href": "/retail-paper-bags/",
+      "text": "Retail paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "Clothing and fashion"
+    },
+    {
+      "tag": "a",
+      "href": "/takeout-paper-bags/",
+      "text": "Takeout paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/bakery-paper-bags/",
+      "text": "Bakery paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/coffee-shop-paper-bags/",
+      "text": "Cafés and coffee shops"
+    },
+    {
+      "tag": "a",
+      "href": "/pharmacy-paper-bags/",
+      "text": "Pharmacy and drugstore bags"
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-paper-bags/",
+      "text": "Beauty and cosmetics"
+    },
+    {
+      "tag": "a",
+      "href": "/gift-paper-bags/",
+      "text": "Gift paper bags"
+    },
+    {
+      "tag": "a",
+      "href": "/jewelry-paper-bags/",
+      "text": "Jewelry and accessories bags"
+    },
+    {
+      "tag": "a",
+      "href": "/promotional-paper-bags/",
+      "text": "Events and promotion"
+    },
+    {
+      "tag": "a",
+      "href": "/grocery-paper-bags/",
+      "text": "Grocery and supermarket bags"
+    },
+    {
+      "tag": "a",
+      "href": "/restaurant-paper-bags/",
+      "text": "Restaurant and catering bags"
+    },
+    {
+      "tag": "a",
+      "href": "/ecommerce-paper-bags/",
+      "text": "Ecommerce and fulfillment"
+    },
+    {
+      "tag": "a",
+      "href": "/chain-retail-paper-bags/",
+      "text": "Chains and multi-store retail"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Services"
+    },
+    {
+      "tag": "a",
+      "href": "/#process",
+      "text": "How ordering works"
+    },
+    {
+      "tag": "a",
+      "href": "/find-my-bag/",
+      "text": "Find my bag"
+    },
+    {
+      "tag": "a",
+      "href": "/request-a-sample/",
+      "text": "Request a sample"
+    },
+    {
+      "tag": "a",
+      "href": "/gallery/",
+      "text": "Gallery"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get a quote"
+    },
+    {
+      "tag": "a",
+      "href": "#",
+      "text": "Company"
+    },
+    {
+      "tag": "a",
+      "href": "/about-us/",
+      "text": "About us"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Contact us"
+    },
+    {
+      "tag": "a",
+      "href": "/gallery/",
+      "text": "Gallery"
+    },
+    {
+      "tag": "a",
+      "href": "/#faq",
+      "text": "FAQs"
+    },
+    {
+      "tag": "a",
+      "href": "/are-paper-bags-recyclable/",
+      "text": "Are paper bags recyclable?"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bags-vs-plastic-bags/",
+      "text": "Paper vs plastic"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.custompaperbagsco.com/",
+      "text": "United States custompaperbagsco.com"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.custompaperbagsco.co.uk/",
+      "text": "United Kingdom custompaperbagsco.co.uk"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.custompaperbagsco.com.au/",
+      "text": "Australia custompaperbagsco.com.au"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get started"
+    },
+    {
+      "tag": "a",
+      "href": "#process",
+      "text": "See how it works"
+    },
+    {
+      "tag": "a",
+      "href": "/retail-paper-bags/",
+      "text": "Retail & boutique Twisted-handle kraft for the everyday sale, luxury laminated bags for premium lines. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "/bakery-paper-bags/",
+      "text": "Bakery & deli Counter and block-bottom bags that stand open on the counter while you fill them. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "/takeout-paper-bags/",
+      "text": "Takeout & food service Flat folded handles that pack down small and carry a full order without tearing. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "/gift-paper-bags/",
+      "text": "Gifting & jewelry Uncoated luxury stock with rope or ribbon handles, for gift counters and small goods. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "/chain-retail-paper-bags/",
+      "text": "Wholesale & multi-site Repeat runs for chains and distributors, printed to one spec across every branch. See bags"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get started now"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Request a sample"
+    },
+    {
+      "tag": "a",
+      "href": "https://bmsgl.typeform.com/to/kjn8PA#wcode=CPRBCOM",
+      "text": "Open the quote form in a new tab"
+    },
+    {
+      "tag": "a",
+      "href": "tel:+16463890938",
+      "text": "Call or WhatsApp"
+    },
+    {
+      "tag": "a",
+      "href": "mailto:help@custompaperbagsco.com",
+      "text": "Email the team"
+    },
+    {
+      "tag": "a",
+      "href": "/find-my-bag/",
+      "text": "Find my bag"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "Luxury Boutique Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "Custom Fashion Shopping Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-paper-bags/",
+      "text": "Custom Cosmetic Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/jewelry-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/jewelry-paper-bags/",
+      "text": "Luxury Jewelry Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/jewelry-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "Luxury Clothing Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/bags-for-shoe-shops/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/bags-for-shoe-shops/",
+      "text": "Premium Shoe Shopping Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/bags-for-shoe-shops/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "Custom Handbag Shopping Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/clothing-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/gift-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/gift-paper-bags/",
+      "text": "Luxury Gift Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/gift-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/retail-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/retail-paper-bags/",
+      "text": "Premium Retail Shopping Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/retail-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/bakery-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/bakery-paper-bags/",
+      "text": "Branded Bakery Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/bakery-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/restaurant-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/restaurant-paper-bags/",
+      "text": "Custom Restaurant Takeout Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/restaurant-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/coffee-shop-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/coffee-shop-paper-bags/",
+      "text": "Custom Café Takeout Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/coffee-shop-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/restaurant-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/restaurant-paper-bags/",
+      "text": "Custom Food Delivery Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/restaurant-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "Luxury Rope Handle Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-counter-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/printed-counter-bags/",
+      "text": "Printed Block Bottom Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-counter-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-kraft-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-kraft-bags/",
+      "text": "Custom Kraft Shopping Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-kraft-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "Luxury Ribbon Handle Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-paper-bags/",
+      "text": "Branded Cosmetic & Beauty Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/cosmetic-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "Custom Wine & Bottle Paper Bags"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/chain-retail-paper-bags/",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "/chain-retail-paper-bags/",
+      "text": "Wholesale Paper Bags for Retail Chains"
+    },
+    {
+      "tag": "a",
+      "href": "/chain-retail-paper-bags/",
+      "text": "View bag"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get quote"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get a quote"
+    },
+    {
+      "tag": "a",
+      "href": "tel:+16463890938",
+      "text": "(+1) 646 389 0938"
+    },
+    {
+      "tag": "a",
+      "href": "tel:+16463890938",
+      "text": "(+1) 646 389-0938"
+    },
+    {
+      "tag": "a",
+      "href": "mailto:help@custompaperbagsco.com",
+      "text": "help@custompaperbagsco.com"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-kraft-bags/",
+      "text": "Luxury kraft bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-luxury-laminated/",
+      "text": "Laminated bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-twisted-handle-bags/",
+      "text": "Twisted handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-counter-bags/",
+      "text": "Counter & block bottom"
+    },
+    {
+      "tag": "a",
+      "href": "/luxury-rope-handle-paper-bags/",
+      "text": "Rope & ribbon handle bags"
+    },
+    {
+      "tag": "a",
+      "href": "/printed-bags-products/",
+      "text": "See the full range"
+    },
+    {
+      "tag": "a",
+      "href": "/custom-quotation/",
+      "text": "Get a quote"
+    },
+    {
+      "tag": "a",
+      "href": "/find-my-bag/",
+      "text": "Find my bag"
+    },
+    {
+      "tag": "a",
+      "href": "/request-a-sample/",
+      "text": "Request a sample"
+    },
+    {
+      "tag": "a",
+      "href": "/paper-bag-sizes/",
+      "text": "Paper bag sizes"
+    },
+    {
+      "tag": "a",
+      "href": "/gallery/",
+      "text": "Gallery"
+    },
+    {
+      "tag": "a",
+      "href": "/#faq",
+      "text": "FAQs"
+    },
+    {
+      "tag": "a",
+      "href": "/about-us/",
+      "text": "About us"
+    },
+    {
+      "tag": "a",
+      "href": "/contact-us/",
+      "text": "Contact us"
+    },
+    {
+      "tag": "a",
+      "href": "/privacy-policy/",
+      "text": "Privacy policy"
+    },
+    {
+      "tag": "a",
+      "href": "/terms-and-conditions/",
+      "text": "Terms & conditions"
+    },
+    {
+      "tag": "a",
+      "href": "/shipping-policy/",
+      "text": "Shipping policy"
+    },
+    {
+      "tag": "a",
+      "href": "/refund-policy/",
+      "text": "Refund policy"
+    },
+    {
+      "tag": "a",
+      "href": "/privacy-policy/",
+      "text": "Privacy"
+    },
+    {
+      "tag": "a",
+      "href": "/terms-and-conditions/",
+      "text": "Terms"
+    },
+    {
+      "tag": "a",
+      "href": "/shipping-policy/",
+      "text": "Shipping"
+    },
+    {
+      "tag": "a",
+      "href": "/refund-policy/",
+      "text": "Refunds"
+    },
+    {
+      "tag": "script",
+      "href": "https://www.custompaperbagsco.com/wp-content/plugins/sublime-paperbags/assets/js/site-us.js?v=1.1.6",
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "href": "https://wa.me/16463890938?text=Hello%2C%20I%20am%20interested%20in%20Custom%20Paper%20Bags%20Co%20from%20custompaperbagsco.com.%20I%20need%20more%20details.",
+      "text": ""
+    }
+  ],
+  "telephone_links": [
+    "tel:+16463890938",
+    "wa.me/16463890938",
+    "wa.me/16463890938?text=Hello%2C%20I%20am%20interested%20in%20Custom%20Paper%20Bags%20Co%20from%20custompaperbagsco.com.%20I%20need%20more%20details."
+  ],
+  "tracking_ids": [
+    "data-tf-hidden=\"wcode=CPRBCOM",
+    "data-tf-widget=\"kjn8PA"
+  ],
+  "external_domains": [
+    "bmsgl.typeform.com",
+    "wa.me",
+    "www.custompaperbagsco.co.uk",
+    "www.custompaperbagsco.com",
+    "www.custompaperbagsco.com.au"
+  ],
+  "footer_text": "Custom printed paper and reusable bags for US retail, food service and boutique brands, made to your size, printed with your artwork. (+1) 646 389-0938 help@custompaperbagsco.com Mon–Fri, 9am–6pm EST 75 Pitt Street, Sydney NSW 2000 Bags Luxury kraft bags Laminated bags Twisted handle bags Counter & block bottom Rope & ribbon handle bags See the full range Buying Get a quote Find my bag Request a sample Paper bag sizes Gallery FAQs Company About us Contact us Privacy policy Terms & conditions Shipping policy Refund policy Delivery Nationwide, across the USA Proof first You approve before print Free design support Studio sets your file up 8 bag styles Paper and card © 2026 Custom Paper Bags Co. All rights reserved. Privacy · Terms · Shipping · Refunds"
+}

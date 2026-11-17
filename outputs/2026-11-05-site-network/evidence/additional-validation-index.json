@@ -1,0 +1,141 @@
+[
+  {
+    "requested_url": "http://customboxes.co.uk/",
+    "status": 200,
+    "final_url": "http://customboxes.co.uk/",
+    "title": "",
+    "forms": [],
+    "tawk": [],
+    "phone_links": [],
+    "canonicals": [],
+    "text_file": "customboxes.co.uk__extra_.txt",
+    "text_length": 0,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://www.customboxes.co.uk/",
+    "error": "HTTPSConnectionPool(host='www.customboxes.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')))"
+  },
+  {
+    "requested_url": "https://www.luxuryboxesco.com/",
+    "status": 200,
+    "final_url": "https://www.luxuryboxesco.com/",
+    "title": "",
+    "forms": [],
+    "tawk": [],
+    "phone_links": [],
+    "canonicals": [],
+    "text_file": "luxuryboxesco.com__extra_.txt",
+    "text_length": 0,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://www.dayancopack.com/contact-us/",
+    "status": 200,
+    "final_url": "https://www.dayancopack.com/contact-us/",
+    "title": "Custom Packaging Solutions | Contact Us for Tailored Service",
+    "forms": [
+      "https://www.designmediaservice.com/genform.php?w=CPBCOM&r=3"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua"
+    ],
+    "phone_links": [
+      "tel:888.202.7564"
+    ],
+    "canonicals": [
+      "https://site_901ca976-68e7-49cb-a05e-e2a6b178c481/contact-us"
+    ],
+    "text_file": "dayancopack.com__extra_contact-us.txt",
+    "text_length": 12301,
+    "fingerprint_lines": [
+      "Call Us: 888.202.7564",
+      "Email Us: admin@site_901ca976-68e7-49cb-a05e-e2a6b178c481",
+      "Call Us: 888.202.7564",
+      "Email Us: admin@site_901ca976-68e7-49cb-a05e-e2a6b178c481",
+      "Cell Phone Packaging",
+      "Cell Phone Packaging"
+    ]
+  },
+  {
+    "requested_url": "https://www.dayancopack.com/",
+    "status": 200,
+    "final_url": "https://www.dayancopack.com/",
+    "title": "Custom Printed Packaging Boxes | Wholesale USA Solutions",
+    "forms": [],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua"
+    ],
+    "phone_links": [
+      "tel:888.202.7564"
+    ],
+    "canonicals": [
+      "https://site_901ca976-68e7-49cb-a05e-e2a6b178c481/"
+    ],
+    "text_file": "dayancopack.com__extra_.txt",
+    "text_length": 15195,
+    "fingerprint_lines": [
+      "Call Us: 888.202.7564",
+      "Email Us: admin@site_901ca976-68e7-49cb-a05e-e2a6b178c481",
+      "Call Us: 888.202.7564",
+      "Email Us: admin@site_901ca976-68e7-49cb-a05e-e2a6b178c481",
+      "Cell Phone Packaging",
+      "Cell Phone Packaging"
+    ]
+  },
+  {
+    "requested_url": "https://www.labelprintingco.com.au/about-us/",
+    "status": 200,
+    "final_url": "https://www.labelprintingco.com.au/about-us/",
+    "title": "About Us",
+    "forms": [],
+    "tawk": [],
+    "phone_links": [],
+    "canonicals": [],
+    "text_file": "labelprintingco.com.au__extra_about-us.txt",
+    "text_length": 8,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://www.cosmeticpackagingco.com.au/",
+    "status": 200,
+    "final_url": "https://www.cosmeticpackagingco.com.au/",
+    "title": "",
+    "forms": [],
+    "tawk": [],
+    "phone_links": [],
+    "canonicals": [],
+    "text_file": "cosmeticpackagingco.com.au__extra_.txt",
+    "text_length": 0,
+    "fingerprint_lines": []
+  },
+  {
+    "requested_url": "https://www.bespokeboxesco.com.au/cosmetic-boxes.html",
+    "status": 200,
+    "final_url": "https://www.bespokeboxesco.com.au/cosmetic-boxes.html",
+    "title": "Custom printed Cosmetic Boxes Bespoke | Cosmetic Boxes",
+    "forms": [
+      "https://www.bespokeboxesco.com.au/newsletter/subscriber/new/"
+    ],
+    "tawk": [
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg56d9ua",
+      "embed.tawk.to/588f544d46ba8058582eccc2/1gg5vtt47"
+    ],
+    "phone_links": [
+      "wa.me/+61285203915?text=Hello%2C%20I%20am%20interested%20in%20boxes%20from%20bespokeboxesco.com.au.%20I%20need%20more%20details."
+    ],
+    "canonicals": [
+      "https://www.bespokeboxesco.com.au/cosmetic-boxes.html"
+    ],
+    "text_file": "bespokeboxesco.com.au__extra_cosmetic-boxes.html.txt",
+    "text_length": 27080,
+    "fingerprint_lines": [
+      "Cell Phone Packaging",
+      "Cell Phone Packaging",
+      "Cell Phone Packaging",
+      "Cell Phone Packaging",
+      "Our wholesale Cosmetic packaging is reputed as an undisputed torchbearer in terms of manufacture, design, and progression of makeup packaging. Our custom cosmetic boxes are cautiously developed by technical experts who make sure that the print designs, colors, and veneer of products complement the demands placed by our customers.",
+      "Once your order is dispatched, you’ll receive an email with a live tracking link so you can follow your delivery at every step until it arrives."
+    ]
+  }
+]

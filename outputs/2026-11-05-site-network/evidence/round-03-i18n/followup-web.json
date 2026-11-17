@@ -1,0 +1,1207 @@
+[
+  {
+    "host": "cajaspersonalizadas.es",
+    "kind": "candidate",
+    "url": "http://cajaspersonalizadas.es/",
+    "status": 403,
+    "final": "http://cajaspersonalizadas.es/",
+    "bytes": 188,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "403 Forbidden",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": "403 Forbidden 403 Forbidden Access to this resource is denied."
+  },
+  {
+    "host": "cajaspersonalizadas.es",
+    "kind": "candidate",
+    "url": "https://www.cajaspersonalizadas.es/",
+    "error": "HTTPSConnectionPool(host='www.cajaspersonalizadas.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cajaspersonalizadas.es'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "customboxes.it",
+    "kind": "candidate",
+    "url": "http://customboxes.it/",
+    "status": 200,
+    "final": "http://customboxes.it/",
+    "bytes": 5600,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "Redirecting...",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": "Redirecting... Loading . . ."
+  },
+  {
+    "host": "customboxes.it",
+    "kind": "candidate",
+    "url": "https://www.customboxes.it/",
+    "error": "HTTPSConnectionPool(host='www.customboxes.it', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"
+  },
+  {
+    "host": "customstickers.ru",
+    "kind": "candidate",
+    "url": "http://customstickers.ru/",
+    "error": "HTTPConnectionPool(host='customstickers.ru', port=80): Read timed out. (read timeout=9)"
+  },
+  {
+    "host": "customstickers.ru",
+    "kind": "candidate",
+    "url": "https://www.customstickers.ru/",
+    "error": "HTTPSConnectionPool(host='www.customstickers.ru', port=443): Read timed out. (read timeout=5)"
+  },
+  {
+    "host": "druketykiet.pl",
+    "kind": "candidate",
+    "url": "http://druketykiet.pl/",
+    "status": 200,
+    "final": "http://druketykiet.pl/",
+    "bytes": 96,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "",
+    "title": "",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": "Witamy na naszym serwerze! Strona jeszcze nie jest gotowa... zapraszamy w przysz�o�ci."
+  },
+  {
+    "host": "druketykiet.pl",
+    "kind": "candidate",
+    "url": "https://www.druketykiet.pl/",
+    "error": "HTTPSConnectionPool(host='www.druketykiet.pl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.druketykiet.pl'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "etiquetaspersonalizadas.es",
+    "kind": "candidate",
+    "url": "http://etiquetaspersonalizadas.es/",
+    "status": 200,
+    "final": "http://etiquetaspersonalizadas.es/",
+    "bytes": 29494,
+    "ctype": "text/html; charset=utf8",
+    "indicators": [],
+    "lang": "fr-FR",
+    "title": "Site en construction",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "http://etiquetaspersonalizadas.es/__ovh/common/img/favicon.ico",
+        "label": ""
+      },
+      {
+        "url": "https://docs.ovh.com/fr/hosting/",
+        "label": "Guides"
+      },
+      {
+        "url": "https://help.ovhcloud.com/fr/",
+        "label": "Contact"
+      }
+    ],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": "Site en construction Site en construction Besoin d'assistance ou d'informations ? Guides Forum Contact Espace Client © Copyright 1999 OVHcloud e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 e11 e12 e13 e14 e15 e16 e17 e18 e19 e20 e21 e22 e23 e24 e25 e26 e27 e28 e29 e30 e31 e32 e33 e34 e35 e36 e37 e38 e39 e40 e41 e42 e43 e44 e45 e46 e47 e48 e49 e50 e51 e52 e53 t1 t"
+  },
+  {
+    "host": "etiquetaspersonalizadas.es",
+    "kind": "candidate",
+    "url": "https://www.etiquetaspersonalizadas.es/",
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
+  },
+  {
+    "host": "pegatinaspersonalizadas.es",
+    "kind": "candidate",
+    "url": "http://pegatinaspersonalizadas.es/",
+    "status": 403,
+    "final": "http://pegatinaspersonalizadas.es/",
+    "bytes": 188,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "403 Forbidden",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": "403 Forbidden 403 Forbidden Access to this resource is denied."
+  },
+  {
+    "host": "pegatinaspersonalizadas.es",
+    "kind": "candidate",
+    "url": "https://www.pegatinaspersonalizadas.es/",
+    "error": "HTTPSConnectionPool(host='www.pegatinaspersonalizadas.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pegatinaspersonalizadas.es'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "sacspapierpersonnalises.fr",
+    "kind": "candidate",
+    "url": "http://sacspapierpersonnalises.fr/",
+    "error": "HTTPSConnectionPool(host='www.unibags.eu', port=443): Read timed out. (read timeout=5)"
+  },
+  {
+    "host": "sacspapierpersonnalises.fr",
+    "kind": "candidate",
+    "url": "https://www.sacspapierpersonnalises.fr/",
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
+  },
+  {
+    "host": "schachtelnnachmass.de",
+    "kind": "candidate",
+    "url": "http://schachtelnnachmass.de/",
+    "error": "HTTPConnectionPool(host='schachtelnnachmass.de', port=80): Read timed out. (read timeout=9)"
+  },
+  {
+    "host": "schachtelnnachmass.de",
+    "kind": "candidate",
+    "url": "https://www.schachtelnnachmass.de/",
+    "error": "HTTPSConnectionPool(host='www.schachtelnnachmass.de', port=443): Read timed out. (read timeout=5)"
+  },
+  {
+    "host": "stickerprinting.at",
+    "kind": "candidate",
+    "url": "http://stickerprinting.at/",
+    "status": 403,
+    "final": "https://prosite.de",
+    "bytes": 5368,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "en-US",
+    "title": "Just a moment...",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "host": "stickerprinting.at",
+    "kind": "candidate",
+    "url": "https://www.stickerprinting.at/",
+    "error": "HTTPSConnectionPool(host='www.stickerprinting.at', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.stickerprinting.at'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "stickerprinting.be",
+    "kind": "candidate",
+    "url": "http://stickerprinting.be/",
+    "status": 403,
+    "final": "https://prosite.de",
+    "bytes": 5368,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "en-US",
+    "title": "Just a moment...",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "host": "stickerprinting.be",
+    "kind": "candidate",
+    "url": "https://www.stickerprinting.be/",
+    "error": "HTTPSConnectionPool(host='www.stickerprinting.be', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.stickerprinting.be'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "stickerprinting.ca",
+    "kind": "candidate",
+    "url": "http://stickerprinting.ca/",
+    "status": 200,
+    "final": "http://stickerprinting.ca/",
+    "bytes": 336,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "",
+    "title": "",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": ""
+  },
+  {
+    "host": "stickerprinting.ca",
+    "kind": "candidate",
+    "url": "https://www.stickerprinting.ca/",
+    "error": "HTTPSConnectionPool(host='www.stickerprinting.ca', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)')))"
+  },
+  {
+    "host": "stickerprinting.pl",
+    "kind": "candidate",
+    "url": "http://stickerprinting.pl/",
+    "status": 403,
+    "final": "https://prosite.de",
+    "bytes": 5368,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "en-US",
+    "title": "Just a moment...",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "",
+    "business_contacts": [],
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "host": "stickerprinting.pl",
+    "kind": "candidate",
+    "url": "https://www.stickerprinting.pl/",
+    "error": "HTTPSConnectionPool(host='www.stickerprinting.pl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.stickerprinting.pl'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "stickersprinting.eu",
+    "kind": "candidate",
+    "url": "http://stickersprinting.eu/",
+    "status": 466,
+    "final": "http://stickersprinting.eu/",
+    "bytes": 2541,
+    "ctype": "text/html",
+    "indicators": [],
+    "lang": "en",
+    "title": "Access Forbidden",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "Webpage description goes here",
+    "business_contacts": [],
+    "text_excerpt": "Access Forbidden Access Denied We are sorry, but your request has been blocked by our web application firewall. This could be due to unusual activity or a potential security risk. Please contact your hosting provider for further information. </html"
+  },
+  {
+    "host": "stickersprinting.eu",
+    "kind": "candidate",
+    "url": "https://www.stickersprinting.eu/",
+    "error": "HTTPSConnectionPool(host='www.stickersprinting.eu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.stickersprinting.eu'. (_ssl.c:1006)\")))"
+  },
+  {
+    "host": "de.pdtrus.com",
+    "kind": "candidate",
+    "url": "http://de.pdtrus.com/",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "host": "es.pdtrus.com",
+    "kind": "candidate",
+    "url": "http://es.pdtrus.com/",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "host": "fr.pdtrus.com",
+    "kind": "candidate",
+    "url": "http://fr.pdtrus.com/",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "host": "it.pdtrus.com",
+    "kind": "candidate",
+    "url": "http://it.pdtrus.com/",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "host": "nl.pdtrus.com",
+    "kind": "candidate",
+    "url": "http://nl.pdtrus.com/",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "host": "pl.pdtrus.com",
+    "kind": "candidate",
+    "url": "http://pl.pdtrus.com/",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "host": "pt.pdtrus.com",
+    "kind": "candidate",
+    "url": "http://pt.pdtrus.com/",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "host": "ru.pdtrus.com",
+    "kind": "candidate",
+    "url": "http://ru.pdtrus.com/",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "host": "control-locale-72b1.pdtrus.com",
+    "kind": "candidate",
+    "url": "http://control-locale-72b1.pdtrus.com/",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "host": "random-locale-b09a.pdtrus.com",
+    "kind": "candidate",
+    "url": "http://random-locale-b09a.pdtrus.com/",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "host": "stickerprinting.ro",
+    "kind": "candidate",
+    "url": "https://stickerprinting.ro/",
+    "status": 200,
+    "final": "https://stickerprinting.ro/",
+    "bytes": 82022,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "ro",
+    "title": "Stickere personalizate - stickerprinting.ro",
+    "hreflang": [
+      {
+        "lang": "de",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      },
+      {
+        "lang": "de-AT",
+        "url": "https://aufkleberdrucker24.at/index.php"
+      },
+      {
+        "lang": "de-CH",
+        "url": "https://aufkleberdrucker24.ch/index.php"
+      },
+      {
+        "lang": "x-default",
+        "url": "https://aufkleberdrucker24.de/index.php"
+      }
+    ],
+    "canonical": "",
+    "localized_links": [
+      {
+        "url": "https://aufkleberdrucker24.de/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.at/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://aufkleberdrucker24.ch/index.php",
+        "label": ""
+      },
+      {
+        "url": "https://stickerprinting.de",
+        "label": "stickerprinting.de"
+      },
+      {
+        "url": "https://stickerprinting.it",
+        "label": "stickerprinting.it"
+      },
+      {
+        "url": "https://stickerprinting.fr",
+        "label": "stickerprinting.fr"
+      },
+      {
+        "url": "https://stickerprinting.es",
+        "label": "stickerprinting.es"
+      }
+    ],
+    "description": "✓ specialistul în autocolant ✓ comandați stickere online ✓ autocolante de calitate la prețuri mici ✓ stickere personalizate ✓ transport gratuit ✓",
+    "business_contacts": [
+      "mailto:office@stickerprinting.ro",
+      "mailto:office@stickerprinting.ro"
+    ],
+    "text_excerpt": "Stickere personalizate - stickerprinting.ro Selec?ie mare - pre? de top +40 372 915744 Lu - Jo 09:00 - 18:00 / Vi 09:00 - 15:00 office@stickerprinting.ro Contact | Imprima Facebook Instagram 0 articolul căutare E-mail/client nr. parola Autentificare Ați uitat parola Înregistrează-te 0 Login Produse Stickere Stickere standard Stickere premium Sticke"
+  },
+  {
+    "host": "cajasforradas.es",
+    "kind": "candidate",
+    "url": "https://cajasforradas.es/",
+    "status": 200,
+    "final": "https://cajasforradas.es/",
+    "bytes": 94513,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "es-ES",
+    "title": "HomeES - Cajas forradas a medida fabricadas 100% en España",
+    "hreflang": [
+      {
+        "lang": "es",
+        "url": "https://cajasforradas.es/"
+      },
+      {
+        "lang": "en",
+        "url": "https://rigidboxespackaging.co.uk/"
+      },
+      {
+        "lang": "fr",
+        "url": "https://boitesrigides.fr/"
+      },
+      {
+        "lang": "de",
+        "url": "https://stabileschachtel.de/"
+      },
+      {
+        "lang": "it",
+        "url": "https://scatolerivestite.it/"
+      }
+    ],
+    "canonical": "https://cajasforradas.es/",
+    "localized_links": [
+      {
+        "url": "https://cajasforradas.es/",
+        "label": "HomeES - Cajas forradas a medida fabricadas 100% en España"
+      },
+      {
+        "url": "https://boitesrigides.fr/",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/feed/",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcajasforradas.es%2F&lang=es",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcajasforradas.es%2F&format=xml&lang=es",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/polylang/css/build/language-switcher.min.css?ver=3.9.2",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/polylang/css/build/navigation-language-switcher.min.css?ver=3.9.2",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/elementor/css/post-5.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.57.0",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/pro-elements/assets/css/modules/motion-fx.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/elementor/css/post-32.css?ver=1794370887",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/elementor/css/post-98.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/elementor/css/post-106.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css?ver=1742228245",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-json/",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-json/wp/v2/pages/32",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/xmlrpc.php?rsd",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-32x32.png",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-192x192.png",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-180x180.png",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/#content",
+        "label": "Ir al contenido"
+      },
+      {
+        "url": "https://cajasforradas.es",
+        "label": "cajas forradas"
+      },
+      {
+        "url": "https://cajasforradas.es/#formContact",
+        "label": "Contacto"
+      },
+      {
+        "url": "https://cajasforradas.es/#tiposCajas",
+        "label": "Tipos de Cajas"
+      },
+      {
+        "url": "https://cajasforradas.es/los-acabados/",
+        "label": "Acabados"
+      },
+      {
+        "url": "https://cajasforradas.es/cajas-premium/",
+        "label": "Galería"
+      },
+      {
+        "url": "https://cajasforradas.es/new-landing/",
+        "label": "Quienes somos"
+      },
+      {
+        "url": "https://cajasforradas.es/#formContact",
+        "label": "Contact"
+      },
+      {
+        "url": "https://cajasforradas.es/#formContact",
+        "label": "¿Te ayudamos?"
+      },
+      {
+        "url": "https://cajasforradas.es/#formContact",
+        "label": "Pide tu presupuesto"
+      },
+      {
+        "url": "https://cajasforradas.es/politica-privacidad/",
+        "label": "política de privacidad"
+      },
+      {
+        "url": "https://cajasforradas.es/politica-privacidad/",
+        "label": "Política de privacidad y cookies"
+      }
+    ],
+    "description": "",
+    "business_contacts": [
+      "tel:931210080"
+    ],
+    "text_excerpt": "HomeES - Cajas forradas a medida fabricadas 100% en España Ir al contenido cajas forradas Contacto Tipos de Cajas Acabados Galería Quienes somos Contact Tipos de Cajas Acabados Galería Quienes somos Contact Perfect Unboxing En cajasforradas.es te ayudaremos a diseñar y producir tus cajas forradas para sorprender a tus clientes. Las podrás tener en "
+  },
+  {
+    "host": "stabileschachtel.de",
+    "kind": "candidate",
+    "url": "https://stabileschachtel.de/",
+    "status": 200,
+    "final": "https://stabileschachtel.de/",
+    "bytes": 96258,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "de-DE",
+    "title": "HomeDE - Kundenspezifische stabile Schachteln. Verpackungen, die zu 100 % in der EU hergestellt werden",
+    "hreflang": [
+      {
+        "lang": "es",
+        "url": "https://cajasforradas.es/"
+      },
+      {
+        "lang": "en",
+        "url": "https://rigidboxespackaging.co.uk/"
+      },
+      {
+        "lang": "fr",
+        "url": "https://boitesrigides.fr/"
+      },
+      {
+        "lang": "de",
+        "url": "https://stabileschachtel.de/"
+      },
+      {
+        "lang": "it",
+        "url": "https://scatolerivestite.it/"
+      }
+    ],
+    "canonical": "https://stabileschachtel.de/",
+    "localized_links": [
+      {
+        "url": "https://cajasforradas.es/",
+        "label": "HomeDE - Kundenspezifische stabile Schachteln. Verpackungen, die zu 100 % in der EU hergestellt werden"
+      },
+      {
+        "url": "https://boitesrigides.fr/",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/feed/",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstabileschachtel.de%2F&lang=de",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstabileschachtel.de%2F&format=xml&lang=de",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/polylang/css/build/language-switcher.min.css?ver=3.9.2",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/polylang/css/build/navigation-language-switcher.min.css?ver=3.9.2",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/uploads/elementor/css/post-5.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.57.0",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/pro-elements/assets/css/modules/motion-fx.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/uploads/elementor/css/post-670.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/uploads/elementor/css/post-98.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/uploads/elementor/css/post-106.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css?ver=1742228245",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-json/",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-json/wp/v2/pages/670",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/xmlrpc.php?rsd",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-32x32.png",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-192x192.png",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-180x180.png",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/#content",
+        "label": "Zum Inhalt springen"
+      },
+      {
+        "url": "https://stabileschachtel.de/#formContact",
+        "label": "Kontakt"
+      },
+      {
+        "url": "https://stabileschachtel.de",
+        "label": "Stabile Schachtel"
+      },
+      {
+        "url": "https://stabileschachtel.de/#tiposCajas",
+        "label": "ARTEN VON SCHACHTELN"
+      },
+      {
+        "url": "https://stabileschachtel.de/abschlusse-fur-stabile-schachteln/",
+        "label": "Abschlüsse"
+      },
+      {
+        "url": "https://stabileschachtel.de/galerie-2/",
+        "label": "Galerie"
+      },
+      {
+        "url": "https://stabileschachtel.de/wer-wir-sind/",
+        "label": "WER WIR SIND"
+      },
+      {
+        "url": "https://stabileschachtel.de/#formContact",
+        "label": "Fragen Sie uns!"
+      },
+      {
+        "url": "https://stabileschachtel.de/#formContact",
+        "label": "Angebot anfordern"
+      },
+      {
+        "url": "https://stabileschachtel.de/datenschutzerklarung-cookie-hinweis/",
+        "label": "Datenschutzerklärung"
+      },
+      {
+        "url": "https://stabileschachtel.de/datenschutzerklarung-cookie-hinweis/",
+        "label": "Datenschutzerklärung & Cookie-Hinweis"
+      }
+    ],
+    "description": "",
+    "business_contacts": [
+      "tel:+34931210080"
+    ],
+    "text_excerpt": "HomeDE - Kundenspezifische stabile Schachteln. Verpackungen, die zu 100 % in der EU hergestellt werden Zum Inhalt springen Kontakt Stabile Schachtel ARTEN VON SCHACHTELN Abschlüsse Galerie WER WIR SIND Kontakt ARTEN VON SCHACHTELN Abschlüsse Galerie WER WIR SIND Kontakt Perfect Unboxing Bei cajasforradas.es helfen wir Ihnen, Ihre überzogenen Schach"
+  },
+  {
+    "host": "scatolerivestite.it",
+    "kind": "candidate",
+    "url": "https://scatolerivestite.it/",
+    "status": 200,
+    "final": "https://scatolerivestite.it/",
+    "bytes": 95692,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "it-IT",
+    "title": "HomeIT - Cajas forradas a medida fabricadas 100% en España",
+    "hreflang": [
+      {
+        "lang": "es",
+        "url": "https://cajasforradas.es/"
+      },
+      {
+        "lang": "en",
+        "url": "https://rigidboxespackaging.co.uk/"
+      },
+      {
+        "lang": "fr",
+        "url": "https://boitesrigides.fr/"
+      },
+      {
+        "lang": "de",
+        "url": "https://stabileschachtel.de/"
+      },
+      {
+        "lang": "it",
+        "url": "https://scatolerivestite.it/"
+      }
+    ],
+    "canonical": "https://scatolerivestite.it/",
+    "localized_links": [
+      {
+        "url": "https://cajasforradas.es/",
+        "label": "HomeIT - Cajas forradas a medida fabricadas 100% en España"
+      },
+      {
+        "url": "https://boitesrigides.fr/",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/feed/",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscatolerivestite.it%2F&lang=it",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscatolerivestite.it%2F&format=xml&lang=it",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/polylang/css/build/language-switcher.min.css?ver=3.9.2",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/polylang/css/build/navigation-language-switcher.min.css?ver=3.9.2",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/uploads/elementor/css/post-5.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.57.0",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?ver=4.4.0",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/pro-elements/assets/css/modules/motion-fx.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=4.3.2",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/uploads/elementor/css/post-665.css?ver=1794370966",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/uploads/elementor/css/post-98.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/uploads/elementor/css/post-106.css?ver=1794370694",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css?ver=1742228245",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-json/",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-json/wp/v2/pages/665",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/xmlrpc.php?rsd",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-32x32.png",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-192x192.png",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/wp-content/uploads/2022/11/cropped-favicon-512x512_cajas-forradas-180x180.png",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/#content",
+        "label": "Vai al contenuto"
+      },
+      {
+        "url": "https://scatolerivestite.it/#formContact",
+        "label": "Contact"
+      },
+      {
+        "url": "https://scatolerivestite.it",
+        "label": "Scatole Rivestite"
+      },
+      {
+        "url": "https://scatolerivestite.it/#tiposCajas",
+        "label": "TIPI DI SCATOLE"
+      },
+      {
+        "url": "https://scatolerivestite.it/finiture-per-scatole-rivestite/",
+        "label": "Finiture"
+      },
+      {
+        "url": "https://scatolerivestite.it/esempi-di-scatole-rivestite/",
+        "label": "Galleria"
+      },
+      {
+        "url": "https://scatolerivestite.it/chi-siamo/",
+        "label": "CHI SIAMO"
+      },
+      {
+        "url": "https://scatolerivestite.it/#formContact",
+        "label": "Contatto"
+      },
+      {
+        "url": "https://scatolerivestite.it/#formContact",
+        "label": "POSSIAMO AIUTARVI?"
+      },
+      {
+        "url": "https://scatolerivestite.it/#formContact",
+        "label": "RICHIEDI UN PREVENTIVO"
+      },
+      {
+        "url": "https://scatolerivestite.it/informativa-sulla-privacy-e-avviso-sui-cookie/",
+        "label": "L' Informativa Sulla Privacy"
+      },
+      {
+        "url": "https://scatolerivestite.it/informativa-sulla-privacy-e-avviso-sui-cookie/",
+        "label": "Informativa sulla privacy e avviso sui cookie"
+      }
+    ],
+    "description": "",
+    "business_contacts": [
+      "tel:0694801087"
+    ],
+    "text_excerpt": "HomeIT - Cajas forradas a medida fabricadas 100% en España Vai al contenuto Contact Scatole Rivestite TIPI DI SCATOLE Finiture Galleria CHI SIAMO Contatto TIPI DI SCATOLE Finiture Galleria CHI SIAMO Contatto UNBOXING PERFETTO Su ScatoleRivestite.it vi aiuteremo a progettare e produrre le vostre scatole rivestite per sorprendere i vostri clienti. Po"
+  },
+  {
+    "host": "rigidboxespackaging.co.uk",
+    "kind": "candidate",
+    "url": "https://rigidboxespackaging.co.uk/",
+    "status": 200,
+    "final": "https://rigidboxespackaging.co.uk/",
+    "bytes": 95623,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [],
+    "lang": "en-GB",
+    "title": "HomeEN - Cajas forradas a medida fabricadas 100% en España",
+    "hreflang": [
+      {
+        "lang": "es",
+        "url": "https://cajasforradas.es/"
+      },
+      {
+        "lang": "en",
+        "url": "https://rigidboxespackaging.co.uk/"
+      },
+      {
+        "lang": "fr",
+        "url": "https://boitesrigides.fr/"
+      },
+      {
+        "lang": "de",
+        "url": "https://stabileschachtel.de/"
+      },
+      {
+        "lang": "it",
+        "url": "https://scatolerivestite.it/"
+      }
+    ],
+    "canonical": "https://rigidboxespackaging.co.uk/",
+    "localized_links": [
+      {
+        "url": "https://cajasforradas.es/",
+        "label": "HomeEN - Cajas forradas a medida fabricadas 100% en España"
+      },
+      {
+        "url": "https://boitesrigides.fr/",
+        "label": ""
+      },
+      {
+        "url": "https://stabileschachtel.de/",
+        "label": ""
+      },
+      {
+        "url": "https://scatolerivestite.it/",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css?ver=1742228245",
+        "label": ""
+      },
+      {
+        "url": "https://cajasforradas.es/politica-privacidad/",
+        "label": "Privacy & Cookies Policy"
+      }
+    ],
+    "description": "",
+    "business_contacts": [
+      "tel:+44(0)2080681803"
+    ],
+    "text_excerpt": "HomeEN - Cajas forradas a medida fabricadas 100% en España Skip to content Rigidboxes Packaging Contact Types of Boxes Finishes Gallery Who we are Contact Types of Boxes Finishes Gallery Who we are Contact Perfect Unboxing At RigidBoxesPackaging.co.uk we will help you to design and produce your lined boxes to surprise your customers. You can have t"
+  },
+  {
+    "host": "stickerprinting.co.uk",
+    "kind": "candidate",
+    "url": "https://stickerprinting.co.uk/",
+    "status": 200,
+    "final": "https://stickerprinting.co.uk/",
+    "bytes": 103681,
+    "ctype": "text/html; charset=UTF-8",
+    "indicators": [
+      "588f544d46ba8058582eccc2",
+      "79936533"
+    ],
+    "lang": "en",
+    "title": "Cheap custom sticker printing | stickerprinting.co.uk",
+    "hreflang": [],
+    "canonical": "",
+    "localized_links": [],
+    "description": "A great place to find cheap sticker printing, custom stickers printing, vinyl stickers printing, custom vinyl stickers and sticker printing ",
+    "business_contacts": [],
+    "text_excerpt": "Cheap custom sticker printing | stickerprinting.co.uk JavaScript seems to be disabled in your browser. You must have JavaScript enabled in your browser to utilize the functionality of this website. Home Our Categories Bumper Stickers Car Stickers Decal Stickers Blank Sticker Printing Clear Vinyl Stickers Custom Stickers Foil Stickers Hologram Stick"
+  }
+]

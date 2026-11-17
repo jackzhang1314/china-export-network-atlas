@@ -1,0 +1,126 @@
+[
+  {
+    "requested_url": "https://bestmediaservice.co.uk/",
+    "observed_at": "2026-11-05T23:38:17.922913+08:00",
+    "dns_error": "[Errno 8] nodename nor servname provided, or not known",
+    "error": "HTTPSConnectionPool(host='bestmediaservice.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x106c9c390>: Failed to resolve 'bestmediaservice.co.uk' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "requested_url": "http://blog.bestmediaservices.com/",
+    "observed_at": "2026-11-05T23:38:17.922502+08:00",
+    "dns": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "status": 200,
+    "final_url": "http://blog.bestmediaservices.com/",
+    "file": "blog.bestmediaservices.com__extended_0728383b87.html",
+    "title": "",
+    "tawk": [],
+    "links": [],
+    "text_file": "blog.bestmediaservices.com__extended_0728383b87.txt",
+    "text_length": 0,
+    "fingerprint_lines": [],
+    "text_excerpt": ""
+  },
+  {
+    "requested_url": "https://www.linkedin.com/company/packaging-daddy",
+    "observed_at": "2026-11-05T23:38:17.923072+08:00",
+    "dns": [
+      "104.18.41.41",
+      "172.64.146.215"
+    ],
+    "status": 403,
+    "final_url": "https://www.linkedin.com/company/packaging-daddy",
+    "file": "linkedin.com__extended_2828847b6a.html",
+    "title": "Attention Required! | Cloudflare",
+    "tawk": [],
+    "links": [
+      {
+        "url": "https://www.cloudflare.com/5xx-error-landing",
+        "text": "Cloudflare"
+      }
+    ],
+    "text_file": "linkedin.com__extended_2828847b6a.txt",
+    "text_length": 756,
+    "fingerprint_lines": [],
+    "text_excerpt": "Attention Required! | Cloudflare\nPlease enable cookies.\nSorry, you have been blocked\nYou are unable to access\nlinkedin.com\nWhy have I been blocked?\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\nWhat can I do to resolve this?\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\nCloudflare Ray ID:\na55cf1dd7d8b47fc\n•\nYour IP:\nClick to reveal\n104.250.131.79\n•\nPerformance & security by\nCloudflare"
+  },
+  {
+    "requested_url": "https://bestmediaservices.com/",
+    "observed_at": "2026-11-05T23:38:17.922999+08:00",
+    "dns": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "status": 200,
+    "final_url": "https://bestmediaservices.com/",
+    "file": "bestmediaservices.com__extended_c8a7a29887.html",
+    "title": "",
+    "tawk": [],
+    "links": [],
+    "text_file": "bestmediaservices.com__extended_c8a7a29887.txt",
+    "text_length": 0,
+    "fingerprint_lines": [],
+    "text_excerpt": ""
+  },
+  {
+    "requested_url": "https://www.truelocal.com.au/sydney-nsw/tlp/best-media-service-580919352",
+    "observed_at": "2026-11-05T23:38:18.879777+08:00",
+    "dns": [
+      "104.18.35.56",
+      "172.64.152.200"
+    ],
+    "status": 403,
+    "final_url": "https://www.truelocal.com.au/sydney-nsw/tlp/best-media-service-580919352",
+    "file": "truelocal.com.au__extended_3e97ced933.html",
+    "title": "Attention Required! | Cloudflare",
+    "tawk": [],
+    "links": [
+      {
+        "url": "https://www.cloudflare.com/5xx-error-landing",
+        "text": "Cloudflare"
+      }
+    ],
+    "text_file": "truelocal.com.au__extended_3e97ced933.txt",
+    "text_length": 764,
+    "fingerprint_lines": [],
+    "text_excerpt": "Attention Required! | Cloudflare\nPlease enable cookies.\nSorry, you have been blocked\nYou are unable to access\nwww.truelocal.com.au\nWhy have I been blocked?\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\nWhat can I do to resolve this?\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\nCloudflare Ray ID:\na55cf1e509af262b\n•\nYour IP:\nClick to reveal\n104.250.131.79\n•\nPerformance & security by\nCloudflare"
+  },
+  {
+    "requested_url": "https://www.thefosseway.co.uk/listing/205836/",
+    "observed_at": "2026-11-05T23:38:18.671839+08:00",
+    "dns": [
+      "5.134.8.221"
+    ],
+    "status": 403,
+    "final_url": "https://www.thefosseway.co.uk/listing/205836/",
+    "file": "thefosseway.co.uk__extended_4bfa830cce.html",
+    "title": "403 Forbidden",
+    "tawk": [],
+    "links": [],
+    "text_file": "thefosseway.co.uk__extended_4bfa830cce.txt",
+    "text_length": 76,
+    "fingerprint_lines": [],
+    "text_excerpt": "403 Forbidden\n403\nForbidden\nAccess to this resource on the server is denied!"
+  },
+  {
+    "requested_url": "https://www.rozee.pk/EN/best-media-service-international-sales-executive-international-campaign-best-media-service-jobs-1874020",
+    "observed_at": "2026-11-05T23:38:18.192731+08:00",
+    "dns": [
+      "104.26.14.193",
+      "104.26.15.193",
+      "172.67.69.213"
+    ],
+    "status": 200,
+    "final_url": "https://www.rozeegpt.ai/seeker/best-media-service-international-sales-executive-international-campaign-best-media-service-156160?currency=PKR&utm_source=rozee&utm_medium=web&utm_suggested=Y&utm_campaign=rozeeweb&utm_content=job_156160&d=uMBliOao_mLVUnItIhroeUbCVMO82eH4TE7n7f-PteT1F1uV-j6AOrfiUqbWJd-0TkrhzpBtSE6sJ7p2b29kgZXxT6gfFFLTWUNwJMNna0MxYdvZ2uvN36VvlzWCv3fVRJrofvzIdUqm_seCoh3-OUrQ-tkDSwc1SLpbrQNngPFZwHVAeuL0GZyeNYVi-OlmF3EKL7c7-uNgHYkR6i8MVA&cf=1",
+    "file": "rozee.pk__extended_ab7b25768b.html",
+    "title": "RozeeGPT | AI-Powered Career Co-Pilot",
+    "tawk": [],
+    "links": [],
+    "text_file": "rozee.pk__extended_ab7b25768b.txt",
+    "text_length": 37,
+    "fingerprint_lines": [],
+    "text_excerpt": "RozeeGPT | AI-Powered Career Co-Pilot"
+  }
+]

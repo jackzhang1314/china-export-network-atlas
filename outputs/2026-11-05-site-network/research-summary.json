@@ -1,0 +1,55 @@
+{
+  "research_time": "2026-11-05T23:50:59.190759+08:00",
+  "original_count": 19,
+  "core_count": 47,
+  "new_count": 28,
+  "storefront_count": 43,
+  "corporate_portal_count": 4,
+  "shared_tawk_count": 43,
+  "regions": {
+    "英国": 16,
+    "美国/全球": 18,
+    "澳大利亚": 13
+  },
+  "new_regions": {
+    "美国/全球": 13,
+    "澳大利亚": 6,
+    "英国": 9
+  },
+  "dns_groups": {
+    "185.75.20.61": 15,
+    "162.210.103.247": 15,
+    "103.82.65.77": 13,
+    "198.23.60.21": 4
+  },
+  "research_round": 2,
+  "new_count_basis": "累计相对原始19个；第二轮仅把一个既有B候选升级；没有全新发现并确认的当前域名",
+  "shared_tawk_scope": "沿用第一轮46域名源码；第二轮新增核心bestmediaservice未检出；历史快照不混入此数",
+  "current_core_shared_form_mapping_count": 43,
+  "confirmed_historical_count": 1,
+  "historical_retained_form_mapping_count": 1,
+  "confirmed_historical_domains": [
+    "cosmeticpackagingco.com.au"
+  ],
+  "dns_scope": "第一轮46个的实测DNS加第二轮bestmediaservice.com实测；非第二轮全量实时复测",
+  "candidate_counts": {
+    "B": 2,
+    "C": 5,
+    "未纳入": 5
+  },
+  "round2_new_resolving_candidate_roots": [
+    "customboxes.pk",
+    "bestmediaservices.com"
+  ],
+  "round2_new_unresolved_string_only": [
+    "bestmediaservice.co.uk"
+  ],
+  "round2_promoted_from_B": [
+    "bestmediaservice.com"
+  ],
+  "round2_current_core_net_increase": 1,
+  "round2_wholly_new_confirmed_current_roots": 0,
+  "total_reviewed_objects": 60,
+  "counting_note": "60是核验对象数，含未解析字符串及误报；不是60个关联网站。47当前核心与1个历史关联分开统计。",
+  "delivered_at": "2026-11-05T23:57:30.785312+08:00"
+}

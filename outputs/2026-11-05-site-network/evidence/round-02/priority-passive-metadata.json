@@ -1,0 +1,70 @@
+[
+  {
+    "domain": "dayancopack.com",
+    "observed_at": "2026-11-05T23:33:57.368843+08:00",
+    "local_dns": [
+      "104.21.27.121",
+      "172.67.169.70"
+    ],
+    "public_dns_error": "HTTPSConnectionPool(host='dns.google', port=443): Max retries exceeded with url: /resolve?name=dayancopack.com&type=A (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x104dc1d90>: Failed to resolve 'dns.google' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "certificate": "subject=CN=dayancopack.com\nissuer=C=US, O=Google Trust Services, CN=WE1\nnotBefore=Sep 24 16:53:04 2026 GMT\nnotAfter=Dec 23 17:51:44 2026 GMT\nX509v3 Subject Alternative Name: \n    DNS:dayancopack.com, DNS:*.dayancopack.com\n",
+    "archive_status": 200,
+    "archive_body_excerpt": "[[\"timestamp\",\"original\",\"statuscode\",\"digest\"],\n[\"20240620224838\",\"https://dayancopack.com/\",\"200\",\"4SBXD2RXO4KWTFLBEQXT2IEMR22D6KHI\"],\n[\"20240819212652\",\"https://www.dayancopack.com/\",\"200\",\"M745X2FW6TL4Q7TXTCX2QX523EETIQZ6\"],\n[\"20241217215401\",\"https://dayancopack.com/\",\"200\",\"P2AQD7TE3TRXJUVBYJOLEU6SSJN6VMO3\"]]\n"
+  },
+  {
+    "domain": "luxuryboxesco.com",
+    "observed_at": "2026-11-05T23:33:57.369264+08:00",
+    "local_dns": [
+      "13.248.213.45",
+      "76.223.67.189"
+    ],
+    "public_dns_error": "HTTPSConnectionPool(host='dns.google', port=443): Max retries exceeded with url: /resolve?name=luxuryboxesco.com&type=A (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x104dc04d0>: Failed to resolve 'dns.google' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "certificate": "subject=CN=luxuryboxesco.com\nissuer=C=US, O=GoDaddy.com, CN=GoDaddy TLS Intermediate CA DV - R1v1\nnotBefore=Oct  3 20:09:36 2026 GMT\nnotAfter=Apr 19 20:09:36 2027 GMT\nX509v3 Subject Alternative Name: \n    DNS:luxuryboxesco.com\n",
+    "archive_status": 200,
+    "archive_body_excerpt": "[]\n"
+  },
+  {
+    "domain": "bestmediaservice.com",
+    "observed_at": "2026-11-05T23:33:57.369100+08:00",
+    "local_dns": [
+      "198.23.60.21"
+    ],
+    "public_dns_error": "HTTPSConnectionPool(host='dns.google', port=443): Max retries exceeded with url: /resolve?name=bestmediaservice.com&type=A (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x104dc1090>: Failed to resolve 'dns.google' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "certificate": "subject=CN=bestmediaservice.com\nissuer=C=US, O=Let's Encrypt, CN=YE1\nnotBefore=Oct  9 03:17:29 2026 GMT\nnotAfter=Jan  7 03:17:28 2027 GMT\nX509v3 Subject Alternative Name: \n    DNS:bestmediaservice.com, DNS:www.bestmediaservice.com\n",
+    "archive_status": 200,
+    "archive_body_excerpt": "[[\"timestamp\",\"original\",\"statuscode\",\"digest\"],\n[\"20230825013807\",\"http://bestmediaservice.com/\",\"200\",\"UQBLMUERNLVXFOPGJJIBPNCBUE5RVUVX\"],\n[\"20240522102738\",\"http://www.bestmediaservice.com/\",\"200\",\"W6TUDHUNZEYM6IAIGEITHDSELFJ6ZUTK\"],\n[\"20240808162802\",\"http://www.bestmediaservice.com/\",\"200\",\"UQBLMUERNLVXFOPGJJIBPNCBUE5RVUVX\"],\n[\"20250710002953\",\"http://bestmediaservice.com/\",\"200\",\"W6TUDHUNZEYM6IAIGEITHDSELFJ6ZUTK\"]]\n"
+  },
+  {
+    "domain": "customboxes.co.uk",
+    "observed_at": "2026-11-05T23:33:57.369340+08:00",
+    "local_dns": [
+      "185.75.20.61"
+    ],
+    "public_dns_error": "HTTPSConnectionPool(host='dns.google', port=443): Max retries exceeded with url: /resolve?name=customboxes.co.uk&type=A (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x104dc2ad0>: Failed to resolve 'dns.google' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "certificate": "subject=CN=customboxes.co.uk\nissuer=C=US, O=Let's Encrypt, CN=R3\nnotBefore=Nov  9 02:16:24 2023 GMT\nnotAfter=Feb  7 02:16:23 2024 GMT\nX509v3 Subject Alternative Name: \n    DNS:customboxes.co.uk, DNS:www.customboxes.co.uk\n",
+    "archive_status": 200,
+    "archive_body_excerpt": "[[\"timestamp\",\"original\",\"statuscode\",\"digest\"],\n[\"20240418125848\",\"https://www.customboxes.co.uk/\",\"200\",\"7HMQKXUYPBZDUEQGHND5JINF6WGD5MPJ\"]]\n"
+  },
+  {
+    "domain": "cosmeticpackagingco.com.au",
+    "observed_at": "2026-11-05T23:33:57.369386+08:00",
+    "local_dns": [
+      "103.82.65.77"
+    ],
+    "public_dns_error": "HTTPSConnectionPool(host='dns.google', port=443): Max retries exceeded with url: /resolve?name=cosmeticpackagingco.com.au&type=A (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x104dd4ad0>: Failed to resolve 'dns.google' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "certificate": "subject=CN=cosmeticpackagingco.com.au\nissuer=C=US, O=Let's Encrypt, CN=YE2\nnotBefore=Sep 27 23:20:02 2026 GMT\nnotAfter=Dec 26 23:20:01 2026 GMT\nX509v3 Subject Alternative Name: \n    DNS:cosmeticpackagingco.com.au, DNS:www.cosmeticpackagingco.com.au\n",
+    "archive_status": 200,
+    "archive_body_excerpt": "[[\"timestamp\",\"original\",\"statuscode\",\"digest\"],\n[\"20220113000057\",\"https://www.cosmeticpackagingco.com.au/\",\"200\",\"R4EA5YP547UHK3DMLMLAWQENC45U7LUV\"],\n[\"20220303083815\",\"https://www.cosmeticpackagingco.com.au/\",\"200\",\"SYBGQSVMQAOUVUGGTJGDQKVSOSDILREB\"],\n[\"20220306070946\",\"https://www.cosmeticpackagingco.com.au/\",\"200\",\"GZORDDEPTSDJXENQE3H4SYONK2SHCT3G\"],\n[\"20221104010216\",\"https://www.cosmeticpackagingco.com.au/\",\"200\",\"3JIU2EINXBTW6733QK2KLG7HRQADWLU4\"],\n[\"20230301161634\",\"https://www.cosmeticpackagingco.com.au/\",\"200\",\"SPXA7BELRA2DBGP6ZG7KXAVB6TMTBA2T\"],\n[\"20231019061332\",\"https://www.cosmeticpackagingco.com.au/\",\"200\",\"RLYMTISKRSXFZ653J7FPR2MPQARWAYGZ\"],\n[\"20231019061337\",\"https://www.cosmeticpackagingco.com.au/\",\"200\",\"VVFBTYGQR532VVH4KYD547Z3FXTNM7GP\"],\n[\"20231026114637\",\"https://www.cosmeticpackagingco.com.au/\",\"200\",\"I5WSOL35X3EJHC5FZBGJMMAKSBCPADVQ\"]]\n"
+  },
+  {
+    "domain": "packagingdaddy.com",
+    "observed_at": "2026-11-05T23:33:57.369064+08:00",
+    "local_dns": [
+      "198.23.60.21"
+    ],
+    "public_dns_error": "HTTPSConnectionPool(host='dns.google', port=443): Max retries exceeded with url: /resolve?name=packagingdaddy.com&type=A (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x104d80dd0>: Failed to resolve 'dns.google' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "certificate": "subject=CN=packagingdaddy.com\nissuer=C=US, O=Let's Encrypt, CN=YE2\nnotBefore=Sep 19 03:13:14 2026 GMT\nnotAfter=Dec 18 03:13:13 2026 GMT\nX509v3 Subject Alternative Name: \n    DNS:packagingdaddy.com, DNS:www.packagingdaddy.com\n",
+    "archive_status": 200,
+    "archive_body_excerpt": "[[\"timestamp\",\"original\",\"statuscode\",\"digest\"],\n[\"20220118142520\",\"https://www.packagingdaddy.com/\",\"200\",\"Q5J3N2XOSQRAXQZZCIUBET4RLBJIGOVS\"],\n[\"20220310102934\",\"https://www.packagingdaddy.com/\",\"200\",\"SAV572OHDCFHG4SC2LQ5ZU22JLEZ6EMH\"],\n[\"20220523001033\",\"https://www.packagingdaddy.com/\",\"200\",\"IDWCQ35CQVXIE3D4MBB7MVEJHRX73B75\"],\n[\"20220628005845\",\"https://www.packagingdaddy.com/\",\"200\",\"A7HDNV6VEE42UPKANSXJSN4WTKJWYY2K\"],\n[\"20220809145245\",\"https://www.packagingdaddy.com/\",\"200\",\"BUHIBJAI7YAT6OTN7T6ECL4NDQ76NFQB\"],\n[\"20220928104752\",\"https://www.packagingdaddy.com/\",\"200\",\"HDBWVHO6Q5POVEWMDRXZQTTTE7GNIOJG\"],\n[\"20221120215405\",\"https://www.packagingdaddy.com/\",\"200\",\"JG24WLILQ2RWBJUUPYTSPXBG6ZRE7TZ7\"],\n[\"20221210064530\",\"https://www.packagingdaddy.com/\",\"200\",\"QF65IB3RYWZCO4FJZJOMNIMSYFMX7H4N\"]]\n"
+  }
+]
